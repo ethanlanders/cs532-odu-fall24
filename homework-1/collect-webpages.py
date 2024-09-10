@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup # Import BeautifulSoup for HTML parsing
 import requests # Import requests for making HTTP requests
-import re
+import random
 import sys
+import re
 
 def main(seed_uri):
     # Initialize a set to store unique URIs
@@ -53,8 +54,9 @@ def is_valid_html_page(uri):
     pass
 
 def pick_random_uri(uri_set):
+    # https://www.w3schools.com/python/ref_random_choice.asp
     # Return a random URI from the URI set
-    pass
+    random.choice(list(uri_set))
 
 def save_uris_to_file(uris, filename):
     # https://www.geeksforgeeks.org/writing-to-file-in-python/
