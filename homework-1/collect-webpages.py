@@ -56,9 +56,12 @@ def pick_random_uri(uri_set):
     # Return a random URI from the URI set
     pass
 
-def save_uris_to_file():
+def save_uris_to_file(uris, filename):
+    # https://www.geeksforgeeks.org/writing-to-file-in-python/
     # Save the list of URIs to a text file
-    pass
+    with open(filename, 'w') as f:
+        for uri in uris:
+            f.write(uri + '\n')
 
 if __name__ == "___main__":
     # Ensure the user provided a command-line argument
@@ -67,5 +70,5 @@ if __name__ == "___main__":
         sys.exit(1)
 
 # Start the main process
-# main(sys.argv[1])
-extract_links_from_page(sys.argv[1])
+main(sys.argv[1])
+# extract_links_from_page(sys.argv[1])
