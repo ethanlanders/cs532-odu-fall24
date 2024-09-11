@@ -1,5 +1,21 @@
-# To activate virtual environment to access BeautifulSoup funcionality,
-# run `source venv/bin/activate`
+"""
+Webpage URI Collector Script
+
+This script collects URIs from web pages starting from a given seed URI,
+then saving them to a file.
+
+References:
+- Python Virtual Environments: https://python.land/virtual-environments/virtualenv
+- Python Data Types: # https://www.geeksforgeeks.org/python-data-types/
+- Implementing Web Scraping with BeautifulSoup: https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+- BeautifulSoup Scraping Link from HTML: https://www.geeksforgeeks.org/beautifulsoup-scraping-link-from-html/?ref=header_outind
+- Exception Handling in Python Requests Module: # https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
+- Python Random Choice Method: # https://www.w3schools.com/python/ref_random_choice.asp
+- Writing to File in Python: # https://www.geeksforgeeks.org/writing-to-file-in-python/
+
+To activate the virtual environment to access BeautifulSoup funcionality,
+run `source venv/bin/activate`
+"""
 
 from bs4 import BeautifulSoup # Import BeautifulSoup for HTML parsing
 import requests # Import requests for making HTTP requests
@@ -8,10 +24,18 @@ import sys
 import re
 
 def main(seed_uri):
+    """
+    Main function to start the process of collectiong URIs.
+
+    Args:
+    - seed_uri (str): The starting URI to begin the collection process.
+    
+    References:
+    - Python Data Types: # https://www.geeksforgeeks.org/python-data-types/
+    """
     print(f"\nStarting with seed URI: {seed_uri}")
 
     # Initialize a set to store unique URIs
-    # https://www.geeksforgeeks.org/python-data-types/
     unique_uris = set()
     max_attempts = 1000  # Set a maximum number of attempts to avoid infinite loops
     attempt = 0
@@ -19,7 +43,6 @@ def main(seed_uri):
     # Collect URIs from the seed webpage
     collect_uris(seed_uri, unique_uris)
     print(f"Initial URIs collected: {len(unique_uris)}")
-    # IT MAKES IT HERE
 
     while len(unique_uris) < 500 and attempt < max_attempts:
         attempt += 1
@@ -35,7 +58,13 @@ def main(seed_uri):
     print(f"Final number of URIs collected: {len(unique_uris)}")
 
 def collect_uris(seed_uri, unique_uris):
-    # Extract links from the webpage content
+    """
+    Collect URIs from a given seed URI and add them to the set of unique URIs.
+
+    Args:
+    - seed_uri (str): The URI from which to extract links.
+    - unique_uris (set): Set to store unique URIs.
+    """
     print(f"Collecting URIs from: {seed_uri}")
     links = extract_links_from_page(seed_uri)
     print(f"Extracted {len(links)} links")
@@ -50,34 +79,52 @@ def collect_uris(seed_uri, unique_uris):
             print(f"Invalid link or not HTML: {link}")
 
 def extract_links_from_page(uri):
-    # https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
-    # Request the webpage and parse HTML to extract links
+    """
+    Extract all links from a given webpage.
+
+    Args:
+    - uri (str): The URI of the webpage to fetch.
+
+    Returns:
+    - set: A set of links found on the webpage.
+
+    References:
+    - Implementing Web Scraping with BeautifulSoup: https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+    - BeautifulSoup Scraping Link from HTML: https://www.geeksforgeeks.org/beautifulsoup-scraping-link-from-html/?ref=header_outind
+    """ 
     print(f"Fetching page: {uri}")
     try:
         response = requests.get(uri, timeout=5, verify=False) # 5 second timeout
         
         # Parse the HTMl content using BeautifulSoup
         soup = BeautifulSoup(response.text, 'html.parser')
-
         links = set()
-
-        # https://www.geeksforgeeks.org/beautifulsoup-scraping-link-from-html/?ref=header_outind
+        
         for link in soup.find_all('a', attrs={'href': re.compile("^https://")}):
             href = link.get('href')
             if href:
                 links.add(href)
-        # links = [a['href'] for a in soup.find_all('a', href=True)]
 
-        # Return the list of links
         print(f"Found {len(links)} links on page")
         return links
     
-    # https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {uri}: {e}")
-        return [] # Return an empty list if there is an error
+        return set() # Return an empty set if there is an error
 
 def is_valid_html_page(uri):
+    """
+    Check if a given URI points to a valid HTML page.
+
+    Args:
+    - uri (str): The URI to validate.
+
+    Returns:
+    - bool: True if the URI is a valid HTML page; False otherwise.
+
+    References:
+    - Exception Handling in Python Requests Module: # https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
+    """
     print(f"Validating URI: {uri}")
     try:
         response = requests.head(uri, timeout=5, verify=False) # Only fetch headers
@@ -99,17 +146,35 @@ def is_valid_html_page(uri):
         return False
 
 def pick_random_uri(uri_set):
-    # https://www.w3schools.com/python/ref_random_choice.asp
-    # Return a random URI from the URI set
+    """
+    Pick a random URI from the given set of URIs.
+
+    Args:
+    - uri_set: A randomly chosen URI from the set.
+
+    Returns:
+    - str: A randomly chosen URI from the set.
+    
+    References:
+    - Python Random Choice Method: # https://www.w3schools.com/python/ref_random_choice.asp
+    """
     if not uri_set:
         print("No URIs available to pick from.")
     else:
         print(f"Picking a random URI from {len(uri_set)} available URIs")
-    return random.choice(list(uri_set))
+        return random.choice(list(uri_set))
 
 def save_uris_to_file(uris, filename):
-    # https://www.geeksforgeeks.org/writing-to-file-in-python/
-    # Save the list of URIs to a text file
+    """
+    Save the collected URIs to a text file.
+
+    Args:
+    - uris (set): Set of URIs to save.
+    - filename (str): The name of the file to save the URIs.
+    
+    References:
+    - Writing to File in Python: # https://www.geeksforgeeks.org/writing-to-file-in-python/
+    """
     print(f"Saving {len(uris)} URIs to file: {filename}")
     with open(filename, 'w') as f:
         for uri in uris:
@@ -121,5 +186,5 @@ if __name__ == "__main__":
         print("Usage: python3 collect-webpages.py <seed_uri>")
         sys.exit(1)
 
-# Start the main process
+# Start the main process with the provided seed URI
 main(sys.argv[1])
