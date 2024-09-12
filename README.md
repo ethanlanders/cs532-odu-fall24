@@ -1,1 +1,1 @@
-# fall24-ethanlanders
+# CS 532 | Fall 2024 | Ethan Landers

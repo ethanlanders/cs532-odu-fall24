@@ -6,12 +6,12 @@ then saving them to a file.
 
 References:
 - Python Virtual Environments: https://python.land/virtual-environments/virtualenv
-- Python Data Types: # https://www.geeksforgeeks.org/python-data-types/
+- Python Data Types: https://www.geeksforgeeks.org/python-data-types/
 - Implementing Web Scraping with BeautifulSoup: https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
 - BeautifulSoup Scraping Link from HTML: https://www.geeksforgeeks.org/beautifulsoup-scraping-link-from-html/?ref=header_outind
-- Exception Handling in Python Requests Module: # https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
-- Python Random Choice Method: # https://www.w3schools.com/python/ref_random_choice.asp
-- Writing to File in Python: # https://www.geeksforgeeks.org/writing-to-file-in-python/
+- Exception Handling in Python Requests Module: https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
+- Python Random Choice Method: https://www.w3schools.com/python/ref_random_choice.asp
+- Writing to File in Python: https://www.geeksforgeeks.org/writing-to-file-in-python/
 
 To activate the virtual environment to access BeautifulSoup funcionality,
 run `source venv/bin/activate`
