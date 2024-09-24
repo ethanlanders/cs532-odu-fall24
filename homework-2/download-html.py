@@ -37,7 +37,7 @@ for uri in uris:
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {uri}: \n{e}\n")
 
-with open('uri_mapping.txt', 'w', encoding='utf-8') as f:
+with open('homework-2/uri_mapping.txt', 'w', encoding='utf-8') as f:
     for filename, uri in uri_hash_map.items():
         f.write(f"{filename}: {uri}\n")
 
