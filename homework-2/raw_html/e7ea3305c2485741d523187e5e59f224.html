@@ -1,0 +1,2904 @@
+<!DOCTYPE html>
+<html lang="en" style="position: relative; min-height: 100%; height: auto;" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer,strict-origin-when-cross-origin">
+  <title>Efficient interactive query expansion with complete search. - Internet Archive Scholar
+  </title>
+  <link rel="stylesheet"
+    href="/static/scholar-semantic-ui.v2.4.2.min.css"
+    type="text/css">
+  <link rel="stylesheet"
+    href="/static/scholar.css"
+    type="text/css">
+  <style>
+  </style>
+  <link rel="icon" 
+    type="image/x-icon" 
+    href="/static/ia-favicon.ico">
+<link rel="canonical" href="/search">
+</head>
+
+<body>
+<nav class="ui inverted menu" style="margin: 0;" dir="ltr">
+  <div class="ui container">
+    <a href="https://archive.org/" class="header item">
+      <img class="logo" src="/static/ia-logo.svg" style="width: 20px;" alt="">
+      <img class="mobile-hide" src="/static/ia-wordmark.svg" style="margin-left: 10px; width: 180px;" alt="Internet Archive">
+    </a>
+
+    <div class="right menu">
+      <span style="margin-top: 0.5em">
+        <a class="ui grey label" href="https://scholar.archive.org/fatcat">Fatcat Bibliographic Database</a>
+      </span>
+      <div class="ui simple dropdown item translate-dropdown" aria-expanded="false" role="menu" aria-controls="language_menu" title="language selection menu">
+        <div class="translate-icon"></div>
+        <i class="dropdown icon" style="margin-left: 0.2em;"></i>
+        <div id="language_menu" class="menu">
+            <a role="menuitem" class="item" href="/en/">English</a>
+            <a role="menuitem" class="item" href="/ar/">عَرَبِيّ</a>
+            <a role="menuitem" class="item" href="/de/">Deutsch</a>
+            <a role="menuitem" class="item" href="/el/">ελληνικά</a>
+            <a role="menuitem" class="item" href="/es/">Español</a>
+            <a role="menuitem" class="item" href="/fa/">فارسی</a>
+            <a role="menuitem" class="item" href="/fr/">Français</a>
+            <a role="menuitem" class="item" href="/hr/">Hrvatski</a>
+            <a role="menuitem" class="item" href="/it/">Italiano</a>
+            <a role="menuitem" class="item" href="/ko/">한국어</a>
+            <a role="menuitem" class="item" href="/nb/">Norwegian Bokmål</a>
+            <a role="menuitem" class="item" href="/nl/">Nederlands</a>
+            <a role="menuitem" class="item" href="/pt/">Português</a>
+            <a role="menuitem" class="item" href="/ru/">Русский</a>
+            <a role="menuitem" class="item" href="/zh/">中文</a>
+            <div class="divider"></div>
+            <a class="item" href="https://hosted.weblate.org/projects/internetarchive/fatcat-scholar/">Contribute to translations</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="ui vertical stripe segment" style="background-color: #dedede;">
+  <div class="ui container" style="padding-top: 1em; padding-bottom: 0; padding-left: 0; padding-right: 0;">
+    <div class="ui equal height stackable grid">
+      <div class="ui four wide column" style="padding-bottom: 0;">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+          <a href="/">
+            <img src="/static/scholar-vaporwave-logo-small.png" alt="Internet Archive Scholar" style="width: 200px; margin-top: -1.5em;">
+          </a>
+        </div>
+      </div>
+      <div class="ui twelve wide column">
+        <form class="" id="search_form" name="search_form" action="/search" method="get" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+          <meta itemprop="target" content="/search?q={q}"/>
+          <div class="ui form">
+            <div class="ui action input large fluid">
+              <input type="search" placeholder="by title, authors, keywords..." name="q" aria-label="search for papers" required itemprop="query-input" style="border-radius: 0; border: 1px #999 solid;" value="Efficient interactive query expansion with complete search.">
+              <button id="search_submit_button" class="ui green button" style="border-radius: 0; background-color: #44a25a; font-size: 1.2rem;">Search</button>
+                <!-- parsed query: Efficient interactive query expansion with complete search. -->
+            </div>
+          </div>
+        </form>
+        <div style="display: flex; width: 100%; justify-content: space-between; padding-top: 0.5em;">
+          <div></div>
+          <div>
+              <a href="/feed/rss?q=Efficient+interactive+query+expansion+with+complete+search." rel="nofollow">
+RSS Feed              </a>
+              &nbsp;
+            <a rel="help" href="/help" style="order: -1;">User Guide</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<main class="ui main container" style="min-height: calc(100vh - 30em);">
+
+<!-- these hidden query fields should be *before* any form/button that could override them -->
+
+
+
+
+
+<div class="tablet-only" style="margin-top: 1.0em;">
+
+  <details class="search-filters">
+    <summary><i class="filter icon"></i>Filters</summary>
+    <div class="tablet-filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+  </details>
+
+    <span class="hit-count" style="font-size: 1.5em;">44,980</span>
+Hits    <span style="color: rgba(0,0,0,0.55);">
+in     3.5
+sec    </span>
+</div>
+
+<div class="ui equal height divided grid" style="margin-top: 1em;">
+
+  <nav class="ui tablet-hide two wide column">
+      <div style="width: 100%; text-align: end;">
+        <span class="hit-count" style="display: block; font-size: 1.5em;">
+          44,980
+        </span>
+Hits      </div>
+      <div style="text-align: end;">
+        <span style="color: rgba(0,0,0,0.55);">
+in     3.5
+sec        </span>
+      </div>
+      <div class="ui clearing divider"></div>
+
+    <div class = "filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+    
+  </nav>
+
+  <div class="ui fourteen wide column serp-column">
+
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Efficient interactive query expansion with complete search
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Holger Bast, Debapriyo Majumdar, Ingmar Weber
+    </div>
+
+
+      <span title="">2007</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/6g37zvjwwrhv3dizi6ffue642m" style="color: black;">Proceedings of the sixteenth ACM conference on Conference on information and knowledge management - CIKM &#39;07</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170830064959/https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/9f/a4/9fa45b0706fce829da0bfb846ba5c10a5767ec24.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170830064959/https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (257.7 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170830064959/https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170830064959/https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We present an <em>efficient</em> realization of the following <em>interactive</em> <em>search</em> engine feature: as the user is typing the <em>query</em>, words that are related to the last <em>query</em> word and that would lead to good hits are &nbsp;...&nbsp;
+        An <em>efficient</em> solution for the latter is provided by the CompleteSearch engine, <em>with</em> which we have integrated the proposed feature. &nbsp;...&nbsp;
+        EXPERIMENTS We integrated the described feature <em>with</em> the <em>Complete</em>-<em>Search</em> engine, and measured its <em>efficiency</em> on two <em>query</em> sets. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1321440.1321560">doi:10.1145/1321440.1321560</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/cikm/BastMW07.html">dblp:conf/cikm/BastMW07</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm">fatcat:qgl3fhnvk5djtbtdswuh7ajxvm</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170830064959/https://ingmarweber.de/wp-content/uploads/2013/07/Efficient-interactive-query-expansion-with-complete-search.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/9f/a4/9fa45b0706fce829da0bfb846ba5c10a5767ec24.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1321440.1321560">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Holger Bast, Debapriyo Majumdar, Ingmar Weber. &#34;Efficient interactive query expansion with complete search.&#34;  Proceedings of the sixteenth ACM conference on Conference on information and knowledge management - CIKM &#39;07 (2007) 857-860
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/qgl3fhnvk5djtbtdswuh7ajxvm" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/vauibuc2trexvlqwa2en2x7wcy" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Efficient query construction for large scale data
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Elena Demidova, Xuan Zhou, Wolfgang Nejdl
+    </div>
+
+
+      <span title="">2013</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/ibcfmixrofb3piydwg5wvir3t4" style="color: black;">Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval - SIGIR &#39;13</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190217234501/https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/73/c4/73c4cfe0fd16869144f78cde81a4c5cd98a93052.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190217234501/https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (607.4 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190217234501/https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190217234501/https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We also introduce a <em>search</em> mechanism to enable <em>efficient</em> exploration of <em>query</em> interpretation spaces over large scale data. &nbsp;...&nbsp;
+        This paper presents a set of techniques to boost the scalability of <em>interactive</em> <em>query</em> construction, from the perspective of both, user <em>interaction</em> cost and performance. &nbsp;...&nbsp;
+        As mentioned in Problem 2, Section 2.2, the existing approaches to <em>interactive</em> <em>query</em> construction and schema-based database keyword <em>search</em> in general require a <em>complete</em> materialization of the <em>query</em> interpretation &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/2484028.2484078">doi:10.1145/2484028.2484078</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/sigir/DemidovaZN13.html">dblp:conf/sigir/DemidovaZN13</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m">fatcat:q4wvos57q5aitll5sbfzxwcs5m</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190217234501/https://static.aminer.org/pdf/20170130/pdfs/sigir/fi0zlytbn5cqyzg4oeewh2icrarusp3p.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/73/c4/73c4cfe0fd16869144f78cde81a4c5cd98a93052.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/2484028.2484078">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Elena Demidova, Xuan Zhou, Wolfgang Nejdl. &#34;Efficient query construction for large scale data.&#34;  Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval - SIGIR &#39;13 (2013) 573-582
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/q4wvos57q5aitll5sbfzxwcs5m" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/kzbfuq7acbda7a3tp73prxqcne" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Query Refinement into Information Retrieval Systems
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Mawloud Mosbah
+    </div>
+
+
+      <span title="2023-06-30">2023</span>
+    <i title="Faculty of Organisation and Informatics">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/uudmsuemlfhphimk5nzwudlaki" style="color: black;">Journal of Information and Organizational Sciences</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20231205213827/https://jios.foi.hr/index.php/jios/article/download/1837/987" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/b9/ee/b9eeaa68ef8046359eed25e136447cc065844eb7.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20231205213827/https://jios.foi.hr/index.php/jios/article/download/1837/987" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (574.8 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20231205213827/https://jios.foi.hr/index.php/jios/article/download/1837/987" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20231205213827/https://jios.foi.hr/index.php/jios/article/download/1837/987
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2023; you can also visit <a rel="external noopener" href="https://jios.foi.hr/index.php/jios/article/download/1837/987">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        <em>Query</em>, expressing the user need and requirement, has an important role, in aninformation retrieval system, for reaching a high accuracy <em>search</em>. &nbsp;...&nbsp;
+        through words prevision, <em>query</em> reformulation, queryexpansion, and <em>query</em> optimization. &nbsp;...&nbsp;
+        historical behavioral <em>interactivity</em> let alone what we call &#39;wisdom of crowds&#39;, the knowledge mined from <em>search</em> engine <em>query</em> logs which store all the past <em>interactions</em> of users <em>with</em> the <em>search</em> system, and &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.31341/jios.47.1.7">doi:10.31341/jios.47.1.7</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli">fatcat:g6zm3ld5djco5e2pxidtbnuyli</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+          
+              <span class="ui label basic orange small" title="Szcezepanski OA Journal List">Szczepanski</span>
+
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20231205213827/https://jios.foi.hr/index.php/jios/article/download/1837/987" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/b9/ee/b9eeaa68ef8046359eed25e136447cc065844eb7.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.31341/jios.47.1.7">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          Publisher / doi.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Mawloud Mosbah. &#34;Query Refinement into Information Retrieval Systems.&#34;  Journal of Information and Organizational Sciences 47.1  (2023) 133-151
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/g6zm3ld5djco5e2pxidtbnuyli" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/cepdixevuzhbdi53iyh5q4vole" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          A Survey of Query Auto Completion in Information Retrieval
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Fei Cai, Maarten de Rijke
+    </div>
+
+
+      <span title="">2016</span>
+    <i title="Now Publishers">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/oxdiljxisbfhje5jgd5kw5773a" style="color: black;">Foundations and Trends in Information Retrieval</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20180722094150/https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/c2/f2/c2f275a0bb2cca078dd4a9822329ad61c37d40fa.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20180722094150/https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (6.8 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20180722094150/https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20180722094150/https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2018; you can also visit <a rel="external noopener" href="https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We also devote a chapter to <em>efficiency</em> and a chapter to presentation and <em>interaction</em> aspects of <em>query</em> auto <em>completion</em>. &nbsp;...&nbsp;
+        In this survey, we review work on <em>query</em> auto <em>completion</em> that has been published before 2016. We focus mainly on web <em>search</em> and provide a formal definition of the <em>query</em> auto <em>completion</em> problem. &nbsp;...&nbsp;
+        of <em>query</em> <em>completions</em> and can be determined by tracking a user&#39;s <em>interactions</em> <em>with</em> the <em>search</em> system. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1561/1500000055">doi:10.1561/1500000055</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq">fatcat:cwnopwelhnbdbn4s3joiarmymq</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20180722094150/https://pure.uva.nl/ws/files/2716800/176802_fntir2016_qac.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/c2/f2/c2f275a0bb2cca078dd4a9822329ad61c37d40fa.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1561/1500000055">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          Publisher / doi.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Fei Cai, Maarten de Rijke. &#34;A Survey of Query Auto Completion in Information Retrieval.&#34;  Foundations and Trends in Information Retrieval 10.4  (2016) 273-363
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/cwnopwelhnbdbn4s3joiarmymq" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/wsnzwl53onfczflufe2myllzni" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Personalized Concept-Based Search on the Linked Open Data
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Melike Sah, Vincent Wade
+    </div>
+
+
+      <span title="">2016</span>
+    <i title="Elsevier BV">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/tol7woxlqjeg5bmzadeg6qrg3e" style="color: black;">Social Science Research Network</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190316131047/http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/85/12/8512ff47a18c69f3d02fcff02d1b00ec9f4b99b0.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190316131047/http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (154.4 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190316131047/http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190316131047/http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Results showed that the personalized concept-based <em>search</em> enabled users to be more effective and <em>efficient</em> at performing both information gathering and fact finding tasks. &nbsp;...&nbsp;
+        A user study was conducted <em>with</em> 32 subjects. &nbsp;...&nbsp;
+        Faceted <em>search</em> overcomes this issue by assisting users <em>with</em> topics for <em>interactive</em> <em>search</em> and browsing  [4] . &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.2139/ssrn.3199219">doi:10.2139/ssrn.3199219</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4">fatcat:k3pt5v4wjjhpdeqsujgvo4uua4</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190316131047/http://ceur-ws.org/Vol-1181/umap2014_poster_08.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/85/12/8512ff47a18c69f3d02fcff02d1b00ec9f4b99b0.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.2139/ssrn.3199219">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          ssrn.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Melike Sah, Vincent Wade. &#34;Personalized Concept-Based Search on the Linked Open Data.&#34;  Social Science Research Network (2016)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/k3pt5v4wjjhpdeqsujgvo4uua4" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/7jaw24matnfrbeap3rnzcsmyia" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          The TopX DB&amp;IR engine
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Martin Theobald, Ralf Schenkel, Gerhard Weikum
+    </div>
+
+
+      <span title="">2007</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/vxrc3vebzzachiwy3nopwi3h5u" style="color: black;">Proceedings of the 2007 ACM SIGMOD international conference on Management of data - SIGMOD &#39;07</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170705073056/http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/ed/3f/ed3fb3edb23645bfa89f1a3ad0d7227a933fa056.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170705073056/http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (116.3 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170705073056/http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170705073056/http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        TopX integrates <em>efficient</em> algorithms for top-k-style ranked retrieval <em>with</em> powerful scoring models for text and XML documents, as well as dynamic and selftuning <em>query</em> <em>expansion</em> based on background ontologies &nbsp;...&nbsp;
+        This paper proposes a demo of the TopX <em>search</em> engine, an extensive framework for unified indexing, <em>querying</em>, and ranking of large collections of unstructured, semistructured, and structured data. &nbsp;...&nbsp;
+        , cost-oriented index access scheduling for further <em>query</em> acceleration, and dynamic <em>query</em> <em>expansion</em> for IR-style relaxed <em>search</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1247480.1247635">doi:10.1145/1247480.1247635</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/sigmod/TheobaldSW07.html">dblp:conf/sigmod/TheobaldSW07</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i">fatcat:ehiibvqfarh3rkyilvcnmsjr3i</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170705073056/http://infolab.stanford.edu/~theobald/pub/sigmod07_topx.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/ed/3f/ed3fb3edb23645bfa89f1a3ad0d7227a933fa056.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1247480.1247635">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Martin Theobald, Ralf Schenkel, Gerhard Weikum. &#34;The TopX DB&amp;IR engine.&#34;  Proceedings of the 2007 ACM SIGMOD international conference on Management of data - SIGMOD &#39;07 (2007) 1141-1143
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/ehiibvqfarh3rkyilvcnmsjr3i" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/2cnd43hz6ra3zogvttzxlpgjai" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Effective and efficient user interaction for long queries
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Giridhar Kumaran, James Allan
+    </div>
+
+
+      <span title="">2008</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/ibcfmixrofb3piydwg5wvir3t4" style="color: black;">Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR &#39;08</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20131021224653/http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/8d/32/8d32623375a93f7edcc937390bfce0f9d894e40d.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20131021224653/http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (176.1 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20131021224653/http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20131021224653/http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2013; you can also visit <a rel="external noopener" href="http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We demonstrate how user <em>interaction</em> can be used to achieve this improvement. Most <em>interaction</em> techniques present users <em>with</em> a fixed number of options for all <em>queries</em>. &nbsp;...&nbsp;
+        Previous algorithms supporting <em>interactive</em> reduction and <em>expansion</em> are exponential in nature. &nbsp;...&nbsp;
+        Another 14 (10+4) of them would have been difficult for a human to come up <em>with</em> without a <em>complete</em> understanding of how the underlying <em>search</em> engine works. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1390334.1390339">doi:10.1145/1390334.1390339</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/sigir/KumaranA08.html">dblp:conf/sigir/KumaranA08</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi">fatcat:qzeshvumejcpxh6dtblkjenimi</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20131021224653/http://maroo.cs.umass.edu/pub/web/getpdf.php?id=806" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/8d/32/8d32623375a93f7edcc937390bfce0f9d894e40d.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/1390334.1390339">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Giridhar Kumaran, James Allan. &#34;Effective and efficient user interaction for long queries.&#34;  Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR &#39;08 (2008) 11-18
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/qzeshvumejcpxh6dtblkjenimi" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/izwc7fttzvdvzhxnewmrakbjq4" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Hierarchical presentation of expansion terms
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Hideo Joho, Claire Coverson, Mark Sanderson, Micheline Beaulieu
+    </div>
+
+
+      <span title="">2002</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/uo6yx5jpgnf2zl7mkrumytd4ti" style="color: black;">Proceedings of the 2002 ACM symposium on Applied computing - SAC &#39;02</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/09/f8/09f89548df9e91f0fca3794077469af7f3656bae.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (446.9 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Different presentations of candidate <em>expansion</em> terms have not been f ,~lly explored in <em>interactive</em> <em>query</em> <em>expansion</em> (IQE). &nbsp;...&nbsp;
+        This shows that users of the hierarchy can <em>complete</em> the <em>expansion</em> task in less time and <em>with</em> fewer terms over those using the lists. &nbsp;...&nbsp;
+        Following the <em>completion</em> of the <em>expansion</em> tasks by all the participants, selected <em>expansion</em> terms were added to the initial <em>query</em> for each topic, and the <em>search</em> was re-run <em>with</em> the expanded <em>queries</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/508791.508916">doi:10.1145/508791.508916</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/sac/JohoCSB02.html">dblp:conf/sac/JohoCSB02</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy">fatcat:hxypy6ajjjfevjttbzudhn7nzy</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/09/f8/09f89548df9e91f0fca3794077469af7f3656bae.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/508791.508916">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Hideo Joho, Claire Coverson, Mark Sanderson, Micheline Beaulieu. &#34;Hierarchical presentation of expansion terms.&#34;  Proceedings of the 2002 ACM symposium on Applied computing - SAC &#39;02 (2002) 645-649
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/hxypy6ajjjfevjttbzudhn7nzy" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/3slemz773va5tpuqsdpb65l43u" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Hierarchical presentation of expansion terms
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Hideo Joho, Claire Coverson, Mark Sanderson, Micheline Beaulieu
+    </div>
+
+
+      <span title="">2002</span>
+    <i title="ACM Press">
+      Proceedings of the 2002 ACM symposium on Applied computing - SAC &#39;02
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/09/f8/09f89548df9e91f0fca3794077469af7f3656bae.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (446.9 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Different presentations of candidate <em>expansion</em> terms have not been f ,~lly explored in <em>interactive</em> <em>query</em> <em>expansion</em> (IQE). &nbsp;...&nbsp;
+        This shows that users of the hierarchy can <em>complete</em> the <em>expansion</em> task in less time and <em>with</em> fewer terms over those using the lists. &nbsp;...&nbsp;
+        Following the <em>completion</em> of the <em>expansion</em> tasks by all the participants, selected <em>expansion</em> terms were added to the initial <em>query</em> for each topic, and the <em>search</em> was re-run <em>with</em> the expanded <em>queries</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/508909.508916">doi:10.1145/508909.508916</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm">fatcat:bf3vw3v5wjdljngyvzunml4ivm</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170808233345/http://parnec.nuaa.edu.cn/xtan/IIR/readings/sacJoho2002.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/09/f8/09f89548df9e91f0fca3794077469af7f3656bae.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/508909.508916">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Hideo Joho, Claire Coverson, Mark Sanderson, Micheline Beaulieu. &#34;Hierarchical presentation of expansion terms.&#34;  Proceedings of the 2002 ACM symposium on Applied computing - SAC &#39;02 (2002)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/bf3vw3v5wjdljngyvzunml4ivm" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/d47oct4mdnf5zd4lole53kub3e" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Personalized Concept-Based Search and Exploration on the Web of Data Using Results Categorization
+      </span>
+      <span class="release-type" >
+        [chapter]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Melike Sah, Vincent Wade
+    </div>
+
+
+      <span title="">2013</span>
+    <i title="Springer Berlin Heidelberg">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/2w3awgokqne6te4nvlofavy5a4" style="color: black;">Lecture Notes in Computer Science</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190505014753/https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/6d/40/6d4005de749802dae3df61df0499fff6d5b83c61.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190505014753/https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (592.8 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190505014753/https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190505014753/https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We also support <em>interactive</em> personalization; when the user clicks on a result, within the <em>interacted</em> lens, relevant categories and results are included using results re-ranking and <em>query</em> <em>expansion</em>. &nbsp;...&nbsp;
+        Within the selected concept lens; more relevant results are included using results re-ranking and <em>query</em> <em>expansion</em>, as well as relevant concept lenses are suggested to support results exploration. &nbsp;...&nbsp;
+        Moreover, when the user <em>interacts</em> <em>with</em> the results, result re-ranking, <em>query</em> <em>expansion</em> and concept lenses suggestions are provided. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-38288-8_36">doi:10.1007/978-3-642-38288-8_36</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy">fatcat:2kl6pruezrhmnplxx2qignmczy</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190505014753/https://link.springer.com/content/pdf/10.1007%2F978-3-642-38288-8_36.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/6d/40/6d4005de749802dae3df61df0499fff6d5b83c61.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-38288-8_36">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          springer.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Melike Sah, Vincent Wade. &#34;Personalized Concept-Based Search and Exploration on the Web of Data Using Results Categorization.&#34;  Lecture Notes in Computer Science (2013) 532-547
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/2kl6pruezrhmnplxx2qignmczy" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/msf2am3ryfhyjoagmcinok47gi" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          NewsFlash: Adaptive TV News Delivery on the Web
+      </span>
+      <span class="release-type" >
+        [chapter]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Alan Haggerty, Ryen W. White, Joemon M. Jose
+    </div>
+
+
+      <span title="">2004</span>
+    <i title="Springer Berlin Heidelberg">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/2w3awgokqne6te4nvlofavy5a4" style="color: black;">Lecture Notes in Computer Science</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20050405045851/http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/5b/79/5b795a342de3486a3de75fb376530d9cc44cf37b.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20050405045851/http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (349.4 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20050405045851/http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20050405045851/http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2005; you can also visit <a rel="external noopener" href="http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        In this paper we present NewsFlash, an adaptive <em>search</em> system that assists a searcher to <em>efficiently</em> <em>search</em> a library of stored TV news reports. &nbsp;...&nbsp;
+        We evaluate the worth of our approach <em>with</em> real searchers and realistic information seeking scenarios. &nbsp;...&nbsp;
+        We proposed a means of extracting and weighting terms for implicit <em>query</em> <em>expansion</em> during the <em>interaction</em> <em>with</em> the results of a multimedia <em>search</em> system. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-540-25981-7_5">doi:10.1007/978-3-540-25981-7_5</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q">fatcat:o6lehdo3fvhl3efspxjqragr7q</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20050405045851/http://www.dcs.gla.ac.uk:80/%7Ewhiter/AMR2003.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/5b/79/5b795a342de3486a3de75fb376530d9cc44cf37b.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-540-25981-7_5">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          springer.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Alan Haggerty, Ryen W. White, Joemon M. Jose. &#34;NewsFlash: Adaptive TV News Delivery on the Web.&#34;  Lecture Notes in Computer Science (2004) 72-86
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/o6lehdo3fvhl3efspxjqragr7q" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/f5gw3pwabvf57hkkk3usrilhwm" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          An end user evaluation of query formulation and results review tools in three medical meta-search engines
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Gondy Leroy, Jennifer Xu, Wingyan Chung, Shauna Eggers, Hsinchun Chen
+    </div>
+
+
+      <span title="">2007</span>
+    <i title="Elsevier BV">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/jyf7co46pvdybh6jhdipt5d3im" style="color: black;">International Journal of Medical Informatics</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20151027090822/http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/be/43/be43f8ad6082c7cff8c93e10b7d08585600c70b3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20151027090822/http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (468.4 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20151027090822/http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20151027090822/http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2015; you can also visit <a rel="external noopener" href="http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Methods: We compared three medical <em>search</em> engines <em>with</em> support tools that require more or less effort from users to form a <em>query</em> and evaluate results. &nbsp;...&nbsp;
+        Fewer <em>searches</em> were needed and more documents were found per <em>search</em> when both <em>query</em> reformulation and result review tools dynamically adjust to the user <em>query</em>. &nbsp;...&nbsp;
+        In response to this problem, <em>query</em> <em>expansion</em>, manual or automated, can be used. <em>With</em> manual, i.e., <em>interactive</em> <em>query</em> <em>expansion</em>, users themselves indicate which terms should be used for <em>expansion</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.ijmedinf.2006.08.001">doi:10.1016/j.ijmedinf.2006.08.001</a>
+    <a target="_blank" rel="external noopener" href="https://www.ncbi.nlm.nih.gov/pubmed/16996298">pmid:16996298</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq">fatcat:txn5cptncrbvzaltb47cbs2rwq</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20151027090822/http://web.cgu.edu/faculty/leroy/content/Papers/Leroy-IJMedInformatics-In-Press-2006.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/be/43/be43f8ad6082c7cff8c93e10b7d08585600c70b3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.ijmedinf.2006.08.001">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          elsevier.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Gondy Leroy, Jennifer Xu, Wingyan Chung, Shauna Eggers, Hsinchun Chen. &#34;An end user evaluation of query formulation and results review tools in three medical meta-search engines.&#34;  International Journal of Medical Informatics 76.11-12  (2007) 780-789
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/txn5cptncrbvzaltb47cbs2rwq" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/gtyoq65lq5hnbjkwdqeyzxo3ee" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Improving Web Search Using Contextual Retrieval
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Dilip K. Limbu, Andrew M. Connor, Russel Pears, Stephen G. MacDonell
+    </div>
+
+
+      <span title="">2009</span>
+    <i title="IEEE">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/q4htbe6iofd7zjlr6cgteixwfq" style="color: black;">2009 Sixth International Conference on Information Technology: New Generations</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170815140318/http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/48/04/48043c43126387a8dc680cf8358b7af6ddf152a9.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170815140318/http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (214.2 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170815140318/http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170815140318/http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        These are used to refine <em>search</em> <em>queries</em> and improve both the <em>search</em> results for a user as well as their <em>search</em> experience. &nbsp;...&nbsp;
+        Contextual retrieval is a critical technique for today&#39;s <em>search</em> engines in terms of facilitating <em>queries</em> and returning relevant information. &nbsp;...&nbsp;
+        These terms are added to an existing <em>query</em> either by the user, known as <em>interactive</em> <em>query</em> <em>expansion</em> (IQE), or by the retrieval system, known as automatic <em>query</em> <em>expansion</em> (AQE). &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1109/itng.2009.133">doi:10.1109/itng.2009.133</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/itng/LimbuCPM09.html">dblp:conf/itng/LimbuCPM09</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga">fatcat:gaumdzclp5b7topwknbmzxphga</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170815140318/http://aut.researchgateway.ac.nz/bitstream/handle/10292/2443/Limbu,%20Connor,%20Pears%20and%20MacDonell%20(2009)%20ITNG.pdf?sequence=11" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/48/04/48043c43126387a8dc680cf8358b7af6ddf152a9.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1109/itng.2009.133">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          ieee.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Dilip K. Limbu, Andrew M. Connor, Russel Pears, Stephen G. MacDonell. &#34;Improving Web Search Using Contextual Retrieval.&#34;  2009 Sixth International Conference on Information Technology: New Generations (2009) 1329-1334
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/gaumdzclp5b7topwknbmzxphga" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/tj3cgmarznegblfqwx4myxwtz4" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Examining the effectiveness of real-time query expansion
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Ryen W. White, Gary Marchionini
+    </div>
+
+
+      <span title="">2007</span>
+    <i title="Elsevier BV">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/v5dch4enzne6phusiwdh25za24" style="color: black;">Information Processing &amp; Management</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20081015185056/http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/be/ac/beacb3408832c8f3a9e3b024d81c909c11ec5b03.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20081015185056/http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (263.7 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20081015185056/http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20081015185056/http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2008; you can also visit <a rel="external noopener" href="http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        <em>Interactive</em> <em>query</em> <em>expansion</em> (IQE) (c.f. Efthimiadis, 1996) is a potentially useful technique to help searchers formulate improved <em>query</em> statements, and ultimately retrieve better <em>search</em> results. &nbsp;...&nbsp;
+        To investigate how the technique is used -and when it may be useful -we conducted a user study comparing three <em>search</em> interfaces: a baseline interface <em>with</em> no <em>query</em> <em>expansion</em> support; an interface that &nbsp;...&nbsp;
+        This modification can occur <em>interactively</em> <em>with</em> searcher participation i.e., <em>interactive</em> <em>query</em> <em>expansion</em> (IQE), or automatically without searcher involvement i.e., automatic <em>query</em> <em>expansion</em> (AQE). &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.ipm.2006.06.005">doi:10.1016/j.ipm.2006.06.005</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne">fatcat:cchymb6gbrd3lnyvmvnhv4dqne</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20081015185056/http://research.microsoft.com/~ryenw/papers/WhiteIPM2007.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/be/ac/beacb3408832c8f3a9e3b024d81c909c11ec5b03.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.ipm.2006.06.005">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          elsevier.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Ryen W. White, Gary Marchionini. &#34;Examining the effectiveness of real-time query expansion.&#34;  Information Processing &amp; Management 43.3  (2007) 685-704
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/cchymb6gbrd3lnyvmvnhv4dqne" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/de4vqg3w4nhnpod6ubnfn6e3ai" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Efficient Approach of Patent Search Paradigm
+      </span>
+      <span class="release-type" >
+      </span>
+
+        <br>
+        <span class="original-title">
+          english         </span>
+
+
+  </h3>
+
+    <div class="author-row">
+    Haritha.V, Dr. A.Senthil Kumar
+    </div>
+
+
+      <span title="2015-02-28">2015</span>
+    <i title="Ess &amp; Ess Research Publications">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/vzhjis6iijfe5gwwloxj4ecjr4" style="color: black;">International Journal of Innovative Research in Computer and Communication Engineering</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20180603033706/http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/70/2d/702d1e677bacd79fba9f8bb45abbe5534939a304.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20180603033706/http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (562.0 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20180603033706/http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20180603033706/http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2018; you can also visit <a rel="external noopener" href="http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Automatic error correction, topicbased <em>query</em> suggestion, and <em>query</em> <em>expansion</em>, are the three effective techniques that we have proposed to improve the usability of patent <em>search</em>. &nbsp;...&nbsp;
+        Finally, we combine the answers of each partition and generate top-k answers of the patent-<em>search</em> <em>query</em>. Thus it produces more pertinent answers through sophisticated graphical user <em>interaction</em>. &nbsp;...&nbsp;
+        <em>Query</em> <em>expansion</em> can recommend synonyms and those pertinent keywords of <em>query</em> keywords which are in the same concept <em>with</em> <em>query</em> keywords. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.15680/ijircce.2015.0302010">doi:10.15680/ijircce.2015.0302010</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm">fatcat:4bonheu7nvea3h56xgaowyi3hm</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20180603033706/http://ijircce.com/upload/2015/february/10_EFFICIENT.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/70/2d/702d1e677bacd79fba9f8bb45abbe5534939a304.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.15680/ijircce.2015.0302010">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          Publisher / doi.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Haritha.V, Dr. A.Senthil Kumar. &#34;Efficient Approach of Patent Search Paradigm.&#34;  International Journal of Innovative Research in Computer and Communication Engineering 03.02  (2015) 668-673
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+    <a href="https://scholar.archive.org/fatcat/release/4bonheu7nvea3h56xgaowyi3hm" rel="noopener" title="see metadata on fatcat">
+      <div class="circular ui icon compact basic button">
+        <i class="code icon"></i>
+      </div>
+    </a>
+
+    <a href="/work/vgiozefbjjelhcb33fkfwgpzna" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+
+          <div style="margin-top: 2em; width: 100%;">
+            <div class="search-pagination">
+                <span style="color:rgba(0,0,0,0.55); float: left">&laquo; Previous</span>
+
+<button class="text-button" form="search_form" type="submit" name="offset" value="15" style="float: right;" rel="next">
+  <a>Next &raquo;</a>
+</button>
+
+<i style="padding-left: 0.5em; padding-right: 0.5em;">
+Showing results 1 &mdash; 15 out of 44,980 results</i>
+
+            </div>
+          </div>
+  </div>
+
+</div>
+</main>
+
+<footer class="ui inverted vertical footer segment" style="padding: 4em 0em; margin-top: 3em; width: 100%;">
+  <div class="ui container">
+    <div class="ui stackable mobile reversed inverted divided equal height grid">
+      <nav class="nine wide column">
+        <div class="ui grid">
+          <div class="tablet-hide two wide column" style="padding-top: 4em; padding-right: 0;">
+            <img class="logo" src="/static/ia-logo.svg" alt="" style="width: 100%; opacity: 0.5;">
+          </div>
+          <div class="one wide column computer only"></div>
+          <div class="thirteen wide twelve wide computer column">
+            <h4 style="font-size: 1.28571429rem;">Internet Archive</h4>
+            <p style="color: rgba(255, 255, 255, 0.5);">
+We are a US 501(c)(3) non-profit library, building a global archive of Internet sites and other cultural artifacts in digital form.
+Other projects include <a target="_blank" rel="noopener" href="https://web.archive.org">The Wayback Machine</a>, <a target="_blank" rel="noopener" href="https://archive.org">archive.org</a>, <a target="_blank" rel="noopener" href="https://openlibrary.org">Open Library</a>, and <a target="_blank" rel="noopener" href="https://archive-it.org">Archive-It</a>.            <div class="ui horizontal inverted link list">
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/">About Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/contact.php">Contact Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/terms.php">Policies</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/donate">Donate</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">Open Infrastructure</h4>
+        <div class="ui inverted link list">
+          <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat" class="item">Biblographic Database (Fatcat)</a>
+          <a target="_blank" rel="external noopener noreferrer" href="https://github.com/internetarchive/fatcat-scholar" class="item">Source Code</a>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">scholar.archive.org</h4>
+        <div class="ui inverted link list">
+          <a href="/about#howitworks" class="item">How It Works</a>
+          <a href="/about#sources" class="item">Content Sources</a>
+          <a href="/about#tdm" class="item">Text and Data Mining</a>
+          <a href="/help" rel="help" class="item">Help</a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* when search is submitted, have submit button animate */
+document.getElementById("search_form").onsubmit = function(){
+  document.getElementById("search_submit_button").classList.add("loading");
+};
+</script>
+  <script>
+    window.goatcounter = {
+        /* title leaks search query, so don't report it */
+        title: "",
+    };
+  </script>
+  <script data-goatcounter="/goatcounter/count" async src="/goatcounter/count.js"></script></body>
+</html>

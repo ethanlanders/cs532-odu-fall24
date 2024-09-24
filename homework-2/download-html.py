@@ -21,11 +21,11 @@ print(f"Loaded {len(uris)} URIs.\n")
 
 uri_hash_map = {}
 
-if os.path.exists('raw_html'):
+if os.path.exists('homework-2/raw_html'):
     print("raw_html directory exists. Deleting all files within it.\n")
-    shutil.rmtree('raw_html')
+    shutil.rmtree('homework-2/raw_html')
 
-os.makedirs("raw_html")
+os.makedirs("homework-2/raw_html")
 
 for uri in uris:
     hash_object = hashlib.md5(uri.encode())
@@ -33,7 +33,7 @@ for uri in uris:
 
     try:
         response = requests.get(uri, timeout=5)
-        with open(f"raw_html/{filename}", 'w', encoding='utf-8') as file:
+        with open(f"homework-2/raw_html/{filename}", 'w', encoding='utf-8') as file:
             file.write(response.text)
 
         uri_hash_map[filename] = uri
