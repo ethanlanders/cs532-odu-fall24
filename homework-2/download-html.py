@@ -1,3 +1,8 @@
+"""
+References:
+- Python Hashing: https://www.geeksforgeeks.org/md5-hash-python/
+"""
+
 import requests
 import hashlib
 import os
@@ -19,9 +24,8 @@ uri_hash_map = {}
 if os.path.exists('raw_html'):
     print("raw_html directory exists. Deleting all files within it.\n")
     shutil.rmtree('raw_html')
-    os.makedirs("raw_html")
-else:
-    os.makedirs("raw_html")
+
+os.makedirs("raw_html")
 
 for uri in uris:
     hash_object = hashlib.md5(uri.encode())

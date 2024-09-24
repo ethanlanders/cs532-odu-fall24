@@ -1,0 +1,32 @@
+"""
+References:
+- https://pypi.org/project/boilerpy3/
+"""
+from boilerpy3 import extractors
+import os
+import shutil
+
+if os.path.exists('processed_html'):
+    print("processed_html directory exists. Deleting all files within it.\n")
+    shutil.rmtree('processed_html')
+
+os.makedirs('processed_html', exist_ok=True)
+
+extractor = extractors.ArticleExtractor()
+
+for filename in os.listdir('raw_html'):
+    with open(f"raw_html/{filename}", 'r', encoding='utf-8') as file:
+        html_content = file.read()
+
+    try:
+        main_content = extractor.get_content(html_content)
+
+        if main_content.strip():
+            with open(f"processed_html/{filename}", 'w', encoding='utf-8') as file:
+                file.write(main_content)
+        else:
+            print(f"No useful content found in {filename}. Skipping.\n")
+
+    except Exception as e:
+        print(f"Error processing {filename}: {e}\n")
+
