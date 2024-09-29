@@ -15,7 +15,7 @@ def compute_idf(word, documents, total_docs_in_directory):
         if word in doc:
             num_docs_with_word += 1
     
-    # Compute the IDF using the total number of document and number off docs with term
+    # Compute the IDF using the total number of document and number of docs with term
     return math.log((total_docs_in_directory) / (num_docs_with_word), 2)
 
 # Define the query term for which we want to calculate TF-IDF

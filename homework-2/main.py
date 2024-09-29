@@ -9,4 +9,3 @@ if __name__ == "__main__":
     process_html.main()
     compute_tfidf.main()
     pagerank.main()
-    inverted_index.main()
