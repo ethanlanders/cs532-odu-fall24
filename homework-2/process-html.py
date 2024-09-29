@@ -1,6 +1,6 @@
 """
 References:
-- https://pypi.org/project/boilerpy3/
+- BoilerPy3: https://pypi.org/project/boilerpy3/
 """
 
 from boilerpy3 import extractors

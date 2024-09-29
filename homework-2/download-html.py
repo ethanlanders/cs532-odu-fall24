@@ -1,7 +1,7 @@
 """
 References:
 - Python Hashing: https://www.geeksforgeeks.org/md5-hash-python/
-- Python shutil.rmtree() method: https://www.geeksforgeeks.org/delete-an-entire-directory-tree-using-python-shutil-rmtree-method/
+- Python shutil.rmtree() Method: https://www.geeksforgeeks.org/delete-an-entire-directory-tree-using-python-shutil-rmtree-method/
 """
 
 import requests
