@@ -1,21 +1,24 @@
 import math
-import os
 
 def compute_tf(word, document):
     words = document.split()
     return words.count(word) / len(words)
 
-def compute_idf(word, documents, total_docs_in_directory):
+def compute_idf(word, documents):
     num_docs_with_word = 0
     
     for doc in documents:
         if word in doc:
             num_docs_with_word += 1
-    return math.log((total_docs_in_directory) / (num_docs_with_word), 2)
+    # one (1) added to denominator to prevent division by zero if word not found:
+    if(num_docs_with_word != 0):
+        return math.log((len(documents) + 1) / (1 + num_docs_with_word), 2)
+    else:
+        return 0
 
 query_term = "climate"
 
-# Ten files that contain the query term (got with grep)
+# Files that contain the query term (got with grep)
 file_uris = [
     'homework-2/processed_html/3ac6cb5edbed898516d4a54c7af9e22d.html',
     'homework-2/processed_html/3ba3eee197e9cd3a3851eb90582df2dd.html',
@@ -29,9 +32,6 @@ file_uris = [
     'homework-2/processed_html/90a687c0ed013c36ee44a64c87ba55d6.html'
 ]
 
-directory_path = 'homework-2/processed_html'
-total_docs_in_directory = len([doc for doc in os.listdir(directory_path)])
-
 # Dictionary to store the content of each file
 documents = {}
 
@@ -43,11 +43,11 @@ tf_idf_results = []
 
 for uri, document in documents.items():
     tf = compute_tf(query_term, document)
-    idf = compute_idf(query_term, documents.values(), total_docs_in_directory)
+    idf = compute_idf(query_term, documents.values())
     tf_idf = tf * idf
     tf_idf_results.append((tf_idf, tf, idf, uri))
 
 tf_idf_results.sort(key=lambda x: x[3], reverse=True)
 
 for result in tf_idf_results:
-    print(f"TF-IDF: {result[0]:.4f}, TF: {result[1]:.4f}, IDF: {result[2]:.4f}, URI: {result[3]}\n")
+    print(f"TF-IDF: {result[0]:.8f}, TF: {result[1]:.4f}, IDF: {result[2]:.8f}, URI: {result[3]}\n")
