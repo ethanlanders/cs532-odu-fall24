@@ -1,5 +1,6 @@
 """
 References:
+- Page Ranking Tool: https://searchenginereports.net/google-pagerank-checker
 - Data Normalization Techniques: https://analystanswers.com/data-normalization-techniques-easy-to-advanced-the-best/
 """
 
