@@ -13,16 +13,22 @@ def load_uri_mapping(mapping_file):
     return uri_hash_mapping
 
 def query_memgator(uri, output_file):
-    command = f"./memgator -c 'ODU CS 532 eland007@odu.edu -a archives.json -f JSON {uri}"
+    command = f"~/MemGator/memgator -c 'ODU CS532 eland007@odu.edu' -a ~/MemGator/docs/archives.json -f JSON {uri}"
     result = subprocess.run(command, shell=True, capture_output=True, text=True)
     
-    with open(output_file, 'w') as f:
-        f.write(result.stdout.decode('utf-8'))
+    if result.returncode != 0:
+        print(f"Error querying MemGator for {uri}: {result.stderr}")
+    else:
+        with open(output_file, 'w') as f:
+            f.write(result.stdout)
 
     # Add sleep to avoid overwhelming the server
     time.sleep(10)
 
 def download_timemap(uri_mapping_file, output_dir):
+    # Check and create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
     uri_hash_map = load_uri_mapping(uri_mapping_file)
 
     # Limit to first 3 items for testing
@@ -33,4 +39,5 @@ def download_timemap(uri_mapping_file, output_dir):
         print(f"Querying TimeMap for {uri} and saving as {output_file}")
         query_memgator(uri, output_file)
 
+# TODO: The three generated timemaps/ directory files are empty. Why?
 download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps")
