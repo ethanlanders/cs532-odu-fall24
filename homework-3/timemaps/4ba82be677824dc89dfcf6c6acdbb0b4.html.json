@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/armyrotc",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/armyrotc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-21T05:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20211021053252mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-11-03T11:34:40Z",
+        "uri": "https://arquivo.pt/wayback/20211103113440mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-01-22T11:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20220122114427mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-01-26T05:49:55Z",
+        "uri": "https://arquivo.pt/wayback/20220126054955mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-17T06:58:15Z",
+        "uri": "https://arquivo.pt/wayback/20220417065815mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-20T16:30:53Z",
+        "uri": "https://arquivo.pt/wayback/20220420163053mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-22T18:46:25Z",
+        "uri": "https://arquivo.pt/wayback/20220422184625mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-24T19:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20220424190346mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-07-30T16:32:48Z",
+        "uri": "https://arquivo.pt/wayback/20220730163248mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-10-11T03:55:47Z",
+        "uri": "https://arquivo.pt/wayback/20221011035547mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-24T20:41:07Z",
+        "uri": "https://arquivo.pt/wayback/20230124204107mp_/https://www.odu.edu/armyrotc"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-21T05:32:52Z",
+      "uri": "https://arquivo.pt/wayback/20211021053252mp_/https://odu.edu/armyrotc"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:41:07Z",
+      "uri": "https://arquivo.pt/wayback/20230124204107mp_/https://www.odu.edu/armyrotc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/armyrotc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/armyrotc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/armyrotc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/armyrotc"
+}

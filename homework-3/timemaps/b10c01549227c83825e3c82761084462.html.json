@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/life/culture/arts/diehn",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/diehn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-05T08:52:51Z",
+        "uri": "https://arquivo.pt/wayback/20211105085251mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-11T03:29:08Z",
+        "uri": "https://arquivo.pt/wayback/20211111032908mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-22T10:51:21Z",
+        "uri": "https://arquivo.pt/wayback/20220122105121mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-26T05:39:20Z",
+        "uri": "https://arquivo.pt/wayback/20220126053920mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-17T06:02:19Z",
+        "uri": "https://arquivo.pt/wayback/20220417060219mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-22T17:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20220422172224mp_/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-22T17:22:28Z",
+        "uri": "https://arquivo.pt/wayback/20220422172228mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-24T18:55:44Z",
+        "uri": "https://arquivo.pt/wayback/20220424185544mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-07-30T15:08:19Z",
+        "uri": "https://arquivo.pt/wayback/20220730150819mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-10-11T02:42:29Z",
+        "uri": "https://arquivo.pt/wayback/20221011024229mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-01-24T20:52:12Z",
+        "uri": "https://arquivo.pt/wayback/20230124205212mp_/https://www.odu.edu/life/culture/arts/diehn"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-05T08:52:51Z",
+      "uri": "https://arquivo.pt/wayback/20211105085251mp_/https://odu.edu/life/culture/arts/diehn"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:52:12Z",
+      "uri": "https://arquivo.pt/wayback/20230124205212mp_/https://www.odu.edu/life/culture/arts/diehn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture/arts/diehn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/diehn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture/arts/diehn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture/arts/diehn"
+}

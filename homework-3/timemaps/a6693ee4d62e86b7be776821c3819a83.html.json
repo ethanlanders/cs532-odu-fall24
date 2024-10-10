@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-14T10:21:02Z",
+        "uri": "https://arquivo.pt/wayback/20200214102102mp_/https://dblp.uni-trier.de/db/journals/ir/ir11.html"
+      },
+      {
+        "datetime": "2020-03-12T16:04:08Z",
+        "uri": "https://arquivo.pt/wayback/20200312160408mp_/https://dblp.uni-trier.de/db/journals/ir/ir11.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-14T10:21:02Z",
+      "uri": "https://arquivo.pt/wayback/20200214102102mp_/https://dblp.uni-trier.de/db/journals/ir/ir11.html"
+    },
+    "last": {
+      "datetime": "2020-03-12T16:04:08Z",
+      "uri": "https://arquivo.pt/wayback/20200312160408mp_/https://dblp.uni-trier.de/db/journals/ir/ir11.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/journals/ir/ir11.html#BastMW08"
+}

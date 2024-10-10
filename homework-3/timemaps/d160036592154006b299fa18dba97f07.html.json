@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/univ-impact/entrepreneurship/strome",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-21T05:45:22Z",
+        "uri": "https://arquivo.pt/wayback/20211021054522mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-11-12T12:25:00Z",
+        "uri": "https://arquivo.pt/wayback/20211112122500mp_/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-04-20T16:46:33Z",
+        "uri": "https://arquivo.pt/wayback/20220420164633mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-05-07T21:53:27Z",
+        "uri": "https://arquivo.pt/wayback/20220507215327mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-18T07:48:25Z",
+        "uri": "https://arquivo.pt/wayback/20220818074825mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-16T03:59:55Z",
+        "uri": "https://arquivo.pt/wayback/20221116035955mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-24T20:33:30Z",
+        "uri": "https://arquivo.pt/wayback/20230124203330mp_/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-21T05:45:22Z",
+      "uri": "https://arquivo.pt/wayback/20211021054522mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:33:30Z",
+      "uri": "https://arquivo.pt/wayback/20230124203330mp_/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+}

@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.host4ukraine.com/",
+  "self": "http://localhost:1208/timemap/json/https://www.host4ukraine.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-04T02:17:56Z",
+        "uri": "https://arquivo.pt/wayback/20220304021756mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-04T02:30:43Z",
+        "uri": "https://arquivo.pt/wayback/20220304023043mp_/http://host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-05T01:40:24Z",
+        "uri": "https://arquivo.pt/wayback/20220305014024mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-06T00:13:27Z",
+        "uri": "https://arquivo.pt/wayback/20220306001327mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-07T00:10:53Z",
+        "uri": "https://arquivo.pt/wayback/20220307001053mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-08T01:44:47Z",
+        "uri": "https://arquivo.pt/wayback/20220308014447mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-03-22T16:36:06Z",
+        "uri": "http://archive.md/20220322163606/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-04-30T08:25:04Z",
+        "uri": "https://arquivo.pt/wayback/20220430082504mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-05-01T21:30:19Z",
+        "uri": "https://arquivo.pt/wayback/20220501213019mp_/https://host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-05-01T21:30:35Z",
+        "uri": "https://arquivo.pt/wayback/20220501213035mp_/http://host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-08-20T19:54:33Z",
+        "uri": "https://arquivo.pt/wayback/20220820195433mp_/https://www.host4ukraine.com/"
+      },
+      {
+        "datetime": "2022-09-21T19:40:40Z",
+        "uri": "https://arquivo.pt/wayback/20220921194040mp_/https://www.host4ukraine.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-04T02:17:56Z",
+      "uri": "https://arquivo.pt/wayback/20220304021756mp_/https://www.host4ukraine.com/"
+    },
+    "last": {
+      "datetime": "2022-09-21T19:40:40Z",
+      "uri": "https://arquivo.pt/wayback/20220921194040mp_/https://www.host4ukraine.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.host4ukraine.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.host4ukraine.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.host4ukraine.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.host4ukraine.com/"
+}

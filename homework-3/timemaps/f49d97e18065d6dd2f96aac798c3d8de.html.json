@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.odu.edu/success",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/success",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-05T07:57:29Z",
+        "uri": "https://arquivo.pt/wayback/20211105075729mp_/https://odu.edu/success"
+      },
+      {
+        "datetime": "2021-11-11T03:16:09Z",
+        "uri": "https://arquivo.pt/wayback/20211111031609mp_/http://www.odu.edu/success"
+      },
+      {
+        "datetime": "2022-01-22T11:23:44Z",
+        "uri": "https://arquivo.pt/wayback/20220122112344mp_/https://odu.edu/success"
+      },
+      {
+        "datetime": "2022-01-26T05:45:07Z",
+        "uri": "https://arquivo.pt/wayback/20220126054507mp_/http://www.odu.edu/success"
+      },
+      {
+        "datetime": "2022-04-22T17:29:41Z",
+        "uri": "https://arquivo.pt/wayback/20220422172941mp_/https://www.odu.edu/success"
+      },
+      {
+        "datetime": "2022-04-22T17:29:46Z",
+        "uri": "https://arquivo.pt/wayback/20220422172946mp_/http://www.odu.edu/success"
+      },
+      {
+        "datetime": "2022-05-27T12:28:48Z",
+        "uri": "https://arquivo.pt/wayback/20220527122848mp_/https://odu.edu/success"
+      },
+      {
+        "datetime": "2022-07-30T16:02:42Z",
+        "uri": "https://arquivo.pt/wayback/20220730160242mp_/https://odu.edu/success"
+      },
+      {
+        "datetime": "2022-11-16T04:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20221116045343mp_/https://odu.edu/success"
+      },
+      {
+        "datetime": "2023-01-24T19:57:04Z",
+        "uri": "https://arquivo.pt/wayback/20230124195704mp_/https://www.odu.edu/success"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-05T07:57:29Z",
+      "uri": "https://arquivo.pt/wayback/20211105075729mp_/https://odu.edu/success"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:57:04Z",
+      "uri": "https://arquivo.pt/wayback/20230124195704mp_/https://www.odu.edu/success"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/success",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/success",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/success"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/success"
+}

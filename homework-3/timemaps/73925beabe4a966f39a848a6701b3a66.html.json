@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.odu.edu/hs",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/hs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-06-03T11:33:28Z",
+        "uri": "http://archive.md/20150603113328/http://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2021-09-10T16:03:35Z",
+        "uri": "https://arquivo.pt/wayback/20210910160335mp_/https://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2021-10-21T05:26:41Z",
+        "uri": "https://arquivo.pt/wayback/20211021052641mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2021-11-03T11:49:07Z",
+        "uri": "https://arquivo.pt/wayback/20211103114907mp_/http://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2022-01-22T12:15:05Z",
+        "uri": "https://arquivo.pt/wayback/20220122121505mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2022-01-26T05:59:20Z",
+        "uri": "https://arquivo.pt/wayback/20220126055920mp_/http://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2022-04-17T07:34:48Z",
+        "uri": "https://arquivo.pt/wayback/20220417073448mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2022-04-20T16:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20220420162523mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2022-04-22T18:52:48Z",
+        "uri": "https://arquivo.pt/wayback/20220422185248mp_/http://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2022-04-24T19:12:38Z",
+        "uri": "https://arquivo.pt/wayback/20220424191238mp_/http://www.odu.edu/hs"
+      },
+      {
+        "datetime": "2022-07-30T17:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20220730170535mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2022-10-11T04:27:44Z",
+        "uri": "https://arquivo.pt/wayback/20221011042744mp_/https://odu.edu/hs"
+      },
+      {
+        "datetime": "2023-01-24T19:28:46Z",
+        "uri": "https://arquivo.pt/wayback/20230124192846mp_/https://www.odu.edu/hs"
+      }
+    ],
+    "first": {
+      "datetime": "2015-06-03T11:33:28Z",
+      "uri": "http://archive.md/20150603113328/http://www.odu.edu/hs"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:28:46Z",
+      "uri": "https://arquivo.pt/wayback/20230124192846mp_/https://www.odu.edu/hs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/hs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/hs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/hs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/hs"
+}

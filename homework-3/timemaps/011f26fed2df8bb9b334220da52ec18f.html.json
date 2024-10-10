@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://arxiv.org/abs/2103.04899",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2103.04899",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-04-11T21:01:21Z",
+        "uri": "http://archive.md/20220411210121/https://arxiv.org/abs/2103.04899"
+      }
+    ],
+    "first": {
+      "datetime": "2022-04-11T21:01:21Z",
+      "uri": "http://archive.md/20220411210121/https://arxiv.org/abs/2103.04899"
+    },
+    "last": {
+      "datetime": "2022-04-11T21:01:21Z",
+      "uri": "http://archive.md/20220411210121/https://arxiv.org/abs/2103.04899"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2103.04899",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2103.04899",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2103.04899"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2103.04899"
+}
