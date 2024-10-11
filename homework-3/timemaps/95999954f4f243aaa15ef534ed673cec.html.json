@@ -1,0 +1,474 @@
+{
+  "original_uri": "https://unpaywall.org",
+  "self": "http://localhost:1208/timemap/json/https://unpaywall.org",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-03-16T21:49:26Z",
+        "uri": "http://archive.md/20170316214926/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2017-04-19T07:48:17Z",
+        "uri": "http://archive.md/20170419074817/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2017-06-30T16:27:37Z",
+        "uri": "https://arquivo.pt/wayback/20170630162737mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2017-07-02T10:57:52Z",
+        "uri": "http://archive.md/20170702105752/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-05-30T15:39:24Z",
+        "uri": "http://archive.md/20180530153924/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-07-17T22:21:53Z",
+        "uri": "https://arquivo.pt/wayback/20180717222153mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-07-28T10:41:51Z",
+        "uri": "https://arquivo.pt/wayback/20180728104151mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-08-21T00:53:03Z",
+        "uri": "https://arquivo.pt/wayback/20180821005303mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-08-22T10:19:47Z",
+        "uri": "https://arquivo.pt/wayback/20180822101947mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-08-23T00:46:52Z",
+        "uri": "https://arquivo.pt/wayback/20180823004652mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-08-24T02:28:19Z",
+        "uri": "https://arquivo.pt/wayback/20180824022819mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-08-26T01:50:52Z",
+        "uri": "https://arquivo.pt/wayback/20180826015052mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-09-05T10:29:09Z",
+        "uri": "https://web.archive.org.au/awa/20180905102909mp_/http://pandora.nla.gov.au/pan/52190/20180905-1509/unpaywall.org/index.html"
+      },
+      {
+        "datetime": "2018-09-06T05:25:05Z",
+        "uri": "https://web.archive.org.au/awa/20180906052505mp_/http://pandora.nla.gov.au/pan/52190/20180906-1004/unpaywall.org/index.html"
+      },
+      {
+        "datetime": "2018-09-06T10:57:14Z",
+        "uri": "https://web.archive.org.au/awa/20180906105714mp_/http://pandora.nla.gov.au/pan/52190/20180906-1550/unpaywall.org/index.html"
+      },
+      {
+        "datetime": "2018-09-20T19:42:31Z",
+        "uri": "http://archive.md/20180920194231/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-09-20T19:43:17Z",
+        "uri": "http://archive.md/20180920194317/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-10-03T00:49:30Z",
+        "uri": "https://arquivo.pt/wayback/20181003004930mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-10-04T08:52:12Z",
+        "uri": "https://arquivo.pt/wayback/20181004085212mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-11-08T01:17:01Z",
+        "uri": "https://arquivo.pt/wayback/20181108011701mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-12-20T02:17:19Z",
+        "uri": "https://arquivo.pt/wayback/20181220021719mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-12-22T10:12:05Z",
+        "uri": "https://arquivo.pt/wayback/20181222101205mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-12-30T10:55:41Z",
+        "uri": "https://arquivo.pt/wayback/20181230105541mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2018-12-31T10:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20181231102930mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-01-13T10:19:03Z",
+        "uri": "https://arquivo.pt/wayback/20190113101903mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-01-16T11:23:37Z",
+        "uri": "https://arquivo.pt/wayback/20190116112337mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-01-19T10:58:31Z",
+        "uri": "https://arquivo.pt/wayback/20190119105831mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-01T10:10:06Z",
+        "uri": "https://arquivo.pt/wayback/20190201101006mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-03T09:44:20Z",
+        "uri": "https://arquivo.pt/wayback/20190203094420mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-05T10:06:41Z",
+        "uri": "https://arquivo.pt/wayback/20190205100641mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-08T03:08:10Z",
+        "uri": "https://arquivo.pt/wayback/20190208030810mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-09T10:24:18Z",
+        "uri": "https://arquivo.pt/wayback/20190209102418mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-10T10:14:55Z",
+        "uri": "https://arquivo.pt/wayback/20190210101455mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-11T03:08:17Z",
+        "uri": "https://arquivo.pt/wayback/20190211030817mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-15T11:03:12Z",
+        "uri": "https://arquivo.pt/wayback/20190215110312mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-22T10:33:06Z",
+        "uri": "https://arquivo.pt/wayback/20190222103306mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-02-24T10:50:39Z",
+        "uri": "https://arquivo.pt/wayback/20190224105039mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-03-26T05:47:40Z",
+        "uri": "https://arquivo.pt/wayback/20190326054740mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-04-15T03:56:40Z",
+        "uri": "https://arquivo.pt/wayback/20190415035640mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-04-17T00:26:44Z",
+        "uri": "https://arquivo.pt/wayback/20190417002644mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-04-20T23:54:38Z",
+        "uri": "https://arquivo.pt/wayback/20190420235438mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-06-23T03:09:42Z",
+        "uri": "https://arquivo.pt/wayback/20190623030942mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-06-28T10:01:44Z",
+        "uri": "https://arquivo.pt/wayback/20190628100144mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-07-22T01:53:58Z",
+        "uri": "https://arquivo.pt/wayback/20190722015358mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-07-26T01:56:50Z",
+        "uri": "https://arquivo.pt/wayback/20190726015650mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-07-27T01:52:38Z",
+        "uri": "https://arquivo.pt/wayback/20190727015238mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-08-03T01:41:02Z",
+        "uri": "https://arquivo.pt/wayback/20190803014102mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-08-07T01:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20190807014637mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-08-12T01:31:29Z",
+        "uri": "https://arquivo.pt/wayback/20190812013129mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-08-19T01:04:19Z",
+        "uri": "https://arquivo.pt/wayback/20190819010419mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-08-28T20:11:16Z",
+        "uri": "https://perma.cc/V7DK-M66Y"
+      },
+      {
+        "datetime": "2019-09-03T02:08:35Z",
+        "uri": "https://arquivo.pt/wayback/20190903020835mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-04T02:08:39Z",
+        "uri": "https://arquivo.pt/wayback/20190904020839mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-05T02:49:06Z",
+        "uri": "https://arquivo.pt/wayback/20190905024906mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-11T21:50:12Z",
+        "uri": "https://arquivo.pt/wayback/20190911215012mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-13T19:27:35Z",
+        "uri": "https://arquivo.pt/wayback/20190913192735mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-20T21:32:04Z",
+        "uri": "https://arquivo.pt/wayback/20190920213204mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-09-26T23:58:38Z",
+        "uri": "https://arquivo.pt/wayback/20190926235838mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-07T14:49:54Z",
+        "uri": "https://arquivo.pt/wayback/20191007144954mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-07T22:02:25Z",
+        "uri": "https://arquivo.pt/wayback/20191007220225mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-08T21:47:53Z",
+        "uri": "https://arquivo.pt/wayback/20191008214753mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-16T04:59:14Z",
+        "uri": "https://arquivo.pt/wayback/20191016045914mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-19T17:56:31Z",
+        "uri": "https://vefsafn.is/20191019175631mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-21T21:46:47Z",
+        "uri": "https://arquivo.pt/wayback/20191021214647mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-10-22T21:56:09Z",
+        "uri": "https://arquivo.pt/wayback/20191022215609mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-11-07T22:46:41Z",
+        "uri": "https://arquivo.pt/wayback/20191107224641mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-12-02T23:34:06Z",
+        "uri": "https://arquivo.pt/wayback/20191202233406mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-12-12T07:44:18Z",
+        "uri": "https://arquivo.pt/wayback/20191212074418mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2019-12-18T23:04:51Z",
+        "uri": "https://arquivo.pt/wayback/20191218230451mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-01-10T22:53:18Z",
+        "uri": "https://arquivo.pt/wayback/20200110225318mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-02-03T23:01:13Z",
+        "uri": "https://arquivo.pt/wayback/20200203230113mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-02-05T15:51:38Z",
+        "uri": "https://arquivo.pt/wayback/20200205155138mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-02-05T15:51:50Z",
+        "uri": "https://arquivo.pt/wayback/20200205155150mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-03-15T09:09:50Z",
+        "uri": "https://arquivo.pt/wayback/20200315090950mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-03-18T13:09:02Z",
+        "uri": "http://archive.md/20200318130902/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-06-05T14:47:05Z",
+        "uri": "https://arquivo.pt/wayback/20200605144705mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-06-14T18:43:52Z",
+        "uri": "https://arquivo.pt/wayback/20200614184352mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-09-11T10:42:55Z",
+        "uri": "https://arquivo.pt/wayback/20200911104255mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-09-12T00:35:05Z",
+        "uri": "https://arquivo.pt/wayback/20200912003505mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-12-15T09:36:57Z",
+        "uri": "http://archive.md/20201215093657/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-12-28T13:53:30Z",
+        "uri": "https://arquivo.pt/wayback/20201228135330mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2020-12-28T13:53:40Z",
+        "uri": "https://arquivo.pt/wayback/20201228135340mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-01-12T02:48:39Z",
+        "uri": "https://arquivo.pt/wayback/20210112024839mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-01-15T11:59:39Z",
+        "uri": "https://arquivo.pt/wayback/20210115115939mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-03-16T14:22:09Z",
+        "uri": "https://arquivo.pt/wayback/20210316142209mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-06-13T00:20:02Z",
+        "uri": "https://arquivo.pt/wayback/20210613002002mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-06-28T07:06:52Z",
+        "uri": "https://arquivo.pt/wayback/20210628070652mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-06-28T07:06:52Z",
+        "uri": "https://arquivo.pt/wayback/20210628070652mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-07-05T16:53:48Z",
+        "uri": "https://arquivo.pt/wayback/20210705165348mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-07-18T05:15:56Z",
+        "uri": "https://arquivo.pt/wayback/20210718051556mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-07-25T09:28:13Z",
+        "uri": "http://archive.md/20210725092813/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-08-21T08:53:47Z",
+        "uri": "https://arquivo.pt/wayback/20210821085347mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-09-12T00:25:48Z",
+        "uri": "https://arquivo.pt/wayback/20210912002548mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-09-12T00:26:02Z",
+        "uri": "https://arquivo.pt/wayback/20210912002602mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2021-10-22T16:36:38Z",
+        "uri": "https://arquivo.pt/wayback/20211022163638mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2021-10-22T16:36:44Z",
+        "uri": "https://arquivo.pt/wayback/20211022163644mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-01-10T18:03:29Z",
+        "uri": "http://archive.md/20220110180329/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-01-20T18:33:48Z",
+        "uri": "http://archive.md/20220120183348/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-01-24T09:58:03Z",
+        "uri": "https://arquivo.pt/wayback/20220124095803mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2022-02-12T20:59:54Z",
+        "uri": "https://arquivo.pt/wayback/20220212205954mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2022-04-21T11:49:42Z",
+        "uri": "https://arquivo.pt/wayback/20220421114942mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2022-05-10T21:39:36Z",
+        "uri": "https://arquivo.pt/wayback/20220510213936mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-08-10T00:42:50Z",
+        "uri": "https://arquivo.pt/wayback/20220810004250mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2022-08-10T00:42:55Z",
+        "uri": "https://arquivo.pt/wayback/20220810004255mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-10-28T17:52:54Z",
+        "uri": "https://arquivo.pt/wayback/20221028175254mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-10-28T17:53:06Z",
+        "uri": "https://arquivo.pt/wayback/20221028175306mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-11-10T13:41:07Z",
+        "uri": "https://arquivo.pt/wayback/20221110134107mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2022-11-10T13:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20221110134116mp_/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2023-01-03T14:01:47Z",
+        "uri": "http://archive.md/20230103140147/http://unpaywall.org/"
+      },
+      {
+        "datetime": "2023-01-28T12:09:51Z",
+        "uri": "https://arquivo.pt/wayback/20230128120951mp_/http://support@unpaywall.org/"
+      },
+      {
+        "datetime": "2023-01-28T12:09:57Z",
+        "uri": "https://arquivo.pt/wayback/20230128120957mp_/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2024-04-20T14:48:35Z",
+        "uri": "http://archive.md/20240420144835/https://unpaywall.org/"
+      },
+      {
+        "datetime": "2024-07-13T13:38:47Z",
+        "uri": "http://archive.md/20240713133847/https://unpaywall.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-03-16T21:49:26Z",
+      "uri": "http://archive.md/20170316214926/http://unpaywall.org/"
+    },
+    "last": {
+      "datetime": "2024-07-13T13:38:47Z",
+      "uri": "http://archive.md/20240713133847/https://unpaywall.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://unpaywall.org",
+    "json_format": "http://localhost:1208/timemap/json/https://unpaywall.org",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://unpaywall.org"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://unpaywall.org"
+}

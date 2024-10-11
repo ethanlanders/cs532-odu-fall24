@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/business/center/port",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/business/center/port",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-03T12:35:17Z",
+        "uri": "https://arquivo.pt/wayback/20211103123517mp_/https://www.odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2021-11-03T12:35:21Z",
+        "uri": "https://arquivo.pt/wayback/20211103123521mp_/http://www.odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-01-22T13:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20220122133858mp_/https://odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-01-26T06:24:38Z",
+        "uri": "https://arquivo.pt/wayback/20220126062438mp_/http://www.odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-04-17T09:19:04Z",
+        "uri": "https://arquivo.pt/wayback/20220417091904mp_/https://odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-04-24T19:37:22Z",
+        "uri": "https://arquivo.pt/wayback/20220424193722mp_/http://www.odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-08-18T06:13:06Z",
+        "uri": "https://arquivo.pt/wayback/20220818061306mp_/https://odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2022-11-16T03:40:58Z",
+        "uri": "https://arquivo.pt/wayback/20221116034058mp_/https://odu.edu/business/center/port"
+      },
+      {
+        "datetime": "2023-01-24T20:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20230124203217mp_/https://www.odu.edu/business/center/port"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-03T12:35:17Z",
+      "uri": "https://arquivo.pt/wayback/20211103123517mp_/https://www.odu.edu/business/center/port"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:32:17Z",
+      "uri": "https://arquivo.pt/wayback/20230124203217mp_/https://www.odu.edu/business/center/port"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/business/center/port",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/business/center/port",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/business/center/port"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/business/center/port"
+}

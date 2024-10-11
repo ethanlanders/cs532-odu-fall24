@@ -1,0 +1,650 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-01-27T05:40:10Z",
+        "uri": "https://arquivo.pt/wayback/20110127054010mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2011-04-09T04:37:17Z",
+        "uri": "https://web.archive.org.au/awa/20110409043717mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2011-05-27T07:29:07Z",
+        "uri": "https://arquivo.pt/wayback/20110527072907mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2012-01-27T16:27:08Z",
+        "uri": "https://arquivo.pt/wayback/20120127162708mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2012-04-10T04:56:29Z",
+        "uri": "https://web.archive.org.au/awa/20120410045629mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2012-06-29T21:38:31Z",
+        "uri": "http://archive.md/20120629213831/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2013-04-09T13:36:59Z",
+        "uri": "https://web.archive.org.au/awa/20130409133659mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2013-05-02T22:50:13Z",
+        "uri": "https://web.archive.org.au/awa/20130502225013mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2015-08-19T15:38:56Z",
+        "uri": "http://archive.md/20150819153856/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-01-09T13:46:29Z",
+        "uri": "https://arquivo.pt/wayback/20160109134629mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-03-14T11:18:44Z",
+        "uri": "https://arquivo.pt/wayback/20160314111844mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-05-13T11:47:23Z",
+        "uri": "https://arquivo.pt/wayback/20160513114723mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-06-05T06:47:27Z",
+        "uri": "https://vefsafn.is/20160605064727mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-08-17T09:54:33Z",
+        "uri": "https://arquivo.pt/wayback/20160817095433mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2016-08-28T21:48:51Z",
+        "uri": "https://vefsafn.is/20160828214851mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2017-03-11T03:54:09Z",
+        "uri": "https://web.archive.org.au/awa/20170311035409mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-04-16T23:36:02Z",
+        "uri": "https://arquivo.pt/wayback/20180416233602mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-05-25T14:04:34Z",
+        "uri": "https://arquivo.pt/wayback/20180525140434mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-05-26T14:53:18Z",
+        "uri": "https://arquivo.pt/wayback/20180526145318mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-06-19T14:29:16Z",
+        "uri": "https://arquivo.pt/wayback/20180619142916mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-06-20T14:11:45Z",
+        "uri": "https://arquivo.pt/wayback/20180620141145mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-06-21T14:36:34Z",
+        "uri": "https://arquivo.pt/wayback/20180621143634mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-06-23T14:10:41Z",
+        "uri": "https://arquivo.pt/wayback/20180623141041mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-12T20:16:01Z",
+        "uri": "https://arquivo.pt/wayback/20180712201601mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-14T12:50:14Z",
+        "uri": "https://arquivo.pt/wayback/20180714125014mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-15T12:33:45Z",
+        "uri": "https://arquivo.pt/wayback/20180715123345mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-16T14:50:37Z",
+        "uri": "https://arquivo.pt/wayback/20180716145037mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-19T14:50:57Z",
+        "uri": "https://arquivo.pt/wayback/20180719145057mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-20T13:33:01Z",
+        "uri": "https://arquivo.pt/wayback/20180720133301mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-22T12:02:51Z",
+        "uri": "https://arquivo.pt/wayback/20180722120251mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-23T11:44:29Z",
+        "uri": "https://arquivo.pt/wayback/20180723114429mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-24T11:21:06Z",
+        "uri": "https://arquivo.pt/wayback/20180724112106mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-25T07:01:10Z",
+        "uri": "https://arquivo.pt/wayback/20180725070110mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-26T03:41:09Z",
+        "uri": "https://arquivo.pt/wayback/20180726034109mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2018-07-28T10:52:06Z",
+        "uri": "https://arquivo.pt/wayback/20180728105206mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-03-20T16:15:22Z",
+        "uri": "https://arquivo.pt/wayback/20190320161522mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-04-02T11:40:32Z",
+        "uri": "https://arquivo.pt/wayback/20190402114032mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-04-02T12:24:16Z",
+        "uri": "https://arquivo.pt/wayback/20190402122416mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-04-09T13:20:49Z",
+        "uri": "https://arquivo.pt/wayback/20190409132049mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-04-09T13:46:03Z",
+        "uri": "https://arquivo.pt/wayback/20190409134603mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-05-22T17:42:38Z",
+        "uri": "https://arquivo.pt/wayback/20190522174238mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-05-22T17:49:25Z",
+        "uri": "https://arquivo.pt/wayback/20190522174925mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-06-04T19:12:54Z",
+        "uri": "http://archive.md/20190604191254/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-06-07T01:14:43Z",
+        "uri": "https://arquivo.pt/wayback/20190607011443mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-06-07T01:23:49Z",
+        "uri": "https://arquivo.pt/wayback/20190607012349mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-06-18T23:08:34Z",
+        "uri": "https://arquivo.pt/wayback/20190618230834mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-06-18T23:18:49Z",
+        "uri": "https://arquivo.pt/wayback/20190618231849mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-09-07T14:46:24Z",
+        "uri": "https://arquivo.pt/wayback/20190907144624mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-10-08T05:15:31Z",
+        "uri": "https://arquivo.pt/wayback/20191008051531mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2019-11-14T19:56:41Z",
+        "uri": "https://arquivo.pt/wayback/20191114195641mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-01-14T13:53:16Z",
+        "uri": "https://arquivo.pt/wayback/20200114135316mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-02-05T09:27:12Z",
+        "uri": "https://arquivo.pt/wayback/20200205092712mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-02-05T09:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20200205092801mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-03-07T09:55:38Z",
+        "uri": "https://arquivo.pt/wayback/20200307095538mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-03-12T19:34:13Z",
+        "uri": "https://arquivo.pt/wayback/20200312193413mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-03-17T14:50:50Z",
+        "uri": "https://arquivo.pt/wayback/20200317145050mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-03-31T08:30:59Z",
+        "uri": "https://arquivo.pt/wayback/20200331083059mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-04-07T23:53:25Z",
+        "uri": "https://arquivo.pt/wayback/20200407235325mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-05T03:54:22Z",
+        "uri": "https://arquivo.pt/wayback/20200505035422mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-06T04:11:28Z",
+        "uri": "https://arquivo.pt/wayback/20200506041128mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-07T04:03:39Z",
+        "uri": "https://arquivo.pt/wayback/20200507040339mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-08T03:55:54Z",
+        "uri": "https://arquivo.pt/wayback/20200508035554mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-08T04:15:15Z",
+        "uri": "https://arquivo.pt/wayback/20200508041515mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-09T04:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20200509043858mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-10T03:48:15Z",
+        "uri": "https://arquivo.pt/wayback/20200510034815mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-11T04:22:32Z",
+        "uri": "https://arquivo.pt/wayback/20200511042232mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-11T04:42:05Z",
+        "uri": "https://arquivo.pt/wayback/20200511044205mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-21T21:33:57Z",
+        "uri": "https://arquivo.pt/wayback/20200521213357mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-05-22T00:58:33Z",
+        "uri": "https://arquivo.pt/wayback/20200522005833mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-06-04T21:46:34Z",
+        "uri": "https://arquivo.pt/wayback/20200604214634mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-06-05T01:11:42Z",
+        "uri": "https://arquivo.pt/wayback/20200605011142mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-06-05T12:45:08Z",
+        "uri": "https://arquivo.pt/wayback/20200605124508mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-06-17T16:16:15Z",
+        "uri": "https://arquivo.pt/wayback/20200617161615mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-08-06T00:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20200806002523mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-08-06T00:25:55Z",
+        "uri": "https://arquivo.pt/wayback/20200806002555mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-08-07T16:18:53Z",
+        "uri": "https://arquivo.pt/wayback/20200807161853mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-08-17T00:43:57Z",
+        "uri": "https://arquivo.pt/wayback/20200817004357mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-23T23:44:09Z",
+        "uri": "https://arquivo.pt/wayback/20201223234409mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-24T23:30:37Z",
+        "uri": "https://arquivo.pt/wayback/20201224233037mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-25T23:47:13Z",
+        "uri": "https://arquivo.pt/wayback/20201225234713mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-26T23:42:55Z",
+        "uri": "https://arquivo.pt/wayback/20201226234255mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-27T23:32:24Z",
+        "uri": "https://arquivo.pt/wayback/20201227233224mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-29T00:07:33Z",
+        "uri": "https://arquivo.pt/wayback/20201229000733mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-30T00:01:16Z",
+        "uri": "https://arquivo.pt/wayback/20201230000116mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-30T23:55:06Z",
+        "uri": "https://arquivo.pt/wayback/20201230235506mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2020-12-31T23:58:20Z",
+        "uri": "https://arquivo.pt/wayback/20201231235820mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-01-01T23:51:26Z",
+        "uri": "https://arquivo.pt/wayback/20210101235126mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-01-12T03:01:32Z",
+        "uri": "https://arquivo.pt/wayback/20210112030132mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-02-24T17:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20210224172224mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-02-24T17:41:08Z",
+        "uri": "https://arquivo.pt/wayback/20210224174108mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-03-04T01:11:43Z",
+        "uri": "https://arquivo.pt/wayback/20210304011143mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-06-13T20:07:51Z",
+        "uri": "https://arquivo.pt/wayback/20210613200751mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-06-14T05:10:40Z",
+        "uri": "https://arquivo.pt/wayback/20210614051040mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-06-19T08:06:35Z",
+        "uri": "https://arquivo.pt/wayback/20210619080635mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-08-21T07:42:42Z",
+        "uri": "https://arquivo.pt/wayback/20210821074242mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-09-06T10:20:02Z",
+        "uri": "https://arquivo.pt/wayback/20210906102002mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-09-06T15:09:20Z",
+        "uri": "https://arquivo.pt/wayback/20210906150920mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-09-06T19:31:05Z",
+        "uri": "https://arquivo.pt/wayback/20210906193105mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-10-17T21:57:05Z",
+        "uri": "https://arquivo.pt/wayback/20211017215705mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-10-18T18:23:55Z",
+        "uri": "https://arquivo.pt/wayback/20211018182355mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-10-18T18:31:55Z",
+        "uri": "https://arquivo.pt/wayback/20211018183155mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2021-10-19T21:22:37Z",
+        "uri": "https://arquivo.pt/wayback/20211019212237mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-14T01:18:11Z",
+        "uri": "https://arquivo.pt/wayback/20220114011811mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-19T00:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20220119000800mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-20T04:11:35Z",
+        "uri": "https://arquivo.pt/wayback/20220120041135mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-20T04:25:12Z",
+        "uri": "https://arquivo.pt/wayback/20220120042512mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-31T15:42:47Z",
+        "uri": "https://arquivo.pt/wayback/20220131154247mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-01-31T16:07:07Z",
+        "uri": "https://arquivo.pt/wayback/20220131160707mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:15:47Z",
+        "uri": "https://arquivo.pt/wayback/20220401231547mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:20:10Z",
+        "uri": "https://arquivo.pt/wayback/20220401232010mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-04-12T03:55:31Z",
+        "uri": "https://arquivo.pt/wayback/20220412035531mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-05-01T01:32:27Z",
+        "uri": "https://arquivo.pt/wayback/20220501013227mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-05-01T01:34:11Z",
+        "uri": "https://arquivo.pt/wayback/20220501013411mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-02T04:52:01Z",
+        "uri": "https://arquivo.pt/wayback/20220702045201mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-02T09:55:11Z",
+        "uri": "https://arquivo.pt/wayback/20220702095511mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-05T10:16:28Z",
+        "uri": "https://arquivo.pt/wayback/20220705101628mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-05T14:35:27Z",
+        "uri": "https://arquivo.pt/wayback/20220705143527mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-06T07:43:54Z",
+        "uri": "https://arquivo.pt/wayback/20220706074354mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-06T10:15:17Z",
+        "uri": "https://arquivo.pt/wayback/20220706101517mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-07T06:12:11Z",
+        "uri": "https://arquivo.pt/wayback/20220707061211mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-07T08:31:02Z",
+        "uri": "https://arquivo.pt/wayback/20220707083102mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-08T07:53:54Z",
+        "uri": "https://arquivo.pt/wayback/20220708075354mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-08T08:11:13Z",
+        "uri": "https://arquivo.pt/wayback/20220708081113mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-09T07:11:17Z",
+        "uri": "https://arquivo.pt/wayback/20220709071117mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-09T07:28:57Z",
+        "uri": "https://arquivo.pt/wayback/20220709072857mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-10T06:40:26Z",
+        "uri": "https://arquivo.pt/wayback/20220710064026mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-10T10:47:01Z",
+        "uri": "https://arquivo.pt/wayback/20220710104701mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-12T07:31:34Z",
+        "uri": "https://arquivo.pt/wayback/20220712073134mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-12T13:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20220712131452mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-27T13:26:56Z",
+        "uri": "https://arquivo.pt/wayback/20220727132656mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-27T19:36:32Z",
+        "uri": "https://arquivo.pt/wayback/20220727193632mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-28T17:16:56Z",
+        "uri": "https://arquivo.pt/wayback/20220728171656mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-07-28T17:18:01Z",
+        "uri": "https://arquivo.pt/wayback/20220728171801mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-08-28T22:52:50Z",
+        "uri": "https://arquivo.pt/wayback/20220828225250mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-10-01T18:42:57Z",
+        "uri": "https://arquivo.pt/wayback/20221001184257mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-10-15T01:43:51Z",
+        "uri": "https://arquivo.pt/wayback/20221015014351mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-10-15T01:43:56Z",
+        "uri": "https://arquivo.pt/wayback/20221015014356mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-10-18T18:26:09Z",
+        "uri": "https://arquivo.pt/wayback/20221018182609mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-11-02T23:55:58Z",
+        "uri": "https://arquivo.pt/wayback/20221102235558mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-11-13T15:17:16Z",
+        "uri": "https://arquivo.pt/wayback/20221113151716mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-11-27T02:06:51Z",
+        "uri": "https://arquivo.pt/wayback/20221127020651mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2022-12-01T00:21:04Z",
+        "uri": "https://arquivo.pt/wayback/20221201002104mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-01-03T00:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20230103003104mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-01-19T12:26:58Z",
+        "uri": "https://arquivo.pt/wayback/20230119122658mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-01-19T12:27:33Z",
+        "uri": "https://arquivo.pt/wayback/20230119122733mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-01-29T00:58:00Z",
+        "uri": "https://arquivo.pt/wayback/20230129005800mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-01-30T02:17:50Z",
+        "uri": "https://arquivo.pt/wayback/20230130021750mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-02-14T02:08:25Z",
+        "uri": "https://arquivo.pt/wayback/20230214020825mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-02-16T02:13:51Z",
+        "uri": "https://arquivo.pt/wayback/20230216021351mp_/http://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-02-16T03:11:59Z",
+        "uri": "https://arquivo.pt/wayback/20230216031159mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-02-26T00:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20230226000535mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-03-31T00:36:40Z",
+        "uri": "https://arquivo.pt/wayback/20230331003640mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-06-03T23:56:57Z",
+        "uri": "https://arquivo.pt/wayback/20230603235657mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-06-03T23:56:58Z",
+        "uri": "https://arquivo.pt/wayback/20230603235658mp_/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-06-19T15:34:31Z",
+        "uri": "http://archive.md/20230619153431/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2023-06-22T02:20:25Z",
+        "uri": "http://archive.md/20230622022025/https://citeseerx.ist.psu.edu/"
+      },
+      {
+        "datetime": "2024-05-22T18:26:01Z",
+        "uri": "http://archive.md/20240522182601/https://citeseerx.ist.psu.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "2011-01-27T05:40:10Z",
+      "uri": "https://arquivo.pt/wayback/20110127054010mp_/http://citeseerx.ist.psu.edu/"
+    },
+    "last": {
+      "datetime": "2024-05-22T18:26:01Z",
+      "uri": "http://archive.md/20240522182601/https://citeseerx.ist.psu.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/"
+}

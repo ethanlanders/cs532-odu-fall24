@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://odu.campusgroups.com/csgs/home/",
+  "self": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/csgs/home/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-08-18T01:51:08Z",
+        "uri": "https://arquivo.pt/wayback/20220818015108mp_/https://odu.campusgroups.com/csgs/home/"
+      },
+      {
+        "datetime": "2022-11-15T21:32:48Z",
+        "uri": "https://arquivo.pt/wayback/20221115213248mp_/https://odu.campusgroups.com/csgs/home/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-08-18T01:51:08Z",
+      "uri": "https://arquivo.pt/wayback/20220818015108mp_/https://odu.campusgroups.com/csgs/home/"
+    },
+    "last": {
+      "datetime": "2022-11-15T21:32:48Z",
+      "uri": "https://arquivo.pt/wayback/20221115213248mp_/https://odu.campusgroups.com/csgs/home/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://odu.campusgroups.com/csgs/home/",
+    "json_format": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/csgs/home/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://odu.campusgroups.com/csgs/home/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://odu.campusgroups.com/csgs/home/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://accessibility2024.arxiv.org/schedule",
+  "self": "http://localhost:1208/timemap/json/https://accessibility2024.arxiv.org/schedule",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-05T12:15:43Z",
+        "uri": "http://archive.md/20240905121543/https://accessibility2024.arxiv.org/schedule"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-05T12:15:43Z",
+      "uri": "http://archive.md/20240905121543/https://accessibility2024.arxiv.org/schedule"
+    },
+    "last": {
+      "datetime": "2024-09-05T12:15:43Z",
+      "uri": "http://archive.md/20240905121543/https://accessibility2024.arxiv.org/schedule"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://accessibility2024.arxiv.org/schedule",
+    "json_format": "http://localhost:1208/timemap/json/https://accessibility2024.arxiv.org/schedule",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://accessibility2024.arxiv.org/schedule"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://accessibility2024.arxiv.org/schedule"
+}

@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/tuition-aid",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/tuition-aid",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:37:39Z",
+        "uri": "https://arquivo.pt/wayback/20210910153739mp_/https://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2021-11-03T11:18:43Z",
+        "uri": "https://arquivo.pt/wayback/20211103111843mp_/http://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2021-11-03T13:49:13Z",
+        "uri": "https://arquivo.pt/wayback/20211103134913mp_/https://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-01-22T10:36:22Z",
+        "uri": "https://arquivo.pt/wayback/20220122103622mp_/https://odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-01-26T05:36:35Z",
+        "uri": "https://arquivo.pt/wayback/20220126053635mp_/http://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-04-17T05:43:50Z",
+        "uri": "https://arquivo.pt/wayback/20220417054350mp_/https://odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-04-22T17:18:49Z",
+        "uri": "https://arquivo.pt/wayback/20220422171849mp_/https://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-04-22T17:18:53Z",
+        "uri": "https://arquivo.pt/wayback/20220422171853mp_/http://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-04-24T18:53:29Z",
+        "uri": "https://arquivo.pt/wayback/20220424185329mp_/http://www.odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-07-30T14:52:08Z",
+        "uri": "https://arquivo.pt/wayback/20220730145208mp_/https://odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2022-10-11T02:26:18Z",
+        "uri": "https://arquivo.pt/wayback/20221011022618mp_/https://odu.edu/tuition-aid"
+      },
+      {
+        "datetime": "2023-01-24T20:56:43Z",
+        "uri": "https://arquivo.pt/wayback/20230124205643mp_/https://www.odu.edu/tuition-aid"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:37:39Z",
+      "uri": "https://arquivo.pt/wayback/20210910153739mp_/https://www.odu.edu/tuition-aid"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:56:43Z",
+      "uri": "https://arquivo.pt/wayback/20230124205643mp_/https://www.odu.edu/tuition-aid"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/tuition-aid",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/tuition-aid",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/tuition-aid"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/tuition-aid"
+}

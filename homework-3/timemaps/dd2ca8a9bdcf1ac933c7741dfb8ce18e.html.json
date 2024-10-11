@@ -1,0 +1,186 @@
+{
+  "original_uri": "https://oduwsdl.github.io/",
+  "self": "http://localhost:1208/timemap/json/https://oduwsdl.github.io/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-09T08:23:55Z",
+        "uri": "http://archive.md/20210509082355/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-06-07T15:24:25Z",
+        "uri": "https://arquivo.pt/wayback/20210607152425mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-06-07T17:21:31Z",
+        "uri": "https://arquivo.pt/wayback/20210607172131mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-07-08T19:23:44Z",
+        "uri": "http://archive.md/20210708192344/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-22T18:58:04Z",
+        "uri": "https://arquivo.pt/wayback/20211022185804mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-22T18:59:00Z",
+        "uri": "https://arquivo.pt/wayback/20211022185900mp_/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-05-25T14:47:33Z",
+        "uri": "https://arquivo.pt/wayback/20220525144733mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T20:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20220819204327mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T20:48:28Z",
+        "uri": "https://arquivo.pt/wayback/20220819204828mp_/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-18T21:50:35Z",
+        "uri": "https://arquivo.pt/wayback/20230418215035mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-07T14:46:00Z",
+        "uri": "https://perma.cc/4ZY8-8AQ6"
+      },
+      {
+        "datetime": "2023-07-11T19:16:04Z",
+        "uri": "https://perma.cc/KJ9U-LXCG"
+      },
+      {
+        "datetime": "2023-07-11T19:28:05Z",
+        "uri": "https://perma.cc/9BFC-YGD8"
+      },
+      {
+        "datetime": "2023-07-11T19:52:47Z",
+        "uri": "https://perma.cc/C66P-AR36"
+      },
+      {
+        "datetime": "2023-07-13T19:51:59Z",
+        "uri": "https://perma.cc/BQX5-Q9MH"
+      },
+      {
+        "datetime": "2023-07-13T20:02:11Z",
+        "uri": "https://perma.cc/BQ4J-R6QF"
+      },
+      {
+        "datetime": "2023-08-01T15:11:00Z",
+        "uri": "https://perma.cc/M9GD-D7RS"
+      },
+      {
+        "datetime": "2023-08-01T15:29:58Z",
+        "uri": "https://perma.cc/KX64-5HHN"
+      },
+      {
+        "datetime": "2023-08-01T15:52:32Z",
+        "uri": "https://perma.cc/WW8E-2BZ2"
+      },
+      {
+        "datetime": "2023-08-02T14:27:10Z",
+        "uri": "https://perma.cc/H3M9-79DW"
+      },
+      {
+        "datetime": "2023-08-03T17:15:20Z",
+        "uri": "https://perma.cc/9J7U-4ASC"
+      },
+      {
+        "datetime": "2023-10-31T00:25:10Z",
+        "uri": "https://perma.cc/GF95-3RNM"
+      },
+      {
+        "datetime": "2023-10-31T00:38:01Z",
+        "uri": "https://perma.cc/744D-L2E4"
+      },
+      {
+        "datetime": "2023-10-31T00:46:28Z",
+        "uri": "https://perma.cc/D88A-BPJ6"
+      },
+      {
+        "datetime": "2023-10-31T00:54:22Z",
+        "uri": "https://perma.cc/E8WN-HHT8"
+      },
+      {
+        "datetime": "2023-10-31T01:13:55Z",
+        "uri": "https://perma.cc/7RGS-XZQV"
+      },
+      {
+        "datetime": "2023-10-31T02:27:33Z",
+        "uri": "https://perma.cc/2D7T-ZD96"
+      },
+      {
+        "datetime": "2023-10-31T03:30:26Z",
+        "uri": "https://perma.cc/J4CR-R8BF"
+      },
+      {
+        "datetime": "2023-10-31T03:55:02Z",
+        "uri": "https://perma.cc/5KR9-R86M"
+      },
+      {
+        "datetime": "2023-10-31T14:07:18Z",
+        "uri": "https://perma.cc/32T5-PX7N"
+      },
+      {
+        "datetime": "2023-10-31T15:06:41Z",
+        "uri": "https://perma.cc/287Z-2VMN"
+      },
+      {
+        "datetime": "2023-10-31T15:58:29Z",
+        "uri": "https://perma.cc/38HU-3UUQ"
+      },
+      {
+        "datetime": "2023-10-31T16:23:21Z",
+        "uri": "https://perma.cc/WR7H-S2PZ"
+      },
+      {
+        "datetime": "2023-10-31T16:35:05Z",
+        "uri": "https://perma.cc/SS9Z-4ANY"
+      },
+      {
+        "datetime": "2023-10-31T16:40:14Z",
+        "uri": "https://perma.cc/BA3E-93F7"
+      },
+      {
+        "datetime": "2023-11-03T14:22:38Z",
+        "uri": "https://perma.cc/Z87H-8RNQ"
+      },
+      {
+        "datetime": "2023-11-03T14:33:17Z",
+        "uri": "https://perma.cc/63ND-BZ74"
+      },
+      {
+        "datetime": "2023-11-03T14:52:53Z",
+        "uri": "https://perma.cc/RTQ4-KA6E"
+      },
+      {
+        "datetime": "2023-11-03T15:10:18Z",
+        "uri": "https://perma.cc/7NMB-P99C"
+      },
+      {
+        "datetime": "2023-11-03T15:59:39Z",
+        "uri": "https://perma.cc/77T3-7PQ2"
+      },
+      {
+        "datetime": "2023-11-03T16:29:31Z",
+        "uri": "https://perma.cc/BX2G-42TM"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-09T08:23:55Z",
+      "uri": "http://archive.md/20210509082355/https://oduwsdl.github.io/"
+    },
+    "last": {
+      "datetime": "2023-11-03T16:29:31Z",
+      "uri": "https://perma.cc/BX2G-42TM"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://oduwsdl.github.io/",
+    "json_format": "http://localhost:1208/timemap/json/https://oduwsdl.github.io/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://oduwsdl.github.io/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://oduwsdl.github.io/"
+}

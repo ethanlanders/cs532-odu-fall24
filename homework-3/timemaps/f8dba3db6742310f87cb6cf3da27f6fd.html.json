@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/partnerships/community",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:34:17Z",
+        "uri": "https://arquivo.pt/wayback/20210910153417mp_/https://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2021-11-03T11:13:47Z",
+        "uri": "https://arquivo.pt/wayback/20211103111347mp_/https://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2021-11-03T11:13:51Z",
+        "uri": "https://arquivo.pt/wayback/20211103111351mp_/http://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-01-22T10:19:09Z",
+        "uri": "https://arquivo.pt/wayback/20220122101909mp_/https://odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-01-26T05:32:47Z",
+        "uri": "https://arquivo.pt/wayback/20220126053247mp_/http://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-04-17T05:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20220417052449mp_/https://odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-04-22T17:13:46Z",
+        "uri": "https://arquivo.pt/wayback/20220422171346mp_/https://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-04-22T17:13:51Z",
+        "uri": "https://arquivo.pt/wayback/20220422171351mp_/http://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-04-24T18:50:12Z",
+        "uri": "https://arquivo.pt/wayback/20220424185012mp_/http://www.odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2022-07-30T14:35:11Z",
+        "uri": "https://arquivo.pt/wayback/20220730143511mp_/https://odu.edu/partnerships/community"
+      },
+      {
+        "datetime": "2023-01-24T20:34:46Z",
+        "uri": "https://arquivo.pt/wayback/20230124203446mp_/https://www.odu.edu/partnerships/community"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:34:17Z",
+      "uri": "https://arquivo.pt/wayback/20210910153417mp_/https://www.odu.edu/partnerships/community"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:34:46Z",
+      "uri": "https://arquivo.pt/wayback/20230124203446mp_/https://www.odu.edu/partnerships/community"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/partnerships/community",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/partnerships/community"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/partnerships/community"
+}

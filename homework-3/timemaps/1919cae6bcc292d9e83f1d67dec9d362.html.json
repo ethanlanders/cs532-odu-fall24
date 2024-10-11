@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pers?prefix=H",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=H",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:21:59Z",
+        "uri": "https://arquivo.pt/wayback/20191114222159mp_/https://dblp.uni-trier.de/pers?prefix=H"
+      },
+      {
+        "datetime": "2020-02-25T17:24:48Z",
+        "uri": "https://arquivo.pt/wayback/20200225172448mp_/https://dblp.uni-trier.de/pers/?prefix=H"
+      },
+      {
+        "datetime": "2020-03-12T15:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20200312153005mp_/https://dblp.uni-trier.de/pers?prefix=H"
+      },
+      {
+        "datetime": "2021-09-19T17:03:31Z",
+        "uri": "https://arquivo.pt/wayback/20210919170331mp_/https://dblp.uni-trier.de/pers?prefix=H"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:21:59Z",
+      "uri": "https://arquivo.pt/wayback/20191114222159mp_/https://dblp.uni-trier.de/pers?prefix=H"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:03:31Z",
+      "uri": "https://arquivo.pt/wayback/20210919170331mp_/https://dblp.uni-trier.de/pers?prefix=H"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pers?prefix=H",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=H",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pers?prefix=H"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pers?prefix=H"
+}

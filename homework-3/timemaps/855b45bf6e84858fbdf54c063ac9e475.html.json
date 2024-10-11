@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.odu.edu/al/centers/writing-center",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/al/centers/writing-center",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-14T12:31:42Z",
+        "uri": "https://arquivo.pt/wayback/20200214123142mp_/https://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2021-07-31T21:10:23Z",
+        "uri": "http://archive.md/20210731211023/https://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2021-07-31T21:57:10Z",
+        "uri": "http://archive.md/20210731215710/https://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2021-11-03T14:36:26Z",
+        "uri": "https://arquivo.pt/wayback/20211103143626mp_/https://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2021-11-03T14:36:30Z",
+        "uri": "https://arquivo.pt/wayback/20211103143630mp_/http://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-05-07T22:03:33Z",
+        "uri": "https://arquivo.pt/wayback/20220507220333mp_/https://odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-05-16T04:41:02Z",
+        "uri": "https://arquivo.pt/wayback/20220516044102mp_/http://www.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-08-18T07:56:33Z",
+        "uri": "https://arquivo.pt/wayback/20220818075633mp_/https://odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-11-16T04:02:39Z",
+        "uri": "https://arquivo.pt/wayback/20221116040239mp_/https://odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-01-24T19:56:56Z",
+        "uri": "https://arquivo.pt/wayback/20230124195656mp_/https://www.odu.edu/al/centers/writing-center"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-14T12:31:42Z",
+      "uri": "https://arquivo.pt/wayback/20200214123142mp_/https://www.odu.edu/al/centers/writing-center"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:56:56Z",
+      "uri": "https://arquivo.pt/wayback/20230124195656mp_/https://www.odu.edu/al/centers/writing-center"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/al/centers/writing-center",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/al/centers/writing-center",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/al/centers/writing-center"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/al/centers/writing-center"
+}

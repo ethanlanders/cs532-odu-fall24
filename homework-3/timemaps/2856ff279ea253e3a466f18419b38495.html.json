@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/ts/software-services/studentemail",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/ts/software-services/studentemail",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-01-24T20:55:24Z",
+        "uri": "https://arquivo.pt/wayback/20230124205524mp_/https://www.odu.edu/ts/software-services/studentemail"
+      }
+    ],
+    "first": {
+      "datetime": "2023-01-24T20:55:24Z",
+      "uri": "https://arquivo.pt/wayback/20230124205524mp_/https://www.odu.edu/ts/software-services/studentemail"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:55:24Z",
+      "uri": "https://arquivo.pt/wayback/20230124205524mp_/https://www.odu.edu/ts/software-services/studentemail"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/ts/software-services/studentemail",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/ts/software-services/studentemail",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/ts/software-services/studentemail"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/ts/software-services/studentemail"
+}

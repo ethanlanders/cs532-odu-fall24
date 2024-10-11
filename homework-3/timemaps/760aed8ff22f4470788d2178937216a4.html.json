@@ -1,0 +1,4882 @@
+{
+  "original_uri": "https://www.unc.edu",
+  "self": "http://localhost:1208/timemap/json/https://www.unc.edu",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "1997-04-27T05:36:51Z",
+        "uri": "https://web.archive.org.au/awa/19970427053651mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "1997-04-27T05:36:51Z",
+        "uri": "http://archive.md/19970427053651/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2002-04-02T12:43:26Z",
+        "uri": "http://archive.md/20020402124326/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2004-10-22T03:25:35Z",
+        "uri": "https://vefsafn.is/20041022032535mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2005-03-07T21:18:41Z",
+        "uri": "https://vefsafn.is/20050307211841mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2005-06-24T19:48:19Z",
+        "uri": "https://vefsafn.is/20050624194819mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2005-11-10T17:46:27Z",
+        "uri": "https://vefsafn.is/20051110174627mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2006-03-17T04:43:23Z",
+        "uri": "https://vefsafn.is/20060317044323mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2007-09-02T11:03:13Z",
+        "uri": "https://web.archive.org.au/awa/20070902110313mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2009-09-30T08:54:09Z",
+        "uri": "https://web.archive.org.au/awa/20090930085409mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2010-06-03T20:16:00Z",
+        "uri": "https://arquivo.pt/wayback/20100603201600mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2010-08-06T14:08:42Z",
+        "uri": "https://arquivo.pt/wayback/20100806140842mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2011-03-05T00:08:24Z",
+        "uri": "https://web.archive.org.au/awa/20110305000824mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2011-04-08T17:43:05Z",
+        "uri": "https://web.archive.org.au/awa/20110408174305mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2011-04-11T23:40:30Z",
+        "uri": "https://web.archive.org.au/awa/20110411234030mp_/http://www.unc.edu/?CFID=509093&CFTOKEN=40175136"
+      },
+      {
+        "datetime": "2011-04-16T00:55:43Z",
+        "uri": "https://web.archive.org.au/awa/20110416005543mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2012-03-28T07:03:50Z",
+        "uri": "https://vefsafn.is/20120328070350mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2012-04-20T01:32:48Z",
+        "uri": "https://web.archive.org.au/awa/20120420013248mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2012-05-25T06:25:52Z",
+        "uri": "http://archive.md/20120525062552/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2013-04-02T22:48:46Z",
+        "uri": "https://vefsafn.is/20130402224846mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2013-04-02T22:49:33Z",
+        "uri": "https://vefsafn.is/20130402224933mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2013-11-04T06:52:44Z",
+        "uri": "https://vefsafn.is/20131104065244mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2013-11-04T06:52:59Z",
+        "uri": "https://vefsafn.is/20131104065259mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2013-11-07T22:57:54Z",
+        "uri": "https://arquivo.pt/wayback/20131107225754mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2013-11-08T06:41:18Z",
+        "uri": "https://arquivo.pt/wayback/20131108064118mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2014-03-23T01:09:41Z",
+        "uri": "https://vefsafn.is/20140323010941mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2014-03-23T06:05:04Z",
+        "uri": "https://vefsafn.is/20140323060504mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2014-07-13T03:24:20Z",
+        "uri": "https://vefsafn.is/20140713032420mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2014-07-13T12:29:50Z",
+        "uri": "https://vefsafn.is/20140713122950mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2014-09-06T08:29:58Z",
+        "uri": "https://arquivo.pt/wayback/20140906082958mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2014-09-06T22:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20140906223710mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2014-11-08T11:27:31Z",
+        "uri": "https://vefsafn.is/20141108112731mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2014-11-29T08:00:36Z",
+        "uri": "https://arquivo.pt/wayback/20141129080036mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-06-05T09:37:11Z",
+        "uri": "http://archive.md/20150605093711/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-06-05T09:49:24Z",
+        "uri": "http://archive.md/20150605094924/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-06-05T10:00:46Z",
+        "uri": "http://archive.md/20150605100046/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-06-28T09:30:33Z",
+        "uri": "https://vefsafn.is/20150628093033mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-07-06T15:26:18Z",
+        "uri": "https://vefsafn.is/20150706152618mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-08-15T05:24:27Z",
+        "uri": "https://arquivo.pt/wayback/20150815052427mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2015-10-19T08:36:04Z",
+        "uri": "https://vefsafn.is/20151019083604mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2015-10-19T08:36:07Z",
+        "uri": "https://vefsafn.is/20151019083607mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-01-09T00:17:12Z",
+        "uri": "https://arquivo.pt/wayback/20160109001712mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-01-31T19:27:19Z",
+        "uri": "https://vefsafn.is/20160131192719mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-02-09T01:31:46Z",
+        "uri": "https://vefsafn.is/20160209013146mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-03-11T15:55:23Z",
+        "uri": "https://web.archive.org.au/awa/20160311155523mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-05-14T20:32:07Z",
+        "uri": "https://arquivo.pt/wayback/20160514203207mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2016-05-14T20:33:43Z",
+        "uri": "https://arquivo.pt/wayback/20160514203343mp_/http://www.unc.edu//"
+      },
+      {
+        "datetime": "2016-05-16T14:49:48Z",
+        "uri": "https://arquivo.pt/wayback/20160516144948mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2016-07-15T00:43:36Z",
+        "uri": "https://arquivo.pt/wayback/20160715004336mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2016-07-15T00:43:57Z",
+        "uri": "https://arquivo.pt/wayback/20160715004357mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2017-03-21T01:45:07Z",
+        "uri": "https://web.archive.org.au/awa/20170321014507mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2017-06-07T08:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20170607085542mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2017-06-08T19:11:08Z",
+        "uri": "https://arquivo.pt/wayback/20170608191108mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2018-04-06T19:04:18Z",
+        "uri": "https://arquivo.pt/wayback/20180406190418mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-04-17T20:01:46Z",
+        "uri": "http://archive.md/20180417200146/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-04-20T11:09:40Z",
+        "uri": "https://arquivo.pt/wayback/20180420110940mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2018-07-12T19:06:00Z",
+        "uri": "https://arquivo.pt/wayback/20180712190600mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-12T19:06:07Z",
+        "uri": "https://arquivo.pt/wayback/20180712190607mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-19T20:08:58Z",
+        "uri": "https://arquivo.pt/wayback/20180719200858mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-19T20:09:07Z",
+        "uri": "https://arquivo.pt/wayback/20180719200907mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-20T06:04:35Z",
+        "uri": "https://arquivo.pt/wayback/20180720060435mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2018-07-20T06:04:44Z",
+        "uri": "https://arquivo.pt/wayback/20180720060444mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2018-07-20T20:03:13Z",
+        "uri": "https://arquivo.pt/wayback/20180720200313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-21T19:48:16Z",
+        "uri": "https://arquivo.pt/wayback/20180721194816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-22T19:31:28Z",
+        "uri": "https://arquivo.pt/wayback/20180722193128mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-23T19:29:23Z",
+        "uri": "https://arquivo.pt/wayback/20180723192923mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-25T01:01:00Z",
+        "uri": "https://arquivo.pt/wayback/20180725010100mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-26T00:33:40Z",
+        "uri": "https://arquivo.pt/wayback/20180726003340mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-28T08:29:31Z",
+        "uri": "https://arquivo.pt/wayback/20180728082931mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-30T08:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20180730081049mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-07-31T08:15:58Z",
+        "uri": "https://arquivo.pt/wayback/20180731081558mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-01T08:13:00Z",
+        "uri": "https://arquivo.pt/wayback/20180801081300mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-02T08:52:04Z",
+        "uri": "https://arquivo.pt/wayback/20180802085204mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-03T08:24:51Z",
+        "uri": "https://arquivo.pt/wayback/20180803082451mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-04T08:12:38Z",
+        "uri": "https://arquivo.pt/wayback/20180804081238mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-05T07:22:34Z",
+        "uri": "https://arquivo.pt/wayback/20180805072234mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-06T07:53:55Z",
+        "uri": "https://arquivo.pt/wayback/20180806075355mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-07T08:02:31Z",
+        "uri": "https://arquivo.pt/wayback/20180807080231mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-08T08:29:42Z",
+        "uri": "https://arquivo.pt/wayback/20180808082942mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-09T08:08:40Z",
+        "uri": "https://arquivo.pt/wayback/20180809080840mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-10T08:09:35Z",
+        "uri": "https://arquivo.pt/wayback/20180810080935mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-11T07:43:32Z",
+        "uri": "https://arquivo.pt/wayback/20180811074332mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-12T07:31:17Z",
+        "uri": "https://arquivo.pt/wayback/20180812073117mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-13T07:38:47Z",
+        "uri": "https://arquivo.pt/wayback/20180813073847mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-14T07:36:57Z",
+        "uri": "https://arquivo.pt/wayback/20180814073657mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-15T08:04:32Z",
+        "uri": "https://arquivo.pt/wayback/20180815080432mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-16T07:42:52Z",
+        "uri": "https://arquivo.pt/wayback/20180816074252mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-17T07:09:31Z",
+        "uri": "https://arquivo.pt/wayback/20180817070931mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-18T08:41:50Z",
+        "uri": "https://arquivo.pt/wayback/20180818084150mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-19T07:29:09Z",
+        "uri": "https://arquivo.pt/wayback/20180819072909mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-20T07:32:35Z",
+        "uri": "https://arquivo.pt/wayback/20180820073235mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-21T07:58:11Z",
+        "uri": "https://arquivo.pt/wayback/20180821075811mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-22T07:50:05Z",
+        "uri": "https://arquivo.pt/wayback/20180822075005mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-23T07:43:45Z",
+        "uri": "https://arquivo.pt/wayback/20180823074345mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-24T07:48:59Z",
+        "uri": "https://arquivo.pt/wayback/20180824074859mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-25T07:32:27Z",
+        "uri": "https://arquivo.pt/wayback/20180825073227mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-26T08:00:44Z",
+        "uri": "https://arquivo.pt/wayback/20180826080044mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-27T07:46:02Z",
+        "uri": "https://arquivo.pt/wayback/20180827074602mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-28T07:48:54Z",
+        "uri": "https://arquivo.pt/wayback/20180828074854mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-29T08:25:40Z",
+        "uri": "https://arquivo.pt/wayback/20180829082540mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-30T08:00:28Z",
+        "uri": "https://arquivo.pt/wayback/20180830080028mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-08-31T08:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20180831080346mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-01T07:30:47Z",
+        "uri": "https://arquivo.pt/wayback/20180901073047mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-01T22:13:51Z",
+        "uri": "https://arquivo.pt/wayback/20180901221351mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-02T10:13:00Z",
+        "uri": "https://arquivo.pt/wayback/20180902101300mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2018-09-02T10:13:09Z",
+        "uri": "https://arquivo.pt/wayback/20180902101309mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2018-09-02T22:23:10Z",
+        "uri": "https://arquivo.pt/wayback/20180902222310mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-04T07:50:51Z",
+        "uri": "https://arquivo.pt/wayback/20180904075051mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-05T07:54:12Z",
+        "uri": "https://arquivo.pt/wayback/20180905075412mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-06T08:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20180906082523mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-07T07:39:05Z",
+        "uri": "https://arquivo.pt/wayback/20180907073905mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-08T07:38:31Z",
+        "uri": "https://arquivo.pt/wayback/20180908073831mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-09T07:08:13Z",
+        "uri": "https://arquivo.pt/wayback/20180909070813mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-10T07:11:01Z",
+        "uri": "https://arquivo.pt/wayback/20180910071101mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-12T07:20:13Z",
+        "uri": "https://arquivo.pt/wayback/20180912072013mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-13T07:11:10Z",
+        "uri": "https://arquivo.pt/wayback/20180913071110mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-15T07:24:02Z",
+        "uri": "https://arquivo.pt/wayback/20180915072402mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-16T07:49:20Z",
+        "uri": "https://arquivo.pt/wayback/20180916074920mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-17T07:38:48Z",
+        "uri": "https://arquivo.pt/wayback/20180917073848mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-18T07:20:57Z",
+        "uri": "https://arquivo.pt/wayback/20180918072057mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-19T06:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20180919065142mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-20T07:32:14Z",
+        "uri": "https://arquivo.pt/wayback/20180920073214mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-21T05:36:46Z",
+        "uri": "https://arquivo.pt/wayback/20180921053646mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-22T07:23:44Z",
+        "uri": "https://arquivo.pt/wayback/20180922072344mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-23T07:25:24Z",
+        "uri": "https://arquivo.pt/wayback/20180923072524mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-24T07:21:48Z",
+        "uri": "https://arquivo.pt/wayback/20180924072148mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-25T07:47:06Z",
+        "uri": "https://arquivo.pt/wayback/20180925074706mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-26T07:49:11Z",
+        "uri": "https://arquivo.pt/wayback/20180926074911mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-27T07:47:26Z",
+        "uri": "https://arquivo.pt/wayback/20180927074726mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-28T09:26:52Z",
+        "uri": "https://arquivo.pt/wayback/20180928092652mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-09-29T09:01:12Z",
+        "uri": "https://arquivo.pt/wayback/20180929090112mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-01T08:23:15Z",
+        "uri": "https://arquivo.pt/wayback/20181001082315mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-02T08:52:24Z",
+        "uri": "https://arquivo.pt/wayback/20181002085224mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-03T09:42:46Z",
+        "uri": "https://arquivo.pt/wayback/20181003094246mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-04T08:56:23Z",
+        "uri": "https://arquivo.pt/wayback/20181004085623mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-05T13:36:07Z",
+        "uri": "https://arquivo.pt/wayback/20181005133607mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-06T12:16:03Z",
+        "uri": "https://arquivo.pt/wayback/20181006121603mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-07T13:25:43Z",
+        "uri": "https://arquivo.pt/wayback/20181007132543mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-08T13:42:03Z",
+        "uri": "https://arquivo.pt/wayback/20181008134203mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-09T08:54:59Z",
+        "uri": "https://arquivo.pt/wayback/20181009085459mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-11T12:58:12Z",
+        "uri": "https://arquivo.pt/wayback/20181011125812mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-12T11:04:18Z",
+        "uri": "https://arquivo.pt/wayback/20181012110418mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-13T13:03:55Z",
+        "uri": "https://arquivo.pt/wayback/20181013130355mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-14T12:38:19Z",
+        "uri": "https://arquivo.pt/wayback/20181014123819mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-15T12:38:28Z",
+        "uri": "https://arquivo.pt/wayback/20181015123828mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-16T12:32:59Z",
+        "uri": "https://arquivo.pt/wayback/20181016123259mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-17T11:36:19Z",
+        "uri": "https://arquivo.pt/wayback/20181017113619mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-18T12:31:07Z",
+        "uri": "https://arquivo.pt/wayback/20181018123107mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-19T05:41:50Z",
+        "uri": "https://arquivo.pt/wayback/20181019054150mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-20T12:46:20Z",
+        "uri": "https://arquivo.pt/wayback/20181020124620mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-21T12:59:09Z",
+        "uri": "https://arquivo.pt/wayback/20181021125909mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-22T12:29:00Z",
+        "uri": "https://arquivo.pt/wayback/20181022122900mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-24T12:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20181024121239mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-25T11:40:17Z",
+        "uri": "https://arquivo.pt/wayback/20181025114017mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-26T07:23:58Z",
+        "uri": "https://arquivo.pt/wayback/20181026072358mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-27T12:57:01Z",
+        "uri": "https://arquivo.pt/wayback/20181027125701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-28T12:23:30Z",
+        "uri": "https://arquivo.pt/wayback/20181028122330mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-29T14:50:34Z",
+        "uri": "https://arquivo.pt/wayback/20181029145034mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-30T14:10:51Z",
+        "uri": "https://arquivo.pt/wayback/20181030141051mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-10-31T13:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20181031134327mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-01T14:52:01Z",
+        "uri": "https://arquivo.pt/wayback/20181101145201mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-02T14:39:04Z",
+        "uri": "https://arquivo.pt/wayback/20181102143904mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-03T15:39:21Z",
+        "uri": "https://arquivo.pt/wayback/20181103153921mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-04T15:09:11Z",
+        "uri": "https://arquivo.pt/wayback/20181104150911mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-07T14:51:43Z",
+        "uri": "https://arquivo.pt/wayback/20181107145143mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-08T13:11:04Z",
+        "uri": "https://arquivo.pt/wayback/20181108131104mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-09T06:17:02Z",
+        "uri": "https://arquivo.pt/wayback/20181109061702mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-10T13:07:04Z",
+        "uri": "https://arquivo.pt/wayback/20181110130704mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-11T13:13:26Z",
+        "uri": "https://arquivo.pt/wayback/20181111131326mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-12T13:39:07Z",
+        "uri": "https://arquivo.pt/wayback/20181112133907mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-13T13:49:36Z",
+        "uri": "https://arquivo.pt/wayback/20181113134936mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-14T14:47:30Z",
+        "uri": "https://arquivo.pt/wayback/20181114144730mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-15T14:53:59Z",
+        "uri": "https://arquivo.pt/wayback/20181115145359mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-16T06:45:16Z",
+        "uri": "https://arquivo.pt/wayback/20181116064516mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-17T14:38:11Z",
+        "uri": "https://arquivo.pt/wayback/20181117143811mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-18T14:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20181118143104mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-20T15:06:28Z",
+        "uri": "https://arquivo.pt/wayback/20181120150628mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-21T15:23:13Z",
+        "uri": "https://arquivo.pt/wayback/20181121152313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-22T15:20:08Z",
+        "uri": "https://arquivo.pt/wayback/20181122152008mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-23T14:53:24Z",
+        "uri": "https://arquivo.pt/wayback/20181123145324mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-24T15:44:21Z",
+        "uri": "https://arquivo.pt/wayback/20181124154421mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-26T14:12:47Z",
+        "uri": "https://arquivo.pt/wayback/20181126141247mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-28T15:04:50Z",
+        "uri": "https://arquivo.pt/wayback/20181128150450mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-29T15:31:51Z",
+        "uri": "https://arquivo.pt/wayback/20181129153151mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-11-30T06:47:52Z",
+        "uri": "https://arquivo.pt/wayback/20181130064752mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-01T15:02:09Z",
+        "uri": "https://arquivo.pt/wayback/20181201150209mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-02T15:06:53Z",
+        "uri": "https://arquivo.pt/wayback/20181202150653mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-03T15:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20181203152646mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-04T13:32:10Z",
+        "uri": "https://arquivo.pt/wayback/20181204133210mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-05T12:27:28Z",
+        "uri": "https://arquivo.pt/wayback/20181205122728mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-06T02:16:45Z",
+        "uri": "https://arquivo.pt/wayback/20181206021645mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-07T07:20:18Z",
+        "uri": "https://arquivo.pt/wayback/20181207072018mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-08T12:57:53Z",
+        "uri": "https://arquivo.pt/wayback/20181208125753mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-09T13:26:03Z",
+        "uri": "https://arquivo.pt/wayback/20181209132603mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-10T13:23:34Z",
+        "uri": "https://arquivo.pt/wayback/20181210132334mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-11T13:49:27Z",
+        "uri": "https://arquivo.pt/wayback/20181211134927mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-14T07:38:28Z",
+        "uri": "https://arquivo.pt/wayback/20181214073828mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-15T15:23:37Z",
+        "uri": "https://arquivo.pt/wayback/20181215152337mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-16T14:32:59Z",
+        "uri": "https://arquivo.pt/wayback/20181216143259mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-17T12:05:36Z",
+        "uri": "https://arquivo.pt/wayback/20181217120536mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-19T15:15:04Z",
+        "uri": "https://arquivo.pt/wayback/20181219151504mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-20T15:09:32Z",
+        "uri": "https://arquivo.pt/wayback/20181220150932mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2018-12-20T15:09:41Z",
+        "uri": "https://arquivo.pt/wayback/20181220150941mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2018-12-20T15:54:07Z",
+        "uri": "https://arquivo.pt/wayback/20181220155407mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-21T07:24:11Z",
+        "uri": "https://arquivo.pt/wayback/20181221072411mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-22T07:48:15Z",
+        "uri": "https://arquivo.pt/wayback/20181222074815mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-23T15:12:55Z",
+        "uri": "https://arquivo.pt/wayback/20181223151255mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-24T14:51:09Z",
+        "uri": "https://arquivo.pt/wayback/20181224145109mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-25T15:11:06Z",
+        "uri": "https://arquivo.pt/wayback/20181225151106mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2018-12-26T15:43:29Z",
+        "uri": "https://arquivo.pt/wayback/20181226154329mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-05T11:16:02Z",
+        "uri": "https://arquivo.pt/wayback/20190105111602mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-11T07:58:28Z",
+        "uri": "https://arquivo.pt/wayback/20190111075828mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-18T08:05:05Z",
+        "uri": "https://arquivo.pt/wayback/20190118080505mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-22T13:01:13Z",
+        "uri": "https://arquivo.pt/wayback/20190122130113mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-24T07:33:12Z",
+        "uri": "https://arquivo.pt/wayback/20190124073312mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-30T13:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20190130134945mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-01-31T09:52:22Z",
+        "uri": "https://arquivo.pt/wayback/20190131095222mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-07T06:42:54Z",
+        "uri": "https://arquivo.pt/wayback/20190207064254mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-14T07:46:34Z",
+        "uri": "https://arquivo.pt/wayback/20190214074634mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-17T13:33:20Z",
+        "uri": "https://arquivo.pt/wayback/20190217133320mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-20T11:41:20Z",
+        "uri": "https://arquivo.pt/wayback/20190220114120mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-23T15:57:01Z",
+        "uri": "https://arquivo.pt/wayback/20190223155701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-24T16:04:38Z",
+        "uri": "https://arquivo.pt/wayback/20190224160438mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-24T21:45:34Z",
+        "uri": "http://archive.md/20190224214534/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-02-28T07:07:16Z",
+        "uri": "https://arquivo.pt/wayback/20190228070716mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-07T08:09:01Z",
+        "uri": "https://arquivo.pt/wayback/20190307080901mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-08T15:03:33Z",
+        "uri": "https://arquivo.pt/wayback/20190308150333mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-08T15:04:14Z",
+        "uri": "https://arquivo.pt/wayback/20190308150414mp_/http://mailto:cpatixquestions@unc.edu/"
+      },
+      {
+        "datetime": "2019-03-14T07:42:00Z",
+        "uri": "https://arquivo.pt/wayback/20190314074200mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-20T13:24:09Z",
+        "uri": "https://arquivo.pt/wayback/20190320132409mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-20T13:24:13Z",
+        "uri": "https://arquivo.pt/wayback/20190320132413mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-21T08:10:26Z",
+        "uri": "https://arquivo.pt/wayback/20190321081026mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-22T08:33:04Z",
+        "uri": "https://arquivo.pt/wayback/20190322083304mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-27T02:34:55Z",
+        "uri": "https://arquivo.pt/wayback/20190327023455mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-27T02:34:59Z",
+        "uri": "https://arquivo.pt/wayback/20190327023459mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-28T14:03:34Z",
+        "uri": "https://arquivo.pt/wayback/20190328140334mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-29T15:24:56Z",
+        "uri": "https://arquivo.pt/wayback/20190329152456mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-29T23:31:02Z",
+        "uri": "https://arquivo.pt/wayback/20190329233102mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2019-03-29T23:31:15Z",
+        "uri": "https://arquivo.pt/wayback/20190329233115mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2019-03-30T14:56:03Z",
+        "uri": "https://arquivo.pt/wayback/20190330145603mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-03-31T15:38:40Z",
+        "uri": "https://arquivo.pt/wayback/20190331153840mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-01T14:28:23Z",
+        "uri": "https://arquivo.pt/wayback/20190401142823mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-02T14:36:53Z",
+        "uri": "https://arquivo.pt/wayback/20190402143653mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-03T13:44:30Z",
+        "uri": "https://arquivo.pt/wayback/20190403134430mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-04T13:22:14Z",
+        "uri": "https://arquivo.pt/wayback/20190404132214mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-05T12:57:50Z",
+        "uri": "https://arquivo.pt/wayback/20190405125750mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-06T13:50:58Z",
+        "uri": "https://arquivo.pt/wayback/20190406135058mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-07T14:18:31Z",
+        "uri": "https://arquivo.pt/wayback/20190407141831mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-08T14:48:29Z",
+        "uri": "https://arquivo.pt/wayback/20190408144829mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-09T13:52:30Z",
+        "uri": "https://arquivo.pt/wayback/20190409135230mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-11T14:07:44Z",
+        "uri": "https://arquivo.pt/wayback/20190411140744mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-12T14:33:14Z",
+        "uri": "https://arquivo.pt/wayback/20190412143314mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-13T13:37:53Z",
+        "uri": "https://arquivo.pt/wayback/20190413133753mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-14T13:45:30Z",
+        "uri": "https://arquivo.pt/wayback/20190414134530mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-15T13:37:01Z",
+        "uri": "https://arquivo.pt/wayback/20190415133701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-16T14:25:21Z",
+        "uri": "https://arquivo.pt/wayback/20190416142521mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-17T11:09:15Z",
+        "uri": "https://arquivo.pt/wayback/20190417110915mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2019-04-17T11:09:23Z",
+        "uri": "https://arquivo.pt/wayback/20190417110923mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2019-04-18T13:19:16Z",
+        "uri": "https://arquivo.pt/wayback/20190418131916mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-19T14:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20190419143103mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-20T14:43:43Z",
+        "uri": "https://arquivo.pt/wayback/20190420144343mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-21T13:47:16Z",
+        "uri": "https://arquivo.pt/wayback/20190421134716mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-22T13:34:26Z",
+        "uri": "https://arquivo.pt/wayback/20190422133426mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-23T15:03:31Z",
+        "uri": "https://arquivo.pt/wayback/20190423150331mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-24T13:49:17Z",
+        "uri": "https://arquivo.pt/wayback/20190424134917mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-25T13:13:30Z",
+        "uri": "https://arquivo.pt/wayback/20190425131330mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-26T14:10:59Z",
+        "uri": "https://arquivo.pt/wayback/20190426141059mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-27T14:18:28Z",
+        "uri": "https://arquivo.pt/wayback/20190427141828mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-28T14:31:34Z",
+        "uri": "https://arquivo.pt/wayback/20190428143134mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-29T13:46:07Z",
+        "uri": "https://arquivo.pt/wayback/20190429134607mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-04-30T13:53:10Z",
+        "uri": "https://arquivo.pt/wayback/20190430135310mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-01T12:16:00Z",
+        "uri": "https://arquivo.pt/wayback/20190501121600mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-02T13:38:46Z",
+        "uri": "https://arquivo.pt/wayback/20190502133846mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-03T13:01:38Z",
+        "uri": "https://arquivo.pt/wayback/20190503130138mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-04T14:02:47Z",
+        "uri": "https://arquivo.pt/wayback/20190504140247mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-05T13:52:26Z",
+        "uri": "https://arquivo.pt/wayback/20190505135226mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-06T14:50:24Z",
+        "uri": "https://arquivo.pt/wayback/20190506145024mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-16T14:15:18Z",
+        "uri": "https://arquivo.pt/wayback/20190516141518mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-18T14:33:27Z",
+        "uri": "https://arquivo.pt/wayback/20190518143327mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-19T03:09:49Z",
+        "uri": "https://arquivo.pt/wayback/20190519030949mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-20T13:36:33Z",
+        "uri": "https://arquivo.pt/wayback/20190520133633mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-21T14:51:35Z",
+        "uri": "https://arquivo.pt/wayback/20190521145135mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-23T13:08:59Z",
+        "uri": "https://arquivo.pt/wayback/20190523130859mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-24T07:29:15Z",
+        "uri": "https://arquivo.pt/wayback/20190524072915mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-25T13:36:21Z",
+        "uri": "https://arquivo.pt/wayback/20190525133621mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-26T12:36:43Z",
+        "uri": "https://arquivo.pt/wayback/20190526123643mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-27T12:49:15Z",
+        "uri": "https://arquivo.pt/wayback/20190527124915mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-28T12:35:17Z",
+        "uri": "https://arquivo.pt/wayback/20190528123517mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-29T13:04:39Z",
+        "uri": "https://arquivo.pt/wayback/20190529130439mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-30T13:10:21Z",
+        "uri": "https://arquivo.pt/wayback/20190530131021mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-05-31T13:01:50Z",
+        "uri": "https://arquivo.pt/wayback/20190531130150mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-01T13:47:26Z",
+        "uri": "https://arquivo.pt/wayback/20190601134726mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-02T13:14:36Z",
+        "uri": "https://arquivo.pt/wayback/20190602131436mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-03T13:59:51Z",
+        "uri": "https://arquivo.pt/wayback/20190603135951mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-04T13:16:28Z",
+        "uri": "https://arquivo.pt/wayback/20190604131628mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-05T13:26:42Z",
+        "uri": "https://arquivo.pt/wayback/20190605132642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-06T13:15:49Z",
+        "uri": "https://arquivo.pt/wayback/20190606131549mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-07T09:38:38Z",
+        "uri": "https://arquivo.pt/wayback/20190607093838mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2019-06-07T09:38:47Z",
+        "uri": "https://arquivo.pt/wayback/20190607093847mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2019-06-07T12:52:56Z",
+        "uri": "https://arquivo.pt/wayback/20190607125256mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-07T22:05:15Z",
+        "uri": "https://arquivo.pt/wayback/20190607220515mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-08T13:15:30Z",
+        "uri": "https://arquivo.pt/wayback/20190608131530mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-09T13:21:54Z",
+        "uri": "https://arquivo.pt/wayback/20190609132154mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-10T13:06:14Z",
+        "uri": "https://arquivo.pt/wayback/20190610130614mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-11T13:36:38Z",
+        "uri": "https://arquivo.pt/wayback/20190611133638mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-12T13:11:17Z",
+        "uri": "https://arquivo.pt/wayback/20190612131117mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-13T12:35:36Z",
+        "uri": "https://arquivo.pt/wayback/20190613123536mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-14T14:12:37Z",
+        "uri": "https://arquivo.pt/wayback/20190614141237mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-15T13:10:21Z",
+        "uri": "https://arquivo.pt/wayback/20190615131021mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-16T14:21:49Z",
+        "uri": "https://arquivo.pt/wayback/20190616142149mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-17T13:04:44Z",
+        "uri": "https://arquivo.pt/wayback/20190617130444mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-18T13:30:20Z",
+        "uri": "https://arquivo.pt/wayback/20190618133020mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-19T01:09:49Z",
+        "uri": "https://arquivo.pt/wayback/20190619010949mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2019-06-19T01:09:57Z",
+        "uri": "https://arquivo.pt/wayback/20190619010957mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2019-06-19T13:51:22Z",
+        "uri": "https://arquivo.pt/wayback/20190619135122mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-20T13:11:26Z",
+        "uri": "https://arquivo.pt/wayback/20190620131126mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-20T21:15:36Z",
+        "uri": "https://arquivo.pt/wayback/20190620211536mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-21T13:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20190621135745mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-22T14:41:00Z",
+        "uri": "https://arquivo.pt/wayback/20190622144100mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-23T13:40:38Z",
+        "uri": "https://arquivo.pt/wayback/20190623134038mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-24T14:00:37Z",
+        "uri": "https://arquivo.pt/wayback/20190624140037mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-25T14:43:22Z",
+        "uri": "https://arquivo.pt/wayback/20190625144322mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-26T13:23:15Z",
+        "uri": "https://arquivo.pt/wayback/20190626132315mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-28T01:56:37Z",
+        "uri": "https://arquivo.pt/wayback/20190628015637mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-29T12:39:01Z",
+        "uri": "https://arquivo.pt/wayback/20190629123901mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-06-30T13:02:38Z",
+        "uri": "https://arquivo.pt/wayback/20190630130238mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-01T13:53:53Z",
+        "uri": "https://arquivo.pt/wayback/20190701135353mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-02T13:10:55Z",
+        "uri": "https://arquivo.pt/wayback/20190702131055mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-03T12:09:48Z",
+        "uri": "https://arquivo.pt/wayback/20190703120948mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-05T12:27:57Z",
+        "uri": "https://arquivo.pt/wayback/20190705122757mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-06T12:32:32Z",
+        "uri": "https://arquivo.pt/wayback/20190706123232mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-07T11:55:30Z",
+        "uri": "https://arquivo.pt/wayback/20190707115530mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-08T12:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20190708121807mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-10T13:12:25Z",
+        "uri": "https://arquivo.pt/wayback/20190710131225mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-11T11:57:25Z",
+        "uri": "https://arquivo.pt/wayback/20190711115725mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-13T11:26:10Z",
+        "uri": "https://arquivo.pt/wayback/20190713112610mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-14T11:55:37Z",
+        "uri": "https://arquivo.pt/wayback/20190714115537mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-15T12:00:52Z",
+        "uri": "https://arquivo.pt/wayback/20190715120052mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-16T13:04:14Z",
+        "uri": "https://arquivo.pt/wayback/20190716130414mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-17T12:16:45Z",
+        "uri": "https://arquivo.pt/wayback/20190717121645mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-18T11:55:48Z",
+        "uri": "https://arquivo.pt/wayback/20190718115548mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-19T12:09:53Z",
+        "uri": "https://arquivo.pt/wayback/20190719120953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-19T23:51:48Z",
+        "uri": "https://arquivo.pt/wayback/20190719235148mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-20T23:43:06Z",
+        "uri": "https://arquivo.pt/wayback/20190720234306mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-21T23:58:59Z",
+        "uri": "https://arquivo.pt/wayback/20190721235859mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-23T11:07:22Z",
+        "uri": "https://arquivo.pt/wayback/20190723110722mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-25T12:14:51Z",
+        "uri": "https://arquivo.pt/wayback/20190725121451mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-26T12:31:16Z",
+        "uri": "https://arquivo.pt/wayback/20190726123116mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-27T13:05:34Z",
+        "uri": "https://arquivo.pt/wayback/20190727130534mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-07-29T12:23:05Z",
+        "uri": "https://arquivo.pt/wayback/20190729122305mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-02T12:32:22Z",
+        "uri": "https://arquivo.pt/wayback/20190802123222mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-03T12:29:00Z",
+        "uri": "https://arquivo.pt/wayback/20190803122900mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-04T12:41:09Z",
+        "uri": "https://arquivo.pt/wayback/20190804124109mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-05T12:50:22Z",
+        "uri": "https://arquivo.pt/wayback/20190805125022mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-06T12:01:44Z",
+        "uri": "https://arquivo.pt/wayback/20190806120144mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-08T12:42:35Z",
+        "uri": "https://arquivo.pt/wayback/20190808124235mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-10T13:13:20Z",
+        "uri": "https://arquivo.pt/wayback/20190810131320mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-11T07:54:00Z",
+        "uri": "https://arquivo.pt/wayback/20190811075400mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-13T12:51:46Z",
+        "uri": "https://arquivo.pt/wayback/20190813125146mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-15T12:52:31Z",
+        "uri": "https://arquivo.pt/wayback/20190815125231mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-16T13:03:53Z",
+        "uri": "https://arquivo.pt/wayback/20190816130353mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-17T13:24:16Z",
+        "uri": "https://arquivo.pt/wayback/20190817132416mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-20T13:22:26Z",
+        "uri": "https://arquivo.pt/wayback/20190820132226mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-21T12:33:15Z",
+        "uri": "https://arquivo.pt/wayback/20190821123315mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-23T13:00:15Z",
+        "uri": "https://arquivo.pt/wayback/20190823130015mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-24T12:01:27Z",
+        "uri": "https://arquivo.pt/wayback/20190824120127mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-25T11:57:38Z",
+        "uri": "https://arquivo.pt/wayback/20190825115738mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-26T12:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20190826122646mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-27T12:29:53Z",
+        "uri": "https://arquivo.pt/wayback/20190827122953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-29T13:06:20Z",
+        "uri": "https://arquivo.pt/wayback/20190829130620mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-30T12:32:39Z",
+        "uri": "https://arquivo.pt/wayback/20190830123239mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-08-31T12:49:13Z",
+        "uri": "https://arquivo.pt/wayback/20190831124913mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-01T00:39:48Z",
+        "uri": "https://arquivo.pt/wayback/20190901003948mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-02T00:42:41Z",
+        "uri": "https://arquivo.pt/wayback/20190902004241mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-02T21:55:54Z",
+        "uri": "https://arquivo.pt/wayback/20190902215554mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-03T00:59:46Z",
+        "uri": "https://arquivo.pt/wayback/20190903005946mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-07T05:33:48Z",
+        "uri": "https://arquivo.pt/wayback/20190907053348mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-07T08:15:38Z",
+        "uri": "https://arquivo.pt/wayback/20190907081538mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-08T05:19:38Z",
+        "uri": "https://arquivo.pt/wayback/20190908051938mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-12T02:11:59Z",
+        "uri": "https://arquivo.pt/wayback/20190912021159mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-13T01:36:42Z",
+        "uri": "https://arquivo.pt/wayback/20190913013642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-14T01:39:26Z",
+        "uri": "https://arquivo.pt/wayback/20190914013926mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-16T01:26:56Z",
+        "uri": "https://arquivo.pt/wayback/20190916012656mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-17T02:34:26Z",
+        "uri": "https://arquivo.pt/wayback/20190917023426mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-19T02:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20190919021045mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-20T00:51:48Z",
+        "uri": "https://arquivo.pt/wayback/20190920005148mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-21T04:58:38Z",
+        "uri": "https://arquivo.pt/wayback/20190921045838mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-22T02:12:45Z",
+        "uri": "https://arquivo.pt/wayback/20190922021245mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-23T05:02:38Z",
+        "uri": "https://arquivo.pt/wayback/20190923050238mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2019-09-23T05:02:47Z",
+        "uri": "https://arquivo.pt/wayback/20190923050247mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2019-09-25T02:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20190925020535mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-09-26T02:27:24Z",
+        "uri": "https://arquivo.pt/wayback/20190926022724mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-01T03:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20191001030656mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-02T03:01:38Z",
+        "uri": "https://arquivo.pt/wayback/20191002030138mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-08T02:55:35Z",
+        "uri": "https://arquivo.pt/wayback/20191008025535mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-08T02:55:38Z",
+        "uri": "https://arquivo.pt/wayback/20191008025538mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-11T02:36:24Z",
+        "uri": "https://arquivo.pt/wayback/20191011023624mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-13T02:23:38Z",
+        "uri": "https://arquivo.pt/wayback/20191013022338mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-15T03:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20191015030527mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-17T02:00:05Z",
+        "uri": "https://arquivo.pt/wayback/20191017020005mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-18T01:39:53Z",
+        "uri": "https://arquivo.pt/wayback/20191018013953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-19T02:39:59Z",
+        "uri": "https://arquivo.pt/wayback/20191019023959mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-20T02:35:25Z",
+        "uri": "https://arquivo.pt/wayback/20191020023525mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-21T05:09:12Z",
+        "uri": "https://arquivo.pt/wayback/20191021050912mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-10-22T04:59:28Z",
+        "uri": "https://arquivo.pt/wayback/20191022045928mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-11-21T02:03:17Z",
+        "uri": "https://arquivo.pt/wayback/20191121020317mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-11-21T02:13:53Z",
+        "uri": "https://arquivo.pt/wayback/20191121021353mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-11-26T02:04:54Z",
+        "uri": "https://arquivo.pt/wayback/20191126020454mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-11-26T23:49:56Z",
+        "uri": "https://arquivo.pt/wayback/20191126234956mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-10T08:22:18Z",
+        "uri": "https://arquivo.pt/wayback/20191210082218mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-14T04:19:12Z",
+        "uri": "https://arquivo.pt/wayback/20191214041912mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-15T03:09:35Z",
+        "uri": "https://arquivo.pt/wayback/20191215030935mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-16T03:26:10Z",
+        "uri": "https://arquivo.pt/wayback/20191216032610mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-19T02:07:08Z",
+        "uri": "https://arquivo.pt/wayback/20191219020708mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-21T08:36:52Z",
+        "uri": "https://arquivo.pt/wayback/20191221083652mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-22T01:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20191222012251mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-23T05:29:06Z",
+        "uri": "https://arquivo.pt/wayback/20191223052906mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-25T01:55:08Z",
+        "uri": "https://arquivo.pt/wayback/20191225015508mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-26T03:37:51Z",
+        "uri": "https://arquivo.pt/wayback/20191226033751mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-27T03:50:41Z",
+        "uri": "https://arquivo.pt/wayback/20191227035041mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-30T07:49:57Z",
+        "uri": "https://arquivo.pt/wayback/20191230074957mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2019-12-31T05:47:08Z",
+        "uri": "https://arquivo.pt/wayback/20191231054708mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-01T08:47:52Z",
+        "uri": "https://arquivo.pt/wayback/20200101084752mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-02T05:08:38Z",
+        "uri": "https://arquivo.pt/wayback/20200102050838mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-03T23:57:25Z",
+        "uri": "https://arquivo.pt/wayback/20200103235725mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-05T00:34:15Z",
+        "uri": "https://arquivo.pt/wayback/20200105003415mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-06T00:56:10Z",
+        "uri": "https://arquivo.pt/wayback/20200106005610mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-07T01:15:55Z",
+        "uri": "https://arquivo.pt/wayback/20200107011555mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-08T00:57:28Z",
+        "uri": "https://arquivo.pt/wayback/20200108005728mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-09T01:10:58Z",
+        "uri": "https://arquivo.pt/wayback/20200109011058mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-10T01:30:02Z",
+        "uri": "https://arquivo.pt/wayback/20200110013002mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-11T06:04:49Z",
+        "uri": "https://arquivo.pt/wayback/20200111060449mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-01-11T06:04:57Z",
+        "uri": "https://arquivo.pt/wayback/20200111060457mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-11T06:04:57Z",
+        "uri": "https://arquivo.pt/wayback/20200111060457mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-01-11T23:23:49Z",
+        "uri": "https://arquivo.pt/wayback/20200111232349mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-11T23:24:01Z",
+        "uri": "https://arquivo.pt/wayback/20200111232401mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-13T05:42:34Z",
+        "uri": "https://arquivo.pt/wayback/20200113054234mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-14T06:28:50Z",
+        "uri": "https://arquivo.pt/wayback/20200114062850mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-16T06:48:47Z",
+        "uri": "https://arquivo.pt/wayback/20200116064847mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-17T05:41:57Z",
+        "uri": "https://arquivo.pt/wayback/20200117054157mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-18T05:30:44Z",
+        "uri": "https://arquivo.pt/wayback/20200118053044mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-19T06:19:36Z",
+        "uri": "https://arquivo.pt/wayback/20200119061936mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-20T06:40:13Z",
+        "uri": "https://arquivo.pt/wayback/20200120064013mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-21T07:51:41Z",
+        "uri": "https://arquivo.pt/wayback/20200121075141mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-22T05:16:00Z",
+        "uri": "https://arquivo.pt/wayback/20200122051600mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-23T15:25:59Z",
+        "uri": "https://arquivo.pt/wayback/20200123152559mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-23T15:26:06Z",
+        "uri": "https://arquivo.pt/wayback/20200123152606mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-24T00:09:26Z",
+        "uri": "https://arquivo.pt/wayback/20200124000926mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-25T05:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20200125052251mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-26T04:50:38Z",
+        "uri": "https://arquivo.pt/wayback/20200126045038mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-27T05:26:15Z",
+        "uri": "https://arquivo.pt/wayback/20200127052615mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-28T05:42:13Z",
+        "uri": "https://arquivo.pt/wayback/20200128054213mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-29T05:20:17Z",
+        "uri": "https://arquivo.pt/wayback/20200129052017mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-30T03:04:10Z",
+        "uri": "https://arquivo.pt/wayback/20200130030410mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-01-31T05:58:16Z",
+        "uri": "https://arquivo.pt/wayback/20200131055816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-01T05:46:18Z",
+        "uri": "https://arquivo.pt/wayback/20200201054618mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-02T05:27:40Z",
+        "uri": "https://arquivo.pt/wayback/20200202052740mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-03T05:43:07Z",
+        "uri": "https://arquivo.pt/wayback/20200203054307mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-04T05:54:22Z",
+        "uri": "https://arquivo.pt/wayback/20200204055422mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-06T03:26:41Z",
+        "uri": "https://arquivo.pt/wayback/20200206032641mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-06T03:27:38Z",
+        "uri": "https://arquivo.pt/wayback/20200206032738mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-07T05:35:54Z",
+        "uri": "https://arquivo.pt/wayback/20200207053554mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-08T05:27:01Z",
+        "uri": "https://arquivo.pt/wayback/20200208052701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-09T05:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20200209053005mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-09T17:15:40Z",
+        "uri": "https://arquivo.pt/wayback/20200209171540mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-02-09T17:15:50Z",
+        "uri": "https://arquivo.pt/wayback/20200209171550mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-02-10T05:43:56Z",
+        "uri": "https://arquivo.pt/wayback/20200210054356mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-11T05:49:04Z",
+        "uri": "https://arquivo.pt/wayback/20200211054904mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-02-12T06:03:20Z",
+        "uri": "https://arquivo.pt/wayback/20200212060320mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-03-07T19:45:40Z",
+        "uri": "https://arquivo.pt/wayback/20200307194540mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-03-07T19:46:32Z",
+        "uri": "https://arquivo.pt/wayback/20200307194632mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-03-26T17:11:24Z",
+        "uri": "https://arquivo.pt/wayback/20200326171124mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-03-26T17:11:32Z",
+        "uri": "https://arquivo.pt/wayback/20200326171132mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-12T23:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20200512230801mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-12T23:08:16Z",
+        "uri": "https://arquivo.pt/wayback/20200512230816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-13T03:26:31Z",
+        "uri": "https://arquivo.pt/wayback/20200513032631mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-05-13T23:07:14Z",
+        "uri": "https://arquivo.pt/wayback/20200513230714mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-14T23:28:48Z",
+        "uri": "https://arquivo.pt/wayback/20200514232848mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-15T23:20:15Z",
+        "uri": "https://arquivo.pt/wayback/20200515232015mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-16T23:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20200516230345mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-17T21:41:21Z",
+        "uri": "https://arquivo.pt/wayback/20200517214121mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-18T23:24:44Z",
+        "uri": "https://arquivo.pt/wayback/20200518232444mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-19T22:33:47Z",
+        "uri": "https://arquivo.pt/wayback/20200519223347mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-20T20:29:24Z",
+        "uri": "https://arquivo.pt/wayback/20200520202924mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-20T20:29:27Z",
+        "uri": "https://arquivo.pt/wayback/20200520202927mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-21T23:26:27Z",
+        "uri": "https://arquivo.pt/wayback/20200521232627mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-22T00:02:04Z",
+        "uri": "https://arquivo.pt/wayback/20200522000204mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-05-22T00:02:11Z",
+        "uri": "https://arquivo.pt/wayback/20200522000211mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-05-22T23:15:20Z",
+        "uri": "https://arquivo.pt/wayback/20200522231520mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-23T21:42:01Z",
+        "uri": "https://arquivo.pt/wayback/20200523214201mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-24T23:09:49Z",
+        "uri": "https://arquivo.pt/wayback/20200524230949mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-25T23:17:39Z",
+        "uri": "https://arquivo.pt/wayback/20200525231739mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-26T23:06:57Z",
+        "uri": "https://arquivo.pt/wayback/20200526230657mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-29T00:11:17Z",
+        "uri": "https://arquivo.pt/wayback/20200529001117mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-29T23:33:28Z",
+        "uri": "https://arquivo.pt/wayback/20200529233328mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-30T23:30:00Z",
+        "uri": "https://arquivo.pt/wayback/20200530233000mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-05-31T23:40:18Z",
+        "uri": "https://arquivo.pt/wayback/20200531234018mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-01T23:55:37Z",
+        "uri": "https://arquivo.pt/wayback/20200601235537mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-02T23:41:44Z",
+        "uri": "https://arquivo.pt/wayback/20200602234144mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-04T23:11:24Z",
+        "uri": "https://arquivo.pt/wayback/20200604231124mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-06-04T23:11:33Z",
+        "uri": "https://arquivo.pt/wayback/20200604231133mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-06-04T23:50:39Z",
+        "uri": "https://arquivo.pt/wayback/20200604235039mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-04T23:50:47Z",
+        "uri": "https://arquivo.pt/wayback/20200604235047mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-05T01:29:08Z",
+        "uri": "https://arquivo.pt/wayback/20200605012908mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-05T01:29:18Z",
+        "uri": "https://arquivo.pt/wayback/20200605012918mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-05T19:03:13Z",
+        "uri": "https://arquivo.pt/wayback/20200605190313mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-05T19:03:16Z",
+        "uri": "https://arquivo.pt/wayback/20200605190316mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-05T23:28:16Z",
+        "uri": "https://arquivo.pt/wayback/20200605232816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-06T23:22:46Z",
+        "uri": "https://arquivo.pt/wayback/20200606232246mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-07T23:20:46Z",
+        "uri": "https://arquivo.pt/wayback/20200607232046mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-08T23:44:13Z",
+        "uri": "https://arquivo.pt/wayback/20200608234413mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-10T00:02:24Z",
+        "uri": "https://arquivo.pt/wayback/20200610000224mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-10T22:13:35Z",
+        "uri": "https://arquivo.pt/wayback/20200610221335mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-11T23:34:57Z",
+        "uri": "https://arquivo.pt/wayback/20200611233457mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-12T23:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20200612234116mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-13T23:23:13Z",
+        "uri": "https://arquivo.pt/wayback/20200613232313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-14T23:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20200614232635mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-15T23:17:40Z",
+        "uri": "https://arquivo.pt/wayback/20200615231740mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-16T23:42:10Z",
+        "uri": "https://arquivo.pt/wayback/20200616234210mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-17T23:45:39Z",
+        "uri": "https://arquivo.pt/wayback/20200617234539mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-18T23:37:22Z",
+        "uri": "https://arquivo.pt/wayback/20200618233722mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-19T19:19:20Z",
+        "uri": "https://arquivo.pt/wayback/20200619191920mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-06-19T19:19:35Z",
+        "uri": "https://arquivo.pt/wayback/20200619191935mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-06-19T23:02:46Z",
+        "uri": "https://arquivo.pt/wayback/20200619230246mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-20T23:19:41Z",
+        "uri": "https://arquivo.pt/wayback/20200620231941mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-21T23:10:22Z",
+        "uri": "https://arquivo.pt/wayback/20200621231022mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-22T23:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20200622230527mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-23T23:27:01Z",
+        "uri": "https://arquivo.pt/wayback/20200623232701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-24T22:59:49Z",
+        "uri": "https://arquivo.pt/wayback/20200624225949mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-25T22:52:30Z",
+        "uri": "https://arquivo.pt/wayback/20200625225230mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-26T23:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20200626231454mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-27T23:06:03Z",
+        "uri": "https://arquivo.pt/wayback/20200627230603mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-28T22:37:13Z",
+        "uri": "https://arquivo.pt/wayback/20200628223713mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-29T23:06:02Z",
+        "uri": "https://arquivo.pt/wayback/20200629230602mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-06-30T23:35:44Z",
+        "uri": "https://arquivo.pt/wayback/20200630233544mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-01T22:49:33Z",
+        "uri": "https://arquivo.pt/wayback/20200701224933mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-02T22:41:42Z",
+        "uri": "https://arquivo.pt/wayback/20200702224142mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-03T23:15:49Z",
+        "uri": "https://arquivo.pt/wayback/20200703231549mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-04T23:10:14Z",
+        "uri": "https://arquivo.pt/wayback/20200704231014mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-05T22:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20200705225343mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-06T23:07:41Z",
+        "uri": "https://arquivo.pt/wayback/20200706230741mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-07T23:41:29Z",
+        "uri": "https://arquivo.pt/wayback/20200707234129mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-08T23:37:23Z",
+        "uri": "https://arquivo.pt/wayback/20200708233723mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-09T23:24:56Z",
+        "uri": "https://arquivo.pt/wayback/20200709232456mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-10T23:10:28Z",
+        "uri": "https://arquivo.pt/wayback/20200710231028mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-11T23:09:05Z",
+        "uri": "https://arquivo.pt/wayback/20200711230905mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-12T23:13:13Z",
+        "uri": "https://arquivo.pt/wayback/20200712231313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-13T23:09:47Z",
+        "uri": "https://arquivo.pt/wayback/20200713230947mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-14T23:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20200714233927mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-15T21:43:19Z",
+        "uri": "https://arquivo.pt/wayback/20200715214319mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-16T23:32:45Z",
+        "uri": "https://arquivo.pt/wayback/20200716233245mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-17T23:17:35Z",
+        "uri": "https://arquivo.pt/wayback/20200717231735mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-18T22:59:28Z",
+        "uri": "https://arquivo.pt/wayback/20200718225928mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-19T22:09:56Z",
+        "uri": "https://arquivo.pt/wayback/20200719220956mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-07-19T23:02:15Z",
+        "uri": "https://arquivo.pt/wayback/20200719230215mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-19T23:02:23Z",
+        "uri": "https://arquivo.pt/wayback/20200719230223mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-20T21:39:03Z",
+        "uri": "https://arquivo.pt/wayback/20200720213903mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-21T23:28:02Z",
+        "uri": "https://arquivo.pt/wayback/20200721232802mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-22T23:34:28Z",
+        "uri": "https://arquivo.pt/wayback/20200722233428mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-23T21:54:38Z",
+        "uri": "https://arquivo.pt/wayback/20200723215438mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-24T23:06:05Z",
+        "uri": "https://arquivo.pt/wayback/20200724230605mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-25T22:43:32Z",
+        "uri": "https://arquivo.pt/wayback/20200725224332mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-26T21:39:41Z",
+        "uri": "https://arquivo.pt/wayback/20200726213941mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-27T23:16:07Z",
+        "uri": "https://arquivo.pt/wayback/20200727231607mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-28T22:50:38Z",
+        "uri": "https://arquivo.pt/wayback/20200728225038mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-29T22:27:45Z",
+        "uri": "https://arquivo.pt/wayback/20200729222745mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-30T22:47:59Z",
+        "uri": "https://arquivo.pt/wayback/20200730224759mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-07-31T22:09:28Z",
+        "uri": "https://arquivo.pt/wayback/20200731220928mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-01T22:55:38Z",
+        "uri": "https://arquivo.pt/wayback/20200801225538mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-02T23:04:41Z",
+        "uri": "https://arquivo.pt/wayback/20200802230441mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-03T23:03:51Z",
+        "uri": "https://arquivo.pt/wayback/20200803230351mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-04T22:51:52Z",
+        "uri": "https://arquivo.pt/wayback/20200804225152mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-05T22:48:07Z",
+        "uri": "https://arquivo.pt/wayback/20200805224807mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-05T22:48:16Z",
+        "uri": "https://arquivo.pt/wayback/20200805224816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-06T01:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20200806011511mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-08-06T01:15:23Z",
+        "uri": "https://arquivo.pt/wayback/20200806011523mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-08-07T14:49:03Z",
+        "uri": "https://arquivo.pt/wayback/20200807144903mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-08-07T14:49:16Z",
+        "uri": "https://arquivo.pt/wayback/20200807144916mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-08-07T15:08:44Z",
+        "uri": "https://arquivo.pt/wayback/20200807150844mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-07T15:08:50Z",
+        "uri": "https://arquivo.pt/wayback/20200807150850mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-07T22:34:38Z",
+        "uri": "https://arquivo.pt/wayback/20200807223438mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-08T22:27:52Z",
+        "uri": "https://arquivo.pt/wayback/20200808222752mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-09T22:55:21Z",
+        "uri": "https://arquivo.pt/wayback/20200809225521mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-10T22:27:08Z",
+        "uri": "https://arquivo.pt/wayback/20200810222708mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-11T22:40:56Z",
+        "uri": "https://arquivo.pt/wayback/20200811224056mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-12T23:24:06Z",
+        "uri": "https://arquivo.pt/wayback/20200812232406mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-13T23:33:48Z",
+        "uri": "https://arquivo.pt/wayback/20200813233348mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-14T23:03:23Z",
+        "uri": "https://arquivo.pt/wayback/20200814230323mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-15T22:53:11Z",
+        "uri": "https://arquivo.pt/wayback/20200815225311mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-16T23:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20200816231511mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-17T22:55:30Z",
+        "uri": "https://arquivo.pt/wayback/20200817225530mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-18T22:40:31Z",
+        "uri": "https://arquivo.pt/wayback/20200818224031mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-19T22:53:35Z",
+        "uri": "https://arquivo.pt/wayback/20200819225335mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-20T21:54:35Z",
+        "uri": "https://arquivo.pt/wayback/20200820215435mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-21T23:01:47Z",
+        "uri": "https://arquivo.pt/wayback/20200821230147mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-22T22:38:25Z",
+        "uri": "https://arquivo.pt/wayback/20200822223825mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-23T23:04:45Z",
+        "uri": "https://arquivo.pt/wayback/20200823230445mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-24T21:11:10Z",
+        "uri": "https://arquivo.pt/wayback/20200824211110mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-25T21:24:30Z",
+        "uri": "https://arquivo.pt/wayback/20200825212430mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-26T23:24:22Z",
+        "uri": "https://arquivo.pt/wayback/20200826232422mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-27T21:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20200827213045mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-28T22:55:26Z",
+        "uri": "https://arquivo.pt/wayback/20200828225526mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-29T23:04:42Z",
+        "uri": "https://arquivo.pt/wayback/20200829230442mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-30T23:06:09Z",
+        "uri": "https://arquivo.pt/wayback/20200830230609mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-08-31T22:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20200831225904mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-01T23:08:50Z",
+        "uri": "https://arquivo.pt/wayback/20200901230850mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-02T20:36:05Z",
+        "uri": "https://arquivo.pt/wayback/20200902203605mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-03T20:24:41Z",
+        "uri": "https://arquivo.pt/wayback/20200903202441mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-04T20:47:04Z",
+        "uri": "https://arquivo.pt/wayback/20200904204704mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-05T01:35:12Z",
+        "uri": "https://arquivo.pt/wayback/20200905013512mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-05T01:35:16Z",
+        "uri": "https://arquivo.pt/wayback/20200905013516mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-05T20:49:03Z",
+        "uri": "https://arquivo.pt/wayback/20200905204903mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-06T20:55:44Z",
+        "uri": "https://arquivo.pt/wayback/20200906205544mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-07T20:53:08Z",
+        "uri": "https://arquivo.pt/wayback/20200907205308mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-08T20:52:43Z",
+        "uri": "https://arquivo.pt/wayback/20200908205243mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-09T21:01:04Z",
+        "uri": "https://arquivo.pt/wayback/20200909210104mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-10T21:09:40Z",
+        "uri": "https://arquivo.pt/wayback/20200910210940mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-11T20:47:51Z",
+        "uri": "https://arquivo.pt/wayback/20200911204751mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-12T20:50:58Z",
+        "uri": "https://arquivo.pt/wayback/20200912205058mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-13T20:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20200913205007mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-13T23:46:32Z",
+        "uri": "https://arquivo.pt/wayback/20200913234632mp_/http://nsurgen5f@unc.edu/"
+      },
+      {
+        "datetime": "2020-09-14T21:01:33Z",
+        "uri": "https://arquivo.pt/wayback/20200914210133mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-15T20:32:03Z",
+        "uri": "https://arquivo.pt/wayback/20200915203203mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-16T21:12:51Z",
+        "uri": "https://arquivo.pt/wayback/20200916211251mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-17T21:10:15Z",
+        "uri": "https://arquivo.pt/wayback/20200917211015mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-18T21:02:59Z",
+        "uri": "https://arquivo.pt/wayback/20200918210259mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-19T20:54:35Z",
+        "uri": "https://arquivo.pt/wayback/20200919205435mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-20T21:03:33Z",
+        "uri": "https://arquivo.pt/wayback/20200920210333mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-21T21:07:28Z",
+        "uri": "https://arquivo.pt/wayback/20200921210728mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-22T20:54:11Z",
+        "uri": "https://arquivo.pt/wayback/20200922205411mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-23T20:08:43Z",
+        "uri": "https://arquivo.pt/wayback/20200923200843mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-24T21:01:33Z",
+        "uri": "https://arquivo.pt/wayback/20200924210133mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-25T21:01:55Z",
+        "uri": "https://arquivo.pt/wayback/20200925210155mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-26T20:49:53Z",
+        "uri": "https://arquivo.pt/wayback/20200926204953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-27T20:55:12Z",
+        "uri": "https://arquivo.pt/wayback/20200927205512mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-28T21:02:31Z",
+        "uri": "https://arquivo.pt/wayback/20200928210231mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-29T21:03:04Z",
+        "uri": "https://arquivo.pt/wayback/20200929210304mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-09-30T21:01:06Z",
+        "uri": "https://arquivo.pt/wayback/20200930210106mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-01T21:12:57Z",
+        "uri": "https://arquivo.pt/wayback/20201001211257mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-01T21:13:05Z",
+        "uri": "https://arquivo.pt/wayback/20201001211305mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-19T07:35:19Z",
+        "uri": "https://vefsafn.is/20201019073519mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2020-10-19T07:35:33Z",
+        "uri": "https://vefsafn.is/20201019073533mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2020-10-19T15:37:26Z",
+        "uri": "https://vefsafn.is/20201019153726mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-23T21:30:58Z",
+        "uri": "https://arquivo.pt/wayback/20201023213058mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-24T21:19:11Z",
+        "uri": "https://arquivo.pt/wayback/20201024211911mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-10-26T00:22:29Z",
+        "uri": "https://arquivo.pt/wayback/20201026002229mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-11-24T22:33:14Z",
+        "uri": "https://arquivo.pt/wayback/20201124223314mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2020-12-06T02:46:43Z",
+        "uri": "https://arquivo.pt/wayback/20201206024643mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-01-12T02:55:12Z",
+        "uri": "https://arquivo.pt/wayback/20210112025512mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-01-14T20:34:41Z",
+        "uri": "https://arquivo.pt/wayback/20210114203441mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-02-14T02:40:46Z",
+        "uri": "https://vefsafn.is/20210214024046mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-02-14T02:41:00Z",
+        "uri": "https://vefsafn.is/20210214024100mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-02-14T09:32:45Z",
+        "uri": "https://vefsafn.is/20210214093245mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-02-24T08:44:54Z",
+        "uri": "https://arquivo.pt/wayback/20210224084454mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-02-24T08:45:01Z",
+        "uri": "https://arquivo.pt/wayback/20210224084501mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-02-24T08:45:05Z",
+        "uri": "https://arquivo.pt/wayback/20210224084505mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-03-04T17:28:05Z",
+        "uri": "https://arquivo.pt/wayback/20210304172805mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-03-04T17:28:09Z",
+        "uri": "https://arquivo.pt/wayback/20210304172809mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-03-19T14:27:21Z",
+        "uri": "https://arquivo.pt/wayback/20210319142721mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-03-19T14:27:28Z",
+        "uri": "https://arquivo.pt/wayback/20210319142728mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-04-01T18:49:16Z",
+        "uri": "https://arquivo.pt/wayback/20210401184916mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-04-01T18:49:25Z",
+        "uri": "https://arquivo.pt/wayback/20210401184925mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-04-01T19:32:05Z",
+        "uri": "https://arquivo.pt/wayback/20210401193205mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-04-02T19:11:10Z",
+        "uri": "https://arquivo.pt/wayback/20210402191110mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-04-03T19:07:24Z",
+        "uri": "https://arquivo.pt/wayback/20210403190724mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-04-15T21:25:28Z",
+        "uri": "https://arquivo.pt/wayback/20210415212528mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-05-02T22:42:43Z",
+        "uri": "https://arquivo.pt/wayback/20210502224243mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-06T07:06:04Z",
+        "uri": "https://arquivo.pt/wayback/20210606070604mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-09T06:49:00Z",
+        "uri": "https://arquivo.pt/wayback/20210609064900mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-10T04:39:09Z",
+        "uri": "https://arquivo.pt/wayback/20210610043909mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-11T05:42:49Z",
+        "uri": "https://arquivo.pt/wayback/20210611054249mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-14T18:56:41Z",
+        "uri": "https://arquivo.pt/wayback/20210614185641mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-14T18:56:42Z",
+        "uri": "https://arquivo.pt/wayback/20210614185642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-17T08:47:53Z",
+        "uri": "https://arquivo.pt/wayback/20210617084753mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-06-18T09:32:05Z",
+        "uri": "https://arquivo.pt/wayback/20210618093205mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-08-05T13:01:22Z",
+        "uri": "https://arquivo.pt/wayback/20210805130122mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-08-14T06:25:46Z",
+        "uri": "http://archive.md/20210814062546/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-08-21T10:22:18Z",
+        "uri": "https://arquivo.pt/wayback/20210821102218mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-08-22T05:19:07Z",
+        "uri": "https://arquivo.pt/wayback/20210822051907mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-09-10T03:48:09Z",
+        "uri": "https://web.archive.org.au/awa/20210910034809mp_/http://pandora.nla.gov.au/pan/52190/20210910-0851/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2021-09-11T15:54:51Z",
+        "uri": "https://arquivo.pt/wayback/20210911155451mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-11T15:57:01Z",
+        "uri": "https://arquivo.pt/wayback/20210911155701mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-11T16:01:30Z",
+        "uri": "https://arquivo.pt/wayback/20210911160130mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-12T00:11:23Z",
+        "uri": "https://arquivo.pt/wayback/20210912001123mp_/http://mailto:wshoward@unc.edu/"
+      },
+      {
+        "datetime": "2021-09-14T22:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20210914223927mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-09-14T22:39:35Z",
+        "uri": "https://arquivo.pt/wayback/20210914223935mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-09-14T23:05:48Z",
+        "uri": "https://arquivo.pt/wayback/20210914230548mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-15T23:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20210915231202mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-17T21:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20210917213858mp_/http://payne@unc.edu/"
+      },
+      {
+        "datetime": "2021-09-17T22:53:24Z",
+        "uri": "https://arquivo.pt/wayback/20210917225324mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-09-26T08:08:29Z",
+        "uri": "https://arquivo.pt/wayback/20210926080829mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-09-28T23:13:15Z",
+        "uri": "https://arquivo.pt/wayback/20210928231315mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-10-09T04:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20211009040656mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-09T04:07:03Z",
+        "uri": "https://arquivo.pt/wayback/20211009040703mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-09T08:12:35Z",
+        "uri": "https://vefsafn.is/20211009081235mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-09T08:13:04Z",
+        "uri": "https://vefsafn.is/20211009081304mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-09T13:09:07Z",
+        "uri": "https://vefsafn.is/20211009130907mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-10-11T07:46:30Z",
+        "uri": "https://arquivo.pt/wayback/20211011074630mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2021-10-20T23:54:26Z",
+        "uri": "https://arquivo.pt/wayback/20211020235426mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-20T23:54:32Z",
+        "uri": "https://arquivo.pt/wayback/20211020235432mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2021-10-21T08:40:30Z",
+        "uri": "https://arquivo.pt/wayback/20211021084030mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-14T01:31:14Z",
+        "uri": "https://arquivo.pt/wayback/20220114013114mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-14T23:31:16Z",
+        "uri": "https://arquivo.pt/wayback/20220114233116mp_/http://mailto:ehtelzer@unc.edu/"
+      },
+      {
+        "datetime": "2022-01-15T00:40:43Z",
+        "uri": "https://arquivo.pt/wayback/20220115004043mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-16T00:10:33Z",
+        "uri": "https://arquivo.pt/wayback/20220116001033mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-17T00:34:34Z",
+        "uri": "https://arquivo.pt/wayback/20220117003434mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-17T00:52:28Z",
+        "uri": "https://arquivo.pt/wayback/20220117005228mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-17T23:50:51Z",
+        "uri": "https://arquivo.pt/wayback/20220117235051mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-19T00:14:43Z",
+        "uri": "https://arquivo.pt/wayback/20220119001443mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-20T00:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20220120003341mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-21T00:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20220121004939mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-22T00:21:32Z",
+        "uri": "https://arquivo.pt/wayback/20220122002132mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T00:22:35Z",
+        "uri": "https://arquivo.pt/wayback/20220123002235mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T08:30:17Z",
+        "uri": "https://vefsafn.is/20220123083017mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T08:30:32Z",
+        "uri": "https://vefsafn.is/20220123083032mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T17:12:51Z",
+        "uri": "https://vefsafn.is/20220123171251mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T18:50:06Z",
+        "uri": "https://arquivo.pt/wayback/20220123185006mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-01-23T18:50:14Z",
+        "uri": "https://arquivo.pt/wayback/20220123185014mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-01-24T00:26:21Z",
+        "uri": "https://arquivo.pt/wayback/20220124002621mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-24T13:55:17Z",
+        "uri": "https://arquivo.pt/wayback/20220124135517mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-24T13:56:59Z",
+        "uri": "https://arquivo.pt/wayback/20220124135659mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-24T13:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20220124135745mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-25T00:26:08Z",
+        "uri": "https://arquivo.pt/wayback/20220125002608mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-25T15:18:50Z",
+        "uri": "https://arquivo.pt/wayback/20220125151850mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-25T15:18:53Z",
+        "uri": "https://arquivo.pt/wayback/20220125151853mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-26T00:31:09Z",
+        "uri": "https://arquivo.pt/wayback/20220126003109mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-27T00:38:48Z",
+        "uri": "https://arquivo.pt/wayback/20220127003848mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-28T00:19:37Z",
+        "uri": "https://arquivo.pt/wayback/20220128001937mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-29T00:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20220129004945mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-30T00:33:44Z",
+        "uri": "https://arquivo.pt/wayback/20220130003344mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-01-31T00:19:25Z",
+        "uri": "https://arquivo.pt/wayback/20220131001925mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-01T00:36:53Z",
+        "uri": "https://arquivo.pt/wayback/20220201003653mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-02T00:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20220202000502mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-03T00:30:49Z",
+        "uri": "https://arquivo.pt/wayback/20220203003049mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-04T00:34:00Z",
+        "uri": "https://arquivo.pt/wayback/20220204003400mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-05T00:06:19Z",
+        "uri": "https://arquivo.pt/wayback/20220205000619mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-06T00:14:41Z",
+        "uri": "https://arquivo.pt/wayback/20220206001441mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-06T23:58:48Z",
+        "uri": "https://arquivo.pt/wayback/20220206235848mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-07T23:55:17Z",
+        "uri": "https://arquivo.pt/wayback/20220207235517mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-09T00:09:38Z",
+        "uri": "https://arquivo.pt/wayback/20220209000938mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-10T00:34:24Z",
+        "uri": "https://arquivo.pt/wayback/20220210003424mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-11T00:27:14Z",
+        "uri": "https://arquivo.pt/wayback/20220211002714mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-12T00:28:26Z",
+        "uri": "https://arquivo.pt/wayback/20220212002826mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-12T23:57:57Z",
+        "uri": "https://arquivo.pt/wayback/20220212235757mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-13T09:38:08Z",
+        "uri": "https://arquivo.pt/wayback/20220213093808mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-02-13T09:38:16Z",
+        "uri": "https://arquivo.pt/wayback/20220213093816mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-02-14T00:13:33Z",
+        "uri": "https://arquivo.pt/wayback/20220214001333mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-15T00:02:15Z",
+        "uri": "https://arquivo.pt/wayback/20220215000215mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-16T00:32:56Z",
+        "uri": "https://arquivo.pt/wayback/20220216003256mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-17T00:15:45Z",
+        "uri": "https://arquivo.pt/wayback/20220217001545mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-17T23:37:48Z",
+        "uri": "https://arquivo.pt/wayback/20220217233748mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-18T23:42:58Z",
+        "uri": "https://arquivo.pt/wayback/20220218234258mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-19T23:25:31Z",
+        "uri": "https://arquivo.pt/wayback/20220219232531mp_/http://erik.willis@unc.edu/"
+      },
+      {
+        "datetime": "2022-02-19T23:59:45Z",
+        "uri": "https://arquivo.pt/wayback/20220219235945mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-20T23:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20220220233045mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-21T23:38:18Z",
+        "uri": "https://arquivo.pt/wayback/20220221233818mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-23T00:55:01Z",
+        "uri": "https://arquivo.pt/wayback/20220223005501mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-24T00:02:36Z",
+        "uri": "https://arquivo.pt/wayback/20220224000236mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-25T00:10:48Z",
+        "uri": "https://arquivo.pt/wayback/20220225001048mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-25T23:50:55Z",
+        "uri": "https://arquivo.pt/wayback/20220225235055mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-02-26T23:36:20Z",
+        "uri": "https://arquivo.pt/wayback/20220226233620mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-04T02:04:30Z",
+        "uri": "https://arquivo.pt/wayback/20220304020430mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-05T01:23:49Z",
+        "uri": "https://arquivo.pt/wayback/20220305012349mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-05T23:51:01Z",
+        "uri": "https://arquivo.pt/wayback/20220305235101mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-06T23:46:57Z",
+        "uri": "https://arquivo.pt/wayback/20220306234657mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-08T01:39:04Z",
+        "uri": "https://arquivo.pt/wayback/20220308013904mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-09T13:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20220309130000mp_/http://pandora.nla.gov.au/pan/52190/20220310-0000/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2022-03-10T00:23:37Z",
+        "uri": "https://arquivo.pt/wayback/20220310002337mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-11T00:29:56Z",
+        "uri": "https://arquivo.pt/wayback/20220311002956mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-12T00:44:41Z",
+        "uri": "https://arquivo.pt/wayback/20220312004441mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-13T00:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20220313003341mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-14T00:38:01Z",
+        "uri": "https://arquivo.pt/wayback/20220314003801mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-15T00:56:01Z",
+        "uri": "https://arquivo.pt/wayback/20220315005601mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-16T01:02:16Z",
+        "uri": "https://arquivo.pt/wayback/20220316010216mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-17T01:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20220317011202mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-18T01:11:13Z",
+        "uri": "https://arquivo.pt/wayback/20220318011113mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-19T00:50:20Z",
+        "uri": "https://arquivo.pt/wayback/20220319005020mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-20T00:43:54Z",
+        "uri": "https://arquivo.pt/wayback/20220320004354mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-21T00:49:07Z",
+        "uri": "https://arquivo.pt/wayback/20220321004907mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-22T01:27:55Z",
+        "uri": "https://arquivo.pt/wayback/20220322012755mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-23T01:43:13Z",
+        "uri": "https://arquivo.pt/wayback/20220323014313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-24T01:13:29Z",
+        "uri": "https://arquivo.pt/wayback/20220324011329mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-25T01:02:07Z",
+        "uri": "https://arquivo.pt/wayback/20220325010207mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-25T23:25:06Z",
+        "uri": "https://arquivo.pt/wayback/20220325232506mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-26T23:52:11Z",
+        "uri": "https://arquivo.pt/wayback/20220326235211mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-27T23:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20220327230502mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-29T00:02:55Z",
+        "uri": "https://arquivo.pt/wayback/20220329000255mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-30T00:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20220330001721mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-03-31T00:37:14Z",
+        "uri": "https://arquivo.pt/wayback/20220331003714mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-01T00:06:33Z",
+        "uri": "https://arquivo.pt/wayback/20220401000633mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20220401230800mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:08:10Z",
+        "uri": "https://arquivo.pt/wayback/20220401230810mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:49:29Z",
+        "uri": "https://arquivo.pt/wayback/20220401234929mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-05T01:38:21Z",
+        "uri": "https://arquivo.pt/wayback/20220405013821mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-06T01:22:28Z",
+        "uri": "https://arquivo.pt/wayback/20220406012228mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-07T01:28:04Z",
+        "uri": "https://arquivo.pt/wayback/20220407012804mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-08T00:48:12Z",
+        "uri": "https://arquivo.pt/wayback/20220408004812mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-09T00:51:32Z",
+        "uri": "https://arquivo.pt/wayback/20220409005132mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-10T01:01:07Z",
+        "uri": "https://arquivo.pt/wayback/20220410010107mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-11T00:53:22Z",
+        "uri": "https://arquivo.pt/wayback/20220411005322mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-12T01:04:30Z",
+        "uri": "https://arquivo.pt/wayback/20220412010430mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-13T01:37:49Z",
+        "uri": "https://arquivo.pt/wayback/20220413013749mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-14T00:56:00Z",
+        "uri": "https://arquivo.pt/wayback/20220414005600mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-15T01:14:09Z",
+        "uri": "https://arquivo.pt/wayback/20220415011409mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-15T18:03:56Z",
+        "uri": "https://arquivo.pt/wayback/20220415180356mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-04-15T18:04:08Z",
+        "uri": "https://arquivo.pt/wayback/20220415180408mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-04-15T18:04:12Z",
+        "uri": "https://arquivo.pt/wayback/20220415180412mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-04-16T00:39:29Z",
+        "uri": "https://arquivo.pt/wayback/20220416003929mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-17T00:36:42Z",
+        "uri": "https://arquivo.pt/wayback/20220417003642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-18T00:32:32Z",
+        "uri": "https://arquivo.pt/wayback/20220418003232mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-19T01:06:53Z",
+        "uri": "https://arquivo.pt/wayback/20220419010653mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-19T09:07:18Z",
+        "uri": "https://arquivo.pt/wayback/20220419090718mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-19T09:07:52Z",
+        "uri": "https://arquivo.pt/wayback/20220419090752mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-19T09:07:56Z",
+        "uri": "https://arquivo.pt/wayback/20220419090756mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-19T09:26:59Z",
+        "uri": "https://arquivo.pt/wayback/20220419092659mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-20T00:50:36Z",
+        "uri": "https://arquivo.pt/wayback/20220420005036mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-21T01:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20220421011803mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-22T01:05:15Z",
+        "uri": "https://arquivo.pt/wayback/20220422010515mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-23T01:16:38Z",
+        "uri": "https://arquivo.pt/wayback/20220423011638mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-24T01:02:32Z",
+        "uri": "https://arquivo.pt/wayback/20220424010232mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-24T11:36:32Z",
+        "uri": "https://arquivo.pt/wayback/20220424113632mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-24T11:38:04Z",
+        "uri": "https://arquivo.pt/wayback/20220424113804mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-25T01:23:24Z",
+        "uri": "https://arquivo.pt/wayback/20220425012324mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-26T01:40:00Z",
+        "uri": "https://arquivo.pt/wayback/20220426014000mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-26T01:40:00Z",
+        "uri": "https://arquivo.pt/wayback/20220426014000mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-27T01:42:41Z",
+        "uri": "https://arquivo.pt/wayback/20220427014241mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-27T01:42:41Z",
+        "uri": "https://arquivo.pt/wayback/20220427014241mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:59:20Z",
+        "uri": "https://arquivo.pt/wayback/20220428015920mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:59:20Z",
+        "uri": "https://arquivo.pt/wayback/20220428015920mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-29T01:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20220429011721mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-29T01:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20220429011721mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-04-30T01:27:27Z",
+        "uri": "https://arquivo.pt/wayback/20220430012727mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-01T01:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20220501013710mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-02T01:50:34Z",
+        "uri": "https://arquivo.pt/wayback/20220502015034mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-03T01:15:59Z",
+        "uri": "https://arquivo.pt/wayback/20220503011559mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-04T01:10:26Z",
+        "uri": "https://arquivo.pt/wayback/20220504011026mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-05T01:15:48Z",
+        "uri": "https://arquivo.pt/wayback/20220505011548mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-06T01:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20220506010253mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-07T01:16:57Z",
+        "uri": "https://arquivo.pt/wayback/20220507011657mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-08T01:20:59Z",
+        "uri": "https://arquivo.pt/wayback/20220508012059mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-09T01:26:48Z",
+        "uri": "https://arquivo.pt/wayback/20220509012648mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-09T23:57:37Z",
+        "uri": "https://arquivo.pt/wayback/20220509235737mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-10T01:12:35Z",
+        "uri": "https://arquivo.pt/wayback/20220510011235mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-11T00:49:21Z",
+        "uri": "https://arquivo.pt/wayback/20220511004921mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-12T01:28:16Z",
+        "uri": "https://arquivo.pt/wayback/20220512012816mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-13T01:38:01Z",
+        "uri": "https://arquivo.pt/wayback/20220513013801mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-14T01:28:40Z",
+        "uri": "https://arquivo.pt/wayback/20220514012840mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-15T01:19:27Z",
+        "uri": "https://arquivo.pt/wayback/20220515011927mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-16T01:44:42Z",
+        "uri": "https://arquivo.pt/wayback/20220516014442mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-17T01:52:29Z",
+        "uri": "https://arquivo.pt/wayback/20220517015229mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-18T01:25:16Z",
+        "uri": "https://arquivo.pt/wayback/20220518012516mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-18T06:40:41Z",
+        "uri": "https://arquivo.pt/wayback/20220518064041mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-05-18T06:40:51Z",
+        "uri": "https://arquivo.pt/wayback/20220518064051mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-05-19T01:21:12Z",
+        "uri": "https://arquivo.pt/wayback/20220519012112mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-20T01:39:34Z",
+        "uri": "https://arquivo.pt/wayback/20220520013934mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-21T02:08:07Z",
+        "uri": "https://arquivo.pt/wayback/20220521020807mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-22T01:48:45Z",
+        "uri": "https://arquivo.pt/wayback/20220522014845mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-23T01:54:48Z",
+        "uri": "https://arquivo.pt/wayback/20220523015448mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-24T01:47:17Z",
+        "uri": "https://arquivo.pt/wayback/20220524014717mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-25T02:04:15Z",
+        "uri": "https://arquivo.pt/wayback/20220525020415mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-26T01:53:45Z",
+        "uri": "https://arquivo.pt/wayback/20220526015345mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-27T01:31:14Z",
+        "uri": "https://arquivo.pt/wayback/20220527013114mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-28T01:20:00Z",
+        "uri": "https://arquivo.pt/wayback/20220528012000mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-29T01:17:20Z",
+        "uri": "https://arquivo.pt/wayback/20220529011720mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-30T01:13:10Z",
+        "uri": "https://arquivo.pt/wayback/20220530011310mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-30T14:33:19Z",
+        "uri": "https://vefsafn.is/20220530143319mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-05-30T14:33:37Z",
+        "uri": "https://vefsafn.is/20220530143337mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-05-31T01:28:18Z",
+        "uri": "https://arquivo.pt/wayback/20220531012818mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-05-31T11:00:05Z",
+        "uri": "https://vefsafn.is/20220531110005mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-01T01:37:43Z",
+        "uri": "https://arquivo.pt/wayback/20220601013743mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-02T01:33:45Z",
+        "uri": "https://arquivo.pt/wayback/20220602013345mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-03T01:23:44Z",
+        "uri": "https://arquivo.pt/wayback/20220603012344mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-04T01:22:34Z",
+        "uri": "https://arquivo.pt/wayback/20220604012234mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-05T01:14:48Z",
+        "uri": "https://arquivo.pt/wayback/20220605011448mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-06T01:58:57Z",
+        "uri": "https://arquivo.pt/wayback/20220606015857mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-07T01:47:29Z",
+        "uri": "https://arquivo.pt/wayback/20220607014729mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-08T01:49:59Z",
+        "uri": "https://arquivo.pt/wayback/20220608014959mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-09T01:30:55Z",
+        "uri": "https://arquivo.pt/wayback/20220609013055mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-10T01:51:41Z",
+        "uri": "https://arquivo.pt/wayback/20220610015141mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-11T01:34:30Z",
+        "uri": "https://arquivo.pt/wayback/20220611013430mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-12T01:39:17Z",
+        "uri": "https://arquivo.pt/wayback/20220612013917mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-13T02:18:41Z",
+        "uri": "https://arquivo.pt/wayback/20220613021841mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-14T03:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20220614030405mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-15T03:20:54Z",
+        "uri": "https://arquivo.pt/wayback/20220615032054mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-16T03:56:42Z",
+        "uri": "https://arquivo.pt/wayback/20220616035642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-17T03:38:59Z",
+        "uri": "https://arquivo.pt/wayback/20220617033859mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-18T03:50:27Z",
+        "uri": "https://arquivo.pt/wayback/20220618035027mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-19T04:20:23Z",
+        "uri": "https://arquivo.pt/wayback/20220619042023mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-20T04:57:27Z",
+        "uri": "https://arquivo.pt/wayback/20220620045727mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-21T05:57:56Z",
+        "uri": "https://arquivo.pt/wayback/20220621055756mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-22T07:01:51Z",
+        "uri": "https://arquivo.pt/wayback/20220622070151mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-23T07:18:14Z",
+        "uri": "https://arquivo.pt/wayback/20220623071814mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-24T08:02:42Z",
+        "uri": "https://arquivo.pt/wayback/20220624080242mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-25T10:15:51Z",
+        "uri": "https://arquivo.pt/wayback/20220625101551mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-26T08:13:47Z",
+        "uri": "https://arquivo.pt/wayback/20220626081347mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-27T10:29:49Z",
+        "uri": "https://arquivo.pt/wayback/20220627102949mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-28T08:55:33Z",
+        "uri": "https://arquivo.pt/wayback/20220628085533mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-06-29T10:21:08Z",
+        "uri": "https://arquivo.pt/wayback/20220629102108mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-01T10:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20220701105007mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-02T10:34:04Z",
+        "uri": "https://arquivo.pt/wayback/20220702103404mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-02T10:34:13Z",
+        "uri": "https://arquivo.pt/wayback/20220702103413mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-02T11:29:50Z",
+        "uri": "https://arquivo.pt/wayback/20220702112950mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-05T15:50:54Z",
+        "uri": "https://arquivo.pt/wayback/20220705155054mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-05T15:51:02Z",
+        "uri": "https://arquivo.pt/wayback/20220705155102mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-06T13:07:17Z",
+        "uri": "https://arquivo.pt/wayback/20220706130717mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-06T13:07:25Z",
+        "uri": "https://arquivo.pt/wayback/20220706130725mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-06T14:00:59Z",
+        "uri": "https://arquivo.pt/wayback/20220706140059mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-07T11:39:46Z",
+        "uri": "https://arquivo.pt/wayback/20220707113946mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-07T11:39:54Z",
+        "uri": "https://arquivo.pt/wayback/20220707113954mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-07T12:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20220707123217mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-08T13:19:10Z",
+        "uri": "https://arquivo.pt/wayback/20220708131910mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-08T13:19:16Z",
+        "uri": "https://arquivo.pt/wayback/20220708131916mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-08T14:13:26Z",
+        "uri": "https://arquivo.pt/wayback/20220708141326mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-09T11:44:24Z",
+        "uri": "https://arquivo.pt/wayback/20220709114424mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-09T11:44:33Z",
+        "uri": "https://arquivo.pt/wayback/20220709114433mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-09T13:44:51Z",
+        "uri": "https://arquivo.pt/wayback/20220709134451mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-10T10:45:16Z",
+        "uri": "https://arquivo.pt/wayback/20220710104516mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-10T10:45:23Z",
+        "uri": "https://arquivo.pt/wayback/20220710104523mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-10T12:15:20Z",
+        "uri": "https://arquivo.pt/wayback/20220710121520mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-12T11:50:43Z",
+        "uri": "https://arquivo.pt/wayback/20220712115043mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-12T11:50:50Z",
+        "uri": "https://arquivo.pt/wayback/20220712115050mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-12T13:19:57Z",
+        "uri": "https://arquivo.pt/wayback/20220712131957mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-13T13:40:37Z",
+        "uri": "https://arquivo.pt/wayback/20220713134037mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-14T11:11:16Z",
+        "uri": "https://arquivo.pt/wayback/20220714111116mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-15T12:30:29Z",
+        "uri": "https://arquivo.pt/wayback/20220715123029mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-16T12:09:38Z",
+        "uri": "https://arquivo.pt/wayback/20220716120938mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-17T12:43:51Z",
+        "uri": "https://arquivo.pt/wayback/20220717124351mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-19T13:24:21Z",
+        "uri": "https://arquivo.pt/wayback/20220719132421mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-20T09:46:30Z",
+        "uri": "https://arquivo.pt/wayback/20220720094630mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-21T14:05:23Z",
+        "uri": "https://arquivo.pt/wayback/20220721140523mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-22T14:44:35Z",
+        "uri": "https://arquivo.pt/wayback/20220722144435mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-23T14:31:06Z",
+        "uri": "https://arquivo.pt/wayback/20220723143106mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-24T14:31:28Z",
+        "uri": "https://arquivo.pt/wayback/20220724143128mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-25T14:47:33Z",
+        "uri": "https://arquivo.pt/wayback/20220725144733mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-27T23:40:37Z",
+        "uri": "https://arquivo.pt/wayback/20220727234037mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-27T23:40:46Z",
+        "uri": "https://arquivo.pt/wayback/20220727234046mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-07-28T00:21:19Z",
+        "uri": "https://arquivo.pt/wayback/20220728002119mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-28T16:22:52Z",
+        "uri": "https://arquivo.pt/wayback/20220728162252mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-28T23:58:18Z",
+        "uri": "https://arquivo.pt/wayback/20220728235818mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-30T00:36:35Z",
+        "uri": "https://arquivo.pt/wayback/20220730003635mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-07-31T00:07:17Z",
+        "uri": "https://arquivo.pt/wayback/20220731000717mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-01T00:35:08Z",
+        "uri": "https://arquivo.pt/wayback/20220801003508mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-02T00:18:17Z",
+        "uri": "https://arquivo.pt/wayback/20220802001817mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-03T00:46:35Z",
+        "uri": "https://arquivo.pt/wayback/20220803004635mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-04T00:13:00Z",
+        "uri": "https://arquivo.pt/wayback/20220804001300mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-05T00:16:40Z",
+        "uri": "https://arquivo.pt/wayback/20220805001640mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-05T01:32:12Z",
+        "uri": "https://arquivo.pt/wayback/20220805013212mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-05T23:47:59Z",
+        "uri": "https://arquivo.pt/wayback/20220805234759mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-06T23:46:31Z",
+        "uri": "https://arquivo.pt/wayback/20220806234631mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-07T23:39:15Z",
+        "uri": "https://arquivo.pt/wayback/20220807233915mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-08T23:58:12Z",
+        "uri": "https://arquivo.pt/wayback/20220808235812mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-10T00:13:07Z",
+        "uri": "https://arquivo.pt/wayback/20220810001307mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-11T00:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20220811003710mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-11T17:38:39Z",
+        "uri": "https://arquivo.pt/wayback/20220811173839mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-12T17:41:22Z",
+        "uri": "https://arquivo.pt/wayback/20220812174122mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-13T17:43:07Z",
+        "uri": "https://arquivo.pt/wayback/20220813174307mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-14T17:43:36Z",
+        "uri": "https://arquivo.pt/wayback/20220814174336mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-16T11:01:45Z",
+        "uri": "https://arquivo.pt/wayback/20220816110145mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-17T10:58:18Z",
+        "uri": "https://arquivo.pt/wayback/20220817105818mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-17T18:34:35Z",
+        "uri": "https://arquivo.pt/wayback/20220817183435mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-18T17:39:14Z",
+        "uri": "https://arquivo.pt/wayback/20220818173914mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-19T17:41:02Z",
+        "uri": "https://arquivo.pt/wayback/20220819174102mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-20T17:01:40Z",
+        "uri": "https://arquivo.pt/wayback/20220820170140mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-21T17:47:04Z",
+        "uri": "https://arquivo.pt/wayback/20220821174704mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-22T17:45:02Z",
+        "uri": "https://arquivo.pt/wayback/20220822174502mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-23T17:50:14Z",
+        "uri": "https://arquivo.pt/wayback/20220823175014mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-24T17:38:46Z",
+        "uri": "https://arquivo.pt/wayback/20220824173846mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-25T17:48:02Z",
+        "uri": "https://arquivo.pt/wayback/20220825174802mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-26T17:54:51Z",
+        "uri": "https://arquivo.pt/wayback/20220826175451mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-27T18:47:17Z",
+        "uri": "https://arquivo.pt/wayback/20220827184717mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-28T18:17:32Z",
+        "uri": "https://arquivo.pt/wayback/20220828181732mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-29T17:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20220829175244mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-30T17:50:09Z",
+        "uri": "https://arquivo.pt/wayback/20220830175009mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-08-31T19:02:19Z",
+        "uri": "https://arquivo.pt/wayback/20220831190219mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-01T18:27:40Z",
+        "uri": "https://arquivo.pt/wayback/20220901182740mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-02T18:09:48Z",
+        "uri": "https://arquivo.pt/wayback/20220902180948mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-03T18:23:48Z",
+        "uri": "https://arquivo.pt/wayback/20220903182348mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-04T18:28:37Z",
+        "uri": "https://arquivo.pt/wayback/20220904182837mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-05T18:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20220905183341mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-06T18:29:07Z",
+        "uri": "https://arquivo.pt/wayback/20220906182907mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-07T18:28:17Z",
+        "uri": "https://arquivo.pt/wayback/20220907182817mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-08T18:45:40Z",
+        "uri": "https://arquivo.pt/wayback/20220908184540mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-09T14:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20220909140000mp_/http://pandora.nla.gov.au/pan/52190/20220910-0000/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2022-09-09T18:33:40Z",
+        "uri": "https://arquivo.pt/wayback/20220909183340mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-10T17:58:01Z",
+        "uri": "https://arquivo.pt/wayback/20220910175801mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-11T18:11:20Z",
+        "uri": "https://arquivo.pt/wayback/20220911181120mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-12T17:55:27Z",
+        "uri": "https://arquivo.pt/wayback/20220912175527mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-13T18:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20220913180253mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-14T18:03:47Z",
+        "uri": "https://arquivo.pt/wayback/20220914180347mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-15T19:09:50Z",
+        "uri": "https://arquivo.pt/wayback/20220915190950mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-16T18:33:50Z",
+        "uri": "https://arquivo.pt/wayback/20220916183350mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-17T17:49:44Z",
+        "uri": "https://arquivo.pt/wayback/20220917174944mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-18T17:46:52Z",
+        "uri": "https://arquivo.pt/wayback/20220918174652mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-19T17:56:17Z",
+        "uri": "https://arquivo.pt/wayback/20220919175617mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-20T18:11:25Z",
+        "uri": "https://arquivo.pt/wayback/20220920181125mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-21T17:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20220921175244mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-22T18:12:31Z",
+        "uri": "https://arquivo.pt/wayback/20220922181231mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-23T19:06:53Z",
+        "uri": "https://arquivo.pt/wayback/20220923190653mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-24T18:06:42Z",
+        "uri": "https://arquivo.pt/wayback/20220924180642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-25T17:56:45Z",
+        "uri": "https://arquivo.pt/wayback/20220925175645mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-26T18:11:03Z",
+        "uri": "https://arquivo.pt/wayback/20220926181103mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-27T18:21:23Z",
+        "uri": "https://arquivo.pt/wayback/20220927182123mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-28T18:19:59Z",
+        "uri": "https://arquivo.pt/wayback/20220928181959mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-29T18:31:45Z",
+        "uri": "https://arquivo.pt/wayback/20220929183145mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-09-30T20:02:26Z",
+        "uri": "https://arquivo.pt/wayback/20220930200226mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-01T17:06:27Z",
+        "uri": "https://arquivo.pt/wayback/20221001170627mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-10-01T17:06:36Z",
+        "uri": "https://arquivo.pt/wayback/20221001170636mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-10-01T18:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20221001181049mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-02T20:00:36Z",
+        "uri": "https://arquivo.pt/wayback/20221002200036mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T06:23:54Z",
+        "uri": "https://vefsafn.is/20221003062354mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T06:24:07Z",
+        "uri": "https://vefsafn.is/20221003062407mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T17:24:25Z",
+        "uri": "https://arquivo.pt/wayback/20221003172425mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T18:40:06Z",
+        "uri": "https://vefsafn.is/20221003184006mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T18:43:18Z",
+        "uri": "https://arquivo.pt/wayback/20221003184318mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-03T22:45:00Z",
+        "uri": "https://web.archive.org.au/awa/20221003224500mp_/http://pandora.nla.gov.au/pan/52190/20221004-0945/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2022-10-04T02:45:00Z",
+        "uri": "https://web.archive.org.au/awa/20221004024500mp_/http://pandora.nla.gov.au/pan/52190/20221004-1345/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2022-10-04T19:11:42Z",
+        "uri": "https://arquivo.pt/wayback/20221004191142mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-04T22:08:00Z",
+        "uri": "https://web.archive.org.au/awa/20221004220800mp_/http://pandora.nla.gov.au/pan/52190/20221005-0908/www.unc.edu/index.html"
+      },
+      {
+        "datetime": "2022-10-05T18:22:49Z",
+        "uri": "https://arquivo.pt/wayback/20221005182249mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-06T18:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20221006180801mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-07T18:09:08Z",
+        "uri": "https://arquivo.pt/wayback/20221007180908mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-08T18:28:06Z",
+        "uri": "https://arquivo.pt/wayback/20221008182806mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-09T18:13:08Z",
+        "uri": "https://arquivo.pt/wayback/20221009181308mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-10T19:06:40Z",
+        "uri": "https://arquivo.pt/wayback/20221010190640mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-11T18:35:34Z",
+        "uri": "https://arquivo.pt/wayback/20221011183534mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-12T18:15:03Z",
+        "uri": "https://arquivo.pt/wayback/20221012181503mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-13T18:18:29Z",
+        "uri": "https://arquivo.pt/wayback/20221013181829mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-14T18:17:05Z",
+        "uri": "https://arquivo.pt/wayback/20221014181705mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-15T18:39:55Z",
+        "uri": "https://arquivo.pt/wayback/20221015183955mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-16T17:20:40Z",
+        "uri": "https://arquivo.pt/wayback/20221016172040mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-16T19:44:49Z",
+        "uri": "https://arquivo.pt/wayback/20221016194449mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-17T19:16:55Z",
+        "uri": "https://arquivo.pt/wayback/20221017191655mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-18T18:31:05Z",
+        "uri": "https://arquivo.pt/wayback/20221018183105mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-19T18:25:43Z",
+        "uri": "https://arquivo.pt/wayback/20221019182543mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-20T18:18:26Z",
+        "uri": "https://arquivo.pt/wayback/20221020181826mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-21T18:48:43Z",
+        "uri": "https://arquivo.pt/wayback/20221021184843mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-23T00:44:56Z",
+        "uri": "https://arquivo.pt/wayback/20221023004456mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-23T18:20:51Z",
+        "uri": "https://arquivo.pt/wayback/20221023182051mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-24T18:36:49Z",
+        "uri": "https://arquivo.pt/wayback/20221024183649mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-25T18:18:14Z",
+        "uri": "https://arquivo.pt/wayback/20221025181814mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-26T18:42:19Z",
+        "uri": "https://arquivo.pt/wayback/20221026184219mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-27T18:12:04Z",
+        "uri": "https://arquivo.pt/wayback/20221027181204mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-28T18:34:58Z",
+        "uri": "https://arquivo.pt/wayback/20221028183458mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-29T18:40:44Z",
+        "uri": "https://arquivo.pt/wayback/20221029184044mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-30T19:29:43Z",
+        "uri": "https://arquivo.pt/wayback/20221030192943mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-10-31T19:46:47Z",
+        "uri": "https://arquivo.pt/wayback/20221031194647mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-01T19:21:21Z",
+        "uri": "https://arquivo.pt/wayback/20221101192121mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-02T19:11:49Z",
+        "uri": "https://arquivo.pt/wayback/20221102191149mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-03T19:55:16Z",
+        "uri": "https://arquivo.pt/wayback/20221103195516mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-04T20:09:53Z",
+        "uri": "https://arquivo.pt/wayback/20221104200953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-05T19:01:48Z",
+        "uri": "https://arquivo.pt/wayback/20221105190148mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-06T19:09:09Z",
+        "uri": "https://arquivo.pt/wayback/20221106190909mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-07T19:51:24Z",
+        "uri": "https://arquivo.pt/wayback/20221107195124mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-08T18:15:47Z",
+        "uri": "https://arquivo.pt/wayback/20221108181547mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2022-11-08T19:29:42Z",
+        "uri": "https://arquivo.pt/wayback/20221108192942mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-09T19:07:04Z",
+        "uri": "https://arquivo.pt/wayback/20221109190704mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-10T19:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20221110194023mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-11T20:06:23Z",
+        "uri": "https://arquivo.pt/wayback/20221111200623mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-12T19:38:02Z",
+        "uri": "https://arquivo.pt/wayback/20221112193802mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-13T19:20:23Z",
+        "uri": "https://arquivo.pt/wayback/20221113192023mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-14T20:04:47Z",
+        "uri": "https://arquivo.pt/wayback/20221114200447mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-15T19:25:04Z",
+        "uri": "https://arquivo.pt/wayback/20221115192504mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-16T19:13:13Z",
+        "uri": "https://arquivo.pt/wayback/20221116191313mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-17T19:19:53Z",
+        "uri": "https://arquivo.pt/wayback/20221117191953mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-18T19:13:53Z",
+        "uri": "https://arquivo.pt/wayback/20221118191353mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-19T19:09:46Z",
+        "uri": "https://arquivo.pt/wayback/20221119190946mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-20T19:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20221120190535mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-21T19:21:20Z",
+        "uri": "https://arquivo.pt/wayback/20221121192120mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-23T00:36:04Z",
+        "uri": "https://arquivo.pt/wayback/20221123003604mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-24T01:01:34Z",
+        "uri": "https://arquivo.pt/wayback/20221124010134mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-25T00:32:04Z",
+        "uri": "https://arquivo.pt/wayback/20221125003204mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-26T01:53:17Z",
+        "uri": "https://arquivo.pt/wayback/20221126015317mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-27T01:28:24Z",
+        "uri": "https://arquivo.pt/wayback/20221127012824mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-28T00:52:49Z",
+        "uri": "https://arquivo.pt/wayback/20221128005249mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-29T00:53:57Z",
+        "uri": "https://arquivo.pt/wayback/20221129005357mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-11-30T01:02:42Z",
+        "uri": "https://arquivo.pt/wayback/20221130010242mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-02T22:56:45Z",
+        "uri": "https://arquivo.pt/wayback/20221202225645mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-03T22:56:46Z",
+        "uri": "https://arquivo.pt/wayback/20221203225646mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-04T23:25:39Z",
+        "uri": "https://arquivo.pt/wayback/20221204232539mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-05T23:21:09Z",
+        "uri": "https://arquivo.pt/wayback/20221205232109mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-06T23:19:36Z",
+        "uri": "https://arquivo.pt/wayback/20221206231936mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-08T02:35:32Z",
+        "uri": "https://arquivo.pt/wayback/20221208023532mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-08T23:09:00Z",
+        "uri": "https://arquivo.pt/wayback/20221208230900mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-09T23:44:36Z",
+        "uri": "https://arquivo.pt/wayback/20221209234436mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-10T23:23:49Z",
+        "uri": "https://arquivo.pt/wayback/20221210232349mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-11T23:22:23Z",
+        "uri": "https://arquivo.pt/wayback/20221211232223mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-12T23:35:50Z",
+        "uri": "https://arquivo.pt/wayback/20221212233550mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-13T23:58:14Z",
+        "uri": "https://arquivo.pt/wayback/20221213235814mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-15T00:26:42Z",
+        "uri": "https://arquivo.pt/wayback/20221215002642mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-15T23:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20221215233252mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-16T23:55:45Z",
+        "uri": "https://arquivo.pt/wayback/20221216235545mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-17T22:29:11Z",
+        "uri": "https://arquivo.pt/wayback/20221217222911mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-18T22:39:20Z",
+        "uri": "https://arquivo.pt/wayback/20221218223920mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-19T23:26:28Z",
+        "uri": "https://arquivo.pt/wayback/20221219232628mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-20T22:34:11Z",
+        "uri": "https://arquivo.pt/wayback/20221220223411mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-22T00:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20221222000656mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-22T22:40:53Z",
+        "uri": "https://arquivo.pt/wayback/20221222224053mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-23T22:25:21Z",
+        "uri": "https://arquivo.pt/wayback/20221223222521mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-24T22:33:43Z",
+        "uri": "https://arquivo.pt/wayback/20221224223343mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-25T22:35:16Z",
+        "uri": "https://arquivo.pt/wayback/20221225223516mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-26T22:31:37Z",
+        "uri": "https://arquivo.pt/wayback/20221226223137mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-27T22:23:30Z",
+        "uri": "https://arquivo.pt/wayback/20221227222330mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-28T22:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20221228222646mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-29T22:36:19Z",
+        "uri": "https://arquivo.pt/wayback/20221229223619mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-30T22:20:58Z",
+        "uri": "https://arquivo.pt/wayback/20221230222058mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2022-12-31T22:40:26Z",
+        "uri": "https://arquivo.pt/wayback/20221231224026mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-01T20:59:31Z",
+        "uri": "https://arquivo.pt/wayback/20230101205931mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2023-01-01T20:59:41Z",
+        "uri": "https://arquivo.pt/wayback/20230101205941mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2023-01-01T22:19:19Z",
+        "uri": "https://arquivo.pt/wayback/20230101221919mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-02T22:33:57Z",
+        "uri": "https://arquivo.pt/wayback/20230102223357mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-03T22:31:01Z",
+        "uri": "https://arquivo.pt/wayback/20230103223101mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-05T00:55:55Z",
+        "uri": "https://arquivo.pt/wayback/20230105005555mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-07T01:02:38Z",
+        "uri": "https://arquivo.pt/wayback/20230107010238mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-07T23:51:40Z",
+        "uri": "https://arquivo.pt/wayback/20230107235140mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-09T00:13:45Z",
+        "uri": "https://arquivo.pt/wayback/20230109001345mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-10T00:13:46Z",
+        "uri": "https://arquivo.pt/wayback/20230110001346mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-11T00:18:25Z",
+        "uri": "https://arquivo.pt/wayback/20230111001825mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-12T00:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20230112002801mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-13T00:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20230113001807mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-14T00:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20230114001037mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-15T00:46:06Z",
+        "uri": "https://arquivo.pt/wayback/20230115004606mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-15T23:48:31Z",
+        "uri": "https://arquivo.pt/wayback/20230115234831mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-17T00:04:27Z",
+        "uri": "https://arquivo.pt/wayback/20230117000427mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-18T00:15:18Z",
+        "uri": "https://arquivo.pt/wayback/20230118001518mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-19T00:22:56Z",
+        "uri": "https://arquivo.pt/wayback/20230119002256mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-20T00:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20230120003103mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-21T00:20:29Z",
+        "uri": "https://arquivo.pt/wayback/20230121002029mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-22T00:41:03Z",
+        "uri": "https://arquivo.pt/wayback/20230122004103mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-22T23:22:20Z",
+        "uri": "https://arquivo.pt/wayback/20230122232220mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-23T23:42:40Z",
+        "uri": "https://arquivo.pt/wayback/20230123234240mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-24T10:08:19Z",
+        "uri": "https://arquivo.pt/wayback/20230124100819mp_/http://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-24T10:08:48Z",
+        "uri": "https://arquivo.pt/wayback/20230124100848mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-25T00:02:44Z",
+        "uri": "https://arquivo.pt/wayback/20230125000244mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-25T23:50:47Z",
+        "uri": "https://arquivo.pt/wayback/20230125235047mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-26T23:49:58Z",
+        "uri": "https://arquivo.pt/wayback/20230126234958mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-27T23:33:05Z",
+        "uri": "https://arquivo.pt/wayback/20230127233305mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-28T23:38:07Z",
+        "uri": "https://arquivo.pt/wayback/20230128233807mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-30T00:05:00Z",
+        "uri": "https://arquivo.pt/wayback/20230130000500mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-30T23:43:19Z",
+        "uri": "https://arquivo.pt/wayback/20230130234319mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-01-31T23:33:46Z",
+        "uri": "https://arquivo.pt/wayback/20230131233346mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-01T23:42:22Z",
+        "uri": "https://arquivo.pt/wayback/20230201234222mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-02T23:29:22Z",
+        "uri": "https://arquivo.pt/wayback/20230202232922mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-03T23:36:04Z",
+        "uri": "https://arquivo.pt/wayback/20230203233604mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-04T23:37:09Z",
+        "uri": "https://arquivo.pt/wayback/20230204233709mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-05T23:44:28Z",
+        "uri": "https://arquivo.pt/wayback/20230205234428mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-06T23:43:49Z",
+        "uri": "https://arquivo.pt/wayback/20230206234349mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-08T00:35:30Z",
+        "uri": "https://arquivo.pt/wayback/20230208003530mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-09T00:48:34Z",
+        "uri": "https://arquivo.pt/wayback/20230209004834mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-10T00:04:09Z",
+        "uri": "https://arquivo.pt/wayback/20230210000409mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-10T23:57:18Z",
+        "uri": "https://arquivo.pt/wayback/20230210235718mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-11T23:51:12Z",
+        "uri": "https://arquivo.pt/wayback/20230211235112mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-12T23:45:31Z",
+        "uri": "https://arquivo.pt/wayback/20230212234531mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-13T23:52:17Z",
+        "uri": "https://arquivo.pt/wayback/20230213235217mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-14T23:46:02Z",
+        "uri": "https://arquivo.pt/wayback/20230214234602mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-16T00:05:19Z",
+        "uri": "https://arquivo.pt/wayback/20230216000519mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-17T23:45:20Z",
+        "uri": "https://arquivo.pt/wayback/20230217234520mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-18T01:39:53Z",
+        "uri": "https://arquivo.pt/wayback/20230218013953mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2023-02-18T01:45:45Z",
+        "uri": "https://arquivo.pt/wayback/20230218014545mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2023-02-18T01:51:12Z",
+        "uri": "https://arquivo.pt/wayback/20230218015112mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2023-02-18T23:01:45Z",
+        "uri": "https://arquivo.pt/wayback/20230218230145mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-18T23:25:38Z",
+        "uri": "https://arquivo.pt/wayback/20230218232538mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-19T22:41:31Z",
+        "uri": "https://arquivo.pt/wayback/20230219224131mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-21T23:04:48Z",
+        "uri": "https://arquivo.pt/wayback/20230221230448mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-22T22:58:43Z",
+        "uri": "https://arquivo.pt/wayback/20230222225843mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-23T23:09:55Z",
+        "uri": "https://arquivo.pt/wayback/20230223230955mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-25T00:11:58Z",
+        "uri": "https://arquivo.pt/wayback/20230225001158mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-25T23:13:22Z",
+        "uri": "https://arquivo.pt/wayback/20230225231322mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-26T23:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20230226231031mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-27T22:58:38Z",
+        "uri": "https://arquivo.pt/wayback/20230227225838mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-02-28T22:58:33Z",
+        "uri": "https://arquivo.pt/wayback/20230228225833mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-01T22:52:11Z",
+        "uri": "https://arquivo.pt/wayback/20230301225211mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-02T23:01:10Z",
+        "uri": "https://arquivo.pt/wayback/20230302230110mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-03T22:47:02Z",
+        "uri": "https://arquivo.pt/wayback/20230303224702mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-04T22:53:14Z",
+        "uri": "https://arquivo.pt/wayback/20230304225314mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-05T22:59:05Z",
+        "uri": "https://arquivo.pt/wayback/20230305225905mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-06T23:00:59Z",
+        "uri": "https://arquivo.pt/wayback/20230306230059mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-07T23:14:23Z",
+        "uri": "https://arquivo.pt/wayback/20230307231423mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-08T23:27:40Z",
+        "uri": "https://arquivo.pt/wayback/20230308232740mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-09T23:28:08Z",
+        "uri": "https://arquivo.pt/wayback/20230309232808mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-10T23:17:34Z",
+        "uri": "https://arquivo.pt/wayback/20230310231734mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-11T23:13:14Z",
+        "uri": "https://arquivo.pt/wayback/20230311231314mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-12T19:29:04Z",
+        "uri": "https://vefsafn.is/20230312192904mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2023-03-12T19:29:19Z",
+        "uri": "https://vefsafn.is/20230312192919mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2023-03-12T23:29:40Z",
+        "uri": "https://arquivo.pt/wayback/20230312232940mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-13T07:04:50Z",
+        "uri": "https://vefsafn.is/20230313070450mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-13T23:23:58Z",
+        "uri": "https://arquivo.pt/wayback/20230313232358mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-14T23:39:41Z",
+        "uri": "https://arquivo.pt/wayback/20230314233941mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-15T19:50:42Z",
+        "uri": "https://arquivo.pt/wayback/20230315195042mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-16T19:52:10Z",
+        "uri": "https://arquivo.pt/wayback/20230316195210mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-17T20:48:38Z",
+        "uri": "https://arquivo.pt/wayback/20230317204838mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-18T21:05:47Z",
+        "uri": "https://arquivo.pt/wayback/20230318210547mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-20T17:08:53Z",
+        "uri": "https://arquivo.pt/wayback/20230320170853mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-21T00:20:13Z",
+        "uri": "https://arquivo.pt/wayback/20230321002013mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-21T21:38:55Z",
+        "uri": "https://arquivo.pt/wayback/20230321213855mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-22T21:07:13Z",
+        "uri": "https://arquivo.pt/wayback/20230322210713mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-23T20:48:55Z",
+        "uri": "https://arquivo.pt/wayback/20230323204855mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-24T20:58:15Z",
+        "uri": "https://arquivo.pt/wayback/20230324205815mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-25T20:53:47Z",
+        "uri": "https://arquivo.pt/wayback/20230325205347mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-27T19:05:37Z",
+        "uri": "https://arquivo.pt/wayback/20230327190537mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-28T18:49:14Z",
+        "uri": "https://arquivo.pt/wayback/20230328184914mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-29T18:58:27Z",
+        "uri": "https://arquivo.pt/wayback/20230329185827mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-30T19:02:19Z",
+        "uri": "https://arquivo.pt/wayback/20230330190219mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-03-31T18:58:07Z",
+        "uri": "https://arquivo.pt/wayback/20230331185807mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-05-29T07:38:28Z",
+        "uri": "http://archive.md/20230529073828/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-06-26T14:39:57Z",
+        "uri": "https://vefsafn.is/20230626143957mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2023-06-26T14:40:30Z",
+        "uri": "https://vefsafn.is/20230626144030mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2023-06-27T03:50:31Z",
+        "uri": "https://vefsafn.is/20230627035031mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2023-08-29T23:38:36Z",
+        "uri": "http://archive.md/20230829233836/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2024-03-04T00:01:17Z",
+        "uri": "https://vefsafn.is/20240304000117mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2024-03-04T00:01:36Z",
+        "uri": "https://vefsafn.is/20240304000136mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2024-03-04T20:45:43Z",
+        "uri": "https://vefsafn.is/20240304204543mp_/https://www.unc.edu/"
+      },
+      {
+        "datetime": "2024-05-30T13:24:56Z",
+        "uri": "https://perma.cc/T7GP-XCDA"
+      },
+      {
+        "datetime": "2024-06-22T17:21:24Z",
+        "uri": "https://vefsafn.is/20240622172124mp_/http://unc.edu/"
+      },
+      {
+        "datetime": "2024-06-22T17:21:45Z",
+        "uri": "https://vefsafn.is/20240622172145mp_/https://unc.edu/"
+      },
+      {
+        "datetime": "2024-06-23T03:23:49Z",
+        "uri": "https://vefsafn.is/20240623032349mp_/https://www.unc.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "1997-04-27T05:36:51Z",
+      "uri": "https://web.archive.org.au/awa/19970427053651mp_/http://www.unc.edu/"
+    },
+    "last": {
+      "datetime": "2024-06-23T03:23:49Z",
+      "uri": "https://vefsafn.is/20240623032349mp_/https://www.unc.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.unc.edu",
+    "json_format": "http://localhost:1208/timemap/json/https://www.unc.edu",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.unc.edu"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.unc.edu"
+}

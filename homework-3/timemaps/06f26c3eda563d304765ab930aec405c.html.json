@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:19:14Z",
+        "uri": "https://arquivo.pt/wayback/20191114221914mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2020-03-12T15:18:20Z",
+        "uri": "https://arquivo.pt/wayback/20200312151820mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2020-03-12T15:56:32Z",
+        "uri": "https://arquivo.pt/wayback/20200312155632mp_/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2021-09-19T17:01:15Z",
+        "uri": "https://arquivo.pt/wayback/20210919170115mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:19:14Z",
+      "uri": "https://arquivo.pt/wayback/20191114221914mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:01:15Z",
+      "uri": "https://arquivo.pt/wayback/20210919170115mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+}

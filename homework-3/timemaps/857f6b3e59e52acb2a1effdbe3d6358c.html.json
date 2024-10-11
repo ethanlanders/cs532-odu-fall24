@@ -1,0 +1,110 @@
+{
+  "original_uri": "https://www.odu.edu/library",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/library",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-07T01:22:56Z",
+        "uri": "https://arquivo.pt/wayback/20200207012256mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-09-10T15:33:25Z",
+        "uri": "https://arquivo.pt/wayback/20210910153325mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-09-13T17:02:34Z",
+        "uri": "https://arquivo.pt/wayback/20210913170234mp_/http://odu.edu/library"
+      },
+      {
+        "datetime": "2021-10-11T14:55:50Z",
+        "uri": "https://arquivo.pt/wayback/20211011145550mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-10-21T04:39:26Z",
+        "uri": "https://arquivo.pt/wayback/20211021043926mp_/http://odu.edu/library"
+      },
+      {
+        "datetime": "2021-11-27T22:49:52Z",
+        "uri": "https://arquivo.pt/wayback/20211127224952mp_/http://odu.edu/library"
+      },
+      {
+        "datetime": "2021-11-27T23:50:44Z",
+        "uri": "https://arquivo.pt/wayback/20211127235044mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-11-29T00:57:08Z",
+        "uri": "https://arquivo.pt/wayback/20211129005708mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-12-02T00:44:32Z",
+        "uri": "https://arquivo.pt/wayback/20211202004432mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2021-12-03T00:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20211203003104mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2022-01-22T10:13:48Z",
+        "uri": "https://arquivo.pt/wayback/20220122101348mp_/https://odu.edu/library"
+      },
+      {
+        "datetime": "2022-01-26T05:32:03Z",
+        "uri": "https://arquivo.pt/wayback/20220126053203mp_/http://www.odu.edu/library"
+      },
+      {
+        "datetime": "2022-04-17T05:19:44Z",
+        "uri": "https://arquivo.pt/wayback/20220417051944mp_/https://odu.edu/library"
+      },
+      {
+        "datetime": "2022-04-22T17:12:47Z",
+        "uri": "https://arquivo.pt/wayback/20220422171247mp_/https://www.odu.edu/library"
+      },
+      {
+        "datetime": "2022-04-22T17:12:52Z",
+        "uri": "https://arquivo.pt/wayback/20220422171252mp_/http://www.odu.edu/library"
+      },
+      {
+        "datetime": "2022-04-24T18:49:42Z",
+        "uri": "https://arquivo.pt/wayback/20220424184942mp_/http://www.odu.edu/library"
+      },
+      {
+        "datetime": "2022-07-30T14:24:08Z",
+        "uri": "https://arquivo.pt/wayback/20220730142408mp_/http://odu.edu/library"
+      },
+      {
+        "datetime": "2022-07-30T14:30:34Z",
+        "uri": "https://arquivo.pt/wayback/20220730143034mp_/https://odu.edu/library"
+      },
+      {
+        "datetime": "2022-10-11T02:04:47Z",
+        "uri": "https://arquivo.pt/wayback/20221011020447mp_/https://odu.edu/library"
+      },
+      {
+        "datetime": "2023-01-21T15:08:25Z",
+        "uri": "https://arquivo.pt/wayback/20230121150825mp_/http://odu.edu/library"
+      },
+      {
+        "datetime": "2023-01-21T15:08:29Z",
+        "uri": "https://arquivo.pt/wayback/20230121150829mp_/https://odu.edu/library"
+      },
+      {
+        "datetime": "2023-01-24T18:05:07Z",
+        "uri": "https://arquivo.pt/wayback/20230124180507mp_/https://www.odu.edu/library"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-07T01:22:56Z",
+      "uri": "https://arquivo.pt/wayback/20200207012256mp_/https://www.odu.edu/library"
+    },
+    "last": {
+      "datetime": "2023-01-24T18:05:07Z",
+      "uri": "https://arquivo.pt/wayback/20230124180507mp_/https://www.odu.edu/library"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/library",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/library",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/library"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/library"
+}

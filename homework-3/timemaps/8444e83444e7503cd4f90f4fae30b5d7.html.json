@@ -1,0 +1,1550 @@
+{
+  "original_uri": "https://donate.unhcr.org/int/en/ukraine-emergency",
+  "self": "http://localhost:1208/timemap/json/https://donate.unhcr.org/int/en/ukraine-emergency",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-02-26T00:07:45Z",
+        "uri": "https://arquivo.pt/wayback/20220226000745mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-02T13:34:25Z",
+        "uri": "http://archive.md/20220302133425/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-03T21:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20220303212251mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-05T21:28:22Z",
+        "uri": "https://arquivo.pt/wayback/20220305212822mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-06T22:45:25Z",
+        "uri": "https://arquivo.pt/wayback/20220306224525mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-17T23:27:50Z",
+        "uri": "https://arquivo.pt/wayback/20220317232750mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-18T23:11:51Z",
+        "uri": "https://arquivo.pt/wayback/20220318231151mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-19T23:05:56Z",
+        "uri": "https://arquivo.pt/wayback/20220319230556mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-20T23:04:17Z",
+        "uri": "https://arquivo.pt/wayback/20220320230417mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-21T23:29:38Z",
+        "uri": "https://arquivo.pt/wayback/20220321232938mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-22T23:54:20Z",
+        "uri": "https://arquivo.pt/wayback/20220322235420mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-23T23:21:43Z",
+        "uri": "https://arquivo.pt/wayback/20220323232143mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-24T23:18:33Z",
+        "uri": "https://arquivo.pt/wayback/20220324231833mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-25T23:27:59Z",
+        "uri": "https://arquivo.pt/wayback/20220325232759mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-26T23:24:23Z",
+        "uri": "https://arquivo.pt/wayback/20220326232423mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-27T22:25:48Z",
+        "uri": "https://arquivo.pt/wayback/20220327222548mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-28T22:18:43Z",
+        "uri": "https://arquivo.pt/wayback/20220328221843mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-29T22:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20220329223927mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-30T22:28:52Z",
+        "uri": "https://arquivo.pt/wayback/20220330222852mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-03-31T22:19:46Z",
+        "uri": "https://arquivo.pt/wayback/20220331221946mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-01T22:15:31Z",
+        "uri": "https://arquivo.pt/wayback/20220401221531mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-04T23:51:43Z",
+        "uri": "https://arquivo.pt/wayback/20220404235143mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-05T23:27:20Z",
+        "uri": "https://arquivo.pt/wayback/20220405232720mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-06T23:20:34Z",
+        "uri": "https://arquivo.pt/wayback/20220406232034mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-07T23:00:45Z",
+        "uri": "https://arquivo.pt/wayback/20220407230045mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-08T22:49:44Z",
+        "uri": "https://arquivo.pt/wayback/20220408224944mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-09T23:00:06Z",
+        "uri": "https://arquivo.pt/wayback/20220409230006mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-10T22:52:13Z",
+        "uri": "https://arquivo.pt/wayback/20220410225213mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-11T22:58:16Z",
+        "uri": "https://arquivo.pt/wayback/20220411225816mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-12T23:46:49Z",
+        "uri": "https://arquivo.pt/wayback/20220412234649mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-13T23:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20220413230527mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-14T22:54:32Z",
+        "uri": "https://arquivo.pt/wayback/20220414225432mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-15T22:44:38Z",
+        "uri": "https://arquivo.pt/wayback/20220415224438mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-16T22:43:23Z",
+        "uri": "https://arquivo.pt/wayback/20220416224323mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-17T22:50:15Z",
+        "uri": "https://arquivo.pt/wayback/20220417225015mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-18T23:02:54Z",
+        "uri": "https://arquivo.pt/wayback/20220418230254mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-19T22:52:53Z",
+        "uri": "https://arquivo.pt/wayback/20220419225253mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-20T23:13:44Z",
+        "uri": "https://arquivo.pt/wayback/20220420231344mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-21T23:07:35Z",
+        "uri": "https://arquivo.pt/wayback/20220421230735mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-22T23:08:26Z",
+        "uri": "https://arquivo.pt/wayback/20220422230826mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-23T20:44:10Z",
+        "uri": "https://arquivo.pt/wayback/20220423204410mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-23T23:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20220423230656mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-24T23:10:43Z",
+        "uri": "https://arquivo.pt/wayback/20220424231043mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-25T23:15:37Z",
+        "uri": "https://arquivo.pt/wayback/20220425231537mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-26T23:18:15Z",
+        "uri": "https://arquivo.pt/wayback/20220426231815mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-26T23:18:15Z",
+        "uri": "https://arquivo.pt/wayback/20220426231815mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-27T23:52:18Z",
+        "uri": "https://arquivo.pt/wayback/20220427235218mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-27T23:52:18Z",
+        "uri": "https://arquivo.pt/wayback/20220427235218mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-28T22:58:32Z",
+        "uri": "https://arquivo.pt/wayback/20220428225832mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-28T22:58:32Z",
+        "uri": "https://arquivo.pt/wayback/20220428225832mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-29T23:06:57Z",
+        "uri": "https://arquivo.pt/wayback/20220429230657mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-04-30T23:01:06Z",
+        "uri": "https://arquivo.pt/wayback/20220430230106mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-01T22:53:27Z",
+        "uri": "https://arquivo.pt/wayback/20220501225327mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-02T23:01:41Z",
+        "uri": "https://arquivo.pt/wayback/20220502230141mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-03T10:02:06Z",
+        "uri": "https://arquivo.pt/wayback/20220503100206mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-03T22:59:05Z",
+        "uri": "https://arquivo.pt/wayback/20220503225905mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-04T23:03:57Z",
+        "uri": "https://arquivo.pt/wayback/20220504230357mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-05T23:00:51Z",
+        "uri": "https://arquivo.pt/wayback/20220505230051mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-06T22:54:22Z",
+        "uri": "https://arquivo.pt/wayback/20220506225422mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-07T22:55:34Z",
+        "uri": "https://arquivo.pt/wayback/20220507225534mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-08T23:02:45Z",
+        "uri": "https://arquivo.pt/wayback/20220508230245mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-09T23:02:55Z",
+        "uri": "https://arquivo.pt/wayback/20220509230255mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-10T22:30:22Z",
+        "uri": "https://arquivo.pt/wayback/20220510223022mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-11T23:00:43Z",
+        "uri": "https://arquivo.pt/wayback/20220511230043mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-12T23:24:28Z",
+        "uri": "https://arquivo.pt/wayback/20220512232428mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-13T23:20:44Z",
+        "uri": "https://arquivo.pt/wayback/20220513232044mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-14T23:12:36Z",
+        "uri": "https://arquivo.pt/wayback/20220514231236mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-15T23:13:55Z",
+        "uri": "https://arquivo.pt/wayback/20220515231355mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-16T23:08:48Z",
+        "uri": "https://arquivo.pt/wayback/20220516230848mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-17T23:30:18Z",
+        "uri": "https://arquivo.pt/wayback/20220517233018mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-18T23:08:46Z",
+        "uri": "https://arquivo.pt/wayback/20220518230846mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-19T23:24:06Z",
+        "uri": "https://arquivo.pt/wayback/20220519232406mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-20T23:23:55Z",
+        "uri": "https://arquivo.pt/wayback/20220520232355mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-21T23:22:38Z",
+        "uri": "https://arquivo.pt/wayback/20220521232238mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-22T23:27:40Z",
+        "uri": "https://arquivo.pt/wayback/20220522232740mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-23T23:34:32Z",
+        "uri": "https://arquivo.pt/wayback/20220523233432mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-24T23:47:57Z",
+        "uri": "https://arquivo.pt/wayback/20220524234757mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-25T23:50:52Z",
+        "uri": "https://arquivo.pt/wayback/20220525235052mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-26T23:28:40Z",
+        "uri": "https://arquivo.pt/wayback/20220526232840mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-27T23:36:27Z",
+        "uri": "https://arquivo.pt/wayback/20220527233627mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-28T23:22:47Z",
+        "uri": "https://arquivo.pt/wayback/20220528232247mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-29T15:57:56Z",
+        "uri": "https://vefsafn.is/20220529155756mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-29T23:33:57Z",
+        "uri": "https://arquivo.pt/wayback/20220529233357mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-30T23:34:05Z",
+        "uri": "https://arquivo.pt/wayback/20220530233405mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-05-31T23:33:19Z",
+        "uri": "https://arquivo.pt/wayback/20220531233319mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-01T23:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20220601233341mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-02T23:25:41Z",
+        "uri": "https://arquivo.pt/wayback/20220602232541mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-03T23:12:15Z",
+        "uri": "https://arquivo.pt/wayback/20220603231215mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-04T23:16:16Z",
+        "uri": "https://arquivo.pt/wayback/20220604231616mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-05T23:31:56Z",
+        "uri": "https://arquivo.pt/wayback/20220605233156mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-06T23:33:03Z",
+        "uri": "https://arquivo.pt/wayback/20220606233303mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-07T23:28:41Z",
+        "uri": "https://arquivo.pt/wayback/20220607232841mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-08T23:45:58Z",
+        "uri": "https://arquivo.pt/wayback/20220608234558mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-09T23:52:56Z",
+        "uri": "https://arquivo.pt/wayback/20220609235256mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-10T23:53:57Z",
+        "uri": "https://arquivo.pt/wayback/20220610235357mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-11T23:48:25Z",
+        "uri": "https://arquivo.pt/wayback/20220611234825mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-13T00:05:20Z",
+        "uri": "https://arquivo.pt/wayback/20220613000520mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-14T00:36:23Z",
+        "uri": "https://arquivo.pt/wayback/20220614003623mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-15T00:46:06Z",
+        "uri": "https://arquivo.pt/wayback/20220615004606mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-16T01:23:02Z",
+        "uri": "https://arquivo.pt/wayback/20220616012302mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-17T01:31:48Z",
+        "uri": "https://arquivo.pt/wayback/20220617013148mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-18T01:34:47Z",
+        "uri": "https://arquivo.pt/wayback/20220618013447mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-19T02:17:58Z",
+        "uri": "https://arquivo.pt/wayback/20220619021758mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-20T02:56:30Z",
+        "uri": "https://arquivo.pt/wayback/20220620025630mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-21T03:25:00Z",
+        "uri": "https://arquivo.pt/wayback/20220621032500mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-22T04:04:37Z",
+        "uri": "https://arquivo.pt/wayback/20220622040437mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-23T04:38:36Z",
+        "uri": "https://arquivo.pt/wayback/20220623043836mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-25T07:20:29Z",
+        "uri": "https://arquivo.pt/wayback/20220625072029mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-26T05:45:04Z",
+        "uri": "https://arquivo.pt/wayback/20220626054504mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-27T07:39:42Z",
+        "uri": "https://arquivo.pt/wayback/20220627073942mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-28T06:05:41Z",
+        "uri": "https://arquivo.pt/wayback/20220628060541mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-06-29T06:59:27Z",
+        "uri": "https://arquivo.pt/wayback/20220629065927mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-01T07:28:24Z",
+        "uri": "https://arquivo.pt/wayback/20220701072824mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-02T08:32:43Z",
+        "uri": "https://arquivo.pt/wayback/20220702083243mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-05T13:31:08Z",
+        "uri": "https://arquivo.pt/wayback/20220705133108mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-06T11:06:16Z",
+        "uri": "https://arquivo.pt/wayback/20220706110616mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-07T09:32:27Z",
+        "uri": "https://arquivo.pt/wayback/20220707093227mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-08T11:09:54Z",
+        "uri": "https://arquivo.pt/wayback/20220708110954mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-09T10:20:20Z",
+        "uri": "https://arquivo.pt/wayback/20220709102020mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-10T09:43:30Z",
+        "uri": "https://arquivo.pt/wayback/20220710094330mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-12T10:44:43Z",
+        "uri": "https://arquivo.pt/wayback/20220712104443mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-13T11:06:07Z",
+        "uri": "https://arquivo.pt/wayback/20220713110607mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-14T08:38:02Z",
+        "uri": "https://arquivo.pt/wayback/20220714083802mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-15T09:12:13Z",
+        "uri": "https://arquivo.pt/wayback/20220715091213mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-16T09:28:45Z",
+        "uri": "https://arquivo.pt/wayback/20220716092845mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-17T10:01:32Z",
+        "uri": "https://arquivo.pt/wayback/20220717100132mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-19T10:46:38Z",
+        "uri": "https://arquivo.pt/wayback/20220719104638mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-20T10:58:30Z",
+        "uri": "https://arquivo.pt/wayback/20220720105830mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-21T11:13:37Z",
+        "uri": "https://arquivo.pt/wayback/20220721111337mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-22T11:51:45Z",
+        "uri": "https://arquivo.pt/wayback/20220722115145mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-23T11:49:24Z",
+        "uri": "https://arquivo.pt/wayback/20220723114924mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-24T11:55:12Z",
+        "uri": "https://arquivo.pt/wayback/20220724115512mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-25T12:12:53Z",
+        "uri": "https://arquivo.pt/wayback/20220725121253mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-26T14:37:31Z",
+        "uri": "https://arquivo.pt/wayback/20220726143731mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-27T16:20:28Z",
+        "uri": "https://arquivo.pt/wayback/20220727162028mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-27T22:29:05Z",
+        "uri": "https://arquivo.pt/wayback/20220727222905mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-28T14:30:31Z",
+        "uri": "https://arquivo.pt/wayback/20220728143031mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-28T22:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20220728221454mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-29T23:06:34Z",
+        "uri": "https://arquivo.pt/wayback/20220729230634mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-30T22:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20220730223858mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-07-31T23:06:57Z",
+        "uri": "https://arquivo.pt/wayback/20220731230657mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-01T22:41:40Z",
+        "uri": "https://arquivo.pt/wayback/20220801224140mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-02T23:00:03Z",
+        "uri": "https://arquivo.pt/wayback/20220802230003mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-03T22:36:45Z",
+        "uri": "https://arquivo.pt/wayback/20220803223645mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-04T22:39:38Z",
+        "uri": "https://arquivo.pt/wayback/20220804223938mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-05T22:32:25Z",
+        "uri": "https://arquivo.pt/wayback/20220805223225mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-06T22:37:16Z",
+        "uri": "https://arquivo.pt/wayback/20220806223716mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-07T22:32:45Z",
+        "uri": "https://arquivo.pt/wayback/20220807223245mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-08T22:48:18Z",
+        "uri": "https://arquivo.pt/wayback/20220808224818mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-09T22:53:25Z",
+        "uri": "https://arquivo.pt/wayback/20220809225325mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-10T23:10:19Z",
+        "uri": "https://arquivo.pt/wayback/20220810231019mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-11T22:45:44Z",
+        "uri": "https://arquivo.pt/wayback/20220811224544mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-12T22:39:54Z",
+        "uri": "https://arquivo.pt/wayback/20220812223954mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-13T22:48:19Z",
+        "uri": "https://arquivo.pt/wayback/20220813224819mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-14T03:23:22Z",
+        "uri": "https://arquivo.pt/wayback/20220814032322mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-14T22:08:12Z",
+        "uri": "https://arquivo.pt/wayback/20220814220812mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-16T15:31:57Z",
+        "uri": "https://arquivo.pt/wayback/20220816153157mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-17T15:36:43Z",
+        "uri": "https://arquivo.pt/wayback/20220817153643mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-17T23:10:04Z",
+        "uri": "https://arquivo.pt/wayback/20220817231004mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-18T22:01:49Z",
+        "uri": "https://arquivo.pt/wayback/20220818220149mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-19T21:55:59Z",
+        "uri": "https://arquivo.pt/wayback/20220819215559mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-20T21:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20220820212930mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-21T22:12:27Z",
+        "uri": "https://arquivo.pt/wayback/20220821221227mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-22T22:15:01Z",
+        "uri": "https://arquivo.pt/wayback/20220822221501mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-23T22:15:34Z",
+        "uri": "https://arquivo.pt/wayback/20220823221534mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-24T21:13:53Z",
+        "uri": "https://arquivo.pt/wayback/20220824211353mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-25T21:56:50Z",
+        "uri": "https://arquivo.pt/wayback/20220825215650mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-26T21:24:52Z",
+        "uri": "https://arquivo.pt/wayback/20220826212452mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-27T21:20:45Z",
+        "uri": "https://arquivo.pt/wayback/20220827212045mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-28T21:17:19Z",
+        "uri": "https://arquivo.pt/wayback/20220828211719mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-29T21:18:36Z",
+        "uri": "https://arquivo.pt/wayback/20220829211836mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-30T21:20:33Z",
+        "uri": "https://arquivo.pt/wayback/20220830212033mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-08-31T21:41:26Z",
+        "uri": "https://arquivo.pt/wayback/20220831214126mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-01T21:24:58Z",
+        "uri": "https://arquivo.pt/wayback/20220901212458mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-02T21:18:14Z",
+        "uri": "https://arquivo.pt/wayback/20220902211814mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-03T21:15:43Z",
+        "uri": "https://arquivo.pt/wayback/20220903211543mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-04T21:24:26Z",
+        "uri": "https://arquivo.pt/wayback/20220904212426mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-05T21:25:15Z",
+        "uri": "https://arquivo.pt/wayback/20220905212515mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-06T21:10:02Z",
+        "uri": "https://arquivo.pt/wayback/20220906211002mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-07T21:12:53Z",
+        "uri": "https://arquivo.pt/wayback/20220907211253mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-08T21:24:28Z",
+        "uri": "https://arquivo.pt/wayback/20220908212428mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-09T21:24:08Z",
+        "uri": "https://arquivo.pt/wayback/20220909212408mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-10T21:14:38Z",
+        "uri": "https://arquivo.pt/wayback/20220910211438mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-11T21:15:39Z",
+        "uri": "https://arquivo.pt/wayback/20220911211539mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-12T21:18:46Z",
+        "uri": "https://arquivo.pt/wayback/20220912211846mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-13T21:11:22Z",
+        "uri": "https://arquivo.pt/wayback/20220913211122mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-14T21:40:15Z",
+        "uri": "https://arquivo.pt/wayback/20220914214015mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-15T21:15:49Z",
+        "uri": "https://arquivo.pt/wayback/20220915211549mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-16T21:05:57Z",
+        "uri": "https://arquivo.pt/wayback/20220916210557mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-17T21:19:17Z",
+        "uri": "https://arquivo.pt/wayback/20220917211917mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-18T21:24:17Z",
+        "uri": "https://arquivo.pt/wayback/20220918212417mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-19T21:45:44Z",
+        "uri": "https://arquivo.pt/wayback/20220919214544mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-20T21:35:35Z",
+        "uri": "https://arquivo.pt/wayback/20220920213535mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-21T21:16:27Z",
+        "uri": "https://arquivo.pt/wayback/20220921211627mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-22T21:36:11Z",
+        "uri": "https://arquivo.pt/wayback/20220922213611mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-23T21:12:57Z",
+        "uri": "https://arquivo.pt/wayback/20220923211257mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-24T21:39:46Z",
+        "uri": "https://arquivo.pt/wayback/20220924213946mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-25T21:26:08Z",
+        "uri": "https://arquivo.pt/wayback/20220925212608mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-26T21:46:21Z",
+        "uri": "https://arquivo.pt/wayback/20220926214621mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-27T21:28:19Z",
+        "uri": "https://arquivo.pt/wayback/20220927212819mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-28T22:01:16Z",
+        "uri": "https://arquivo.pt/wayback/20220928220116mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-29T21:39:21Z",
+        "uri": "https://arquivo.pt/wayback/20220929213921mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-09-30T22:36:38Z",
+        "uri": "https://arquivo.pt/wayback/20220930223638mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-01T21:19:20Z",
+        "uri": "https://arquivo.pt/wayback/20221001211920mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-02T11:35:12Z",
+        "uri": "https://vefsafn.is/20221002113512mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-02T22:25:06Z",
+        "uri": "https://arquivo.pt/wayback/20221002222506mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-03T21:23:02Z",
+        "uri": "https://arquivo.pt/wayback/20221003212302mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-04T22:54:23Z",
+        "uri": "https://arquivo.pt/wayback/20221004225423mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-05T21:51:10Z",
+        "uri": "https://arquivo.pt/wayback/20221005215110mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-06T21:44:21Z",
+        "uri": "https://arquivo.pt/wayback/20221006214421mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-07T21:22:49Z",
+        "uri": "https://arquivo.pt/wayback/20221007212249mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-08T21:27:35Z",
+        "uri": "https://arquivo.pt/wayback/20221008212735mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-09T21:43:16Z",
+        "uri": "https://arquivo.pt/wayback/20221009214316mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-10T22:34:38Z",
+        "uri": "https://arquivo.pt/wayback/20221010223438mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-11T21:45:28Z",
+        "uri": "https://arquivo.pt/wayback/20221011214528mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-12T22:08:16Z",
+        "uri": "https://arquivo.pt/wayback/20221012220816mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-13T22:40:06Z",
+        "uri": "https://arquivo.pt/wayback/20221013224006mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-14T22:49:28Z",
+        "uri": "https://arquivo.pt/wayback/20221014224928mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-15T21:34:08Z",
+        "uri": "https://arquivo.pt/wayback/20221015213408mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-16T20:37:31Z",
+        "uri": "https://arquivo.pt/wayback/20221016203731mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-17T23:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20221017231634mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-18T21:57:56Z",
+        "uri": "https://arquivo.pt/wayback/20221018215756mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-19T22:27:01Z",
+        "uri": "https://arquivo.pt/wayback/20221019222701mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-20T21:51:30Z",
+        "uri": "https://arquivo.pt/wayback/20221020215130mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-21T22:00:28Z",
+        "uri": "https://arquivo.pt/wayback/20221021220028mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-22T22:24:07Z",
+        "uri": "https://arquivo.pt/wayback/20221022222407mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-23T21:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20221023214656mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-24T22:19:40Z",
+        "uri": "https://arquivo.pt/wayback/20221024221940mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-25T22:04:12Z",
+        "uri": "https://arquivo.pt/wayback/20221025220412mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-26T21:56:45Z",
+        "uri": "https://arquivo.pt/wayback/20221026215645mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-27T17:18:51Z",
+        "uri": "https://arquivo.pt/wayback/20221027171851mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-27T21:38:41Z",
+        "uri": "https://arquivo.pt/wayback/20221027213841mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-28T21:40:38Z",
+        "uri": "https://arquivo.pt/wayback/20221028214038mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-29T21:47:22Z",
+        "uri": "https://arquivo.pt/wayback/20221029214722mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-30T22:55:27Z",
+        "uri": "https://arquivo.pt/wayback/20221030225527mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-10-31T22:35:03Z",
+        "uri": "https://arquivo.pt/wayback/20221031223503mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-01T23:06:25Z",
+        "uri": "https://arquivo.pt/wayback/20221101230625mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-02T23:09:47Z",
+        "uri": "https://arquivo.pt/wayback/20221102230947mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-03T22:50:29Z",
+        "uri": "https://arquivo.pt/wayback/20221103225029mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-04T22:47:05Z",
+        "uri": "https://arquivo.pt/wayback/20221104224705mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-05T22:42:51Z",
+        "uri": "https://arquivo.pt/wayback/20221105224251mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-06T22:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20221106225904mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-07T22:57:31Z",
+        "uri": "https://arquivo.pt/wayback/20221107225731mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-08T23:05:18Z",
+        "uri": "https://arquivo.pt/wayback/20221108230518mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-09T23:02:04Z",
+        "uri": "https://arquivo.pt/wayback/20221109230204mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-10T23:13:29Z",
+        "uri": "https://arquivo.pt/wayback/20221110231329mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-11T23:01:18Z",
+        "uri": "https://arquivo.pt/wayback/20221111230118mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-12T22:41:42Z",
+        "uri": "https://arquivo.pt/wayback/20221112224142mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-13T22:56:19Z",
+        "uri": "https://arquivo.pt/wayback/20221113225619mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-14T23:05:12Z",
+        "uri": "https://arquivo.pt/wayback/20221114230512mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-15T22:51:03Z",
+        "uri": "https://arquivo.pt/wayback/20221115225103mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-16T23:02:48Z",
+        "uri": "https://arquivo.pt/wayback/20221116230248mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-17T22:49:55Z",
+        "uri": "https://arquivo.pt/wayback/20221117224955mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-18T23:10:29Z",
+        "uri": "https://arquivo.pt/wayback/20221118231029mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-19T23:03:04Z",
+        "uri": "https://arquivo.pt/wayback/20221119230304mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-20T22:48:01Z",
+        "uri": "https://arquivo.pt/wayback/20221120224801mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-21T22:59:02Z",
+        "uri": "https://arquivo.pt/wayback/20221121225902mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-22T22:58:33Z",
+        "uri": "https://arquivo.pt/wayback/20221122225833mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-23T23:20:00Z",
+        "uri": "https://arquivo.pt/wayback/20221123232000mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-24T22:57:42Z",
+        "uri": "https://arquivo.pt/wayback/20221124225742mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-25T23:44:43Z",
+        "uri": "https://arquivo.pt/wayback/20221125234443mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-26T23:41:49Z",
+        "uri": "https://arquivo.pt/wayback/20221126234149mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-27T23:12:34Z",
+        "uri": "https://arquivo.pt/wayback/20221127231234mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-28T23:08:42Z",
+        "uri": "https://arquivo.pt/wayback/20221128230842mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-29T23:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20221129231649mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-11-30T22:58:18Z",
+        "uri": "https://arquivo.pt/wayback/20221130225818mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-01T23:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20221201230502mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-02T22:55:24Z",
+        "uri": "https://arquivo.pt/wayback/20221202225524mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-03T22:55:08Z",
+        "uri": "https://arquivo.pt/wayback/20221203225508mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-04T23:18:15Z",
+        "uri": "https://arquivo.pt/wayback/20221204231815mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-05T23:11:44Z",
+        "uri": "https://arquivo.pt/wayback/20221205231144mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-06T23:22:13Z",
+        "uri": "https://arquivo.pt/wayback/20221206232213mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-07T22:55:45Z",
+        "uri": "https://arquivo.pt/wayback/20221207225545mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-08T23:08:17Z",
+        "uri": "https://arquivo.pt/wayback/20221208230817mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-09T23:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20221209234327mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-10T23:22:43Z",
+        "uri": "https://arquivo.pt/wayback/20221210232243mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-11T23:23:05Z",
+        "uri": "https://arquivo.pt/wayback/20221211232305mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-12T23:35:24Z",
+        "uri": "https://arquivo.pt/wayback/20221212233524mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-13T23:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20221213235343mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-14T23:35:55Z",
+        "uri": "https://arquivo.pt/wayback/20221214233555mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-15T23:33:48Z",
+        "uri": "https://arquivo.pt/wayback/20221215233348mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-16T23:53:35Z",
+        "uri": "https://arquivo.pt/wayback/20221216235335mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-17T23:25:25Z",
+        "uri": "https://arquivo.pt/wayback/20221217232525mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-18T23:31:40Z",
+        "uri": "https://arquivo.pt/wayback/20221218233140mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-19T23:26:30Z",
+        "uri": "https://arquivo.pt/wayback/20221219232630mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-20T23:23:18Z",
+        "uri": "https://arquivo.pt/wayback/20221220232318mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-22T00:06:53Z",
+        "uri": "https://arquivo.pt/wayback/20221222000653mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-22T22:42:21Z",
+        "uri": "https://arquivo.pt/wayback/20221222224221mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-23T22:26:01Z",
+        "uri": "https://arquivo.pt/wayback/20221223222601mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-24T22:35:44Z",
+        "uri": "https://arquivo.pt/wayback/20221224223544mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-25T22:36:33Z",
+        "uri": "https://arquivo.pt/wayback/20221225223633mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-26T22:32:19Z",
+        "uri": "https://arquivo.pt/wayback/20221226223219mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-27T22:23:54Z",
+        "uri": "https://arquivo.pt/wayback/20221227222354mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-28T22:26:45Z",
+        "uri": "https://arquivo.pt/wayback/20221228222645mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-29T22:34:57Z",
+        "uri": "https://arquivo.pt/wayback/20221229223457mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-30T22:21:02Z",
+        "uri": "https://arquivo.pt/wayback/20221230222102mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2022-12-31T22:39:41Z",
+        "uri": "https://arquivo.pt/wayback/20221231223941mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-01T22:21:23Z",
+        "uri": "https://arquivo.pt/wayback/20230101222123mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-02T22:33:20Z",
+        "uri": "https://arquivo.pt/wayback/20230102223320mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-03T22:34:08Z",
+        "uri": "https://arquivo.pt/wayback/20230103223408mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-05T00:56:27Z",
+        "uri": "https://arquivo.pt/wayback/20230105005627mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-07T00:14:10Z",
+        "uri": "https://arquivo.pt/wayback/20230107001410mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-07T23:20:08Z",
+        "uri": "https://arquivo.pt/wayback/20230107232008mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-08T23:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20230108233217mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-09T23:44:29Z",
+        "uri": "https://arquivo.pt/wayback/20230109234429mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-10T23:51:55Z",
+        "uri": "https://arquivo.pt/wayback/20230110235155mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-12T00:07:37Z",
+        "uri": "https://arquivo.pt/wayback/20230112000737mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-13T00:03:27Z",
+        "uri": "https://arquivo.pt/wayback/20230113000327mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-13T23:54:43Z",
+        "uri": "https://arquivo.pt/wayback/20230113235443mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-15T00:35:53Z",
+        "uri": "https://arquivo.pt/wayback/20230115003553mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-15T23:34:40Z",
+        "uri": "https://arquivo.pt/wayback/20230115233440mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-16T23:58:24Z",
+        "uri": "https://arquivo.pt/wayback/20230116235824mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-18T00:03:28Z",
+        "uri": "https://arquivo.pt/wayback/20230118000328mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-19T00:12:34Z",
+        "uri": "https://arquivo.pt/wayback/20230119001234mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-20T00:20:51Z",
+        "uri": "https://arquivo.pt/wayback/20230120002051mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-20T23:27:12Z",
+        "uri": "https://arquivo.pt/wayback/20230120232712mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-22T00:35:09Z",
+        "uri": "https://arquivo.pt/wayback/20230122003509mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-22T23:22:21Z",
+        "uri": "https://arquivo.pt/wayback/20230122232221mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-23T23:41:17Z",
+        "uri": "https://arquivo.pt/wayback/20230123234117mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-24T05:49:17Z",
+        "uri": "https://arquivo.pt/wayback/20230124054917mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-25T00:02:06Z",
+        "uri": "https://arquivo.pt/wayback/20230125000206mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-25T23:48:49Z",
+        "uri": "https://arquivo.pt/wayback/20230125234849mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-26T23:48:18Z",
+        "uri": "https://arquivo.pt/wayback/20230126234818mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-27T23:32:24Z",
+        "uri": "https://arquivo.pt/wayback/20230127233224mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-28T23:37:32Z",
+        "uri": "https://arquivo.pt/wayback/20230128233732mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-30T00:04:29Z",
+        "uri": "https://arquivo.pt/wayback/20230130000429mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-30T23:42:31Z",
+        "uri": "https://arquivo.pt/wayback/20230130234231mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-01-31T23:32:54Z",
+        "uri": "https://arquivo.pt/wayback/20230131233254mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-01T23:43:40Z",
+        "uri": "https://arquivo.pt/wayback/20230201234340mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-02T23:31:24Z",
+        "uri": "https://arquivo.pt/wayback/20230202233124mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-03T23:36:39Z",
+        "uri": "https://arquivo.pt/wayback/20230203233639mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-04T23:36:30Z",
+        "uri": "https://arquivo.pt/wayback/20230204233630mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-05T23:45:04Z",
+        "uri": "https://arquivo.pt/wayback/20230205234504mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-06T23:46:22Z",
+        "uri": "https://arquivo.pt/wayback/20230206234622mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-08T00:33:26Z",
+        "uri": "https://arquivo.pt/wayback/20230208003326mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-09T00:44:35Z",
+        "uri": "https://arquivo.pt/wayback/20230209004435mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-10T00:00:06Z",
+        "uri": "https://arquivo.pt/wayback/20230210000006mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-10T23:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20230210235343mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-11T23:44:06Z",
+        "uri": "https://arquivo.pt/wayback/20230211234406mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-12T23:39:48Z",
+        "uri": "https://arquivo.pt/wayback/20230212233948mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-13T23:49:25Z",
+        "uri": "https://arquivo.pt/wayback/20230213234925mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-14T23:44:41Z",
+        "uri": "https://arquivo.pt/wayback/20230214234441mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-15T23:59:07Z",
+        "uri": "https://arquivo.pt/wayback/20230215235907mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-17T23:46:23Z",
+        "uri": "https://arquivo.pt/wayback/20230217234623mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-18T22:59:09Z",
+        "uri": "https://arquivo.pt/wayback/20230218225909mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-19T22:40:15Z",
+        "uri": "https://arquivo.pt/wayback/20230219224015mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-20T22:42:11Z",
+        "uri": "https://arquivo.pt/wayback/20230220224211mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-21T22:59:39Z",
+        "uri": "https://arquivo.pt/wayback/20230221225939mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-22T22:56:00Z",
+        "uri": "https://arquivo.pt/wayback/20230222225600mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-23T23:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20230223230345mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-25T00:06:40Z",
+        "uri": "https://arquivo.pt/wayback/20230225000640mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-25T23:07:26Z",
+        "uri": "https://arquivo.pt/wayback/20230225230726mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-26T23:05:48Z",
+        "uri": "https://arquivo.pt/wayback/20230226230548mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-27T22:56:06Z",
+        "uri": "https://arquivo.pt/wayback/20230227225606mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-02-28T22:55:19Z",
+        "uri": "https://arquivo.pt/wayback/20230228225519mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-01T22:48:30Z",
+        "uri": "https://arquivo.pt/wayback/20230301224830mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-02T22:57:06Z",
+        "uri": "https://arquivo.pt/wayback/20230302225706mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-03T22:45:14Z",
+        "uri": "https://arquivo.pt/wayback/20230303224514mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-04T22:52:16Z",
+        "uri": "https://arquivo.pt/wayback/20230304225216mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-05T22:57:38Z",
+        "uri": "https://arquivo.pt/wayback/20230305225738mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-06T22:55:52Z",
+        "uri": "https://arquivo.pt/wayback/20230306225552mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-07T23:14:23Z",
+        "uri": "https://arquivo.pt/wayback/20230307231423mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-08T23:11:40Z",
+        "uri": "https://arquivo.pt/wayback/20230308231140mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-09T23:12:07Z",
+        "uri": "https://arquivo.pt/wayback/20230309231207mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-10T23:07:11Z",
+        "uri": "https://arquivo.pt/wayback/20230310230711mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-11T23:04:49Z",
+        "uri": "https://arquivo.pt/wayback/20230311230449mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-12T03:01:53Z",
+        "uri": "https://vefsafn.is/20230312030153mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-12T23:15:47Z",
+        "uri": "https://arquivo.pt/wayback/20230312231547mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-13T23:10:06Z",
+        "uri": "https://arquivo.pt/wayback/20230313231006mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-14T23:27:32Z",
+        "uri": "https://arquivo.pt/wayback/20230314232732mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-15T23:22:08Z",
+        "uri": "https://arquivo.pt/wayback/20230315232208mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-16T23:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20230316231807mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-18T00:18:37Z",
+        "uri": "https://arquivo.pt/wayback/20230318001837mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-19T00:21:49Z",
+        "uri": "https://arquivo.pt/wayback/20230319002149mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-21T03:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20230321031721mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-28T00:00:32Z",
+        "uri": "https://arquivo.pt/wayback/20230328000032mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-28T23:19:04Z",
+        "uri": "https://arquivo.pt/wayback/20230328231904mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-29T23:56:13Z",
+        "uri": "https://arquivo.pt/wayback/20230329235613mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-30T23:30:54Z",
+        "uri": "https://arquivo.pt/wayback/20230330233054mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-03-31T23:59:42Z",
+        "uri": "https://arquivo.pt/wayback/20230331235942mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-06-25T09:02:47Z",
+        "uri": "https://vefsafn.is/20230625090247mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      },
+      {
+        "datetime": "2023-10-16T03:33:17Z",
+        "uri": "https://vefsafn.is/20231016033317mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+      }
+    ],
+    "first": {
+      "datetime": "2022-02-26T00:07:45Z",
+      "uri": "https://arquivo.pt/wayback/20220226000745mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+    },
+    "last": {
+      "datetime": "2023-10-16T03:33:17Z",
+      "uri": "https://vefsafn.is/20231016033317mp_/https://donate.unhcr.org/int/en/ukraine-emergency"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://donate.unhcr.org/int/en/ukraine-emergency",
+    "json_format": "http://localhost:1208/timemap/json/https://donate.unhcr.org/int/en/ukraine-emergency",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://donate.unhcr.org/int/en/ukraine-emergency"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://donate.unhcr.org/int/en/ukraine-emergency"
+}

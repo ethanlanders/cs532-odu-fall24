@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.odu.edu/partnerships/community/programs/upwardbound",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community/programs/upwardbound",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-11T02:16:30Z",
+        "uri": "https://arquivo.pt/wayback/20211111021630mp_/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-05-07T22:11:59Z",
+        "uri": "https://arquivo.pt/wayback/20220507221159mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-05-16T04:42:13Z",
+        "uri": "https://arquivo.pt/wayback/20220516044213mp_/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-08-18T08:05:44Z",
+        "uri": "https://arquivo.pt/wayback/20220818080544mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-11-16T04:03:34Z",
+        "uri": "https://arquivo.pt/wayback/20221116040334mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-01-24T19:52:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124195200mp_/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-11T02:16:30Z",
+      "uri": "https://arquivo.pt/wayback/20211111021630mp_/http://www.odu.edu/partnerships/community/programs/upwardbound"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:52:00Z",
+      "uri": "https://arquivo.pt/wayback/20230124195200mp_/https://www.odu.edu/partnerships/community/programs/upwardbound"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/partnerships/community/programs/upwardbound",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community/programs/upwardbound",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/partnerships/community/programs/upwardbound"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/partnerships/community/programs/upwardbound"
+}

@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://arxiv.org/login",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/login",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-03-19T08:28:37Z",
+        "uri": "https://arquivo.pt/wayback/20190319082837mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2020-02-09T17:22:06Z",
+        "uri": "https://arquivo.pt/wayback/20200209172206mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2020-06-02T00:23:32Z",
+        "uri": "https://arquivo.pt/wayback/20200602002332mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-03-02T03:05:42Z",
+        "uri": "https://arquivo.pt/wayback/20210302030542mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-03-09T20:24:03Z",
+        "uri": "https://web.archive.org.au/awa/20210309202403mp_/http://pandora.nla.gov.au/pan/52190/20210310-0000/arxiv.org/login.html"
+      },
+      {
+        "datetime": "2021-06-02T19:44:26Z",
+        "uri": "https://arquivo.pt/wayback/20210602194426mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-06-02T19:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20210602194427mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-10-22T08:37:09Z",
+        "uri": "https://arquivo.pt/wayback/20211022083709mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-10-22T08:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20211022083710mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2021-11-10T07:25:06Z",
+        "uri": "https://arquivo.pt/wayback/20211110072506mp_/https://arxiv.org/login"
+      },
+      {
+        "datetime": "2022-07-18T20:39:32Z",
+        "uri": "https://arquivo.pt/wayback/20220718203932mp_/https://arxiv.org/login"
+      }
+    ],
+    "first": {
+      "datetime": "2019-03-19T08:28:37Z",
+      "uri": "https://arquivo.pt/wayback/20190319082837mp_/https://arxiv.org/login"
+    },
+    "last": {
+      "datetime": "2022-07-18T20:39:32Z",
+      "uri": "https://arquivo.pt/wayback/20220718203932mp_/https://arxiv.org/login"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/login",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/login",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/login"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/login"
+}

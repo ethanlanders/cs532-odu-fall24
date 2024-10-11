@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.odu.edu/accessibility",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/accessibility",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-16T03:31:37Z",
+        "uri": "https://arquivo.pt/wayback/20220516033137mp_/https://www.odu.edu/accessibility"
+      },
+      {
+        "datetime": "2022-05-16T03:31:41Z",
+        "uri": "https://arquivo.pt/wayback/20220516033141mp_/http://www.odu.edu/accessibility"
+      },
+      {
+        "datetime": "2022-07-30T14:58:37Z",
+        "uri": "https://arquivo.pt/wayback/20220730145837mp_/https://odu.edu/accessibility"
+      },
+      {
+        "datetime": "2022-08-05T10:32:15Z",
+        "uri": "https://arquivo.pt/wayback/20220805103215mp_/http://www.odu.edu/accessibility"
+      },
+      {
+        "datetime": "2022-10-11T02:32:22Z",
+        "uri": "https://arquivo.pt/wayback/20221011023222mp_/https://odu.edu/accessibility"
+      },
+      {
+        "datetime": "2023-01-24T20:18:24Z",
+        "uri": "https://arquivo.pt/wayback/20230124201824mp_/https://www.odu.edu/accessibility"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-16T03:31:37Z",
+      "uri": "https://arquivo.pt/wayback/20220516033137mp_/https://www.odu.edu/accessibility"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:18:24Z",
+      "uri": "https://arquivo.pt/wayback/20230124201824mp_/https://www.odu.edu/accessibility"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/accessibility",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/accessibility",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/accessibility"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/accessibility"
+}

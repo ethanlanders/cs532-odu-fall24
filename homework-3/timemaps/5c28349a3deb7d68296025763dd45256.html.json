@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/facultystaff",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:34:36Z",
+        "uri": "https://arquivo.pt/wayback/20210910153436mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:30Z",
+        "uri": "https://arquivo.pt/wayback/20211103111430mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:34Z",
+        "uri": "https://arquivo.pt/wayback/20211103111434mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-22T10:20:52Z",
+        "uri": "https://arquivo.pt/wayback/20220122102052mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-26T05:33:19Z",
+        "uri": "https://arquivo.pt/wayback/20220126053319mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-17T05:26:52Z",
+        "uri": "https://arquivo.pt/wayback/20220417052652mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-22T17:14:31Z",
+        "uri": "https://arquivo.pt/wayback/20220422171431mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-22T17:14:35Z",
+        "uri": "https://arquivo.pt/wayback/20220422171435mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-24T18:50:39Z",
+        "uri": "https://arquivo.pt/wayback/20220424185039mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-07-30T14:36:54Z",
+        "uri": "https://arquivo.pt/wayback/20220730143654mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-11T02:11:18Z",
+        "uri": "https://arquivo.pt/wayback/20221011021118mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-01-24T20:56:52Z",
+        "uri": "https://arquivo.pt/wayback/20230124205652mp_/https://www.odu.edu/facultystaff"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:34:36Z",
+      "uri": "https://arquivo.pt/wayback/20210910153436mp_/https://www.odu.edu/facultystaff"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:56:52Z",
+      "uri": "https://arquivo.pt/wayback/20230124205652mp_/https://www.odu.edu/facultystaff"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/facultystaff",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/facultystaff"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/facultystaff"
+}

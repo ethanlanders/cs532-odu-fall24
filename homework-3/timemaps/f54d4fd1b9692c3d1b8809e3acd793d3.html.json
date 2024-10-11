@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pers?prefix=G",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=G",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:21:55Z",
+        "uri": "https://arquivo.pt/wayback/20191114222155mp_/https://dblp.uni-trier.de/pers?prefix=G"
+      },
+      {
+        "datetime": "2020-02-25T17:23:10Z",
+        "uri": "https://arquivo.pt/wayback/20200225172310mp_/https://dblp.uni-trier.de/pers/?prefix=G"
+      },
+      {
+        "datetime": "2020-03-12T15:30:01Z",
+        "uri": "https://arquivo.pt/wayback/20200312153001mp_/https://dblp.uni-trier.de/pers?prefix=G"
+      },
+      {
+        "datetime": "2021-09-19T17:03:26Z",
+        "uri": "https://arquivo.pt/wayback/20210919170326mp_/https://dblp.uni-trier.de/pers?prefix=G"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:21:55Z",
+      "uri": "https://arquivo.pt/wayback/20191114222155mp_/https://dblp.uni-trier.de/pers?prefix=G"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:03:26Z",
+      "uri": "https://arquivo.pt/wayback/20210919170326mp_/https://dblp.uni-trier.de/pers?prefix=G"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pers?prefix=G",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=G",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pers?prefix=G"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pers?prefix=G"
+}

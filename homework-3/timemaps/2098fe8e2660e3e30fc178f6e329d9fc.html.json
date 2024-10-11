@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+  "self": "http://localhost:1208/timemap/json/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-10T23:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20200210233122mp_/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-10T23:31:22Z",
+      "uri": "https://arquivo.pt/wayback/20200210233122mp_/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+    },
+    "last": {
+      "datetime": "2020-02-10T23:31:22Z",
+      "uri": "https://arquivo.pt/wayback/20200210233122mp_/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+    "json_format": "http://localhost:1208/timemap/json/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+}

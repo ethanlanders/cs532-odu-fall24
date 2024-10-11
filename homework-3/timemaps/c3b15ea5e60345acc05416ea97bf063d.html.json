@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pers?prefix=K",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=K",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:22:12Z",
+        "uri": "https://arquivo.pt/wayback/20191114222212mp_/https://dblp.uni-trier.de/pers?prefix=K"
+      },
+      {
+        "datetime": "2020-02-25T17:30:08Z",
+        "uri": "https://arquivo.pt/wayback/20200225173008mp_/https://dblp.uni-trier.de/pers/?prefix=K"
+      },
+      {
+        "datetime": "2020-03-12T15:30:20Z",
+        "uri": "https://arquivo.pt/wayback/20200312153020mp_/https://dblp.uni-trier.de/pers?prefix=K"
+      },
+      {
+        "datetime": "2021-09-19T17:03:42Z",
+        "uri": "https://arquivo.pt/wayback/20210919170342mp_/https://dblp.uni-trier.de/pers?prefix=K"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:22:12Z",
+      "uri": "https://arquivo.pt/wayback/20191114222212mp_/https://dblp.uni-trier.de/pers?prefix=K"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:03:42Z",
+      "uri": "https://arquivo.pt/wayback/20210919170342mp_/https://dblp.uni-trier.de/pers?prefix=K"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pers?prefix=K",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=K",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pers?prefix=K"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pers?prefix=K"
+}

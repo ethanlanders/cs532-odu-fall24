@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/cepd",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/cepd",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:36:17Z",
+        "uri": "https://arquivo.pt/wayback/20210910153617mp_/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-10-21T05:29:38Z",
+        "uri": "https://arquivo.pt/wayback/20211021052938mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-11-03T11:17:12Z",
+        "uri": "https://arquivo.pt/wayback/20211103111712mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-22T10:30:38Z",
+        "uri": "https://arquivo.pt/wayback/20220122103038mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-26T05:35:16Z",
+        "uri": "https://arquivo.pt/wayback/20220126053516mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-17T05:37:16Z",
+        "uri": "https://arquivo.pt/wayback/20220417053716mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-20T16:27:47Z",
+        "uri": "https://arquivo.pt/wayback/20220420162747mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-22T17:17:14Z",
+        "uri": "https://arquivo.pt/wayback/20220422171714mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-24T18:52:14Z",
+        "uri": "https://arquivo.pt/wayback/20220424185214mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-07-30T14:45:34Z",
+        "uri": "https://arquivo.pt/wayback/20220730144534mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-11T02:19:45Z",
+        "uri": "https://arquivo.pt/wayback/20221011021945mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-24T19:30:10Z",
+        "uri": "https://arquivo.pt/wayback/20230124193010mp_/https://www.odu.edu/cepd"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:36:17Z",
+      "uri": "https://arquivo.pt/wayback/20210910153617mp_/https://www.odu.edu/cepd"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:30:10Z",
+      "uri": "https://arquivo.pt/wayback/20230124193010mp_/https://www.odu.edu/cepd"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/cepd",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/cepd",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/cepd"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/cepd"
+}

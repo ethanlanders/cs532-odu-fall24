@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-14T10:26:13Z",
+        "uri": "https://arquivo.pt/wayback/20200214102613mp_/https://dblp.uni-trier.de/db/conf/spire/spire2006.html"
+      },
+      {
+        "datetime": "2020-03-12T16:16:33Z",
+        "uri": "https://arquivo.pt/wayback/20200312161633mp_/https://dblp.uni-trier.de/db/conf/spire/spire2006.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-14T10:26:13Z",
+      "uri": "https://arquivo.pt/wayback/20200214102613mp_/https://dblp.uni-trier.de/db/conf/spire/spire2006.html"
+    },
+    "last": {
+      "datetime": "2020-03-12T16:16:33Z",
+      "uri": "https://arquivo.pt/wayback/20200312161633mp_/https://dblp.uni-trier.de/db/conf/spire/spire2006.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/conf/spire/spire2006.html#BastMW06"
+}

@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/about/visitors",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/visitors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-05T08:21:25Z",
+        "uri": "https://arquivo.pt/wayback/20211105082125mp_/https://odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2021-11-11T02:16:52Z",
+        "uri": "https://arquivo.pt/wayback/20211111021652mp_/http://www.odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-04-20T16:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20220420164023mp_/https://odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-04-22T19:02:08Z",
+        "uri": "https://arquivo.pt/wayback/20220422190208mp_/http://www.odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-05-07T22:13:44Z",
+        "uri": "https://arquivo.pt/wayback/20220507221344mp_/https://odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-05-16T04:42:28Z",
+        "uri": "https://arquivo.pt/wayback/20220516044228mp_/http://www.odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-08-18T08:07:30Z",
+        "uri": "https://arquivo.pt/wayback/20220818080730mp_/https://odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2022-11-16T04:04:58Z",
+        "uri": "https://arquivo.pt/wayback/20221116040458mp_/https://odu.edu/about/visitors"
+      },
+      {
+        "datetime": "2023-01-24T19:24:50Z",
+        "uri": "https://arquivo.pt/wayback/20230124192450mp_/https://www.odu.edu/about/visitors"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-05T08:21:25Z",
+      "uri": "https://arquivo.pt/wayback/20211105082125mp_/https://odu.edu/about/visitors"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:24:50Z",
+      "uri": "https://arquivo.pt/wayback/20230124192450mp_/https://www.odu.edu/about/visitors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/visitors",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/visitors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/visitors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/visitors"
+}

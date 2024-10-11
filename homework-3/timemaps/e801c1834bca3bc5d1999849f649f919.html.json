@@ -1,0 +1,5062 @@
+{
+  "original_uri": "https://www.cornell.edu/",
+  "self": "http://localhost:1208/timemap/json/https://www.cornell.edu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "1997-07-30T16:36:57Z",
+        "uri": "http://archive.md/19970730163657/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2000-06-21T00:08:04Z",
+        "uri": "http://archive.md/20000621000804/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2001-07-02T23:16:18Z",
+        "uri": "http://archive.md/20010702231618/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2004-10-23T10:27:27Z",
+        "uri": "https://vefsafn.is/20041023102727mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2005-06-24T19:48:17Z",
+        "uri": "https://vefsafn.is/20050624194817mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2005-07-22T22:11:17Z",
+        "uri": "https://web.archive.org.au/awa/20050722221117mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2005-11-10T17:46:24Z",
+        "uri": "https://vefsafn.is/20051110174624mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2006-03-17T04:43:24Z",
+        "uri": "https://vefsafn.is/20060317044324mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2006-05-24T07:50:21Z",
+        "uri": "https://vefsafn.is/20060524075021mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2006-11-16T23:58:11Z",
+        "uri": "https://vefsafn.is/20061116235811mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2007-05-03T10:51:47Z",
+        "uri": "https://vefsafn.is/20070503105147mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2009-10-07T23:41:24Z",
+        "uri": "https://arquivo.pt/wayback/20091007234124mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2009-11-24T17:19:33Z",
+        "uri": "https://vefsafn.is/20091124171933mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2010-06-03T20:09:04Z",
+        "uri": "https://arquivo.pt/wayback/20100603200904mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2010-08-07T19:49:53Z",
+        "uri": "https://arquivo.pt/wayback/20100807194953mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-01-31T06:36:06Z",
+        "uri": "https://arquivo.pt/wayback/20110131063606mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-03-02T01:32:44Z",
+        "uri": "https://web.archive.org.au/awa/20110302013244mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-04-06T11:20:35Z",
+        "uri": "https://web.archive.org.au/awa/20110406112035mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-04-08T17:49:10Z",
+        "uri": "https://web.archive.org.au/awa/20110408174910mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-04-11T15:39:17Z",
+        "uri": "https://web.archive.org.au/awa/20110411153917mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2011-04-22T12:10:58Z",
+        "uri": "https://web.archive.org.au/awa/20110422121058mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-05-31T10:56:00Z",
+        "uri": "https://arquivo.pt/wayback/20110531105600mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2011-07-13T07:04:20Z",
+        "uri": "https://arquivo.pt/wayback/20110713070420mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2012-03-21T20:19:56Z",
+        "uri": "https://web.archive.org.au/awa/20120321201956mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2012-03-28T07:04:08Z",
+        "uri": "https://vefsafn.is/20120328070408mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2012-05-25T01:41:34Z",
+        "uri": "http://archive.md/20120525014134/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2013-03-17T09:23:46Z",
+        "uri": "https://vefsafn.is/20130317092346mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2013-05-04T18:14:55Z",
+        "uri": "http://archive.md/20130504181455/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2013-11-07T22:55:58Z",
+        "uri": "https://arquivo.pt/wayback/20131107225558mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2013-11-29T14:15:55Z",
+        "uri": "http://archive.md/20131129141555/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-01-27T02:06:33Z",
+        "uri": "https://web.archive.org.au/awa/20140127020633mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-02-17T15:27:51Z",
+        "uri": "http://archive.md/20140217152751/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-02-21T23:24:52Z",
+        "uri": "https://web.archive.org.au/awa/20140221232452mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-02-22T19:05:56Z",
+        "uri": "https://web.archive.org.au/awa/20140222190556mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-03-01T12:41:21Z",
+        "uri": "https://web.archive.org.au/awa/20140301124121mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-03-22T22:55:39Z",
+        "uri": "http://archive.md/20140322225539/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-07-19T21:20:45Z",
+        "uri": "https://vefsafn.is/20140719212045mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2014-07-19T21:20:46Z",
+        "uri": "https://vefsafn.is/20140719212046mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-08-03T08:50:16Z",
+        "uri": "http://archive.md/20140803085016/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-08-04T00:23:12Z",
+        "uri": "http://archive.md/20140804002312/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-09-06T18:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20140906181511mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-10-27T12:49:05Z",
+        "uri": "https://vefsafn.is/20141027124905mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2014-10-27T14:13:56Z",
+        "uri": "https://vefsafn.is/20141027141356mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2014-11-27T19:04:48Z",
+        "uri": "https://arquivo.pt/wayback/20141127190448mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-03-09T12:14:22Z",
+        "uri": "https://vefsafn.is/20150309121422mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2015-03-09T12:14:23Z",
+        "uri": "https://vefsafn.is/20150309121423mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-05-26T03:27:38Z",
+        "uri": "http://archive.md/20150526032738/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-05-26T04:03:19Z",
+        "uri": "http://archive.md/20150526040319/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-07-03T18:10:30Z",
+        "uri": "https://vefsafn.is/20150703181030mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-08-15T05:21:18Z",
+        "uri": "https://arquivo.pt/wayback/20150815052118mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2015-10-15T13:29:01Z",
+        "uri": "https://vefsafn.is/20151015132901mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-01-10T05:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20160110055542mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-02-04T23:53:19Z",
+        "uri": "https://vefsafn.is/20160204235319mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-03-11T20:20:02Z",
+        "uri": "https://web.archive.org.au/awa/20160311202002mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-03-15T06:58:40Z",
+        "uri": "https://arquivo.pt/wayback/20160315065840mp_/http://b.lewenstein@cornell.edu/"
+      },
+      {
+        "datetime": "2016-03-15T13:15:03Z",
+        "uri": "https://arquivo.pt/wayback/20160315131503mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-05-14T20:30:39Z",
+        "uri": "https://arquivo.pt/wayback/20160514203039mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-05-17T22:42:21Z",
+        "uri": "https://arquivo.pt/wayback/20160517224221mp_/http://b.lewenstein@cornell.edu/"
+      },
+      {
+        "datetime": "2016-05-18T05:22:21Z",
+        "uri": "https://arquivo.pt/wayback/20160518052221mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-07-15T00:43:36Z",
+        "uri": "https://arquivo.pt/wayback/20160715004336mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2016-09-07T19:30:50Z",
+        "uri": "http://archive.md/20160907193050/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2017-01-05T00:57:53Z",
+        "uri": "http://archive.md/20170105005753/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2017-06-06T15:08:32Z",
+        "uri": "https://arquivo.pt/wayback/20170606150832mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2017-06-24T19:55:11Z",
+        "uri": "http://archive.md/20170624195511/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-09T18:29:06Z",
+        "uri": "https://arquivo.pt/wayback/20180409182906mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-11T12:25:37Z",
+        "uri": "https://arquivo.pt/wayback/20180411122537mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-14T01:20:00Z",
+        "uri": "https://arquivo.pt/wayback/20180414012000mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-18T08:51:54Z",
+        "uri": "https://arquivo.pt/wayback/20180418085154mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-19T06:59:33Z",
+        "uri": "https://arquivo.pt/wayback/20180419065933mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-04-20T11:08:33Z",
+        "uri": "https://arquivo.pt/wayback/20180420110833mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2018-06-05T21:16:27Z",
+        "uri": "http://archive.md/20180605211627/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-12T18:23:05Z",
+        "uri": "https://arquivo.pt/wayback/20180712182305mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-12T18:25:44Z",
+        "uri": "https://arquivo.pt/wayback/20180712182544mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-19T00:28:08Z",
+        "uri": "https://arquivo.pt/wayback/20180719002808mp_/http://robert.kleinberg@cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-27T07:43:20Z",
+        "uri": "https://arquivo.pt/wayback/20180727074320mp_/http://db468@cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-27T09:22:12Z",
+        "uri": "https://arquivo.pt/wayback/20180727092212mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-28T00:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20180728000048mp_/http://pll3@cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-28T07:55:06Z",
+        "uri": "https://arquivo.pt/wayback/20180728075506mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-29T06:59:56Z",
+        "uri": "https://arquivo.pt/wayback/20180729065956mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-30T07:34:52Z",
+        "uri": "https://arquivo.pt/wayback/20180730073452mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-07-31T07:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20180731075142mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-01T07:28:00Z",
+        "uri": "https://arquivo.pt/wayback/20180801072800mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-02T07:40:00Z",
+        "uri": "https://arquivo.pt/wayback/20180802074000mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-03T08:07:32Z",
+        "uri": "https://arquivo.pt/wayback/20180803080732mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-04T07:36:43Z",
+        "uri": "https://arquivo.pt/wayback/20180804073643mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-05T07:06:43Z",
+        "uri": "https://arquivo.pt/wayback/20180805070643mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-06T07:28:46Z",
+        "uri": "https://arquivo.pt/wayback/20180806072846mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-07T06:09:35Z",
+        "uri": "https://arquivo.pt/wayback/20180807060935mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-08T07:27:18Z",
+        "uri": "https://arquivo.pt/wayback/20180808072718mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-09T07:24:56Z",
+        "uri": "https://arquivo.pt/wayback/20180809072456mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-10T07:48:24Z",
+        "uri": "https://arquivo.pt/wayback/20180810074824mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-11T07:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20180811072523mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-12T07:17:04Z",
+        "uri": "https://arquivo.pt/wayback/20180812071704mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-13T07:13:21Z",
+        "uri": "https://arquivo.pt/wayback/20180813071321mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-14T07:00:09Z",
+        "uri": "https://arquivo.pt/wayback/20180814070009mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-15T07:58:35Z",
+        "uri": "https://arquivo.pt/wayback/20180815075835mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-16T07:46:22Z",
+        "uri": "https://arquivo.pt/wayback/20180816074622mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-17T06:48:42Z",
+        "uri": "https://arquivo.pt/wayback/20180817064842mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-18T08:26:03Z",
+        "uri": "https://arquivo.pt/wayback/20180818082603mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-19T07:18:21Z",
+        "uri": "https://arquivo.pt/wayback/20180819071821mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-20T07:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20180820072801mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-21T07:39:56Z",
+        "uri": "https://arquivo.pt/wayback/20180821073956mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-22T07:11:29Z",
+        "uri": "https://arquivo.pt/wayback/20180822071129mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-23T07:29:27Z",
+        "uri": "https://arquivo.pt/wayback/20180823072927mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-24T07:34:06Z",
+        "uri": "https://arquivo.pt/wayback/20180824073406mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-25T07:09:10Z",
+        "uri": "https://arquivo.pt/wayback/20180825070910mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-26T06:31:49Z",
+        "uri": "https://arquivo.pt/wayback/20180826063149mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-27T06:46:58Z",
+        "uri": "https://arquivo.pt/wayback/20180827064658mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-28T06:49:27Z",
+        "uri": "https://arquivo.pt/wayback/20180828064927mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-29T07:55:15Z",
+        "uri": "https://arquivo.pt/wayback/20180829075515mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-30T07:43:26Z",
+        "uri": "https://arquivo.pt/wayback/20180830074326mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-08-31T07:54:38Z",
+        "uri": "https://arquivo.pt/wayback/20180831075438mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-01T07:02:12Z",
+        "uri": "https://arquivo.pt/wayback/20180901070212mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-02T07:31:51Z",
+        "uri": "https://arquivo.pt/wayback/20180902073151mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-03T07:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20180903071037mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-04T07:38:36Z",
+        "uri": "https://arquivo.pt/wayback/20180904073836mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-05T07:02:31Z",
+        "uri": "https://arquivo.pt/wayback/20180905070231mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-06T08:11:56Z",
+        "uri": "https://arquivo.pt/wayback/20180906081156mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-07T07:04:19Z",
+        "uri": "https://arquivo.pt/wayback/20180907070419mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-08T06:48:58Z",
+        "uri": "https://arquivo.pt/wayback/20180908064858mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-09T06:17:13Z",
+        "uri": "https://arquivo.pt/wayback/20180909061713mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-10T06:36:40Z",
+        "uri": "https://arquivo.pt/wayback/20180910063640mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-11T06:13:12Z",
+        "uri": "https://arquivo.pt/wayback/20180911061312mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-12T06:46:01Z",
+        "uri": "https://arquivo.pt/wayback/20180912064601mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-13T05:22:11Z",
+        "uri": "https://arquivo.pt/wayback/20180913052211mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-14T05:35:35Z",
+        "uri": "https://arquivo.pt/wayback/20180914053535mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-15T06:57:28Z",
+        "uri": "https://arquivo.pt/wayback/20180915065728mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-16T06:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20180916064427mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-17T06:24:05Z",
+        "uri": "https://arquivo.pt/wayback/20180917062405mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-18T06:13:23Z",
+        "uri": "https://arquivo.pt/wayback/20180918061323mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-19T06:38:06Z",
+        "uri": "https://arquivo.pt/wayback/20180919063806mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-20T06:42:10Z",
+        "uri": "https://arquivo.pt/wayback/20180920064210mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-21T05:45:08Z",
+        "uri": "https://arquivo.pt/wayback/20180921054508mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-22T06:44:52Z",
+        "uri": "https://arquivo.pt/wayback/20180922064452mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-23T06:44:52Z",
+        "uri": "https://arquivo.pt/wayback/20180923064452mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-24T06:34:01Z",
+        "uri": "https://arquivo.pt/wayback/20180924063401mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-25T07:04:22Z",
+        "uri": "https://arquivo.pt/wayback/20180925070422mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-26T07:11:47Z",
+        "uri": "https://arquivo.pt/wayback/20180926071147mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-27T07:02:29Z",
+        "uri": "https://arquivo.pt/wayback/20180927070229mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-28T06:28:13Z",
+        "uri": "https://arquivo.pt/wayback/20180928062813mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-29T06:38:12Z",
+        "uri": "https://arquivo.pt/wayback/20180929063812mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-09-30T06:19:25Z",
+        "uri": "https://arquivo.pt/wayback/20180930061925mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-01T04:41:13Z",
+        "uri": "https://arquivo.pt/wayback/20181001044113mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-02T06:01:23Z",
+        "uri": "https://arquivo.pt/wayback/20181002060123mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-03T06:31:30Z",
+        "uri": "https://arquivo.pt/wayback/20181003063130mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-04T06:50:51Z",
+        "uri": "https://arquivo.pt/wayback/20181004065051mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-05T06:53:36Z",
+        "uri": "https://arquivo.pt/wayback/20181005065336mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-06T06:39:18Z",
+        "uri": "https://arquivo.pt/wayback/20181006063918mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-07T07:05:33Z",
+        "uri": "https://arquivo.pt/wayback/20181007070533mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-08T05:41:42Z",
+        "uri": "https://arquivo.pt/wayback/20181008054142mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-09T05:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20181009051931mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-09T22:40:01Z",
+        "uri": "https://arquivo.pt/wayback/20181009224001mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-11T03:51:08Z",
+        "uri": "https://arquivo.pt/wayback/20181011035108mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-12T06:53:38Z",
+        "uri": "https://arquivo.pt/wayback/20181012065338mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-13T06:53:15Z",
+        "uri": "https://arquivo.pt/wayback/20181013065315mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-14T07:10:17Z",
+        "uri": "https://arquivo.pt/wayback/20181014071017mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-15T06:28:02Z",
+        "uri": "https://arquivo.pt/wayback/20181015062802mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-16T06:51:49Z",
+        "uri": "https://arquivo.pt/wayback/20181016065149mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-17T07:54:57Z",
+        "uri": "https://arquivo.pt/wayback/20181017075457mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-18T07:13:01Z",
+        "uri": "https://arquivo.pt/wayback/20181018071301mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-19T05:51:26Z",
+        "uri": "https://arquivo.pt/wayback/20181019055126mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-20T05:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20181020052224mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-21T07:13:50Z",
+        "uri": "https://arquivo.pt/wayback/20181021071350mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-22T06:26:14Z",
+        "uri": "https://arquivo.pt/wayback/20181022062614mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-23T04:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20181023045142mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-24T06:51:18Z",
+        "uri": "https://arquivo.pt/wayback/20181024065118mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-25T06:16:54Z",
+        "uri": "https://arquivo.pt/wayback/20181025061654mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-26T07:03:23Z",
+        "uri": "https://arquivo.pt/wayback/20181026070323mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-27T07:19:38Z",
+        "uri": "https://arquivo.pt/wayback/20181027071938mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-28T06:44:22Z",
+        "uri": "https://arquivo.pt/wayback/20181028064422mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-29T08:58:38Z",
+        "uri": "https://arquivo.pt/wayback/20181029085838mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-30T08:39:58Z",
+        "uri": "https://arquivo.pt/wayback/20181030083958mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-10-31T08:28:55Z",
+        "uri": "https://arquivo.pt/wayback/20181031082855mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-01T08:41:49Z",
+        "uri": "https://arquivo.pt/wayback/20181101084149mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-02T07:49:52Z",
+        "uri": "https://arquivo.pt/wayback/20181102074952mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-03T09:01:21Z",
+        "uri": "https://arquivo.pt/wayback/20181103090121mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-04T00:19:18Z",
+        "uri": "https://arquivo.pt/wayback/20181104001918mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-04T09:37:16Z",
+        "uri": "https://arquivo.pt/wayback/20181104093716mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-05T00:13:16Z",
+        "uri": "https://arquivo.pt/wayback/20181105001316mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-05T09:27:51Z",
+        "uri": "https://arquivo.pt/wayback/20181105092751mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-06T00:47:19Z",
+        "uri": "https://arquivo.pt/wayback/20181106004719mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-06T10:08:40Z",
+        "uri": "https://arquivo.pt/wayback/20181106100840mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-07T00:21:53Z",
+        "uri": "https://arquivo.pt/wayback/20181107002153mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-07T08:38:28Z",
+        "uri": "https://arquivo.pt/wayback/20181107083828mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-08T00:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20181108000527mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-08T07:25:25Z",
+        "uri": "https://arquivo.pt/wayback/20181108072525mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-08T23:56:07Z",
+        "uri": "https://arquivo.pt/wayback/20181108235607mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-08T23:56:24Z",
+        "uri": "https://arquivo.pt/wayback/20181108235624mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-09T23:30:39Z",
+        "uri": "https://arquivo.pt/wayback/20181109233039mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-10T06:53:46Z",
+        "uri": "https://arquivo.pt/wayback/20181110065346mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-10T23:28:35Z",
+        "uri": "https://arquivo.pt/wayback/20181110232835mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-11T07:01:38Z",
+        "uri": "https://arquivo.pt/wayback/20181111070138mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-11T23:42:18Z",
+        "uri": "https://arquivo.pt/wayback/20181111234218mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-11T23:45:12Z",
+        "uri": "https://arquivo.pt/wayback/20181111234512mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-13T00:09:42Z",
+        "uri": "https://arquivo.pt/wayback/20181113000942mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-13T07:54:29Z",
+        "uri": "https://arquivo.pt/wayback/20181113075429mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-14T04:30:32Z",
+        "uri": "https://arquivo.pt/wayback/20181114043032mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-14T04:30:46Z",
+        "uri": "https://arquivo.pt/wayback/20181114043046mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-15T04:36:47Z",
+        "uri": "https://arquivo.pt/wayback/20181115043647mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-15T04:37:05Z",
+        "uri": "https://arquivo.pt/wayback/20181115043705mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-16T04:17:40Z",
+        "uri": "https://arquivo.pt/wayback/20181116041740mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-16T04:17:55Z",
+        "uri": "https://arquivo.pt/wayback/20181116041755mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-17T04:18:42Z",
+        "uri": "https://arquivo.pt/wayback/20181117041842mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-17T04:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20181117041859mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-18T03:54:52Z",
+        "uri": "https://arquivo.pt/wayback/20181118035452mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-18T03:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20181118035507mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-19T04:32:41Z",
+        "uri": "https://arquivo.pt/wayback/20181119043241mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-19T04:32:56Z",
+        "uri": "https://arquivo.pt/wayback/20181119043256mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-20T04:10:55Z",
+        "uri": "https://arquivo.pt/wayback/20181120041055mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-20T04:11:09Z",
+        "uri": "https://arquivo.pt/wayback/20181120041109mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-21T03:29:43Z",
+        "uri": "https://arquivo.pt/wayback/20181121032943mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-21T03:29:59Z",
+        "uri": "https://arquivo.pt/wayback/20181121032959mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-22T04:19:35Z",
+        "uri": "https://arquivo.pt/wayback/20181122041935mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-22T04:19:50Z",
+        "uri": "https://arquivo.pt/wayback/20181122041950mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-23T04:02:46Z",
+        "uri": "https://arquivo.pt/wayback/20181123040246mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-23T04:03:01Z",
+        "uri": "https://arquivo.pt/wayback/20181123040301mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-24T05:29:53Z",
+        "uri": "https://arquivo.pt/wayback/20181124052953mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-24T05:30:14Z",
+        "uri": "https://arquivo.pt/wayback/20181124053014mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-25T04:13:59Z",
+        "uri": "https://arquivo.pt/wayback/20181125041359mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-25T04:14:14Z",
+        "uri": "https://arquivo.pt/wayback/20181125041414mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-26T04:12:29Z",
+        "uri": "https://arquivo.pt/wayback/20181126041229mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-26T04:12:47Z",
+        "uri": "https://arquivo.pt/wayback/20181126041247mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-27T08:19:11Z",
+        "uri": "https://arquivo.pt/wayback/20181127081911mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-27T08:19:25Z",
+        "uri": "https://arquivo.pt/wayback/20181127081925mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-28T08:27:46Z",
+        "uri": "https://arquivo.pt/wayback/20181128082746mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-28T08:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20181128082801mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-29T08:02:42Z",
+        "uri": "https://arquivo.pt/wayback/20181129080242mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-29T08:02:56Z",
+        "uri": "https://arquivo.pt/wayback/20181129080256mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-30T07:06:24Z",
+        "uri": "https://arquivo.pt/wayback/20181130070624mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-11-30T07:06:39Z",
+        "uri": "https://arquivo.pt/wayback/20181130070639mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-01T09:53:05Z",
+        "uri": "https://arquivo.pt/wayback/20181201095305mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-01T09:53:26Z",
+        "uri": "https://arquivo.pt/wayback/20181201095326mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-02T09:21:55Z",
+        "uri": "https://arquivo.pt/wayback/20181202092155mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-02T09:22:26Z",
+        "uri": "https://arquivo.pt/wayback/20181202092226mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-03T09:04:18Z",
+        "uri": "https://arquivo.pt/wayback/20181203090418mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-03T09:04:36Z",
+        "uri": "https://arquivo.pt/wayback/20181203090436mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-04T09:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20181204092251mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-04T09:23:07Z",
+        "uri": "https://arquivo.pt/wayback/20181204092307mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-05T08:47:10Z",
+        "uri": "https://arquivo.pt/wayback/20181205084710mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-05T08:47:25Z",
+        "uri": "https://arquivo.pt/wayback/20181205084725mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-05T19:56:57Z",
+        "uri": "https://arquivo.pt/wayback/20181205195657mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-06T08:10:30Z",
+        "uri": "https://arquivo.pt/wayback/20181206081030mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-06T08:10:44Z",
+        "uri": "https://arquivo.pt/wayback/20181206081044mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-07T07:36:14Z",
+        "uri": "https://arquivo.pt/wayback/20181207073614mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-07T07:36:29Z",
+        "uri": "https://arquivo.pt/wayback/20181207073629mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-08T08:51:16Z",
+        "uri": "https://arquivo.pt/wayback/20181208085116mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-08T08:51:31Z",
+        "uri": "https://arquivo.pt/wayback/20181208085131mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-09T08:53:50Z",
+        "uri": "https://arquivo.pt/wayback/20181209085350mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-09T08:54:10Z",
+        "uri": "https://arquivo.pt/wayback/20181209085410mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-10T08:59:20Z",
+        "uri": "https://arquivo.pt/wayback/20181210085920mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-10T08:59:36Z",
+        "uri": "https://arquivo.pt/wayback/20181210085936mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-11T09:21:18Z",
+        "uri": "https://arquivo.pt/wayback/20181211092118mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-11T09:21:36Z",
+        "uri": "https://arquivo.pt/wayback/20181211092136mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-12T09:08:06Z",
+        "uri": "https://arquivo.pt/wayback/20181212090806mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-12T09:08:26Z",
+        "uri": "https://arquivo.pt/wayback/20181212090826mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-13T09:02:24Z",
+        "uri": "https://arquivo.pt/wayback/20181213090224mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-13T09:02:40Z",
+        "uri": "https://arquivo.pt/wayback/20181213090240mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-14T07:47:26Z",
+        "uri": "https://arquivo.pt/wayback/20181214074726mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-15T01:39:15Z",
+        "uri": "https://arquivo.pt/wayback/20181215013915mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-15T01:39:29Z",
+        "uri": "https://arquivo.pt/wayback/20181215013929mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-16T02:13:01Z",
+        "uri": "https://arquivo.pt/wayback/20181216021301mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-16T02:13:18Z",
+        "uri": "https://arquivo.pt/wayback/20181216021318mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-17T02:21:44Z",
+        "uri": "https://arquivo.pt/wayback/20181217022144mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-17T02:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20181217022200mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-18T04:24:29Z",
+        "uri": "https://arquivo.pt/wayback/20181218042429mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-18T04:24:46Z",
+        "uri": "https://arquivo.pt/wayback/20181218042446mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-19T04:47:38Z",
+        "uri": "https://arquivo.pt/wayback/20181219044738mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-19T04:47:53Z",
+        "uri": "https://arquivo.pt/wayback/20181219044753mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-20T02:28:20Z",
+        "uri": "https://arquivo.pt/wayback/20181220022820mp_/http://pll3@cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-20T06:12:18Z",
+        "uri": "https://arquivo.pt/wayback/20181220061218mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-20T06:12:34Z",
+        "uri": "https://arquivo.pt/wayback/20181220061234mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-21T06:38:40Z",
+        "uri": "https://arquivo.pt/wayback/20181221063840mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-21T06:38:54Z",
+        "uri": "https://arquivo.pt/wayback/20181221063854mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-22T06:37:28Z",
+        "uri": "https://arquivo.pt/wayback/20181222063728mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-22T06:37:45Z",
+        "uri": "https://arquivo.pt/wayback/20181222063745mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-23T06:33:22Z",
+        "uri": "https://arquivo.pt/wayback/20181223063322mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-23T06:33:39Z",
+        "uri": "https://arquivo.pt/wayback/20181223063339mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-24T06:13:03Z",
+        "uri": "https://arquivo.pt/wayback/20181224061303mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-24T06:13:25Z",
+        "uri": "https://arquivo.pt/wayback/20181224061325mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-25T06:46:10Z",
+        "uri": "https://arquivo.pt/wayback/20181225064610mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-25T06:46:26Z",
+        "uri": "https://arquivo.pt/wayback/20181225064626mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-26T06:26:06Z",
+        "uri": "https://arquivo.pt/wayback/20181226062606mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-26T06:26:21Z",
+        "uri": "https://arquivo.pt/wayback/20181226062621mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-27T06:46:38Z",
+        "uri": "https://arquivo.pt/wayback/20181227064638mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-27T06:47:00Z",
+        "uri": "https://arquivo.pt/wayback/20181227064700mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-28T09:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20181228091634mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-28T09:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20181228091649mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-29T06:58:22Z",
+        "uri": "https://arquivo.pt/wayback/20181229065822mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-29T06:58:43Z",
+        "uri": "https://arquivo.pt/wayback/20181229065843mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-30T08:45:56Z",
+        "uri": "https://arquivo.pt/wayback/20181230084556mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-30T08:46:11Z",
+        "uri": "https://arquivo.pt/wayback/20181230084611mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-31T08:09:36Z",
+        "uri": "https://arquivo.pt/wayback/20181231080936mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2018-12-31T08:09:52Z",
+        "uri": "https://arquivo.pt/wayback/20181231080952mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-01T08:33:03Z",
+        "uri": "https://arquivo.pt/wayback/20190101083303mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-01T08:33:19Z",
+        "uri": "https://arquivo.pt/wayback/20190101083319mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-02T09:32:43Z",
+        "uri": "https://arquivo.pt/wayback/20190102093243mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-02T09:32:58Z",
+        "uri": "https://arquivo.pt/wayback/20190102093258mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-03T08:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20190103080502mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-03T08:05:18Z",
+        "uri": "https://arquivo.pt/wayback/20190103080518mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-04T08:42:58Z",
+        "uri": "https://arquivo.pt/wayback/20190104084258mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-04T08:43:12Z",
+        "uri": "https://arquivo.pt/wayback/20190104084312mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-05T07:31:16Z",
+        "uri": "https://arquivo.pt/wayback/20190105073116mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-05T07:31:33Z",
+        "uri": "https://arquivo.pt/wayback/20190105073133mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-06T08:55:26Z",
+        "uri": "https://arquivo.pt/wayback/20190106085526mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-06T08:55:43Z",
+        "uri": "https://arquivo.pt/wayback/20190106085543mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-07T07:43:11Z",
+        "uri": "https://arquivo.pt/wayback/20190107074311mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-07T07:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20190107074327mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-08T08:10:29Z",
+        "uri": "https://arquivo.pt/wayback/20190108081029mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-08T08:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20190108081045mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-09T08:21:43Z",
+        "uri": "https://arquivo.pt/wayback/20190109082143mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-09T08:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20190109082200mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-10T09:24:33Z",
+        "uri": "https://arquivo.pt/wayback/20190110092433mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-10T09:24:48Z",
+        "uri": "https://arquivo.pt/wayback/20190110092448mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-11T08:08:08Z",
+        "uri": "https://arquivo.pt/wayback/20190111080808mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-11T08:08:23Z",
+        "uri": "https://arquivo.pt/wayback/20190111080823mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-12T09:10:41Z",
+        "uri": "https://arquivo.pt/wayback/20190112091041mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-12T09:10:55Z",
+        "uri": "https://arquivo.pt/wayback/20190112091055mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-13T09:05:53Z",
+        "uri": "https://arquivo.pt/wayback/20190113090553mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-13T09:06:09Z",
+        "uri": "https://arquivo.pt/wayback/20190113090609mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-14T08:52:06Z",
+        "uri": "https://arquivo.pt/wayback/20190114085206mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-14T08:52:20Z",
+        "uri": "https://arquivo.pt/wayback/20190114085220mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-15T09:30:03Z",
+        "uri": "https://arquivo.pt/wayback/20190115093003mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-15T15:08:27Z",
+        "uri": "https://arquivo.pt/wayback/20190115150827mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-16T02:50:38Z",
+        "uri": "https://arquivo.pt/wayback/20190116025038mp_/http://pll3@cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-16T09:44:39Z",
+        "uri": "https://arquivo.pt/wayback/20190116094439mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-16T15:09:39Z",
+        "uri": "https://arquivo.pt/wayback/20190116150939mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-17T09:08:44Z",
+        "uri": "https://arquivo.pt/wayback/20190117090844mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-17T14:55:37Z",
+        "uri": "https://arquivo.pt/wayback/20190117145537mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-18T08:11:36Z",
+        "uri": "https://arquivo.pt/wayback/20190118081136mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-18T08:11:51Z",
+        "uri": "https://arquivo.pt/wayback/20190118081151mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-19T08:54:37Z",
+        "uri": "https://arquivo.pt/wayback/20190119085437mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-19T15:20:56Z",
+        "uri": "https://arquivo.pt/wayback/20190119152056mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-20T10:25:43Z",
+        "uri": "https://arquivo.pt/wayback/20190120102543mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-21T10:03:36Z",
+        "uri": "https://arquivo.pt/wayback/20190121100336mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-21T15:36:25Z",
+        "uri": "https://arquivo.pt/wayback/20190121153625mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-22T09:42:19Z",
+        "uri": "https://arquivo.pt/wayback/20190122094219mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-22T15:19:08Z",
+        "uri": "https://arquivo.pt/wayback/20190122151908mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-23T09:54:03Z",
+        "uri": "https://arquivo.pt/wayback/20190123095403mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-23T09:54:22Z",
+        "uri": "https://arquivo.pt/wayback/20190123095422mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-24T07:52:48Z",
+        "uri": "https://arquivo.pt/wayback/20190124075248mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-24T14:28:48Z",
+        "uri": "https://arquivo.pt/wayback/20190124142848mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-25T10:41:52Z",
+        "uri": "https://arquivo.pt/wayback/20190125104152mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-25T15:46:19Z",
+        "uri": "https://arquivo.pt/wayback/20190125154619mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-26T09:42:12Z",
+        "uri": "https://arquivo.pt/wayback/20190126094212mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-27T09:14:43Z",
+        "uri": "https://arquivo.pt/wayback/20190127091443mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-28T09:55:43Z",
+        "uri": "https://arquivo.pt/wayback/20190128095543mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-29T09:23:48Z",
+        "uri": "https://arquivo.pt/wayback/20190129092348mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-30T08:36:50Z",
+        "uri": "https://arquivo.pt/wayback/20190130083650mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-31T03:01:39Z",
+        "uri": "https://arquivo.pt/wayback/20190131030139mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-01-31T03:01:54Z",
+        "uri": "https://arquivo.pt/wayback/20190131030154mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-01T09:01:27Z",
+        "uri": "https://arquivo.pt/wayback/20190201090127mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-02T09:58:39Z",
+        "uri": "https://arquivo.pt/wayback/20190202095839mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-03T09:20:37Z",
+        "uri": "https://arquivo.pt/wayback/20190203092037mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-04T09:40:57Z",
+        "uri": "https://arquivo.pt/wayback/20190204094057mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-05T09:30:44Z",
+        "uri": "https://arquivo.pt/wayback/20190205093044mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-06T09:01:34Z",
+        "uri": "https://arquivo.pt/wayback/20190206090134mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-07T06:57:36Z",
+        "uri": "https://arquivo.pt/wayback/20190207065736mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-08T09:40:25Z",
+        "uri": "https://arquivo.pt/wayback/20190208094025mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-09T09:50:35Z",
+        "uri": "https://arquivo.pt/wayback/20190209095035mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-10T05:57:04Z",
+        "uri": "https://arquivo.pt/wayback/20190210055704mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-11T09:03:58Z",
+        "uri": "https://arquivo.pt/wayback/20190211090358mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-12T07:33:56Z",
+        "uri": "https://arquivo.pt/wayback/20190212073356mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-13T09:03:33Z",
+        "uri": "https://arquivo.pt/wayback/20190213090333mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-14T07:56:37Z",
+        "uri": "https://arquivo.pt/wayback/20190214075637mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-15T09:32:43Z",
+        "uri": "https://arquivo.pt/wayback/20190215093243mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-16T10:14:39Z",
+        "uri": "https://arquivo.pt/wayback/20190216101439mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-17T05:35:11Z",
+        "uri": "https://arquivo.pt/wayback/20190217053511mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-18T09:19:50Z",
+        "uri": "https://arquivo.pt/wayback/20190218091950mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-19T09:12:48Z",
+        "uri": "https://arquivo.pt/wayback/20190219091248mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-20T09:55:27Z",
+        "uri": "https://arquivo.pt/wayback/20190220095527mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-21T03:50:10Z",
+        "uri": "https://arquivo.pt/wayback/20190221035010mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-22T06:09:37Z",
+        "uri": "https://arquivo.pt/wayback/20190222060937mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-23T06:22:27Z",
+        "uri": "https://arquivo.pt/wayback/20190223062227mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-24T06:31:53Z",
+        "uri": "https://arquivo.pt/wayback/20190224063153mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-25T05:28:43Z",
+        "uri": "https://arquivo.pt/wayback/20190225052843mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-25T05:28:56Z",
+        "uri": "https://arquivo.pt/wayback/20190225052856mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-26T07:14:35Z",
+        "uri": "https://arquivo.pt/wayback/20190226071435mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-27T09:46:15Z",
+        "uri": "https://arquivo.pt/wayback/20190227094615mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-02-28T07:24:48Z",
+        "uri": "https://arquivo.pt/wayback/20190228072448mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-01T07:34:22Z",
+        "uri": "https://arquivo.pt/wayback/20190301073422mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-02T07:52:45Z",
+        "uri": "https://arquivo.pt/wayback/20190302075245mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-03T07:23:48Z",
+        "uri": "https://arquivo.pt/wayback/20190303072348mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-04T07:45:50Z",
+        "uri": "https://arquivo.pt/wayback/20190304074550mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-05T09:03:36Z",
+        "uri": "https://arquivo.pt/wayback/20190305090336mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-05T09:03:59Z",
+        "uri": "https://arquivo.pt/wayback/20190305090359mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-06T07:37:04Z",
+        "uri": "https://arquivo.pt/wayback/20190306073704mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-07T09:40:18Z",
+        "uri": "https://arquivo.pt/wayback/20190307094018mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-08T08:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20190308084939mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-09T08:48:37Z",
+        "uri": "https://arquivo.pt/wayback/20190309084837mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-10T08:37:46Z",
+        "uri": "https://arquivo.pt/wayback/20190310083746mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-11T08:57:30Z",
+        "uri": "https://arquivo.pt/wayback/20190311085730mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-12T10:34:06Z",
+        "uri": "https://arquivo.pt/wayback/20190312103406mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-13T10:22:02Z",
+        "uri": "https://arquivo.pt/wayback/20190313102202mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-20T12:38:14Z",
+        "uri": "https://arquivo.pt/wayback/20190320123814mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-20T12:41:13Z",
+        "uri": "https://arquivo.pt/wayback/20190320124113mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-24T12:12:38Z",
+        "uri": "https://arquivo.pt/wayback/20190324121238mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-27T00:24:46Z",
+        "uri": "https://arquivo.pt/wayback/20190327002446mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-27T00:24:50Z",
+        "uri": "https://arquivo.pt/wayback/20190327002450mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-27T21:13:36Z",
+        "uri": "https://arquivo.pt/wayback/20190327211336mp_/http://jhc38@cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-29T10:44:25Z",
+        "uri": "https://arquivo.pt/wayback/20190329104425mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-29T15:20:22Z",
+        "uri": "https://arquivo.pt/wayback/20190329152022mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-29T15:20:38Z",
+        "uri": "https://arquivo.pt/wayback/20190329152038mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-30T15:04:32Z",
+        "uri": "https://arquivo.pt/wayback/20190330150432mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-03-31T15:35:12Z",
+        "uri": "https://arquivo.pt/wayback/20190331153512mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-01T12:01:09Z",
+        "uri": "https://arquivo.pt/wayback/20190401120109mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-02T14:33:45Z",
+        "uri": "https://arquivo.pt/wayback/20190402143345mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-03T13:40:47Z",
+        "uri": "https://arquivo.pt/wayback/20190403134047mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-04T03:11:54Z",
+        "uri": "https://arquivo.pt/wayback/20190404031154mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-05T14:08:50Z",
+        "uri": "https://arquivo.pt/wayback/20190405140850mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-06T13:47:04Z",
+        "uri": "https://arquivo.pt/wayback/20190406134704mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-07T14:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20190407141452mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-08T14:44:39Z",
+        "uri": "https://arquivo.pt/wayback/20190408144439mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-09T13:47:44Z",
+        "uri": "https://arquivo.pt/wayback/20190409134744mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-11T14:24:42Z",
+        "uri": "https://arquivo.pt/wayback/20190411142442mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-12T14:29:37Z",
+        "uri": "https://arquivo.pt/wayback/20190412142937mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-13T13:34:13Z",
+        "uri": "https://arquivo.pt/wayback/20190413133413mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-14T13:41:10Z",
+        "uri": "https://arquivo.pt/wayback/20190414134110mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-15T13:33:12Z",
+        "uri": "https://arquivo.pt/wayback/20190415133312mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-16T14:21:37Z",
+        "uri": "https://arquivo.pt/wayback/20190416142137mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-17T10:56:34Z",
+        "uri": "https://arquivo.pt/wayback/20190417105634mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-18T14:18:46Z",
+        "uri": "https://arquivo.pt/wayback/20190418141846mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-19T14:27:58Z",
+        "uri": "https://arquivo.pt/wayback/20190419142758mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-20T14:37:00Z",
+        "uri": "https://arquivo.pt/wayback/20190420143700mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-21T13:43:15Z",
+        "uri": "https://arquivo.pt/wayback/20190421134315mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-22T14:49:40Z",
+        "uri": "https://arquivo.pt/wayback/20190422144940mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-23T15:00:03Z",
+        "uri": "https://arquivo.pt/wayback/20190423150003mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-24T13:44:33Z",
+        "uri": "https://arquivo.pt/wayback/20190424134433mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-25T14:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20190425141049mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-26T05:45:39Z",
+        "uri": "https://arquivo.pt/wayback/20190426054539mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-26T05:45:50Z",
+        "uri": "https://arquivo.pt/wayback/20190426054550mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-26T14:16:35Z",
+        "uri": "https://arquivo.pt/wayback/20190426141635mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-27T14:15:26Z",
+        "uri": "https://arquivo.pt/wayback/20190427141526mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-28T14:27:26Z",
+        "uri": "https://arquivo.pt/wayback/20190428142726mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-29T13:43:02Z",
+        "uri": "https://arquivo.pt/wayback/20190429134302mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-04-30T13:49:52Z",
+        "uri": "https://arquivo.pt/wayback/20190430134952mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-01T09:12:41Z",
+        "uri": "https://arquivo.pt/wayback/20190501091241mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-02T09:03:11Z",
+        "uri": "https://arquivo.pt/wayback/20190502090311mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-03T09:14:18Z",
+        "uri": "https://arquivo.pt/wayback/20190503091418mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-04T13:57:50Z",
+        "uri": "https://arquivo.pt/wayback/20190504135750mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-05T13:48:55Z",
+        "uri": "https://arquivo.pt/wayback/20190505134855mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-06T09:28:31Z",
+        "uri": "https://arquivo.pt/wayback/20190506092831mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-18T14:27:21Z",
+        "uri": "https://arquivo.pt/wayback/20190518142721mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-19T06:53:08Z",
+        "uri": "https://arquivo.pt/wayback/20190519065308mp_/http://ccg2@cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-19T12:28:49Z",
+        "uri": "https://arquivo.pt/wayback/20190519122849mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-20T14:10:48Z",
+        "uri": "https://arquivo.pt/wayback/20190520141048mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-23T14:21:11Z",
+        "uri": "https://arquivo.pt/wayback/20190523142111mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-24T07:38:38Z",
+        "uri": "https://arquivo.pt/wayback/20190524073838mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-26T14:13:47Z",
+        "uri": "https://arquivo.pt/wayback/20190526141347mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-27T13:48:40Z",
+        "uri": "https://arquivo.pt/wayback/20190527134840mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-28T09:05:03Z",
+        "uri": "https://arquivo.pt/wayback/20190528090503mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-29T13:54:21Z",
+        "uri": "https://arquivo.pt/wayback/20190529135421mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-30T13:36:06Z",
+        "uri": "https://arquivo.pt/wayback/20190530133606mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-05-31T13:50:54Z",
+        "uri": "https://arquivo.pt/wayback/20190531135054mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-01T14:27:20Z",
+        "uri": "https://arquivo.pt/wayback/20190601142720mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-02T12:18:32Z",
+        "uri": "https://arquivo.pt/wayback/20190602121832mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-03T12:06:57Z",
+        "uri": "https://arquivo.pt/wayback/20190603120657mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-04T13:55:36Z",
+        "uri": "https://arquivo.pt/wayback/20190604135536mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-05T14:35:36Z",
+        "uri": "https://arquivo.pt/wayback/20190605143536mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-06T14:13:54Z",
+        "uri": "https://arquivo.pt/wayback/20190606141354mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-07T11:57:26Z",
+        "uri": "https://arquivo.pt/wayback/20190607115726mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-07T13:46:02Z",
+        "uri": "https://arquivo.pt/wayback/20190607134602mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-07T22:53:18Z",
+        "uri": "https://arquivo.pt/wayback/20190607225318mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-07T22:53:33Z",
+        "uri": "https://arquivo.pt/wayback/20190607225333mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-08T14:12:54Z",
+        "uri": "https://arquivo.pt/wayback/20190608141254mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-09T14:06:17Z",
+        "uri": "https://arquivo.pt/wayback/20190609140617mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-10T14:16:36Z",
+        "uri": "https://arquivo.pt/wayback/20190610141636mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-11T14:41:36Z",
+        "uri": "https://arquivo.pt/wayback/20190611144136mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-12T13:49:04Z",
+        "uri": "https://arquivo.pt/wayback/20190612134904mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-13T13:55:01Z",
+        "uri": "https://arquivo.pt/wayback/20190613135501mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-14T14:08:29Z",
+        "uri": "https://arquivo.pt/wayback/20190614140829mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-15T13:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20190615134945mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-16T14:19:06Z",
+        "uri": "https://arquivo.pt/wayback/20190616141906mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-17T13:44:47Z",
+        "uri": "https://arquivo.pt/wayback/20190617134447mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-18T14:24:04Z",
+        "uri": "https://arquivo.pt/wayback/20190618142404mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-19T00:51:40Z",
+        "uri": "https://arquivo.pt/wayback/20190619005140mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-19T14:51:58Z",
+        "uri": "https://arquivo.pt/wayback/20190619145158mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-20T09:13:03Z",
+        "uri": "https://arquivo.pt/wayback/20190620091303mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-21T09:42:31Z",
+        "uri": "https://arquivo.pt/wayback/20190621094231mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-22T14:36:39Z",
+        "uri": "https://arquivo.pt/wayback/20190622143639mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-23T09:08:09Z",
+        "uri": "https://arquivo.pt/wayback/20190623090809mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-24T06:38:57Z",
+        "uri": "https://arquivo.pt/wayback/20190624063857mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-24T06:39:11Z",
+        "uri": "https://arquivo.pt/wayback/20190624063911mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-24T14:45:29Z",
+        "uri": "https://arquivo.pt/wayback/20190624144529mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-25T14:40:21Z",
+        "uri": "https://arquivo.pt/wayback/20190625144021mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-26T14:12:06Z",
+        "uri": "https://arquivo.pt/wayback/20190626141206mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-06-28T14:22:27Z",
+        "uri": "https://arquivo.pt/wayback/20190628142227mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-07-02T23:40:07Z",
+        "uri": "https://arquivo.pt/wayback/20190702234007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-07-14T13:12:19Z",
+        "uri": "https://arquivo.pt/wayback/20190714131219mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-07-17T13:39:44Z",
+        "uri": "https://arquivo.pt/wayback/20190717133944mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-07T07:13:45Z",
+        "uri": "https://arquivo.pt/wayback/20190807071345mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-07T12:55:28Z",
+        "uri": "https://arquivo.pt/wayback/20190807125528mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-15T07:25:24Z",
+        "uri": "https://arquivo.pt/wayback/20190815072524mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-16T06:17:32Z",
+        "uri": "https://arquivo.pt/wayback/20190816061732mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-17T07:40:25Z",
+        "uri": "https://arquivo.pt/wayback/20190817074025mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-18T06:36:45Z",
+        "uri": "https://arquivo.pt/wayback/20190818063645mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-19T07:26:53Z",
+        "uri": "https://arquivo.pt/wayback/20190819072653mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-20T07:54:33Z",
+        "uri": "https://arquivo.pt/wayback/20190820075433mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-21T13:09:59Z",
+        "uri": "https://arquivo.pt/wayback/20190821130959mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-22T08:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20190822081031mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-23T08:39:10Z",
+        "uri": "https://arquivo.pt/wayback/20190823083910mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-27T03:00:00Z",
+        "uri": "https://arquivo.pt/wayback/20190827030000mp_/http://clk228@cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-27T03:09:32Z",
+        "uri": "https://arquivo.pt/wayback/20190827030932mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-08-28T13:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20190828134939mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-02T20:55:19Z",
+        "uri": "https://arquivo.pt/wayback/20190902205519mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-08T07:07:32Z",
+        "uri": "https://arquivo.pt/wayback/20190908070732mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-08T21:59:57Z",
+        "uri": "https://arquivo.pt/wayback/20190908215957mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-08T22:00:02Z",
+        "uri": "https://arquivo.pt/wayback/20190908220002mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-10T01:17:10Z",
+        "uri": "https://arquivo.pt/wayback/20190910011710mp_/http://rhf3@cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-10T02:54:00Z",
+        "uri": "https://arquivo.pt/wayback/20190910025400mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-13T00:42:32Z",
+        "uri": "https://arquivo.pt/wayback/20190913004232mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-16T22:47:43Z",
+        "uri": "https://arquivo.pt/wayback/20190916224743mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-21T01:17:52Z",
+        "uri": "https://arquivo.pt/wayback/20190921011752mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-21T01:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20190921011807mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-23T02:39:26Z",
+        "uri": "https://arquivo.pt/wayback/20190923023926mp_/http://edl56@cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-24T20:46:24Z",
+        "uri": "https://arquivo.pt/wayback/20190924204624mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-26T03:57:01Z",
+        "uri": "https://arquivo.pt/wayback/20190926035701mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-27T04:12:20Z",
+        "uri": "https://arquivo.pt/wayback/20190927041220mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-09-28T07:06:58Z",
+        "uri": "https://arquivo.pt/wayback/20190928070658mp_/http://fontaine@cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-07T00:26:57Z",
+        "uri": "https://arquivo.pt/wayback/20191007002657mp_/http://@cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-16T16:16:08Z",
+        "uri": "https://arquivo.pt/wayback/20191016161608mp_/http://@cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-17T01:58:04Z",
+        "uri": "https://arquivo.pt/wayback/20191017015804mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-18T01:38:28Z",
+        "uri": "https://arquivo.pt/wayback/20191018013828mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-18T22:29:27Z",
+        "uri": "https://arquivo.pt/wayback/20191018222927mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-21T03:33:36Z",
+        "uri": "https://arquivo.pt/wayback/20191021033336mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-10-21T22:52:30Z",
+        "uri": "https://arquivo.pt/wayback/20191021225230mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-11-04T22:54:44Z",
+        "uri": "https://arquivo.pt/wayback/20191104225444mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-11-05T23:07:34Z",
+        "uri": "https://arquivo.pt/wayback/20191105230734mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-11-13T06:24:54Z",
+        "uri": "https://arquivo.pt/wayback/20191113062454mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-11-21T03:58:31Z",
+        "uri": "https://arquivo.pt/wayback/20191121035831mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-10T14:12:29Z",
+        "uri": "https://arquivo.pt/wayback/20191210141229mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-10T14:12:42Z",
+        "uri": "https://arquivo.pt/wayback/20191210141242mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-14T22:49:32Z",
+        "uri": "https://arquivo.pt/wayback/20191214224932mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-15T23:47:20Z",
+        "uri": "https://arquivo.pt/wayback/20191215234720mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-18T06:48:24Z",
+        "uri": "https://arquivo.pt/wayback/20191218064824mp_/http://gd222@cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-18T06:48:43Z",
+        "uri": "https://arquivo.pt/wayback/20191218064843mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-19T08:56:39Z",
+        "uri": "https://arquivo.pt/wayback/20191219085639mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-20T09:10:47Z",
+        "uri": "https://arquivo.pt/wayback/20191220091047mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-21T05:27:34Z",
+        "uri": "https://arquivo.pt/wayback/20191221052734mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-22T01:21:26Z",
+        "uri": "https://arquivo.pt/wayback/20191222012126mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-23T02:10:15Z",
+        "uri": "https://arquivo.pt/wayback/20191223021015mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-24T06:10:52Z",
+        "uri": "https://arquivo.pt/wayback/20191224061052mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-25T01:45:59Z",
+        "uri": "https://arquivo.pt/wayback/20191225014559mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-26T06:06:51Z",
+        "uri": "https://arquivo.pt/wayback/20191226060651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-27T05:47:34Z",
+        "uri": "https://arquivo.pt/wayback/20191227054734mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-28T06:46:39Z",
+        "uri": "https://arquivo.pt/wayback/20191228064639mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-28T14:07:45Z",
+        "uri": "https://arquivo.pt/wayback/20191228140745mp_/http://fontaine@cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-29T09:17:07Z",
+        "uri": "https://arquivo.pt/wayback/20191229091707mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-30T03:34:52Z",
+        "uri": "https://arquivo.pt/wayback/20191230033452mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2019-12-31T03:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20191231031045mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-01T01:32:48Z",
+        "uri": "https://arquivo.pt/wayback/20200101013248mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-02T05:26:23Z",
+        "uri": "https://arquivo.pt/wayback/20200102052623mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-03T08:55:23Z",
+        "uri": "https://arquivo.pt/wayback/20200103085523mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-04T05:29:56Z",
+        "uri": "https://arquivo.pt/wayback/20200104052956mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-05T07:36:51Z",
+        "uri": "https://arquivo.pt/wayback/20200105073651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-06T07:17:40Z",
+        "uri": "https://arquivo.pt/wayback/20200106071740mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-07T07:16:14Z",
+        "uri": "https://arquivo.pt/wayback/20200107071614mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-07T12:58:02Z",
+        "uri": "https://arquivo.pt/wayback/20200107125802mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-07T12:58:19Z",
+        "uri": "https://arquivo.pt/wayback/20200107125819mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-08T07:42:56Z",
+        "uri": "https://arquivo.pt/wayback/20200108074256mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-08T21:31:02Z",
+        "uri": "https://arquivo.pt/wayback/20200108213102mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-10T02:20:17Z",
+        "uri": "https://arquivo.pt/wayback/20200110022017mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-12T23:15:59Z",
+        "uri": "https://arquivo.pt/wayback/20200112231559mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-13T03:50:23Z",
+        "uri": "https://arquivo.pt/wayback/20200113035023mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-14T07:26:45Z",
+        "uri": "https://arquivo.pt/wayback/20200114072645mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-22T08:34:35Z",
+        "uri": "https://arquivo.pt/wayback/20200122083435mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-24T00:07:22Z",
+        "uri": "https://arquivo.pt/wayback/20200124000722mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-24T00:07:34Z",
+        "uri": "https://arquivo.pt/wayback/20200124000734mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-01-26T03:35:33Z",
+        "uri": "https://arquivo.pt/wayback/20200126033533mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-05T08:54:16Z",
+        "uri": "https://arquivo.pt/wayback/20200205085416mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-06T08:46:27Z",
+        "uri": "https://arquivo.pt/wayback/20200206084627mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-07T01:04:33Z",
+        "uri": "https://arquivo.pt/wayback/20200207010433mp_/http://tpl10@cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-07T01:33:15Z",
+        "uri": "https://arquivo.pt/wayback/20200207013315mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-07T01:33:27Z",
+        "uri": "https://arquivo.pt/wayback/20200207013327mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-12T10:19:23Z",
+        "uri": "https://arquivo.pt/wayback/20200212101923mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-18T08:07:36Z",
+        "uri": "http://archive.md/20200218080736/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-22T02:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20200222023104mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-23T08:45:36Z",
+        "uri": "https://arquivo.pt/wayback/20200223084536mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-02-28T08:33:20Z",
+        "uri": "https://arquivo.pt/wayback/20200228083320mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-03T09:39:09Z",
+        "uri": "https://arquivo.pt/wayback/20200303093909mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-04T06:55:53Z",
+        "uri": "https://arquivo.pt/wayback/20200304065553mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-06T01:27:15Z",
+        "uri": "https://arquivo.pt/wayback/20200306012715mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-07T19:00:13Z",
+        "uri": "https://arquivo.pt/wayback/20200307190013mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-07T19:00:25Z",
+        "uri": "https://arquivo.pt/wayback/20200307190025mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-10T08:04:03Z",
+        "uri": "https://arquivo.pt/wayback/20200310080403mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-11T01:00:20Z",
+        "uri": "https://arquivo.pt/wayback/20200311010020mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-12T04:18:56Z",
+        "uri": "https://arquivo.pt/wayback/20200312041856mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-13T07:49:04Z",
+        "uri": "https://arquivo.pt/wayback/20200313074904mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-14T21:28:59Z",
+        "uri": "https://arquivo.pt/wayback/20200314212859mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-15T19:02:10Z",
+        "uri": "https://arquivo.pt/wayback/20200315190210mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-16T14:09:44Z",
+        "uri": "https://arquivo.pt/wayback/20200316140944mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-16T21:40:57Z",
+        "uri": "https://arquivo.pt/wayback/20200316214057mp_/http://fontaine@cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-16T22:05:03Z",
+        "uri": "https://arquivo.pt/wayback/20200316220503mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-18T06:13:36Z",
+        "uri": "https://arquivo.pt/wayback/20200318061336mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-19T08:13:16Z",
+        "uri": "https://arquivo.pt/wayback/20200319081316mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-21T07:14:36Z",
+        "uri": "https://arquivo.pt/wayback/20200321071436mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-24T06:16:51Z",
+        "uri": "https://arquivo.pt/wayback/20200324061651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-26T04:53:20Z",
+        "uri": "https://arquivo.pt/wayback/20200326045320mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-27T08:02:36Z",
+        "uri": "https://arquivo.pt/wayback/20200327080236mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-28T05:11:21Z",
+        "uri": "https://arquivo.pt/wayback/20200328051121mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-29T04:52:35Z",
+        "uri": "https://arquivo.pt/wayback/20200329045235mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-30T04:05:43Z",
+        "uri": "https://arquivo.pt/wayback/20200330040543mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-31T04:15:23Z",
+        "uri": "https://arquivo.pt/wayback/20200331041523mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-31T09:34:31Z",
+        "uri": "https://arquivo.pt/wayback/20200331093431mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-31T09:34:42Z",
+        "uri": "https://arquivo.pt/wayback/20200331093442mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-03-31T12:23:17Z",
+        "uri": "https://arquivo.pt/wayback/20200331122317mp_/http://@cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-01T04:53:46Z",
+        "uri": "https://arquivo.pt/wayback/20200401045346mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-03T04:07:55Z",
+        "uri": "https://arquivo.pt/wayback/20200403040755mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-04T02:15:06Z",
+        "uri": "https://arquivo.pt/wayback/20200404021506mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-05T01:54:09Z",
+        "uri": "https://arquivo.pt/wayback/20200405015409mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-06T03:19:53Z",
+        "uri": "https://arquivo.pt/wayback/20200406031953mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-07T21:37:33Z",
+        "uri": "https://arquivo.pt/wayback/20200407213733mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-08T01:33:13Z",
+        "uri": "https://arquivo.pt/wayback/20200408013313mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-11T01:45:35Z",
+        "uri": "https://arquivo.pt/wayback/20200411014535mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-12T00:59:35Z",
+        "uri": "https://arquivo.pt/wayback/20200412005935mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-12T19:22:34Z",
+        "uri": "https://arquivo.pt/wayback/20200412192234mp_/http://rch37@cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-12T22:39:39Z",
+        "uri": "https://arquivo.pt/wayback/20200412223939mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-14T00:28:11Z",
+        "uri": "https://arquivo.pt/wayback/20200414002811mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-15T01:02:47Z",
+        "uri": "https://arquivo.pt/wayback/20200415010247mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-16T01:25:07Z",
+        "uri": "https://arquivo.pt/wayback/20200416012507mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-16T21:13:43Z",
+        "uri": "https://arquivo.pt/wayback/20200416211343mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-17T01:14:07Z",
+        "uri": "https://arquivo.pt/wayback/20200417011407mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-18T03:08:59Z",
+        "uri": "https://arquivo.pt/wayback/20200418030859mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-19T03:00:25Z",
+        "uri": "https://arquivo.pt/wayback/20200419030025mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-20T01:55:29Z",
+        "uri": "https://arquivo.pt/wayback/20200420015529mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-21T03:11:04Z",
+        "uri": "https://arquivo.pt/wayback/20200421031104mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-22T01:54:44Z",
+        "uri": "https://arquivo.pt/wayback/20200422015444mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-23T01:55:28Z",
+        "uri": "https://arquivo.pt/wayback/20200423015528mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-27T02:17:26Z",
+        "uri": "https://arquivo.pt/wayback/20200427021726mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-28T02:01:08Z",
+        "uri": "https://arquivo.pt/wayback/20200428020108mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-29T01:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20200429013252mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-04-30T01:47:33Z",
+        "uri": "https://arquivo.pt/wayback/20200430014733mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-01T01:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20200501014656mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-02T01:20:04Z",
+        "uri": "https://arquivo.pt/wayback/20200502012004mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-03T01:46:08Z",
+        "uri": "https://arquivo.pt/wayback/20200503014608mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-04T01:28:25Z",
+        "uri": "https://arquivo.pt/wayback/20200504012825mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-04T22:47:45Z",
+        "uri": "https://arquivo.pt/wayback/20200504224745mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-05T01:57:23Z",
+        "uri": "https://arquivo.pt/wayback/20200505015723mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-05T23:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20200505230502mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-06T02:08:04Z",
+        "uri": "https://arquivo.pt/wayback/20200506020804mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-06T23:11:09Z",
+        "uri": "https://arquivo.pt/wayback/20200506231109mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-07T02:16:41Z",
+        "uri": "https://arquivo.pt/wayback/20200507021641mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-07T22:54:12Z",
+        "uri": "https://arquivo.pt/wayback/20200507225412mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-08T01:50:32Z",
+        "uri": "https://arquivo.pt/wayback/20200508015032mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-09T00:34:11Z",
+        "uri": "https://arquivo.pt/wayback/20200509003411mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-09T03:25:44Z",
+        "uri": "https://arquivo.pt/wayback/20200509032544mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-09T22:41:57Z",
+        "uri": "https://arquivo.pt/wayback/20200509224157mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-10T01:44:43Z",
+        "uri": "https://arquivo.pt/wayback/20200510014443mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-10T22:42:50Z",
+        "uri": "https://arquivo.pt/wayback/20200510224250mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-11T01:31:16Z",
+        "uri": "https://arquivo.pt/wayback/20200511013116mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-12T01:51:57Z",
+        "uri": "https://arquivo.pt/wayback/20200512015157mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-13T01:42:39Z",
+        "uri": "https://arquivo.pt/wayback/20200513014239mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-14T01:52:47Z",
+        "uri": "https://arquivo.pt/wayback/20200514015247mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-15T02:01:57Z",
+        "uri": "https://arquivo.pt/wayback/20200515020157mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-16T01:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20200516015007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-17T01:49:05Z",
+        "uri": "https://arquivo.pt/wayback/20200517014905mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-18T00:25:03Z",
+        "uri": "https://arquivo.pt/wayback/20200518002503mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-19T02:02:06Z",
+        "uri": "https://arquivo.pt/wayback/20200519020206mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-20T02:25:21Z",
+        "uri": "https://arquivo.pt/wayback/20200520022521mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-21T18:37:33Z",
+        "uri": "https://arquivo.pt/wayback/20200521183733mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-21T20:25:29Z",
+        "uri": "https://arquivo.pt/wayback/20200521202529mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-22T20:10:09Z",
+        "uri": "https://arquivo.pt/wayback/20200522201009mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-23T20:05:32Z",
+        "uri": "https://arquivo.pt/wayback/20200523200532mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-24T20:17:22Z",
+        "uri": "https://arquivo.pt/wayback/20200524201722mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-25T20:10:06Z",
+        "uri": "https://arquivo.pt/wayback/20200525201006mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-26T20:11:50Z",
+        "uri": "https://arquivo.pt/wayback/20200526201150mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-28T20:18:39Z",
+        "uri": "https://arquivo.pt/wayback/20200528201839mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-29T19:57:57Z",
+        "uri": "https://arquivo.pt/wayback/20200529195757mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-30T19:50:27Z",
+        "uri": "https://arquivo.pt/wayback/20200530195027mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-05-31T20:01:39Z",
+        "uri": "https://arquivo.pt/wayback/20200531200139mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-01T19:23:08Z",
+        "uri": "https://arquivo.pt/wayback/20200601192308mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-01T21:15:18Z",
+        "uri": "https://arquivo.pt/wayback/20200601211518mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-02T19:38:10Z",
+        "uri": "https://arquivo.pt/wayback/20200602193810mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-03T20:26:40Z",
+        "uri": "https://arquivo.pt/wayback/20200603202640mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-04T18:42:14Z",
+        "uri": "https://arquivo.pt/wayback/20200604184214mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-04T20:41:49Z",
+        "uri": "https://arquivo.pt/wayback/20200604204149mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-05T15:19:52Z",
+        "uri": "https://arquivo.pt/wayback/20200605151952mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-05T18:12:44Z",
+        "uri": "https://arquivo.pt/wayback/20200605181244mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-05T20:14:17Z",
+        "uri": "https://arquivo.pt/wayback/20200605201417mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-06T20:19:51Z",
+        "uri": "https://arquivo.pt/wayback/20200606201951mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-07T20:05:12Z",
+        "uri": "https://arquivo.pt/wayback/20200607200512mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-08T20:30:24Z",
+        "uri": "https://arquivo.pt/wayback/20200608203024mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-09T20:32:59Z",
+        "uri": "https://arquivo.pt/wayback/20200609203259mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-10T20:28:28Z",
+        "uri": "https://arquivo.pt/wayback/20200610202828mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-11T20:22:54Z",
+        "uri": "https://arquivo.pt/wayback/20200611202254mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-12T20:25:59Z",
+        "uri": "https://arquivo.pt/wayback/20200612202559mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-13T21:02:22Z",
+        "uri": "https://arquivo.pt/wayback/20200613210222mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-14T21:10:04Z",
+        "uri": "https://arquivo.pt/wayback/20200614211004mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-15T20:23:12Z",
+        "uri": "https://arquivo.pt/wayback/20200615202312mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-16T12:48:18Z",
+        "uri": "https://arquivo.pt/wayback/20200616124818mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-16T20:23:55Z",
+        "uri": "https://arquivo.pt/wayback/20200616202355mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-17T20:27:50Z",
+        "uri": "https://arquivo.pt/wayback/20200617202750mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-18T05:42:10Z",
+        "uri": "https://arquivo.pt/wayback/20200618054210mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-18T20:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20200618202635mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-19T20:07:38Z",
+        "uri": "https://arquivo.pt/wayback/20200619200738mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-20T20:07:31Z",
+        "uri": "https://arquivo.pt/wayback/20200620200731mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-21T20:11:02Z",
+        "uri": "https://arquivo.pt/wayback/20200621201102mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-22T19:55:52Z",
+        "uri": "https://arquivo.pt/wayback/20200622195552mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-23T20:21:05Z",
+        "uri": "https://arquivo.pt/wayback/20200623202105mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-24T20:05:39Z",
+        "uri": "https://arquivo.pt/wayback/20200624200539mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-25T19:54:09Z",
+        "uri": "https://arquivo.pt/wayback/20200625195409mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-26T20:03:22Z",
+        "uri": "https://arquivo.pt/wayback/20200626200322mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-27T20:06:30Z",
+        "uri": "https://arquivo.pt/wayback/20200627200630mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-28T11:54:20Z",
+        "uri": "https://vefsafn.is/20200628115420mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-28T11:55:40Z",
+        "uri": "https://vefsafn.is/20200628115540mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-28T19:59:03Z",
+        "uri": "https://arquivo.pt/wayback/20200628195903mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-29T20:16:25Z",
+        "uri": "https://arquivo.pt/wayback/20200629201625mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-06-30T20:26:42Z",
+        "uri": "https://arquivo.pt/wayback/20200630202642mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-01T20:18:24Z",
+        "uri": "https://arquivo.pt/wayback/20200701201824mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-02T19:55:04Z",
+        "uri": "https://arquivo.pt/wayback/20200702195504mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-03T19:43:39Z",
+        "uri": "https://arquivo.pt/wayback/20200703194339mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-04T19:23:41Z",
+        "uri": "https://arquivo.pt/wayback/20200704192341mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-05T17:09:07Z",
+        "uri": "https://arquivo.pt/wayback/20200705170907mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-05T20:35:34Z",
+        "uri": "https://arquivo.pt/wayback/20200705203534mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-06T20:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20200706201454mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-07T20:07:50Z",
+        "uri": "https://arquivo.pt/wayback/20200707200750mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-08T19:17:39Z",
+        "uri": "https://arquivo.pt/wayback/20200708191739mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-09T19:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20200709194939mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-10T19:54:56Z",
+        "uri": "https://arquivo.pt/wayback/20200710195456mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-11T20:00:52Z",
+        "uri": "https://arquivo.pt/wayback/20200711200052mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-12T20:17:31Z",
+        "uri": "https://arquivo.pt/wayback/20200712201731mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-13T19:39:09Z",
+        "uri": "https://arquivo.pt/wayback/20200713193909mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-14T20:07:27Z",
+        "uri": "https://arquivo.pt/wayback/20200714200727mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-15T20:04:20Z",
+        "uri": "https://arquivo.pt/wayback/20200715200420mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-16T20:06:38Z",
+        "uri": "https://arquivo.pt/wayback/20200716200638mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-17T19:38:12Z",
+        "uri": "https://arquivo.pt/wayback/20200717193812mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-18T19:35:57Z",
+        "uri": "https://arquivo.pt/wayback/20200718193557mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-19T19:50:08Z",
+        "uri": "https://arquivo.pt/wayback/20200719195008mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-20T20:04:27Z",
+        "uri": "https://arquivo.pt/wayback/20200720200427mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-21T19:57:56Z",
+        "uri": "https://arquivo.pt/wayback/20200721195756mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-22T20:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20200722204939mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-23T20:14:40Z",
+        "uri": "https://arquivo.pt/wayback/20200723201440mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-24T20:32:38Z",
+        "uri": "https://arquivo.pt/wayback/20200724203238mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-26T19:55:29Z",
+        "uri": "https://arquivo.pt/wayback/20200726195529mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-27T19:46:15Z",
+        "uri": "https://arquivo.pt/wayback/20200727194615mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-28T20:55:27Z",
+        "uri": "https://arquivo.pt/wayback/20200728205527mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-29T20:26:41Z",
+        "uri": "https://arquivo.pt/wayback/20200729202641mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-30T20:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20200730205507mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-07-31T20:37:21Z",
+        "uri": "https://arquivo.pt/wayback/20200731203721mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-01T20:35:56Z",
+        "uri": "https://arquivo.pt/wayback/20200801203556mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-02T20:28:43Z",
+        "uri": "https://arquivo.pt/wayback/20200802202843mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-03T21:40:47Z",
+        "uri": "https://arquivo.pt/wayback/20200803214047mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-04T20:40:49Z",
+        "uri": "https://arquivo.pt/wayback/20200804204049mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-05T19:45:03Z",
+        "uri": "https://arquivo.pt/wayback/20200805194503mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-05T21:15:46Z",
+        "uri": "https://arquivo.pt/wayback/20200805211546mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-07T10:55:51Z",
+        "uri": "https://arquivo.pt/wayback/20200807105551mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-07T12:34:13Z",
+        "uri": "https://arquivo.pt/wayback/20200807123413mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-07T19:55:40Z",
+        "uri": "https://arquivo.pt/wayback/20200807195540mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-08T20:44:03Z",
+        "uri": "https://arquivo.pt/wayback/20200808204403mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-09T20:39:58Z",
+        "uri": "https://arquivo.pt/wayback/20200809203958mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-10T20:33:06Z",
+        "uri": "https://arquivo.pt/wayback/20200810203306mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-11T20:47:23Z",
+        "uri": "https://arquivo.pt/wayback/20200811204723mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-12T21:26:13Z",
+        "uri": "https://arquivo.pt/wayback/20200812212613mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-13T21:07:39Z",
+        "uri": "https://arquivo.pt/wayback/20200813210739mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-14T19:51:11Z",
+        "uri": "https://arquivo.pt/wayback/20200814195111mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-15T20:53:41Z",
+        "uri": "https://arquivo.pt/wayback/20200815205341mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-16T21:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20200816210405mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-17T20:32:12Z",
+        "uri": "https://arquivo.pt/wayback/20200817203212mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-18T21:13:19Z",
+        "uri": "https://arquivo.pt/wayback/20200818211319mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-19T21:27:26Z",
+        "uri": "https://arquivo.pt/wayback/20200819212726mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-20T21:33:38Z",
+        "uri": "https://arquivo.pt/wayback/20200820213338mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-21T19:59:42Z",
+        "uri": "https://arquivo.pt/wayback/20200821195942mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-23T20:59:37Z",
+        "uri": "https://arquivo.pt/wayback/20200823205937mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-24T20:51:47Z",
+        "uri": "https://arquivo.pt/wayback/20200824205147mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-25T21:09:21Z",
+        "uri": "https://arquivo.pt/wayback/20200825210921mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-26T21:39:51Z",
+        "uri": "https://arquivo.pt/wayback/20200826213951mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-27T21:06:19Z",
+        "uri": "https://arquivo.pt/wayback/20200827210619mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-28T20:52:35Z",
+        "uri": "https://arquivo.pt/wayback/20200828205235mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-29T20:35:40Z",
+        "uri": "https://arquivo.pt/wayback/20200829203540mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-30T21:18:48Z",
+        "uri": "https://arquivo.pt/wayback/20200830211848mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-08-31T21:17:51Z",
+        "uri": "https://arquivo.pt/wayback/20200831211751mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-01T21:26:18Z",
+        "uri": "https://arquivo.pt/wayback/20200901212618mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-02T02:34:32Z",
+        "uri": "https://arquivo.pt/wayback/20200902023432mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-02T19:29:54Z",
+        "uri": "https://arquivo.pt/wayback/20200902192954mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-04T20:10:02Z",
+        "uri": "https://arquivo.pt/wayback/20200904201002mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-06T20:51:19Z",
+        "uri": "https://arquivo.pt/wayback/20200906205119mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-07T20:17:07Z",
+        "uri": "https://arquivo.pt/wayback/20200907201707mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-08T18:44:42Z",
+        "uri": "https://arquivo.pt/wayback/20200908184442mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-09T20:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20200909200656mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-10T20:04:10Z",
+        "uri": "https://arquivo.pt/wayback/20200910200410mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-11T20:07:42Z",
+        "uri": "https://arquivo.pt/wayback/20200911200742mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-12T20:10:02Z",
+        "uri": "https://arquivo.pt/wayback/20200912201002mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-13T19:47:41Z",
+        "uri": "https://arquivo.pt/wayback/20200913194741mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-14T19:51:03Z",
+        "uri": "https://arquivo.pt/wayback/20200914195103mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-15T04:17:17Z",
+        "uri": "https://arquivo.pt/wayback/20200915041717mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-15T19:59:01Z",
+        "uri": "https://arquivo.pt/wayback/20200915195901mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-16T20:09:26Z",
+        "uri": "https://arquivo.pt/wayback/20200916200926mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-17T20:29:58Z",
+        "uri": "https://arquivo.pt/wayback/20200917202958mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-18T20:28:39Z",
+        "uri": "https://arquivo.pt/wayback/20200918202839mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-19T20:03:01Z",
+        "uri": "https://arquivo.pt/wayback/20200919200301mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-20T20:08:03Z",
+        "uri": "https://arquivo.pt/wayback/20200920200803mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-21T19:44:36Z",
+        "uri": "https://arquivo.pt/wayback/20200921194436mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-22T20:22:03Z",
+        "uri": "https://arquivo.pt/wayback/20200922202203mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-23T19:47:43Z",
+        "uri": "https://arquivo.pt/wayback/20200923194743mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-24T20:03:17Z",
+        "uri": "https://arquivo.pt/wayback/20200924200317mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-25T20:03:17Z",
+        "uri": "https://arquivo.pt/wayback/20200925200317mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-26T19:46:51Z",
+        "uri": "https://arquivo.pt/wayback/20200926194651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-27T19:47:03Z",
+        "uri": "https://arquivo.pt/wayback/20200927194703mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-28T19:51:59Z",
+        "uri": "https://arquivo.pt/wayback/20200928195159mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-29T20:25:07Z",
+        "uri": "https://arquivo.pt/wayback/20200929202507mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-09-30T20:01:59Z",
+        "uri": "https://arquivo.pt/wayback/20200930200159mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-01T19:37:31Z",
+        "uri": "https://arquivo.pt/wayback/20201001193731mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-01T20:20:10Z",
+        "uri": "https://arquivo.pt/wayback/20201001202010mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-06T12:42:16Z",
+        "uri": "https://arquivo.pt/wayback/20201006124216mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-06T20:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20201006201239mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-06T21:06:23Z",
+        "uri": "https://arquivo.pt/wayback/20201006210623mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-07T18:33:58Z",
+        "uri": "https://arquivo.pt/wayback/20201007183358mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-07T19:31:53Z",
+        "uri": "https://arquivo.pt/wayback/20201007193153mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-08T18:46:36Z",
+        "uri": "https://arquivo.pt/wayback/20201008184636mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-08T19:37:30Z",
+        "uri": "https://arquivo.pt/wayback/20201008193730mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-09T19:11:11Z",
+        "uri": "https://arquivo.pt/wayback/20201009191111mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-09T19:58:53Z",
+        "uri": "https://arquivo.pt/wayback/20201009195853mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-10T19:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20201010190346mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-10T19:51:43Z",
+        "uri": "https://arquivo.pt/wayback/20201010195143mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-11T19:17:38Z",
+        "uri": "https://arquivo.pt/wayback/20201011191738mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-11T20:02:18Z",
+        "uri": "https://arquivo.pt/wayback/20201011200218mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-12T19:21:57Z",
+        "uri": "https://arquivo.pt/wayback/20201012192157mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-12T20:10:23Z",
+        "uri": "https://arquivo.pt/wayback/20201012201023mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-13T19:56:09Z",
+        "uri": "https://arquivo.pt/wayback/20201013195609mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-13T20:42:50Z",
+        "uri": "https://arquivo.pt/wayback/20201013204250mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-14T18:56:07Z",
+        "uri": "https://arquivo.pt/wayback/20201014185607mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-14T19:42:58Z",
+        "uri": "https://arquivo.pt/wayback/20201014194258mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-15T19:18:29Z",
+        "uri": "https://arquivo.pt/wayback/20201015191829mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-15T20:06:57Z",
+        "uri": "https://arquivo.pt/wayback/20201015200657mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-16T18:51:04Z",
+        "uri": "https://arquivo.pt/wayback/20201016185104mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-16T19:27:51Z",
+        "uri": "https://arquivo.pt/wayback/20201016192751mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-17T19:29:19Z",
+        "uri": "https://arquivo.pt/wayback/20201017192919mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-17T20:22:06Z",
+        "uri": "https://arquivo.pt/wayback/20201017202206mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-18T19:25:08Z",
+        "uri": "https://arquivo.pt/wayback/20201018192508mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-18T20:16:14Z",
+        "uri": "https://arquivo.pt/wayback/20201018201614mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-19T19:43:37Z",
+        "uri": "https://arquivo.pt/wayback/20201019194337mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-19T20:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20201019202449mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-20T19:39:56Z",
+        "uri": "https://arquivo.pt/wayback/20201020193956mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-20T20:16:50Z",
+        "uri": "https://arquivo.pt/wayback/20201020201650mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-21T19:39:45Z",
+        "uri": "https://arquivo.pt/wayback/20201021193945mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-21T20:20:50Z",
+        "uri": "https://arquivo.pt/wayback/20201021202050mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-22T18:56:08Z",
+        "uri": "https://arquivo.pt/wayback/20201022185608mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-22T19:48:06Z",
+        "uri": "https://arquivo.pt/wayback/20201022194806mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-23T13:26:57Z",
+        "uri": "https://vefsafn.is/20201023132657mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-23T13:28:26Z",
+        "uri": "https://vefsafn.is/20201023132826mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-23T19:00:24Z",
+        "uri": "https://arquivo.pt/wayback/20201023190024mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-23T19:48:11Z",
+        "uri": "https://arquivo.pt/wayback/20201023194811mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-24T19:13:55Z",
+        "uri": "https://arquivo.pt/wayback/20201024191355mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-24T19:49:36Z",
+        "uri": "https://arquivo.pt/wayback/20201024194936mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-25T20:25:01Z",
+        "uri": "https://arquivo.pt/wayback/20201025202501mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-25T21:09:36Z",
+        "uri": "https://arquivo.pt/wayback/20201025210936mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-26T19:48:51Z",
+        "uri": "https://arquivo.pt/wayback/20201026194851mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-26T20:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20201026203217mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-27T20:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20201027201049mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-27T21:01:46Z",
+        "uri": "https://arquivo.pt/wayback/20201027210146mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-28T20:16:07Z",
+        "uri": "https://arquivo.pt/wayback/20201028201607mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-28T21:06:50Z",
+        "uri": "https://arquivo.pt/wayback/20201028210650mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-29T19:48:55Z",
+        "uri": "https://arquivo.pt/wayback/20201029194855mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-29T20:31:11Z",
+        "uri": "https://arquivo.pt/wayback/20201029203111mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-30T20:18:19Z",
+        "uri": "https://arquivo.pt/wayback/20201030201819mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-30T21:02:23Z",
+        "uri": "https://arquivo.pt/wayback/20201030210223mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-31T20:02:35Z",
+        "uri": "https://arquivo.pt/wayback/20201031200235mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-10-31T20:37:31Z",
+        "uri": "https://arquivo.pt/wayback/20201031203731mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-01T20:49:39Z",
+        "uri": "https://arquivo.pt/wayback/20201101204939mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-01T21:32:34Z",
+        "uri": "https://arquivo.pt/wayback/20201101213234mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-02T20:23:08Z",
+        "uri": "https://arquivo.pt/wayback/20201102202308mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-02T20:57:12Z",
+        "uri": "https://arquivo.pt/wayback/20201102205712mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-03T20:28:43Z",
+        "uri": "https://arquivo.pt/wayback/20201103202843mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-03T21:05:09Z",
+        "uri": "https://arquivo.pt/wayback/20201103210509mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-04T20:31:05Z",
+        "uri": "https://arquivo.pt/wayback/20201104203105mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-04T21:07:05Z",
+        "uri": "https://arquivo.pt/wayback/20201104210705mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-05T20:13:53Z",
+        "uri": "https://arquivo.pt/wayback/20201105201353mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-05T20:54:37Z",
+        "uri": "https://arquivo.pt/wayback/20201105205437mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-06T20:26:34Z",
+        "uri": "https://arquivo.pt/wayback/20201106202634mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-06T21:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20201106210405mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-07T20:27:25Z",
+        "uri": "https://arquivo.pt/wayback/20201107202725mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-07T21:06:59Z",
+        "uri": "https://arquivo.pt/wayback/20201107210659mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-08T21:15:00Z",
+        "uri": "https://arquivo.pt/wayback/20201108211500mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-08T21:59:15Z",
+        "uri": "https://arquivo.pt/wayback/20201108215915mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-09T20:48:24Z",
+        "uri": "https://arquivo.pt/wayback/20201109204824mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-09T21:36:19Z",
+        "uri": "https://arquivo.pt/wayback/20201109213619mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-10T20:33:54Z",
+        "uri": "https://arquivo.pt/wayback/20201110203354mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-10T21:34:55Z",
+        "uri": "https://arquivo.pt/wayback/20201110213455mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-11T20:03:54Z",
+        "uri": "https://arquivo.pt/wayback/20201111200354mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-11T21:03:44Z",
+        "uri": "https://arquivo.pt/wayback/20201111210344mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-12T20:26:37Z",
+        "uri": "https://arquivo.pt/wayback/20201112202637mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-12T21:16:17Z",
+        "uri": "https://arquivo.pt/wayback/20201112211617mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-13T20:07:07Z",
+        "uri": "https://arquivo.pt/wayback/20201113200707mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-13T20:50:00Z",
+        "uri": "https://arquivo.pt/wayback/20201113205000mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-14T20:15:40Z",
+        "uri": "https://arquivo.pt/wayback/20201114201540mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-14T20:52:43Z",
+        "uri": "https://arquivo.pt/wayback/20201114205243mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-15T20:14:43Z",
+        "uri": "https://arquivo.pt/wayback/20201115201443mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-15T20:56:52Z",
+        "uri": "https://arquivo.pt/wayback/20201115205652mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-16T19:50:20Z",
+        "uri": "https://arquivo.pt/wayback/20201116195020mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-16T20:29:56Z",
+        "uri": "https://arquivo.pt/wayback/20201116202956mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-17T20:30:07Z",
+        "uri": "https://arquivo.pt/wayback/20201117203007mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-17T21:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20201117210253mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-18T20:45:39Z",
+        "uri": "https://arquivo.pt/wayback/20201118204539mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-18T21:17:58Z",
+        "uri": "https://arquivo.pt/wayback/20201118211758mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-19T20:33:16Z",
+        "uri": "https://arquivo.pt/wayback/20201119203316mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-19T21:11:40Z",
+        "uri": "https://arquivo.pt/wayback/20201119211140mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-20T19:48:57Z",
+        "uri": "https://arquivo.pt/wayback/20201120194857mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-20T20:31:44Z",
+        "uri": "https://arquivo.pt/wayback/20201120203144mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-21T19:07:02Z",
+        "uri": "https://arquivo.pt/wayback/20201121190702mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-21T19:45:17Z",
+        "uri": "https://arquivo.pt/wayback/20201121194517mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-22T20:16:25Z",
+        "uri": "https://arquivo.pt/wayback/20201122201625mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-22T20:53:07Z",
+        "uri": "https://arquivo.pt/wayback/20201122205307mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-23T21:07:21Z",
+        "uri": "https://arquivo.pt/wayback/20201123210721mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-23T21:49:52Z",
+        "uri": "https://arquivo.pt/wayback/20201123214952mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-24T20:25:08Z",
+        "uri": "https://arquivo.pt/wayback/20201124202508mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-24T20:53:33Z",
+        "uri": "https://arquivo.pt/wayback/20201124205333mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-25T21:15:05Z",
+        "uri": "https://arquivo.pt/wayback/20201125211505mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-25T21:47:09Z",
+        "uri": "https://arquivo.pt/wayback/20201125214709mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-26T20:50:05Z",
+        "uri": "https://arquivo.pt/wayback/20201126205005mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-26T21:28:00Z",
+        "uri": "https://arquivo.pt/wayback/20201126212800mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-30T22:00:51Z",
+        "uri": "https://arquivo.pt/wayback/20201130220051mp_/http://sac20@cornell.edu/"
+      },
+      {
+        "datetime": "2020-11-30T22:17:50Z",
+        "uri": "https://arquivo.pt/wayback/20201130221750mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-06T01:52:59Z",
+        "uri": "https://arquivo.pt/wayback/20201206015259mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-21T18:14:34Z",
+        "uri": "https://arquivo.pt/wayback/20201221181434mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-21T18:14:34Z",
+        "uri": "https://arquivo.pt/wayback/20201221181434mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-21T18:14:41Z",
+        "uri": "https://arquivo.pt/wayback/20201221181441mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T20:49:20Z",
+        "uri": "https://arquivo.pt/wayback/20201222204920mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T20:49:21Z",
+        "uri": "https://arquivo.pt/wayback/20201222204921mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T21:38:08Z",
+        "uri": "https://arquivo.pt/wayback/20201222213808mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T21:38:09Z",
+        "uri": "https://arquivo.pt/wayback/20201222213809mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:35:43Z",
+        "uri": "https://arquivo.pt/wayback/20201222223543mp_/http://rch37@cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:36:30Z",
+        "uri": "https://arquivo.pt/wayback/20201222223630mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:41:27Z",
+        "uri": "https://arquivo.pt/wayback/20201222224127mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:44:18Z",
+        "uri": "https://arquivo.pt/wayback/20201222224418mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:57:14Z",
+        "uri": "https://arquivo.pt/wayback/20201222225714mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-22T22:57:16Z",
+        "uri": "https://arquivo.pt/wayback/20201222225716mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-23T22:03:31Z",
+        "uri": "https://arquivo.pt/wayback/20201223220331mp_/http://rch37@cornell.edu/"
+      },
+      {
+        "datetime": "2020-12-23T22:05:39Z",
+        "uri": "https://arquivo.pt/wayback/20201223220539mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-12T19:49:25Z",
+        "uri": "https://arquivo.pt/wayback/20210112194925mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-12T19:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20210112194945mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-21T21:21:20Z",
+        "uri": "https://arquivo.pt/wayback/20210121212120mp_/http://drs357@cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-21T21:56:21Z",
+        "uri": "https://arquivo.pt/wayback/20210121215621mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-22T21:49:00Z",
+        "uri": "https://arquivo.pt/wayback/20210122214900mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-29T19:15:28Z",
+        "uri": "https://arquivo.pt/wayback/20210129191528mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-30T22:19:48Z",
+        "uri": "https://arquivo.pt/wayback/20210130221948mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-01-31T19:41:25Z",
+        "uri": "https://arquivo.pt/wayback/20210131194125mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-02-01T19:22:10Z",
+        "uri": "https://arquivo.pt/wayback/20210201192210mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-02-23T18:09:12Z",
+        "uri": "https://arquivo.pt/wayback/20210223180912mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-02-23T18:09:25Z",
+        "uri": "https://arquivo.pt/wayback/20210223180925mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-03T23:12:49Z",
+        "uri": "https://arquivo.pt/wayback/20210303231249mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-03T23:12:49Z",
+        "uri": "https://arquivo.pt/wayback/20210303231249mp_/http://gr285@cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-04T21:10:56Z",
+        "uri": "https://arquivo.pt/wayback/20210304211056mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-09T20:24:15Z",
+        "uri": "https://web.archive.org.au/awa/20210309202415mp_/http://pandora.nla.gov.au/pan/52190/20210310-0000/www.cornell.edu/index.html"
+      },
+      {
+        "datetime": "2021-03-15T19:45:46Z",
+        "uri": "https://arquivo.pt/wayback/20210315194546mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-17T21:04:01Z",
+        "uri": "https://arquivo.pt/wayback/20210317210401mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-17T22:02:11Z",
+        "uri": "https://arquivo.pt/wayback/20210317220211mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-03-28T14:51:17Z",
+        "uri": "https://arquivo.pt/wayback/20210328145117mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-01T18:46:42Z",
+        "uri": "https://arquivo.pt/wayback/20210401184642mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-01T19:29:28Z",
+        "uri": "https://arquivo.pt/wayback/20210401192928mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-02T19:08:08Z",
+        "uri": "https://arquivo.pt/wayback/20210402190808mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-03T19:06:37Z",
+        "uri": "https://arquivo.pt/wayback/20210403190637mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-04T21:03:50Z",
+        "uri": "https://arquivo.pt/wayback/20210404210350mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-04-07T18:42:24Z",
+        "uri": "https://arquivo.pt/wayback/20210407184224mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-05-02T22:42:04Z",
+        "uri": "https://arquivo.pt/wayback/20210502224204mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-05-15T00:20:47Z",
+        "uri": "https://arquivo.pt/wayback/20210515002047mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-05-16T01:29:00Z",
+        "uri": "https://arquivo.pt/wayback/20210516012900mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-05-17T00:44:13Z",
+        "uri": "https://arquivo.pt/wayback/20210517004413mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-05-30T21:49:20Z",
+        "uri": "http://archive.md/20210530214920/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T19:40:43Z",
+        "uri": "https://arquivo.pt/wayback/20210602194043mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T19:40:48Z",
+        "uri": "https://arquivo.pt/wayback/20210602194048mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T19:45:24Z",
+        "uri": "https://arquivo.pt/wayback/20210602194524mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T19:45:25Z",
+        "uri": "https://arquivo.pt/wayback/20210602194525mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:39:01Z",
+        "uri": "https://arquivo.pt/wayback/20210602223901mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:39:01Z",
+        "uri": "https://arquivo.pt/wayback/20210602223901mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:39:03Z",
+        "uri": "https://arquivo.pt/wayback/20210602223903mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:53:52Z",
+        "uri": "https://arquivo.pt/wayback/20210602225352mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:53:52Z",
+        "uri": "https://arquivo.pt/wayback/20210602225352mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-02T22:53:54Z",
+        "uri": "https://arquivo.pt/wayback/20210602225354mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T02:10:07Z",
+        "uri": "https://arquivo.pt/wayback/20210603021007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T03:24:55Z",
+        "uri": "https://arquivo.pt/wayback/20210603032455mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T04:43:08Z",
+        "uri": "https://arquivo.pt/wayback/20210603044308mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T07:23:39Z",
+        "uri": "https://arquivo.pt/wayback/20210603072339mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T07:23:41Z",
+        "uri": "https://arquivo.pt/wayback/20210603072341mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T11:56:28Z",
+        "uri": "https://arquivo.pt/wayback/20210603115628mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T11:56:28Z",
+        "uri": "https://arquivo.pt/wayback/20210603115628mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T11:56:30Z",
+        "uri": "https://arquivo.pt/wayback/20210603115630mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T18:53:21Z",
+        "uri": "https://arquivo.pt/wayback/20210603185321mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T18:53:22Z",
+        "uri": "https://arquivo.pt/wayback/20210603185322mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-03T18:53:24Z",
+        "uri": "https://arquivo.pt/wayback/20210603185324mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-04T10:16:39Z",
+        "uri": "https://arquivo.pt/wayback/20210604101639mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T05:38:10Z",
+        "uri": "https://arquivo.pt/wayback/20210605053810mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T13:17:57Z",
+        "uri": "https://arquivo.pt/wayback/20210605131757mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T13:17:57Z",
+        "uri": "https://arquivo.pt/wayback/20210605131757mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T13:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20210605131759mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T13:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20210605131759mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T14:21:23Z",
+        "uri": "https://arquivo.pt/wayback/20210605142123mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T14:21:25Z",
+        "uri": "https://arquivo.pt/wayback/20210605142125mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T21:22:06Z",
+        "uri": "https://arquivo.pt/wayback/20210605212206mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T21:22:09Z",
+        "uri": "https://arquivo.pt/wayback/20210605212209mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T21:25:56Z",
+        "uri": "https://arquivo.pt/wayback/20210605212556mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-05T21:25:58Z",
+        "uri": "https://arquivo.pt/wayback/20210605212558mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-06T06:18:54Z",
+        "uri": "https://arquivo.pt/wayback/20210606061854mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-07T18:35:46Z",
+        "uri": "https://arquivo.pt/wayback/20210607183546mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-07T18:35:46Z",
+        "uri": "https://arquivo.pt/wayback/20210607183546mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-07T18:35:48Z",
+        "uri": "https://arquivo.pt/wayback/20210607183548mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-08T16:52:39Z",
+        "uri": "https://web.archive.org.au/awa/20210608165239mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T00:36:23Z",
+        "uri": "https://arquivo.pt/wayback/20210609003623mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T00:36:25Z",
+        "uri": "https://arquivo.pt/wayback/20210609003625mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T00:40:22Z",
+        "uri": "https://arquivo.pt/wayback/20210609004022mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T00:40:22Z",
+        "uri": "https://arquivo.pt/wayback/20210609004022mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T00:40:24Z",
+        "uri": "https://arquivo.pt/wayback/20210609004024mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-09T06:48:08Z",
+        "uri": "https://arquivo.pt/wayback/20210609064808mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-10T04:38:19Z",
+        "uri": "https://arquivo.pt/wayback/20210610043819mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T01:31:02Z",
+        "uri": "https://arquivo.pt/wayback/20210611013102mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T01:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20210611013104mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T01:35:22Z",
+        "uri": "https://arquivo.pt/wayback/20210611013522mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T05:36:51Z",
+        "uri": "https://arquivo.pt/wayback/20210611053651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T05:36:51Z",
+        "uri": "https://arquivo.pt/wayback/20210611053651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T05:36:53Z",
+        "uri": "https://arquivo.pt/wayback/20210611053653mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T05:41:45Z",
+        "uri": "https://arquivo.pt/wayback/20210611054145mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T09:43:32Z",
+        "uri": "https://arquivo.pt/wayback/20210611094332mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T10:43:51Z",
+        "uri": "https://arquivo.pt/wayback/20210611104351mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-11T11:49:22Z",
+        "uri": "https://arquivo.pt/wayback/20210611114922mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-13T00:45:40Z",
+        "uri": "https://arquivo.pt/wayback/20210613004540mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-13T00:45:40Z",
+        "uri": "https://arquivo.pt/wayback/20210613004540mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-13T00:45:42Z",
+        "uri": "https://arquivo.pt/wayback/20210613004542mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-17T08:47:10Z",
+        "uri": "https://arquivo.pt/wayback/20210617084710mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-18T09:31:18Z",
+        "uri": "https://arquivo.pt/wayback/20210618093118mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-19T03:42:03Z",
+        "uri": "https://arquivo.pt/wayback/20210619034203mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-19T03:42:07Z",
+        "uri": "https://arquivo.pt/wayback/20210619034207mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-27T18:50:01Z",
+        "uri": "https://arquivo.pt/wayback/20210627185001mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-27T18:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20210627185007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-06-29T10:48:31Z",
+        "uri": "https://arquivo.pt/wayback/20210629104831mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-07-06T12:40:20Z",
+        "uri": "https://arquivo.pt/wayback/20210706124020mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-07-07T07:13:24Z",
+        "uri": "https://arquivo.pt/wayback/20210707071324mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-08-05T13:00:07Z",
+        "uri": "https://arquivo.pt/wayback/20210805130007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-08-21T23:17:22Z",
+        "uri": "https://arquivo.pt/wayback/20210821231722mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-08-21T23:18:00Z",
+        "uri": "https://arquivo.pt/wayback/20210821231800mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-08-21T23:19:07Z",
+        "uri": "https://arquivo.pt/wayback/20210821231907mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-05T23:14:12Z",
+        "uri": "https://arquivo.pt/wayback/20210905231412mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-05T23:19:32Z",
+        "uri": "https://arquivo.pt/wayback/20210905231932mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-09T18:45:14Z",
+        "uri": "https://arquivo.pt/wayback/20210909184514mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-09T18:59:46Z",
+        "uri": "https://arquivo.pt/wayback/20210909185946mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-10T20:18:54Z",
+        "uri": "https://arquivo.pt/wayback/20210910201854mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-11T23:39:17Z",
+        "uri": "https://arquivo.pt/wayback/20210911233917mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-11T23:39:21Z",
+        "uri": "https://arquivo.pt/wayback/20210911233921mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-14T23:05:10Z",
+        "uri": "https://arquivo.pt/wayback/20210914230510mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-15T23:10:57Z",
+        "uri": "https://arquivo.pt/wayback/20210915231057mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-28T23:11:55Z",
+        "uri": "https://arquivo.pt/wayback/20210928231155mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-09-30T08:31:11Z",
+        "uri": "https://arquivo.pt/wayback/20210930083111mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-06T10:34:29Z",
+        "uri": "http://archive.md/20211006103429/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-09T05:53:28Z",
+        "uri": "https://arquivo.pt/wayback/20211009055328mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-12T16:39:52Z",
+        "uri": "https://arquivo.pt/wayback/20211012163952mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-13T03:19:17Z",
+        "uri": "https://arquivo.pt/wayback/20211013031917mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-19T06:13:02Z",
+        "uri": "https://arquivo.pt/wayback/20211019061302mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-22T08:42:14Z",
+        "uri": "https://arquivo.pt/wayback/20211022084214mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-22T08:42:14Z",
+        "uri": "https://arquivo.pt/wayback/20211022084214mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-22T08:42:26Z",
+        "uri": "https://arquivo.pt/wayback/20211022084226mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-22T08:59:36Z",
+        "uri": "https://arquivo.pt/wayback/20211022085936mp_/http://northeastada@cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-26T14:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20211026141954mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-26T14:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20211026141954mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-26T14:20:01Z",
+        "uri": "https://arquivo.pt/wayback/20211026142001mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2021-10-29T05:50:30Z",
+        "uri": "https://arquivo.pt/wayback/20211029055030mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-09T06:18:56Z",
+        "uri": "https://arquivo.pt/wayback/20211109061856mp_/http://@cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-12T00:23:35Z",
+        "uri": "https://arquivo.pt/wayback/20211112002335mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-12T21:14:13Z",
+        "uri": "https://arquivo.pt/wayback/20211112211413mp_/http://rch37@cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-12T22:37:26Z",
+        "uri": "https://arquivo.pt/wayback/20211112223726mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-13T22:25:36Z",
+        "uri": "https://arquivo.pt/wayback/20211113222536mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-14T21:16:22Z",
+        "uri": "https://arquivo.pt/wayback/20211114211622mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-15T21:32:51Z",
+        "uri": "https://arquivo.pt/wayback/20211115213251mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-16T21:19:42Z",
+        "uri": "https://arquivo.pt/wayback/20211116211942mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-18T05:45:27Z",
+        "uri": "http://archive.md/20211118054527/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-19T23:44:51Z",
+        "uri": "https://arquivo.pt/wayback/20211119234451mp_/http://elr72@cornell.edu/"
+      },
+      {
+        "datetime": "2021-11-20T00:11:12Z",
+        "uri": "https://arquivo.pt/wayback/20211120001112mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-12-08T00:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20211208005244mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-12-13T00:25:39Z",
+        "uri": "https://arquivo.pt/wayback/20211213002539mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-12-14T23:37:29Z",
+        "uri": "https://arquivo.pt/wayback/20211214233729mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2021-12-28T23:51:52Z",
+        "uri": "https://arquivo.pt/wayback/20211228235152mp_/http://ap19@cornell.edu/"
+      },
+      {
+        "datetime": "2021-12-29T00:14:55Z",
+        "uri": "https://arquivo.pt/wayback/20211229001455mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-17T00:40:11Z",
+        "uri": "https://arquivo.pt/wayback/20220117004011mp_/http://mailto:wz278@cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-17T01:05:42Z",
+        "uri": "https://arquivo.pt/wayback/20220117010542mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-18T00:37:32Z",
+        "uri": "https://arquivo.pt/wayback/20220118003732mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-20T06:25:35Z",
+        "uri": "https://arquivo.pt/wayback/20220120062535mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-20T06:25:42Z",
+        "uri": "https://arquivo.pt/wayback/20220120062542mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-24T23:31:01Z",
+        "uri": "https://arquivo.pt/wayback/20220124233101mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-24T23:31:11Z",
+        "uri": "https://arquivo.pt/wayback/20220124233111mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-24T23:32:35Z",
+        "uri": "https://arquivo.pt/wayback/20220124233235mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-25T13:50:52Z",
+        "uri": "https://arquivo.pt/wayback/20220125135052mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-25T13:51:08Z",
+        "uri": "https://arquivo.pt/wayback/20220125135108mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-29T00:11:32Z",
+        "uri": "https://arquivo.pt/wayback/20220129001132mp_/http://skt39@cornell.edu/"
+      },
+      {
+        "datetime": "2022-01-29T00:46:14Z",
+        "uri": "https://arquivo.pt/wayback/20220129004614mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-01T00:36:19Z",
+        "uri": "https://arquivo.pt/wayback/20220201003619mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-02T00:04:13Z",
+        "uri": "https://arquivo.pt/wayback/20220202000413mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-02T10:31:12Z",
+        "uri": "https://arquivo.pt/wayback/20220202103112mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-02T23:28:09Z",
+        "uri": "https://arquivo.pt/wayback/20220202232809mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-03T00:31:31Z",
+        "uri": "https://arquivo.pt/wayback/20220203003131mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-09T00:52:00Z",
+        "uri": "https://arquivo.pt/wayback/20220209005200mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-09T09:09:37Z",
+        "uri": "http://archive.md/20220209090937/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-09T21:05:13Z",
+        "uri": "https://arquivo.pt/wayback/20220209210513mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-09T21:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20220209210535mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-11T10:54:16Z",
+        "uri": "http://archive.md/20220211105416/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-16T23:00:01Z",
+        "uri": "https://arquivo.pt/wayback/20220216230001mp_/http://northeastada@cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-16T23:52:58Z",
+        "uri": "https://arquivo.pt/wayback/20220216235258mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-18T00:12:38Z",
+        "uri": "https://arquivo.pt/wayback/20220218001238mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-19T03:26:04Z",
+        "uri": "https://arquivo.pt/wayback/20220219032604mp_/http://vr53@cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-19T03:26:11Z",
+        "uri": "https://arquivo.pt/wayback/20220219032611mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-20T03:09:40Z",
+        "uri": "https://arquivo.pt/wayback/20220220030940mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-21T03:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20220221031037mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-22T02:56:49Z",
+        "uri": "https://arquivo.pt/wayback/20220222025649mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-23T03:36:58Z",
+        "uri": "https://arquivo.pt/wayback/20220223033658mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-24T03:18:57Z",
+        "uri": "https://arquivo.pt/wayback/20220224031857mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-25T03:32:06Z",
+        "uri": "https://arquivo.pt/wayback/20220225033206mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-02-26T00:27:48Z",
+        "uri": "https://arquivo.pt/wayback/20220226002748mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-11T01:31:41Z",
+        "uri": "https://arquivo.pt/wayback/20220311013141mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-11T01:40:33Z",
+        "uri": "https://arquivo.pt/wayback/20220311014033mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-12T01:44:39Z",
+        "uri": "https://arquivo.pt/wayback/20220312014439mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-13T01:49:07Z",
+        "uri": "https://arquivo.pt/wayback/20220313014907mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-14T01:33:55Z",
+        "uri": "https://arquivo.pt/wayback/20220314013355mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-15T01:51:39Z",
+        "uri": "https://arquivo.pt/wayback/20220315015139mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-16T01:45:05Z",
+        "uri": "https://arquivo.pt/wayback/20220316014505mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-17T02:20:34Z",
+        "uri": "https://arquivo.pt/wayback/20220317022034mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-20T21:50:24Z",
+        "uri": "https://arquivo.pt/wayback/20220320215024mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-24T01:47:29Z",
+        "uri": "https://arquivo.pt/wayback/20220324014729mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-26T23:51:32Z",
+        "uri": "https://arquivo.pt/wayback/20220326235132mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-27T23:04:01Z",
+        "uri": "https://arquivo.pt/wayback/20220327230401mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-03-31T01:40:21Z",
+        "uri": "https://arquivo.pt/wayback/20220331014021mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-01T00:53:28Z",
+        "uri": "https://arquivo.pt/wayback/20220401005328mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-02T00:26:45Z",
+        "uri": "https://arquivo.pt/wayback/20220402002645mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-02T00:40:59Z",
+        "uri": "https://arquivo.pt/wayback/20220402004059mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-05T02:26:51Z",
+        "uri": "https://arquivo.pt/wayback/20220405022651mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-06T02:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20220406020535mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-07T02:07:33Z",
+        "uri": "https://arquivo.pt/wayback/20220407020733mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-08T01:34:30Z",
+        "uri": "https://arquivo.pt/wayback/20220408013430mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-12T06:33:54Z",
+        "uri": "https://arquivo.pt/wayback/20220412063354mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-16T18:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20220416183217mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-16T18:32:31Z",
+        "uri": "https://arquivo.pt/wayback/20220416183231mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-16T18:34:28Z",
+        "uri": "https://arquivo.pt/wayback/20220416183428mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-21T01:53:10Z",
+        "uri": "https://arquivo.pt/wayback/20220421015310mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-22T01:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20220422014324mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-23T01:51:25Z",
+        "uri": "https://arquivo.pt/wayback/20220423015125mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-24T01:31:39Z",
+        "uri": "https://arquivo.pt/wayback/20220424013139mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-24T07:55:39Z",
+        "uri": "https://arquivo.pt/wayback/20220424075539mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-24T09:58:47Z",
+        "uri": "https://arquivo.pt/wayback/20220424095847mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-24T09:59:03Z",
+        "uri": "https://arquivo.pt/wayback/20220424095903mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-25T02:09:55Z",
+        "uri": "https://arquivo.pt/wayback/20220425020955mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-26T02:14:55Z",
+        "uri": "https://arquivo.pt/wayback/20220426021455mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-26T02:14:55Z",
+        "uri": "https://arquivo.pt/wayback/20220426021455mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:54:31Z",
+        "uri": "https://arquivo.pt/wayback/20220428015431mp_/http://khb39@cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:54:31Z",
+        "uri": "https://arquivo.pt/wayback/20220428015431mp_/http://khb39@cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-28T02:21:56Z",
+        "uri": "https://arquivo.pt/wayback/20220428022156mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-28T02:21:56Z",
+        "uri": "https://arquivo.pt/wayback/20220428022156mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-29T02:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20220429020502mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-04-29T02:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20220429020502mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-01T01:35:42Z",
+        "uri": "https://arquivo.pt/wayback/20220501013542mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-05T01:02:50Z",
+        "uri": "https://arquivo.pt/wayback/20220505010250mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-06T01:50:48Z",
+        "uri": "https://arquivo.pt/wayback/20220506015048mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-08T01:30:57Z",
+        "uri": "https://arquivo.pt/wayback/20220508013057mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-13T01:13:48Z",
+        "uri": "https://arquivo.pt/wayback/20220513011348mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-14T02:06:02Z",
+        "uri": "https://arquivo.pt/wayback/20220514020602mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-14T17:01:22Z",
+        "uri": "https://arquivo.pt/wayback/20220514170122mp_/http://mailto:yh20@cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-15T01:54:37Z",
+        "uri": "https://arquivo.pt/wayback/20220515015437mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-15T02:30:59Z",
+        "uri": "https://arquivo.pt/wayback/20220515023059mp_/https://cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-16T02:08:16Z",
+        "uri": "https://arquivo.pt/wayback/20220516020816mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-17T02:23:42Z",
+        "uri": "https://arquivo.pt/wayback/20220517022342mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-18T01:58:38Z",
+        "uri": "https://arquivo.pt/wayback/20220518015838mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-19T01:55:25Z",
+        "uri": "https://arquivo.pt/wayback/20220519015525mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-20T02:17:46Z",
+        "uri": "https://arquivo.pt/wayback/20220520021746mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-21T02:39:34Z",
+        "uri": "https://arquivo.pt/wayback/20220521023934mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-22T02:19:27Z",
+        "uri": "https://arquivo.pt/wayback/20220522021927mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-23T02:25:53Z",
+        "uri": "https://arquivo.pt/wayback/20220523022553mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-24T02:24:57Z",
+        "uri": "https://arquivo.pt/wayback/20220524022457mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-25T02:38:08Z",
+        "uri": "https://arquivo.pt/wayback/20220525023808mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-26T02:36:11Z",
+        "uri": "https://arquivo.pt/wayback/20220526023611mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-27T02:14:56Z",
+        "uri": "https://arquivo.pt/wayback/20220527021456mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-05-29T02:08:51Z",
+        "uri": "https://arquivo.pt/wayback/20220529020851mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-01T02:53:22Z",
+        "uri": "https://arquivo.pt/wayback/20220601025322mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-15T04:01:48Z",
+        "uri": "https://arquivo.pt/wayback/20220615040148mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-16T04:38:36Z",
+        "uri": "https://arquivo.pt/wayback/20220616043836mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-17T04:14:27Z",
+        "uri": "https://arquivo.pt/wayback/20220617041427mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-18T04:31:51Z",
+        "uri": "https://arquivo.pt/wayback/20220618043151mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-19T05:04:34Z",
+        "uri": "https://arquivo.pt/wayback/20220619050434mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-21T06:27:29Z",
+        "uri": "https://arquivo.pt/wayback/20220621062729mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-06-22T07:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20220622075007mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-02T11:33:49Z",
+        "uri": "https://arquivo.pt/wayback/20220702113349mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-02T11:53:34Z",
+        "uri": "https://arquivo.pt/wayback/20220702115334mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-06T14:34:29Z",
+        "uri": "https://arquivo.pt/wayback/20220706143429mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-06T15:05:18Z",
+        "uri": "https://arquivo.pt/wayback/20220706150518mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-07T13:01:56Z",
+        "uri": "https://arquivo.pt/wayback/20220707130156mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-07-07T13:22:49Z",
+        "uri": "https://arquivo.pt/wayback/20220707132249mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-03T00:59:49Z",
+        "uri": "https://arquivo.pt/wayback/20220803005949mp_/http://khb39@cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-03T01:14:13Z",
+        "uri": "https://arquivo.pt/wayback/20220803011413mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-04T23:33:44Z",
+        "uri": "https://arquivo.pt/wayback/20220804233344mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-06T00:32:02Z",
+        "uri": "https://arquivo.pt/wayback/20220806003202mp_/http://nd363@cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-11T16:50:55Z",
+        "uri": "https://arquivo.pt/wayback/20220811165055mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2022-08-13T20:35:44Z",
+        "uri": "https://arquivo.pt/wayback/20220813203544mp_/http://nc373@cornell.edu/"
+      },
+      {
+        "datetime": "2022-10-01T17:05:51Z",
+        "uri": "https://arquivo.pt/wayback/20221001170551mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2022-10-01T18:09:06Z",
+        "uri": "https://arquivo.pt/wayback/20221001180906mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-10-03T20:09:43Z",
+        "uri": "http://archive.md/20221003200943/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2022-12-28T21:14:36Z",
+        "uri": "https://arquivo.pt/wayback/20221228211436mp_/http://corrie.moreau@cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-24T00:09:16Z",
+        "uri": "http://archive.md/20230124000916/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-24T08:08:39Z",
+        "uri": "https://arquivo.pt/wayback/20230124080839mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-24T08:09:04Z",
+        "uri": "https://arquivo.pt/wayback/20230124080904mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-26T00:57:22Z",
+        "uri": "https://arquivo.pt/wayback/20230126005722mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-27T02:44:09Z",
+        "uri": "https://arquivo.pt/wayback/20230127024409mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-28T02:12:16Z",
+        "uri": "https://arquivo.pt/wayback/20230128021216mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-29T02:31:15Z",
+        "uri": "https://arquivo.pt/wayback/20230129023115mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-30T02:23:02Z",
+        "uri": "https://arquivo.pt/wayback/20230130022302mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-01-31T02:16:09Z",
+        "uri": "https://arquivo.pt/wayback/20230131021609mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-01T01:48:49Z",
+        "uri": "https://arquivo.pt/wayback/20230201014849mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-02T02:30:33Z",
+        "uri": "https://arquivo.pt/wayback/20230202023033mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-03T02:27:33Z",
+        "uri": "https://arquivo.pt/wayback/20230203022733mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-03T09:22:37Z",
+        "uri": "https://arquivo.pt/wayback/20230203092237mp_/http://nc373@cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-04T02:26:30Z",
+        "uri": "https://arquivo.pt/wayback/20230204022630mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-05T01:53:57Z",
+        "uri": "https://arquivo.pt/wayback/20230205015357mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-06T02:34:00Z",
+        "uri": "https://arquivo.pt/wayback/20230206023400mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-10T00:07:17Z",
+        "uri": "https://arquivo.pt/wayback/20230210000717mp_/http://sm456@cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-10T01:28:40Z",
+        "uri": "https://arquivo.pt/wayback/20230210012840mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-16T02:34:49Z",
+        "uri": "https://arquivo.pt/wayback/20230216023449mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-16T04:40:14Z",
+        "uri": "https://arquivo.pt/wayback/20230216044014mp_/http://cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-18T01:46:32Z",
+        "uri": "https://arquivo.pt/wayback/20230218014632mp_/http://britneys@cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-18T01:57:47Z",
+        "uri": "https://arquivo.pt/wayback/20230218015747mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-18T11:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20230218111759mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-18T11:18:34Z",
+        "uri": "https://arquivo.pt/wayback/20230218111834mp_/http://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-19T01:21:23Z",
+        "uri": "https://arquivo.pt/wayback/20230219012123mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-19T22:37:44Z",
+        "uri": "https://arquivo.pt/wayback/20230219223744mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-20T22:32:43Z",
+        "uri": "https://arquivo.pt/wayback/20230220223243mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-21T22:55:46Z",
+        "uri": "https://arquivo.pt/wayback/20230221225546mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-22T22:52:53Z",
+        "uri": "https://arquivo.pt/wayback/20230222225253mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-23T21:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20230223212930mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-24T22:38:06Z",
+        "uri": "https://arquivo.pt/wayback/20230224223806mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-25T22:17:51Z",
+        "uri": "https://arquivo.pt/wayback/20230225221751mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-26T22:14:15Z",
+        "uri": "https://arquivo.pt/wayback/20230226221415mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-27T22:56:10Z",
+        "uri": "https://arquivo.pt/wayback/20230227225610mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-02-28T22:44:28Z",
+        "uri": "https://arquivo.pt/wayback/20230228224428mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-01T22:37:27Z",
+        "uri": "https://arquivo.pt/wayback/20230301223727mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-02T22:45:21Z",
+        "uri": "https://arquivo.pt/wayback/20230302224521mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-03T22:37:42Z",
+        "uri": "https://arquivo.pt/wayback/20230303223742mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-04T22:43:51Z",
+        "uri": "https://arquivo.pt/wayback/20230304224351mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-05T22:51:39Z",
+        "uri": "https://arquivo.pt/wayback/20230305225139mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-06T22:50:47Z",
+        "uri": "https://arquivo.pt/wayback/20230306225047mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-07T23:05:28Z",
+        "uri": "https://arquivo.pt/wayback/20230307230528mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-08T23:13:17Z",
+        "uri": "https://arquivo.pt/wayback/20230308231317mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-09T23:14:45Z",
+        "uri": "https://arquivo.pt/wayback/20230309231445mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-11T01:41:36Z",
+        "uri": "https://arquivo.pt/wayback/20230311014136mp_/http://ao332@cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-11T01:41:43Z",
+        "uri": "https://arquivo.pt/wayback/20230311014143mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-12T03:03:03Z",
+        "uri": "https://arquivo.pt/wayback/20230312030303mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-13T01:37:43Z",
+        "uri": "https://arquivo.pt/wayback/20230313013743mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-14T01:32:23Z",
+        "uri": "https://arquivo.pt/wayback/20230314013223mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-15T01:46:30Z",
+        "uri": "https://arquivo.pt/wayback/20230315014630mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-15T19:50:01Z",
+        "uri": "https://arquivo.pt/wayback/20230315195001mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-16T19:50:55Z",
+        "uri": "https://arquivo.pt/wayback/20230316195055mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-17T20:48:01Z",
+        "uri": "https://arquivo.pt/wayback/20230317204801mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-18T21:04:41Z",
+        "uri": "https://arquivo.pt/wayback/20230318210441mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-20T17:08:42Z",
+        "uri": "https://arquivo.pt/wayback/20230320170842mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-21T00:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20230321001931mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-21T21:38:53Z",
+        "uri": "https://arquivo.pt/wayback/20230321213853mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-22T21:06:45Z",
+        "uri": "https://arquivo.pt/wayback/20230322210645mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-23T20:48:21Z",
+        "uri": "https://arquivo.pt/wayback/20230323204821mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-24T20:58:03Z",
+        "uri": "https://arquivo.pt/wayback/20230324205803mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-25T20:52:51Z",
+        "uri": "https://arquivo.pt/wayback/20230325205251mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-26T20:02:47Z",
+        "uri": "https://arquivo.pt/wayback/20230326200247mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-27T19:04:30Z",
+        "uri": "https://arquivo.pt/wayback/20230327190430mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-28T18:47:11Z",
+        "uri": "https://arquivo.pt/wayback/20230328184711mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-29T18:57:59Z",
+        "uri": "https://arquivo.pt/wayback/20230329185759mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-30T19:01:42Z",
+        "uri": "https://arquivo.pt/wayback/20230330190142mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-03-31T18:56:27Z",
+        "uri": "https://arquivo.pt/wayback/20230331185627mp_/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-06-26T01:45:55Z",
+        "uri": "http://archive.md/20230626014555/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2023-08-22T18:12:27Z",
+        "uri": "http://archive.md/20230822181227/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2024-04-17T23:28:06Z",
+        "uri": "http://archive.md/20240417232806/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2024-04-21T01:07:12Z",
+        "uri": "http://archive.md/20240421010712/https://www.cornell.edu/"
+      },
+      {
+        "datetime": "2024-08-03T01:50:07Z",
+        "uri": "http://archive.md/20240803015007/https://www.cornell.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "1997-07-30T16:36:57Z",
+      "uri": "http://archive.md/19970730163657/http://www.cornell.edu/"
+    },
+    "last": {
+      "datetime": "2024-08-03T01:50:07Z",
+      "uri": "http://archive.md/20240803015007/https://www.cornell.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cornell.edu/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cornell.edu/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cornell.edu/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cornell.edu/"
+}

@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/recwell",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/recwell",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-03T14:20:47Z",
+        "uri": "https://arquivo.pt/wayback/20211103142047mp_/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-11-03T14:20:52Z",
+        "uri": "https://arquivo.pt/wayback/20211103142052mp_/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-05-07T21:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20220507213005mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-05-16T03:42:35Z",
+        "uri": "https://arquivo.pt/wayback/20220516034235mp_/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-18T07:23:46Z",
+        "uri": "https://arquivo.pt/wayback/20220818072346mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-16T03:55:29Z",
+        "uri": "https://arquivo.pt/wayback/20221116035529mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-24T20:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20230124201511mp_/https://www.odu.edu/recwell"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-03T14:20:47Z",
+      "uri": "https://arquivo.pt/wayback/20211103142047mp_/https://www.odu.edu/recwell"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:15:11Z",
+      "uri": "https://arquivo.pt/wayback/20230124201511mp_/https://www.odu.edu/recwell"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/recwell",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/recwell",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/recwell"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/recwell"
+}

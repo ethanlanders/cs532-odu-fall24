@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/de/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-21T19:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20220921190800mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-21T19:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20220921190801mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T03:47:43Z",
+        "uri": "https://arquivo.pt/wayback/20220922034743mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T03:47:44Z",
+        "uri": "https://arquivo.pt/wayback/20220922034744mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-23T20:45:03Z",
+        "uri": "https://arquivo.pt/wayback/20220923204503mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-23T20:45:04Z",
+        "uri": "https://arquivo.pt/wayback/20220923204504mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:22Z",
+        "uri": "https://arquivo.pt/wayback/20220930190722mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:25Z",
+        "uri": "https://arquivo.pt/wayback/20220930190725mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:27Z",
+        "uri": "https://arquivo.pt/wayback/20220930190727mp_/https://www.daad-ukraine.org/de/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-21T19:08:00Z",
+      "uri": "https://arquivo.pt/wayback/20220921190800mp_/https://www.daad-ukraine.org/de/"
+    },
+    "last": {
+      "datetime": "2022-09-30T19:07:27Z",
+      "uri": "https://arquivo.pt/wayback/20220930190727mp_/https://www.daad-ukraine.org/de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/de/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/de/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/de/"
+}

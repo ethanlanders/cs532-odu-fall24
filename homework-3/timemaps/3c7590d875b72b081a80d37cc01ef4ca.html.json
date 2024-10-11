@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://weiglemc.github.io/",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-22T18:36:02Z",
+        "uri": "https://arquivo.pt/wayback/20211022183602mp_/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-04-27T21:07:54Z",
+        "uri": "http://archive.md/20220427210754/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T22:44:07Z",
+        "uri": "https://arquivo.pt/wayback/20220819224407mp_/https://weiglemc.github.io/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-22T18:36:02Z",
+      "uri": "https://arquivo.pt/wayback/20211022183602mp_/https://weiglemc.github.io/"
+    },
+    "last": {
+      "datetime": "2022-08-19T22:44:07Z",
+      "uri": "https://arquivo.pt/wayback/20220819224407mp_/https://weiglemc.github.io/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/"
+}
