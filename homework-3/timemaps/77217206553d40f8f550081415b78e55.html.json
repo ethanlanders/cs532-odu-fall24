@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.odu.edu/academics/student-computing",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/student-computing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-05T09:13:56Z",
+        "uri": "https://arquivo.pt/wayback/20211105091356mp_/https://odu.edu/academics/student-computing"
+      },
+      {
+        "datetime": "2022-05-16T05:30:12Z",
+        "uri": "https://arquivo.pt/wayback/20220516053012mp_/https://www.odu.edu/academics/student-computing"
+      },
+      {
+        "datetime": "2022-05-16T05:30:16Z",
+        "uri": "https://arquivo.pt/wayback/20220516053016mp_/http://www.odu.edu/academics/student-computing"
+      },
+      {
+        "datetime": "2022-08-27T20:16:14Z",
+        "uri": "https://arquivo.pt/wayback/20220827201614mp_/https://www.odu.edu/academics/student-computing"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-05T09:13:56Z",
+      "uri": "https://arquivo.pt/wayback/20211105091356mp_/https://odu.edu/academics/student-computing"
+    },
+    "last": {
+      "datetime": "2022-08-27T20:16:14Z",
+      "uri": "https://arquivo.pt/wayback/20220827201614mp_/https://www.odu.edu/academics/student-computing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/academics/student-computing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/student-computing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/academics/student-computing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/academics/student-computing"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:32:13Z",
+        "uri": "https://arquivo.pt/wayback/20191114223213mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+      },
+      {
+        "datetime": "2020-02-14T11:08:37Z",
+        "uri": "https://arquivo.pt/wayback/20200214110837mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+      },
+      {
+        "datetime": "2020-03-12T15:41:44Z",
+        "uri": "https://arquivo.pt/wayback/20200312154144mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+      },
+      {
+        "datetime": "2021-09-19T17:13:11Z",
+        "uri": "https://arquivo.pt/wayback/20210919171311mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:32:13Z",
+      "uri": "https://arquivo.pt/wayback/20191114223213mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:13:11Z",
+      "uri": "https://arquivo.pt/wayback/20210919171311mp_/https://dblp.uni-trier.de/search/publ?query=type%3ABooks_and_Theses%3A"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/search/publ?query=type:Books_and_Theses:"
+}

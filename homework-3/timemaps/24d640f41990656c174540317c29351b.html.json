@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/admission/proficiency#done1612907281342=",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/proficiency#done1612907281342=",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:37:28Z",
+        "uri": "https://arquivo.pt/wayback/20210910153728mp_/https://www.odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2021-10-21T04:43:00Z",
+        "uri": "https://arquivo.pt/wayback/20211021044300mp_/https://odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2021-11-03T11:18:30Z",
+        "uri": "https://arquivo.pt/wayback/20211103111830mp_/http://www.odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-01-22T10:35:54Z",
+        "uri": "https://arquivo.pt/wayback/20220122103554mp_/https://odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-01-26T05:36:28Z",
+        "uri": "https://arquivo.pt/wayback/20220126053628mp_/http://www.odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-04-17T05:43:21Z",
+        "uri": "https://arquivo.pt/wayback/20220417054321mp_/https://odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-04-20T16:44:11Z",
+        "uri": "https://arquivo.pt/wayback/20220420164411mp_/https://odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-04-22T17:18:37Z",
+        "uri": "https://arquivo.pt/wayback/20220422171837mp_/http://www.odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-04-24T18:53:21Z",
+        "uri": "https://arquivo.pt/wayback/20220424185321mp_/http://www.odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2022-07-30T14:51:40Z",
+        "uri": "https://arquivo.pt/wayback/20220730145140mp_/https://odu.edu/admission/proficiency"
+      },
+      {
+        "datetime": "2023-01-24T20:04:36Z",
+        "uri": "https://arquivo.pt/wayback/20230124200436mp_/https://www.odu.edu/admission/proficiency"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:37:28Z",
+      "uri": "https://arquivo.pt/wayback/20210910153728mp_/https://www.odu.edu/admission/proficiency"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:04:36Z",
+      "uri": "https://arquivo.pt/wayback/20230124200436mp_/https://www.odu.edu/admission/proficiency"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/proficiency#done1612907281342=",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/proficiency#done1612907281342=",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/proficiency#done1612907281342="
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/proficiency#done1612907281342="
+}

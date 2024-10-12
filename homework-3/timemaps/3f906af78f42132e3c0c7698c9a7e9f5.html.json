@@ -1,0 +1,86 @@
+{
+  "original_uri": "https://opencitations.net/about",
+  "self": "http://localhost:1208/timemap/json/https://opencitations.net/about",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-10-04T14:10:27Z",
+        "uri": "https://arquivo.pt/wayback/20191004141027mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-12-21T16:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20191221165507mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-02-09T04:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20200209045343mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-03-17T16:19:27Z",
+        "uri": "https://arquivo.pt/wayback/20200317161927mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-06-18T17:46:39Z",
+        "uri": "https://arquivo.pt/wayback/20200618174639mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-14T06:19:38Z",
+        "uri": "https://arquivo.pt/wayback/20200914061938mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-12-15T12:01:38Z",
+        "uri": "https://arquivo.pt/wayback/20201215120138mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-03-16T18:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20210316184324mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-18T18:06:55Z",
+        "uri": "https://arquivo.pt/wayback/20210618180655mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-12T09:38:41Z",
+        "uri": "https://arquivo.pt/wayback/20210912093841mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-30T20:54:39Z",
+        "uri": "https://arquivo.pt/wayback/20211030205439mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-02-02T23:51:23Z",
+        "uri": "https://arquivo.pt/wayback/20220202235123mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-03T18:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20220503184324mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-08-14T11:31:58Z",
+        "uri": "https://arquivo.pt/wayback/20220814113158mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-10-28T03:56:15Z",
+        "uri": "https://arquivo.pt/wayback/20221028035615mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-02-04T04:21:47Z",
+        "uri": "https://arquivo.pt/wayback/20230204042147mp_/https://opencitations.net/about"
+      }
+    ],
+    "first": {
+      "datetime": "2019-10-04T14:10:27Z",
+      "uri": "https://arquivo.pt/wayback/20191004141027mp_/https://opencitations.net/about"
+    },
+    "last": {
+      "datetime": "2023-02-04T04:21:47Z",
+      "uri": "https://arquivo.pt/wayback/20230204042147mp_/https://opencitations.net/about"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://opencitations.net/about",
+    "json_format": "http://localhost:1208/timemap/json/https://opencitations.net/about",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://opencitations.net/about"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://opencitations.net/about"
+}

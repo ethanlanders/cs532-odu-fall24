@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/life",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:37:59Z",
+        "uri": "https://arquivo.pt/wayback/20210910153759mp_/https://www.odu.edu/life"
+      },
+      {
+        "datetime": "2021-11-03T11:19:01Z",
+        "uri": "https://arquivo.pt/wayback/20211103111901mp_/http://www.odu.edu/life"
+      },
+      {
+        "datetime": "2021-11-03T13:47:54Z",
+        "uri": "https://arquivo.pt/wayback/20211103134754mp_/https://www.odu.edu/life"
+      },
+      {
+        "datetime": "2022-01-22T10:37:42Z",
+        "uri": "https://arquivo.pt/wayback/20220122103742mp_/https://odu.edu/life"
+      },
+      {
+        "datetime": "2022-01-26T05:36:54Z",
+        "uri": "https://arquivo.pt/wayback/20220126053654mp_/http://www.odu.edu/life"
+      },
+      {
+        "datetime": "2022-04-17T05:45:32Z",
+        "uri": "https://arquivo.pt/wayback/20220417054532mp_/https://odu.edu/life"
+      },
+      {
+        "datetime": "2022-04-22T17:19:00Z",
+        "uri": "https://arquivo.pt/wayback/20220422171900mp_/https://www.odu.edu/life"
+      },
+      {
+        "datetime": "2022-04-22T17:19:04Z",
+        "uri": "https://arquivo.pt/wayback/20220422171904mp_/http://www.odu.edu/life"
+      },
+      {
+        "datetime": "2022-04-24T18:53:36Z",
+        "uri": "https://arquivo.pt/wayback/20220424185336mp_/http://www.odu.edu/life"
+      },
+      {
+        "datetime": "2022-07-30T14:53:09Z",
+        "uri": "https://arquivo.pt/wayback/20220730145309mp_/https://odu.edu/life"
+      },
+      {
+        "datetime": "2022-10-11T02:27:17Z",
+        "uri": "https://arquivo.pt/wayback/20221011022717mp_/https://odu.edu/life"
+      },
+      {
+        "datetime": "2023-01-24T20:12:59Z",
+        "uri": "https://arquivo.pt/wayback/20230124201259mp_/https://www.odu.edu/life"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:37:59Z",
+      "uri": "https://arquivo.pt/wayback/20210910153759mp_/https://www.odu.edu/life"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:12:59Z",
+      "uri": "https://arquivo.pt/wayback/20230124201259mp_/https://www.odu.edu/life"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life"
+}

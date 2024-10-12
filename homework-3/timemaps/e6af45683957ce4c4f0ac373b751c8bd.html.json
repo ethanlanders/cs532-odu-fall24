@@ -1,0 +1,1362 @@
+{
+  "original_uri": "https://dblp.uni-trier.de",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2009-10-20T21:40:30Z",
+        "uri": "https://web.archive.org.au/awa/20091020214030mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2011-04-09T00:20:18Z",
+        "uri": "https://web.archive.org.au/awa/20110409002018mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2012-06-30T05:33:37Z",
+        "uri": "http://archive.md/20120630053337/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2016-05-14T00:45:11Z",
+        "uri": "https://arquivo.pt/wayback/20160514004511mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2017-06-06T02:25:18Z",
+        "uri": "https://arquivo.pt/wayback/20170606022518mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-04-20T10:00:00Z",
+        "uri": "https://arquivo.pt/wayback/20180420100000mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-07-19T04:08:32Z",
+        "uri": "https://arquivo.pt/wayback/20180719040832mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-07-19T04:13:04Z",
+        "uri": "https://arquivo.pt/wayback/20180719041304mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-08-03T12:36:28Z",
+        "uri": "https://arquivo.pt/wayback/20180803123628mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-08-03T12:36:47Z",
+        "uri": "https://arquivo.pt/wayback/20180803123647mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-08-10T11:36:04Z",
+        "uri": "https://arquivo.pt/wayback/20180810113604mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-08-31T12:37:31Z",
+        "uri": "https://arquivo.pt/wayback/20180831123731mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-09-07T10:13:56Z",
+        "uri": "https://arquivo.pt/wayback/20180907101356mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-05T11:06:39Z",
+        "uri": "https://arquivo.pt/wayback/20181005110639mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-12T10:05:34Z",
+        "uri": "https://arquivo.pt/wayback/20181012100534mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-19T10:56:37Z",
+        "uri": "https://arquivo.pt/wayback/20181019105637mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-23T07:48:03Z",
+        "uri": "https://arquivo.pt/wayback/20181023074803mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-24T10:53:21Z",
+        "uri": "https://arquivo.pt/wayback/20181024105321mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2018-10-26T11:25:15Z",
+        "uri": "https://arquivo.pt/wayback/20181026112515mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-02-12T13:39:16Z",
+        "uri": "https://arquivo.pt/wayback/20190212133916mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-02-24T15:56:40Z",
+        "uri": "https://arquivo.pt/wayback/20190224155640mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-02-25T14:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20190225143103mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-03-14T15:36:39Z",
+        "uri": "https://arquivo.pt/wayback/20190314153639mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-03-24T11:44:30Z",
+        "uri": "https://arquivo.pt/wayback/20190324114430mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-03-28T15:37:57Z",
+        "uri": "https://arquivo.pt/wayback/20190328153757mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-03-30T04:16:19Z",
+        "uri": "https://arquivo.pt/wayback/20190330041619mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-04-10T16:50:56Z",
+        "uri": "https://arquivo.pt/wayback/20190410165056mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-04-10T16:51:05Z",
+        "uri": "https://arquivo.pt/wayback/20190410165105mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-05-03T10:16:36Z",
+        "uri": "https://arquivo.pt/wayback/20190503101636mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-07-15T09:06:17Z",
+        "uri": "https://arquivo.pt/wayback/20190715090617mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-07-28T14:25:25Z",
+        "uri": "https://arquivo.pt/wayback/20190728142525mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-07-29T13:15:21Z",
+        "uri": "https://arquivo.pt/wayback/20190729131521mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-08-31T13:47:56Z",
+        "uri": "https://arquivo.pt/wayback/20190831134756mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-08-31T13:48:06Z",
+        "uri": "https://arquivo.pt/wayback/20190831134806mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-01T12:27:59Z",
+        "uri": "https://arquivo.pt/wayback/20190901122759mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-02T13:10:29Z",
+        "uri": "https://arquivo.pt/wayback/20190902131029mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-07T06:53:50Z",
+        "uri": "https://arquivo.pt/wayback/20190907065350mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-08T08:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20190908080048mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-12T07:06:50Z",
+        "uri": "https://arquivo.pt/wayback/20190912070650mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-12T07:06:58Z",
+        "uri": "https://arquivo.pt/wayback/20190912070658mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-14T14:38:19Z",
+        "uri": "https://arquivo.pt/wayback/20190914143819mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-19T11:21:21Z",
+        "uri": "https://arquivo.pt/wayback/20190919112121mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-19T11:21:31Z",
+        "uri": "https://arquivo.pt/wayback/20190919112131mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-21T16:49:38Z",
+        "uri": "https://arquivo.pt/wayback/20190921164938mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-09-28T02:10:00Z",
+        "uri": "https://arquivo.pt/wayback/20190928021000mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-10-08T05:15:06Z",
+        "uri": "https://arquivo.pt/wayback/20191008051506mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-10-08T05:15:13Z",
+        "uri": "https://arquivo.pt/wayback/20191008051513mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-10-12T05:32:40Z",
+        "uri": "https://arquivo.pt/wayback/20191012053240mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-11-14T21:54:07Z",
+        "uri": "https://arquivo.pt/wayback/20191114215407mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-11-14T21:57:51Z",
+        "uri": "https://arquivo.pt/wayback/20191114215751mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2019-12-10T02:00:35Z",
+        "uri": "https://arquivo.pt/wayback/20191210020035mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-02-05T09:33:42Z",
+        "uri": "https://arquivo.pt/wayback/20200205093342mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-02-05T09:34:13Z",
+        "uri": "https://arquivo.pt/wayback/20200205093413mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-07T12:51:24Z",
+        "uri": "https://arquivo.pt/wayback/20200307125124mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-07T13:13:53Z",
+        "uri": "https://arquivo.pt/wayback/20200307131353mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-12T15:11:00Z",
+        "uri": "https://arquivo.pt/wayback/20200312151100mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-12T15:11:03Z",
+        "uri": "https://arquivo.pt/wayback/20200312151103mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-26T05:52:38Z",
+        "uri": "https://arquivo.pt/wayback/20200326055238mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-27T09:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20200327090527mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-28T06:13:01Z",
+        "uri": "https://arquivo.pt/wayback/20200328061301mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-29T05:57:26Z",
+        "uri": "https://arquivo.pt/wayback/20200329055726mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-30T04:57:04Z",
+        "uri": "https://arquivo.pt/wayback/20200330045704mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-03-31T05:08:36Z",
+        "uri": "https://arquivo.pt/wayback/20200331050836mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-01T05:18:41Z",
+        "uri": "https://arquivo.pt/wayback/20200401051841mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-02T04:43:54Z",
+        "uri": "https://arquivo.pt/wayback/20200402044354mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-03T04:54:21Z",
+        "uri": "https://arquivo.pt/wayback/20200403045421mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-04T04:41:26Z",
+        "uri": "https://arquivo.pt/wayback/20200404044126mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-05T04:29:24Z",
+        "uri": "https://arquivo.pt/wayback/20200405042924mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-06T04:10:44Z",
+        "uri": "https://arquivo.pt/wayback/20200406041044mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:47:13Z",
+        "uri": "https://arquivo.pt/wayback/20200408054713mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:47:29Z",
+        "uri": "https://arquivo.pt/wayback/20200408054729mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-11T05:33:39Z",
+        "uri": "https://arquivo.pt/wayback/20200411053339mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-12T04:58:48Z",
+        "uri": "https://arquivo.pt/wayback/20200412045848mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-13T00:27:52Z",
+        "uri": "https://arquivo.pt/wayback/20200413002752mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-14T00:05:43Z",
+        "uri": "https://arquivo.pt/wayback/20200414000543mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-15T00:15:37Z",
+        "uri": "https://arquivo.pt/wayback/20200415001537mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-16T00:44:32Z",
+        "uri": "https://arquivo.pt/wayback/20200416004432mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-17T05:01:51Z",
+        "uri": "https://arquivo.pt/wayback/20200417050151mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-18T05:39:16Z",
+        "uri": "https://arquivo.pt/wayback/20200418053916mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-19T05:44:25Z",
+        "uri": "https://arquivo.pt/wayback/20200419054425mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-20T05:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20200420051649mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-21T00:57:33Z",
+        "uri": "https://arquivo.pt/wayback/20200421005733mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-22T00:43:35Z",
+        "uri": "https://arquivo.pt/wayback/20200422004335mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-23T01:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20200423011202mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-27T06:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20200427061931mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-28T06:02:11Z",
+        "uri": "https://arquivo.pt/wayback/20200428060211mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-04-30T01:08:54Z",
+        "uri": "https://arquivo.pt/wayback/20200430010854mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-03T00:45:12Z",
+        "uri": "https://arquivo.pt/wayback/20200503004512mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-04T00:34:03Z",
+        "uri": "https://arquivo.pt/wayback/20200504003403mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-06T01:22:34Z",
+        "uri": "https://arquivo.pt/wayback/20200506012234mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-06T01:22:55Z",
+        "uri": "https://arquivo.pt/wayback/20200506012255mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-08T05:16:35Z",
+        "uri": "https://arquivo.pt/wayback/20200508051635mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-08T05:16:41Z",
+        "uri": "https://arquivo.pt/wayback/20200508051641mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-11T05:47:04Z",
+        "uri": "https://arquivo.pt/wayback/20200511054704mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-11T05:47:13Z",
+        "uri": "https://arquivo.pt/wayback/20200511054713mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-20T05:46:21Z",
+        "uri": "https://arquivo.pt/wayback/20200520054621mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-22T01:40:56Z",
+        "uri": "https://arquivo.pt/wayback/20200522014056mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-22T01:41:02Z",
+        "uri": "https://arquivo.pt/wayback/20200522014102mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-23T01:29:45Z",
+        "uri": "https://arquivo.pt/wayback/20200523012945mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-24T01:53:30Z",
+        "uri": "https://arquivo.pt/wayback/20200524015330mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-25T00:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20200525005542mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-26T01:04:14Z",
+        "uri": "https://arquivo.pt/wayback/20200526010414mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-27T01:24:00Z",
+        "uri": "https://arquivo.pt/wayback/20200527012400mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-29T01:13:06Z",
+        "uri": "https://arquivo.pt/wayback/20200529011306mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-30T00:31:24Z",
+        "uri": "https://arquivo.pt/wayback/20200530003124mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-05-31T00:27:17Z",
+        "uri": "https://arquivo.pt/wayback/20200531002717mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-01T00:49:12Z",
+        "uri": "https://arquivo.pt/wayback/20200601004912mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-03T00:48:34Z",
+        "uri": "https://arquivo.pt/wayback/20200603004834mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-05T01:47:00Z",
+        "uri": "https://arquivo.pt/wayback/20200605014700mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-05T01:47:09Z",
+        "uri": "https://arquivo.pt/wayback/20200605014709mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-05T09:36:44Z",
+        "uri": "https://arquivo.pt/wayback/20200605093644mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-06T01:25:22Z",
+        "uri": "https://arquivo.pt/wayback/20200606012522mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-06T21:22:56Z",
+        "uri": "https://arquivo.pt/wayback/20200606212256mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-06T21:42:53Z",
+        "uri": "https://arquivo.pt/wayback/20200606214253mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-07T01:28:52Z",
+        "uri": "https://arquivo.pt/wayback/20200607012852mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-08T01:09:48Z",
+        "uri": "https://arquivo.pt/wayback/20200608010948mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-09T01:43:59Z",
+        "uri": "https://arquivo.pt/wayback/20200609014359mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-10T01:48:03Z",
+        "uri": "https://arquivo.pt/wayback/20200610014803mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-11T01:38:04Z",
+        "uri": "https://arquivo.pt/wayback/20200611013804mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-12T01:28:37Z",
+        "uri": "https://arquivo.pt/wayback/20200612012837mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-13T01:41:40Z",
+        "uri": "https://arquivo.pt/wayback/20200613014140mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-14T01:29:39Z",
+        "uri": "https://arquivo.pt/wayback/20200614012939mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-15T01:53:10Z",
+        "uri": "https://arquivo.pt/wayback/20200615015310mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-16T01:38:02Z",
+        "uri": "https://arquivo.pt/wayback/20200616013802mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-17T01:41:05Z",
+        "uri": "https://arquivo.pt/wayback/20200617014105mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-18T01:52:21Z",
+        "uri": "https://arquivo.pt/wayback/20200618015221mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-21T01:34:53Z",
+        "uri": "https://arquivo.pt/wayback/20200621013453mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-23T01:09:16Z",
+        "uri": "https://arquivo.pt/wayback/20200623010916mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-24T01:20:09Z",
+        "uri": "https://arquivo.pt/wayback/20200624012009mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-25T01:04:55Z",
+        "uri": "https://arquivo.pt/wayback/20200625010455mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-26T00:59:53Z",
+        "uri": "https://arquivo.pt/wayback/20200626005953mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-26T17:37:22Z",
+        "uri": "https://arquivo.pt/wayback/20200626173722mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-27T17:39:54Z",
+        "uri": "https://arquivo.pt/wayback/20200627173954mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-28T18:13:28Z",
+        "uri": "https://arquivo.pt/wayback/20200628181328mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-29T18:13:14Z",
+        "uri": "https://arquivo.pt/wayback/20200629181314mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-06-30T18:20:46Z",
+        "uri": "https://arquivo.pt/wayback/20200630182046mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-01T19:24:59Z",
+        "uri": "https://arquivo.pt/wayback/20200701192459mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-02T19:29:52Z",
+        "uri": "https://arquivo.pt/wayback/20200702192952mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-03T19:28:06Z",
+        "uri": "https://arquivo.pt/wayback/20200703192806mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-04T19:24:11Z",
+        "uri": "https://arquivo.pt/wayback/20200704192411mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-05T19:24:57Z",
+        "uri": "https://arquivo.pt/wayback/20200705192457mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-06T19:23:40Z",
+        "uri": "https://arquivo.pt/wayback/20200706192340mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-07T19:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20200707192930mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-08T19:20:48Z",
+        "uri": "https://arquivo.pt/wayback/20200708192048mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-09T19:26:42Z",
+        "uri": "https://arquivo.pt/wayback/20200709192642mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-10T23:54:51Z",
+        "uri": "https://arquivo.pt/wayback/20200710235451mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-11T23:52:59Z",
+        "uri": "https://arquivo.pt/wayback/20200711235259mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-12T23:49:49Z",
+        "uri": "https://arquivo.pt/wayback/20200712234949mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-14T00:00:22Z",
+        "uri": "https://arquivo.pt/wayback/20200714000022mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-15T00:02:32Z",
+        "uri": "https://arquivo.pt/wayback/20200715000232mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-15T23:55:31Z",
+        "uri": "https://arquivo.pt/wayback/20200715235531mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-17T00:02:41Z",
+        "uri": "https://arquivo.pt/wayback/20200717000241mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-18T00:38:45Z",
+        "uri": "https://arquivo.pt/wayback/20200718003845mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-19T00:13:14Z",
+        "uri": "https://arquivo.pt/wayback/20200719001314mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-20T00:39:43Z",
+        "uri": "https://arquivo.pt/wayback/20200720003943mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-21T01:10:58Z",
+        "uri": "https://arquivo.pt/wayback/20200721011058mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-22T00:49:50Z",
+        "uri": "https://arquivo.pt/wayback/20200722004950mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-23T01:19:42Z",
+        "uri": "https://arquivo.pt/wayback/20200723011942mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-24T01:11:21Z",
+        "uri": "https://arquivo.pt/wayback/20200724011121mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-25T00:34:46Z",
+        "uri": "https://arquivo.pt/wayback/20200725003446mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-28T00:41:35Z",
+        "uri": "https://arquivo.pt/wayback/20200728004135mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-29T00:39:46Z",
+        "uri": "https://arquivo.pt/wayback/20200729003946mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-30T00:40:52Z",
+        "uri": "https://arquivo.pt/wayback/20200730004052mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-07-31T00:41:15Z",
+        "uri": "https://arquivo.pt/wayback/20200731004115mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-01T00:00:53Z",
+        "uri": "https://arquivo.pt/wayback/20200801000053mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-04T01:22:07Z",
+        "uri": "https://arquivo.pt/wayback/20200804012207mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-05T02:12:56Z",
+        "uri": "https://arquivo.pt/wayback/20200805021256mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-06T01:28:02Z",
+        "uri": "https://arquivo.pt/wayback/20200806012802mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-06T01:28:16Z",
+        "uri": "https://arquivo.pt/wayback/20200806012816mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-07T23:48:10Z",
+        "uri": "https://arquivo.pt/wayback/20200807234810mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-11T23:43:11Z",
+        "uri": "https://arquivo.pt/wayback/20200811234311mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-12T23:25:29Z",
+        "uri": "https://arquivo.pt/wayback/20200812232529mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-14T00:47:57Z",
+        "uri": "https://arquivo.pt/wayback/20200814004757mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-15T00:52:29Z",
+        "uri": "https://arquivo.pt/wayback/20200815005229mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-17T22:54:12Z",
+        "uri": "https://arquivo.pt/wayback/20200817225412mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-19T00:36:29Z",
+        "uri": "https://arquivo.pt/wayback/20200819003629mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-19T23:34:08Z",
+        "uri": "https://arquivo.pt/wayback/20200819233408mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-21T00:47:42Z",
+        "uri": "https://arquivo.pt/wayback/20200821004742mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-22T00:36:14Z",
+        "uri": "https://arquivo.pt/wayback/20200822003614mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-24T23:01:20Z",
+        "uri": "https://arquivo.pt/wayback/20200824230120mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-25T23:11:55Z",
+        "uri": "https://arquivo.pt/wayback/20200825231155mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-26T23:39:09Z",
+        "uri": "https://arquivo.pt/wayback/20200826233909mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-27T23:08:44Z",
+        "uri": "https://arquivo.pt/wayback/20200827230844mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-08-28T22:52:21Z",
+        "uri": "https://arquivo.pt/wayback/20200828225221mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-09-01T00:54:58Z",
+        "uri": "https://arquivo.pt/wayback/20200901005458mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-09-01T23:25:11Z",
+        "uri": "https://arquivo.pt/wayback/20200901232511mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-09-04T15:39:50Z",
+        "uri": "https://arquivo.pt/wayback/20200904153950mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2020-12-05T14:03:06Z",
+        "uri": "https://arquivo.pt/wayback/20201205140306mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-01-12T02:49:56Z",
+        "uri": "https://arquivo.pt/wayback/20210112024956mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-01-12T22:56:23Z",
+        "uri": "https://arquivo.pt/wayback/20210112225623mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-01-19T13:26:11Z",
+        "uri": "https://arquivo.pt/wayback/20210119132611mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-01-20T00:44:59Z",
+        "uri": "https://arquivo.pt/wayback/20210120004459mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-01-21T14:08:31Z",
+        "uri": "https://arquivo.pt/wayback/20210121140831mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-03-04T08:24:01Z",
+        "uri": "https://arquivo.pt/wayback/20210304082401mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-03-04T08:41:11Z",
+        "uri": "https://arquivo.pt/wayback/20210304084111mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-05-28T02:47:20Z",
+        "uri": "https://arquivo.pt/wayback/20210528024720mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-05-29T01:42:45Z",
+        "uri": "https://arquivo.pt/wayback/20210529014245mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-05-30T01:28:53Z",
+        "uri": "https://arquivo.pt/wayback/20210530012853mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-04T04:57:14Z",
+        "uri": "https://arquivo.pt/wayback/20210604045714mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-04T04:57:15Z",
+        "uri": "https://arquivo.pt/wayback/20210604045715mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-05T03:51:29Z",
+        "uri": "https://arquivo.pt/wayback/20210605035129mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-05T03:51:29Z",
+        "uri": "https://arquivo.pt/wayback/20210605035129mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-05T16:54:11Z",
+        "uri": "https://arquivo.pt/wayback/20210605165411mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-05T16:54:12Z",
+        "uri": "https://arquivo.pt/wayback/20210605165412mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-06T04:01:46Z",
+        "uri": "https://arquivo.pt/wayback/20210606040146mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-06T04:01:47Z",
+        "uri": "https://arquivo.pt/wayback/20210606040147mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-06T09:02:03Z",
+        "uri": "https://arquivo.pt/wayback/20210606090203mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-06T09:02:04Z",
+        "uri": "https://arquivo.pt/wayback/20210606090204mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-08T22:30:24Z",
+        "uri": "https://arquivo.pt/wayback/20210608223024mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-08T22:30:24Z",
+        "uri": "https://arquivo.pt/wayback/20210608223024mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-10T10:07:59Z",
+        "uri": "https://arquivo.pt/wayback/20210610100759mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-11T12:20:55Z",
+        "uri": "https://arquivo.pt/wayback/20210611122055mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-11T12:20:55Z",
+        "uri": "https://arquivo.pt/wayback/20210611122055mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-12T08:18:30Z",
+        "uri": "https://arquivo.pt/wayback/20210612081830mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-12T08:18:31Z",
+        "uri": "https://arquivo.pt/wayback/20210612081831mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-13T00:40:43Z",
+        "uri": "https://arquivo.pt/wayback/20210613004043mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-13T00:40:44Z",
+        "uri": "https://arquivo.pt/wayback/20210613004044mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-13T22:43:22Z",
+        "uri": "https://arquivo.pt/wayback/20210613224322mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-13T22:43:22Z",
+        "uri": "https://arquivo.pt/wayback/20210613224322mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-13T22:43:23Z",
+        "uri": "https://arquivo.pt/wayback/20210613224323mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-19T20:28:04Z",
+        "uri": "https://arquivo.pt/wayback/20210619202804mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-06-19T20:28:07Z",
+        "uri": "https://arquivo.pt/wayback/20210619202807mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-09-07T21:22:21Z",
+        "uri": "https://arquivo.pt/wayback/20210907212221mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-09-07T23:34:10Z",
+        "uri": "https://arquivo.pt/wayback/20210907233410mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-06T15:28:41Z",
+        "uri": "https://arquivo.pt/wayback/20211006152841mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-06T15:28:48Z",
+        "uri": "https://arquivo.pt/wayback/20211006152848mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-17T21:56:59Z",
+        "uri": "https://arquivo.pt/wayback/20211017215659mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-17T21:57:06Z",
+        "uri": "https://arquivo.pt/wayback/20211017215706mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-18T10:41:08Z",
+        "uri": "https://arquivo.pt/wayback/20211018104108mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-19T00:04:08Z",
+        "uri": "https://arquivo.pt/wayback/20211019000408mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-19T00:08:23Z",
+        "uri": "https://arquivo.pt/wayback/20211019000823mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-22T12:40:06Z",
+        "uri": "https://arquivo.pt/wayback/20211022124006mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-22T12:40:07Z",
+        "uri": "https://arquivo.pt/wayback/20211022124007mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-26T19:19:40Z",
+        "uri": "https://arquivo.pt/wayback/20211026191940mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-10-26T19:19:41Z",
+        "uri": "https://arquivo.pt/wayback/20211026191941mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-12-01T00:22:23Z",
+        "uri": "https://arquivo.pt/wayback/20211201002223mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2021-12-08T00:33:15Z",
+        "uri": "https://arquivo.pt/wayback/20211208003315mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-01-04T23:15:27Z",
+        "uri": "https://arquivo.pt/wayback/20220104231527mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-01-22T23:11:36Z",
+        "uri": "https://arquivo.pt/wayback/20220122231136mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-01-29T12:20:39Z",
+        "uri": "https://arquivo.pt/wayback/20220129122039mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-01-29T12:20:53Z",
+        "uri": "https://arquivo.pt/wayback/20220129122053mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-02-02T20:21:39Z",
+        "uri": "https://arquivo.pt/wayback/20220202202139mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-02-02T20:55:10Z",
+        "uri": "https://arquivo.pt/wayback/20220202205510mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-02-03T04:11:05Z",
+        "uri": "https://arquivo.pt/wayback/20220203041105mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-04-01T23:15:43Z",
+        "uri": "https://arquivo.pt/wayback/20220401231543mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-04-01T23:15:52Z",
+        "uri": "https://arquivo.pt/wayback/20220401231552mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-04-29T09:10:39Z",
+        "uri": "https://arquivo.pt/wayback/20220429091039mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-04-29T09:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20220429091049mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-03T12:18:28Z",
+        "uri": "https://arquivo.pt/wayback/20220503121828mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-03T12:40:29Z",
+        "uri": "https://arquivo.pt/wayback/20220503124029mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-15T00:54:04Z",
+        "uri": "https://arquivo.pt/wayback/20220515005404mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-16T01:19:20Z",
+        "uri": "https://arquivo.pt/wayback/20220516011920mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-17T02:22:27Z",
+        "uri": "https://arquivo.pt/wayback/20220517022227mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-18T02:09:01Z",
+        "uri": "https://arquivo.pt/wayback/20220518020901mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-20T02:17:51Z",
+        "uri": "https://arquivo.pt/wayback/20220520021751mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-05-21T02:50:11Z",
+        "uri": "https://arquivo.pt/wayback/20220521025011mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-08T02:24:41Z",
+        "uri": "https://arquivo.pt/wayback/20220608022441mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-23T05:36:50Z",
+        "uri": "https://arquivo.pt/wayback/20220623053650mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-24T06:25:00Z",
+        "uri": "https://arquivo.pt/wayback/20220624062500mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-25T08:41:19Z",
+        "uri": "https://arquivo.pt/wayback/20220625084119mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-26T06:56:57Z",
+        "uri": "https://arquivo.pt/wayback/20220626065657mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-27T08:44:22Z",
+        "uri": "https://arquivo.pt/wayback/20220627084422mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-28T07:12:31Z",
+        "uri": "https://arquivo.pt/wayback/20220628071231mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-06-29T08:31:56Z",
+        "uri": "https://arquivo.pt/wayback/20220629083156mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-01T08:57:39Z",
+        "uri": "https://arquivo.pt/wayback/20220701085739mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-02T09:55:08Z",
+        "uri": "https://arquivo.pt/wayback/20220702095508mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-02T09:55:17Z",
+        "uri": "https://arquivo.pt/wayback/20220702095517mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-05T14:35:25Z",
+        "uri": "https://arquivo.pt/wayback/20220705143525mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-05T14:35:35Z",
+        "uri": "https://arquivo.pt/wayback/20220705143535mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-06T10:15:14Z",
+        "uri": "https://arquivo.pt/wayback/20220706101514mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-06T10:15:23Z",
+        "uri": "https://arquivo.pt/wayback/20220706101523mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-07T08:31:00Z",
+        "uri": "https://arquivo.pt/wayback/20220707083100mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-07T08:31:10Z",
+        "uri": "https://arquivo.pt/wayback/20220707083110mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-08T10:04:19Z",
+        "uri": "https://arquivo.pt/wayback/20220708100419mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-08T10:04:27Z",
+        "uri": "https://arquivo.pt/wayback/20220708100427mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-09T09:20:56Z",
+        "uri": "https://arquivo.pt/wayback/20220709092056mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-09T09:21:03Z",
+        "uri": "https://arquivo.pt/wayback/20220709092103mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-10T10:47:09Z",
+        "uri": "https://arquivo.pt/wayback/20220710104709mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-10T10:47:17Z",
+        "uri": "https://arquivo.pt/wayback/20220710104717mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-12T13:15:01Z",
+        "uri": "https://arquivo.pt/wayback/20220712131501mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-12T13:15:10Z",
+        "uri": "https://arquivo.pt/wayback/20220712131510mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-13T13:36:17Z",
+        "uri": "https://arquivo.pt/wayback/20220713133617mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-14T11:41:45Z",
+        "uri": "https://arquivo.pt/wayback/20220714114145mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-15T13:13:37Z",
+        "uri": "https://arquivo.pt/wayback/20220715131337mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-16T12:54:27Z",
+        "uri": "https://arquivo.pt/wayback/20220716125427mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-17T13:23:33Z",
+        "uri": "https://arquivo.pt/wayback/20220717132333mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-21T13:42:45Z",
+        "uri": "https://arquivo.pt/wayback/20220721134245mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-22T14:14:32Z",
+        "uri": "https://arquivo.pt/wayback/20220722141432mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-23T14:18:00Z",
+        "uri": "https://arquivo.pt/wayback/20220723141800mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-07-24T15:04:56Z",
+        "uri": "https://arquivo.pt/wayback/20220724150456mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-08-14T03:35:53Z",
+        "uri": "https://arquivo.pt/wayback/20220814033553mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-08-28T23:04:29Z",
+        "uri": "https://arquivo.pt/wayback/20220828230429mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-08-28T23:04:36Z",
+        "uri": "https://arquivo.pt/wayback/20220828230436mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-08-29T23:13:02Z",
+        "uri": "https://arquivo.pt/wayback/20220829231302mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-04T20:31:51Z",
+        "uri": "https://arquivo.pt/wayback/20220904203151mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-05T22:33:25Z",
+        "uri": "https://arquivo.pt/wayback/20220905223325mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-06T22:19:47Z",
+        "uri": "https://arquivo.pt/wayback/20220906221947mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-07T22:38:27Z",
+        "uri": "https://arquivo.pt/wayback/20220907223827mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-08T22:36:14Z",
+        "uri": "https://arquivo.pt/wayback/20220908223614mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-09T23:01:13Z",
+        "uri": "https://arquivo.pt/wayback/20220909230113mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-10T23:02:34Z",
+        "uri": "https://arquivo.pt/wayback/20220910230234mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-11T23:34:20Z",
+        "uri": "https://arquivo.pt/wayback/20220911233420mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-12T23:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20220912231759mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-13T22:59:43Z",
+        "uri": "https://arquivo.pt/wayback/20220913225943mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-14T23:28:33Z",
+        "uri": "https://arquivo.pt/wayback/20220914232833mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-15T23:17:00Z",
+        "uri": "https://arquivo.pt/wayback/20220915231700mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-16T23:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20220916231454mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-17T23:16:05Z",
+        "uri": "https://arquivo.pt/wayback/20220917231605mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-18T23:25:16Z",
+        "uri": "https://arquivo.pt/wayback/20220918232516mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-20T00:06:11Z",
+        "uri": "https://arquivo.pt/wayback/20220920000611mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-20T22:44:25Z",
+        "uri": "https://arquivo.pt/wayback/20220920224425mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-21T22:59:18Z",
+        "uri": "https://arquivo.pt/wayback/20220921225918mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-22T23:28:45Z",
+        "uri": "https://arquivo.pt/wayback/20220922232845mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-23T23:03:27Z",
+        "uri": "https://arquivo.pt/wayback/20220923230327mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-24T23:21:19Z",
+        "uri": "https://arquivo.pt/wayback/20220924232119mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-25T23:23:25Z",
+        "uri": "https://arquivo.pt/wayback/20220925232325mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-26T23:35:30Z",
+        "uri": "https://arquivo.pt/wayback/20220926233530mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-27T23:40:05Z",
+        "uri": "https://arquivo.pt/wayback/20220927234005mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-09-28T23:48:40Z",
+        "uri": "https://arquivo.pt/wayback/20220928234840mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-10-15T01:44:03Z",
+        "uri": "https://arquivo.pt/wayback/20221015014403mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-10-27T01:39:23Z",
+        "uri": "https://arquivo.pt/wayback/20221027013923mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-11-03T00:26:07Z",
+        "uri": "https://arquivo.pt/wayback/20221103002607mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-11-13T15:17:19Z",
+        "uri": "https://arquivo.pt/wayback/20221113151719mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-11-27T02:07:00Z",
+        "uri": "https://arquivo.pt/wayback/20221127020700mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2022-12-01T00:20:58Z",
+        "uri": "https://arquivo.pt/wayback/20221201002058mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-01-03T00:30:57Z",
+        "uri": "https://arquivo.pt/wayback/20230103003057mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-01-29T00:57:54Z",
+        "uri": "https://arquivo.pt/wayback/20230129005754mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-01-30T02:17:42Z",
+        "uri": "https://arquivo.pt/wayback/20230130021742mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-02-02T10:10:20Z",
+        "uri": "https://arquivo.pt/wayback/20230202101020mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-02-02T10:12:50Z",
+        "uri": "https://arquivo.pt/wayback/20230202101250mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-02-16T06:15:33Z",
+        "uri": "https://arquivo.pt/wayback/20230216061533mp_/http://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-02-16T06:16:45Z",
+        "uri": "https://arquivo.pt/wayback/20230216061645mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-02-26T00:05:26Z",
+        "uri": "https://arquivo.pt/wayback/20230226000526mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2023-03-31T00:36:34Z",
+        "uri": "https://arquivo.pt/wayback/20230331003634mp_/https://dblp.uni-trier.de/"
+      },
+      {
+        "datetime": "2024-08-22T18:52:58Z",
+        "uri": "http://archive.md/20240822185258/https://dblp.uni-trier.de/"
+      }
+    ],
+    "first": {
+      "datetime": "2009-10-20T21:40:30Z",
+      "uri": "https://web.archive.org.au/awa/20091020214030mp_/http://dblp.uni-trier.de/"
+    },
+    "last": {
+      "datetime": "2024-08-22T18:52:58Z",
+      "uri": "http://archive.md/20240822185258/https://dblp.uni-trier.de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de"
+}

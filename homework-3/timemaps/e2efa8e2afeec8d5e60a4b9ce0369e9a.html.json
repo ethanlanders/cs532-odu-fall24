@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+  "self": "http://localhost:1208/timemap/json/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-04-16T22:38:39Z",
+        "uri": "https://arquivo.pt/wayback/20220416223839mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T14:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20220519144637mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T14:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20220519144637mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-02T00:02:52Z",
+        "uri": "https://arquivo.pt/wayback/20220602000252mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-12T00:32:44Z",
+        "uri": "https://arquivo.pt/wayback/20220612003244mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-13T01:00:07Z",
+        "uri": "https://arquivo.pt/wayback/20220613010007mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T22:22:27Z",
+        "uri": "https://vefsafn.is/20220707222227mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-17T15:52:34Z",
+        "uri": "https://arquivo.pt/wayback/20221017155234mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-25T04:59:40Z",
+        "uri": "https://arquivo.pt/wayback/20230125045940mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      }
+    ],
+    "first": {
+      "datetime": "2022-04-16T22:38:39Z",
+      "uri": "https://arquivo.pt/wayback/20220416223839mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+    },
+    "last": {
+      "datetime": "2023-01-25T04:59:40Z",
+      "uri": "https://arquivo.pt/wayback/20230125045940mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+    "json_format": "http://localhost:1208/timemap/json/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+}

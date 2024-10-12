@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.odu.edu/about",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-12-12T20:07:27Z",
+        "uri": "http://archive.md/20121212200727/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2021-09-10T15:34:40Z",
+        "uri": "https://arquivo.pt/wayback/20210910153440mp_/https://www.odu.edu/about"
+      },
+      {
+        "datetime": "2021-09-28T06:33:59Z",
+        "uri": "https://arquivo.pt/wayback/20210928063359mp_/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2021-11-03T11:14:42Z",
+        "uri": "https://arquivo.pt/wayback/20211103111442mp_/https://www.odu.edu/about"
+      },
+      {
+        "datetime": "2021-11-03T11:14:47Z",
+        "uri": "https://arquivo.pt/wayback/20211103111447mp_/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2022-01-22T10:20:56Z",
+        "uri": "https://arquivo.pt/wayback/20220122102056mp_/https://odu.edu/about"
+      },
+      {
+        "datetime": "2022-01-26T05:33:28Z",
+        "uri": "https://arquivo.pt/wayback/20220126053328mp_/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2022-04-17T05:27:03Z",
+        "uri": "https://arquivo.pt/wayback/20220417052703mp_/https://odu.edu/about"
+      },
+      {
+        "datetime": "2022-04-22T17:14:43Z",
+        "uri": "https://arquivo.pt/wayback/20220422171443mp_/https://www.odu.edu/about"
+      },
+      {
+        "datetime": "2022-04-22T17:14:47Z",
+        "uri": "https://arquivo.pt/wayback/20220422171447mp_/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2022-04-24T18:50:46Z",
+        "uri": "https://arquivo.pt/wayback/20220424185046mp_/http://www.odu.edu/about"
+      },
+      {
+        "datetime": "2022-07-30T14:36:58Z",
+        "uri": "https://arquivo.pt/wayback/20220730143658mp_/https://odu.edu/about"
+      },
+      {
+        "datetime": "2022-10-11T02:11:22Z",
+        "uri": "https://arquivo.pt/wayback/20221011021122mp_/https://odu.edu/about"
+      },
+      {
+        "datetime": "2023-01-24T19:11:50Z",
+        "uri": "https://arquivo.pt/wayback/20230124191150mp_/https://www.odu.edu/about"
+      }
+    ],
+    "first": {
+      "datetime": "2012-12-12T20:07:27Z",
+      "uri": "http://archive.md/20121212200727/http://www.odu.edu/about"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:11:50Z",
+      "uri": "https://arquivo.pt/wayback/20230124191150mp_/https://www.odu.edu/about"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about"
+}

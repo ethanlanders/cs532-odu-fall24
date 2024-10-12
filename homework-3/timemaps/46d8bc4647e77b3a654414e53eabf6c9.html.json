@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/vendors",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/vendors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-11T02:18:40Z",
+        "uri": "https://arquivo.pt/wayback/20211111021840mp_/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-11-11T02:18:44Z",
+        "uri": "https://arquivo.pt/wayback/20211111021844mp_/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-07T22:20:59Z",
+        "uri": "https://arquivo.pt/wayback/20220507222059mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-16T04:43:05Z",
+        "uri": "https://arquivo.pt/wayback/20220516044305mp_/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-18T08:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20220818081634mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-16T04:06:32Z",
+        "uri": "https://arquivo.pt/wayback/20221116040632mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-24T20:39:38Z",
+        "uri": "https://arquivo.pt/wayback/20230124203938mp_/https://www.odu.edu/vendors"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-11T02:18:40Z",
+      "uri": "https://arquivo.pt/wayback/20211111021840mp_/https://www.odu.edu/vendors"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:39:38Z",
+      "uri": "https://arquivo.pt/wayback/20230124203938mp_/https://www.odu.edu/vendors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/vendors",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/vendors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/vendors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/vendors"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.odu.edu/admission/admitted/undergraduate",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/admitted/undergraduate",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-21T06:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20211021061803mp_/https://odu.edu/admission/admitted/undergraduate"
+      },
+      {
+        "datetime": "2021-11-03T12:53:27Z",
+        "uri": "https://arquivo.pt/wayback/20211103125327mp_/http://www.odu.edu/admission/admitted/undergraduate"
+      },
+      {
+        "datetime": "2022-05-27T12:39:53Z",
+        "uri": "https://arquivo.pt/wayback/20220527123953mp_/https://odu.edu/admission/admitted/undergraduate"
+      },
+      {
+        "datetime": "2022-11-16T04:57:19Z",
+        "uri": "https://arquivo.pt/wayback/20221116045719mp_/https://odu.edu/admission/admitted/undergraduate"
+      },
+      {
+        "datetime": "2023-01-24T20:00:41Z",
+        "uri": "https://arquivo.pt/wayback/20230124200041mp_/https://www.odu.edu/admission/admitted/undergraduate"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-21T06:18:03Z",
+      "uri": "https://arquivo.pt/wayback/20211021061803mp_/https://odu.edu/admission/admitted/undergraduate"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:00:41Z",
+      "uri": "https://arquivo.pt/wayback/20230124200041mp_/https://www.odu.edu/admission/admitted/undergraduate"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/admitted/undergraduate",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/admitted/undergraduate",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/admitted/undergraduate"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/admitted/undergraduate"
+}

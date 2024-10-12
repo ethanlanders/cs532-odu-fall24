@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/finaidoffice",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-09-14T07:20:29Z",
+        "uri": "https://arquivo.pt/wayback/20190914072029mp_/https://www.odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2019-10-02T07:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20191002070253mp_/https://www.odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2019-10-12T12:54:44Z",
+        "uri": "https://arquivo.pt/wayback/20191012125444mp_/https://www.odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2022-02-11T07:46:35Z",
+        "uri": "https://arquivo.pt/wayback/20220211074635mp_/https://www.odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2022-05-07T21:55:33Z",
+        "uri": "https://arquivo.pt/wayback/20220507215533mp_/https://odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2022-05-16T05:28:58Z",
+        "uri": "https://arquivo.pt/wayback/20220516052858mp_/http://www.odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2022-08-18T07:49:27Z",
+        "uri": "https://arquivo.pt/wayback/20220818074927mp_/https://odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2022-11-16T04:00:13Z",
+        "uri": "https://arquivo.pt/wayback/20221116040013mp_/https://odu.edu/finaidoffice"
+      },
+      {
+        "datetime": "2023-01-24T20:07:07Z",
+        "uri": "https://arquivo.pt/wayback/20230124200707mp_/https://www.odu.edu/finaidoffice"
+      }
+    ],
+    "first": {
+      "datetime": "2019-09-14T07:20:29Z",
+      "uri": "https://arquivo.pt/wayback/20190914072029mp_/https://www.odu.edu/finaidoffice"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:07:07Z",
+      "uri": "https://arquivo.pt/wayback/20230124200707mp_/https://www.odu.edu/finaidoffice"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/finaidoffice",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/finaidoffice"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/finaidoffice"
+}

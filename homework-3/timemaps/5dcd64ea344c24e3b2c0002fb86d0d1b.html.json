@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/nrotc",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/nrotc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-21T05:33:25Z",
+        "uri": "https://arquivo.pt/wayback/20211021053325mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-11-03T12:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20211103124637mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-04-20T16:31:27Z",
+        "uri": "https://arquivo.pt/wayback/20220420163127mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-04-22T19:01:28Z",
+        "uri": "https://arquivo.pt/wayback/20220422190128mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-05-07T20:53:51Z",
+        "uri": "https://arquivo.pt/wayback/20220507205351mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-05-16T04:33:18Z",
+        "uri": "https://arquivo.pt/wayback/20220516043318mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-08-18T06:45:54Z",
+        "uri": "https://arquivo.pt/wayback/20220818064554mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-11-16T03:48:15Z",
+        "uri": "https://arquivo.pt/wayback/20221116034815mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-01-24T20:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20230124204116mp_/https://www.odu.edu/nrotc"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-21T05:33:25Z",
+      "uri": "https://arquivo.pt/wayback/20211021053325mp_/https://odu.edu/nrotc"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:41:16Z",
+      "uri": "https://arquivo.pt/wayback/20230124204116mp_/https://www.odu.edu/nrotc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/nrotc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/nrotc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/nrotc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/nrotc"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/about/imprint.html",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/imprint.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-14T22:36:49Z",
+        "uri": "https://arquivo.pt/wayback/20191114223649mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-02-05T11:59:36Z",
+        "uri": "https://arquivo.pt/wayback/20200205115936mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-03-12T15:50:41Z",
+        "uri": "https://arquivo.pt/wayback/20200312155041mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-09-19T17:17:15Z",
+        "uri": "https://arquivo.pt/wayback/20210919171715mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-14T22:36:49Z",
+      "uri": "https://arquivo.pt/wayback/20191114223649mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:17:15Z",
+      "uri": "https://arquivo.pt/wayback/20210919171715mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/about/imprint.html",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/imprint.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/about/imprint.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/about/imprint.html"
+}

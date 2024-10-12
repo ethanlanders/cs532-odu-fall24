@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.dhrm.virginia.gov/",
+  "self": "http://localhost:1208/timemap/json/https://www.dhrm.virginia.gov/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-06-06T13:33:56Z",
+        "uri": "http://archive.md/20150606133356/http://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2016-05-17T20:12:12Z",
+        "uri": "https://arquivo.pt/wayback/20160517201212mp_/http://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2018-10-08T04:21:09Z",
+        "uri": "http://archive.md/20181008042109/http://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2020-04-16T04:57:40Z",
+        "uri": "http://archive.md/20200416045740/https://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2021-09-15T07:15:51Z",
+        "uri": "https://arquivo.pt/wayback/20210915071551mp_/http://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2021-09-15T07:15:54Z",
+        "uri": "https://arquivo.pt/wayback/20210915071554mp_/https://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2021-11-04T04:14:10Z",
+        "uri": "https://arquivo.pt/wayback/20211104041410mp_/https://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2022-05-07T15:51:02Z",
+        "uri": "https://arquivo.pt/wayback/20220507155102mp_/https://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2022-08-18T01:41:49Z",
+        "uri": "https://arquivo.pt/wayback/20220818014149mp_/https://www.dhrm.virginia.gov/"
+      },
+      {
+        "datetime": "2022-11-15T20:00:55Z",
+        "uri": "https://arquivo.pt/wayback/20221115200055mp_/https://www.dhrm.virginia.gov/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-06-06T13:33:56Z",
+      "uri": "http://archive.md/20150606133356/http://www.dhrm.virginia.gov/"
+    },
+    "last": {
+      "datetime": "2022-11-15T20:00:55Z",
+      "uri": "https://arquivo.pt/wayback/20221115200055mp_/https://www.dhrm.virginia.gov/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dhrm.virginia.gov/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dhrm.virginia.gov/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dhrm.virginia.gov/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dhrm.virginia.gov/"
+}

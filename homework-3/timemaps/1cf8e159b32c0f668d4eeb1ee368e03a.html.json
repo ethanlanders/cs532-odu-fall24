@@ -1,0 +1,502 @@
+{
+  "original_uri": "https://www.bibsonomy.org/",
+  "self": "http://localhost:1208/timemap/json/https://www.bibsonomy.org/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2010-12-23T16:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20101223161037mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2010-12-23T16:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20101223161037mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2011-04-13T10:17:13Z",
+        "uri": "https://web.archive.org.au/awa/20110413101713mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2012-01-27T20:30:44Z",
+        "uri": "https://arquivo.pt/wayback/20120127203044mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2012-05-25T00:51:54Z",
+        "uri": "http://archive.md/20120525005154/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-04-02T20:42:44Z",
+        "uri": "https://vefsafn.is/20130402204244mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-04-10T08:13:25Z",
+        "uri": "https://web.archive.org.au/awa/20130410081325mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-05-04T18:31:25Z",
+        "uri": "http://archive.md/20130504183125/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-07-30T22:11:06Z",
+        "uri": "https://arquivo.pt/wayback/20130730221106mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-07-30T22:11:27Z",
+        "uri": "https://arquivo.pt/wayback/20130730221127mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-07-31T20:11:41Z",
+        "uri": "https://arquivo.pt/wayback/20130731201141mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-01T16:41:24Z",
+        "uri": "https://arquivo.pt/wayback/20130801164124mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-02T18:44:00Z",
+        "uri": "https://arquivo.pt/wayback/20130802184400mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-03T18:10:12Z",
+        "uri": "https://arquivo.pt/wayback/20130803181012mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-04T23:41:38Z",
+        "uri": "https://arquivo.pt/wayback/20130804234138mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-06T01:55:37Z",
+        "uri": "https://arquivo.pt/wayback/20130806015537mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-07T02:37:19Z",
+        "uri": "https://arquivo.pt/wayback/20130807023719mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-07T18:50:06Z",
+        "uri": "https://arquivo.pt/wayback/20130807185006mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-08T21:09:27Z",
+        "uri": "https://arquivo.pt/wayback/20130808210927mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-10T02:46:11Z",
+        "uri": "https://arquivo.pt/wayback/20130810024611mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-11T01:03:50Z",
+        "uri": "https://arquivo.pt/wayback/20130811010350mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-12T02:22:18Z",
+        "uri": "https://arquivo.pt/wayback/20130812022218mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-12T22:46:20Z",
+        "uri": "https://arquivo.pt/wayback/20130812224620mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-13T22:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20130813221511mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-14T21:19:41Z",
+        "uri": "https://arquivo.pt/wayback/20130814211941mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-15T16:55:15Z",
+        "uri": "https://arquivo.pt/wayback/20130815165515mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-16T20:38:40Z",
+        "uri": "https://arquivo.pt/wayback/20130816203840mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-17T22:50:42Z",
+        "uri": "https://arquivo.pt/wayback/20130817225042mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-18T18:55:41Z",
+        "uri": "https://arquivo.pt/wayback/20130818185541mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-20T01:08:59Z",
+        "uri": "https://arquivo.pt/wayback/20130820010859mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-20T23:54:04Z",
+        "uri": "https://arquivo.pt/wayback/20130820235404mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-21T20:58:39Z",
+        "uri": "https://arquivo.pt/wayback/20130821205839mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-23T02:37:32Z",
+        "uri": "https://arquivo.pt/wayback/20130823023732mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-24T00:44:45Z",
+        "uri": "https://arquivo.pt/wayback/20130824004445mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-25T00:32:07Z",
+        "uri": "https://arquivo.pt/wayback/20130825003207mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-26T02:34:00Z",
+        "uri": "https://arquivo.pt/wayback/20130826023400mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-08-27T02:40:14Z",
+        "uri": "https://arquivo.pt/wayback/20130827024014mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2013-11-07T10:06:25Z",
+        "uri": "https://arquivo.pt/wayback/20131107100625mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2014-01-27T01:31:43Z",
+        "uri": "https://web.archive.org.au/awa/20140127013143mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2014-02-28T05:35:37Z",
+        "uri": "https://web.archive.org.au/awa/20140228053537mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2014-03-02T22:39:11Z",
+        "uri": "https://web.archive.org.au/awa/20140302223911mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2014-03-29T20:42:32Z",
+        "uri": "https://vefsafn.is/20140329204232mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2014-11-25T16:16:25Z",
+        "uri": "https://arquivo.pt/wayback/20141125161625mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2015-04-05T16:28:10Z",
+        "uri": "http://archive.md/20150405162810/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2015-10-12T12:03:43Z",
+        "uri": "https://vefsafn.is/20151012120343mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2015-10-12T14:44:50Z",
+        "uri": "https://vefsafn.is/20151012144450mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2016-01-08T21:20:54Z",
+        "uri": "https://arquivo.pt/wayback/20160108212054mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2016-02-07T03:40:22Z",
+        "uri": "https://vefsafn.is/20160207034022mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2016-02-29T11:11:26Z",
+        "uri": "https://web.archive.org.au/awa/20160229111126mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2016-03-17T12:44:56Z",
+        "uri": "https://web.archive.org.au/awa/20160317124456mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2016-05-14T06:56:43Z",
+        "uri": "https://arquivo.pt/wayback/20160514065643mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2017-06-06T11:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20170606111954mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-04-07T23:02:14Z",
+        "uri": "https://arquivo.pt/wayback/20180407230214mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-04-15T04:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20180415043122mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-07-16T13:36:56Z",
+        "uri": "https://arquivo.pt/wayback/20180716133656mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-07-16T13:36:59Z",
+        "uri": "https://arquivo.pt/wayback/20180716133659mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-09-12T19:45:47Z",
+        "uri": "https://arquivo.pt/wayback/20180912194547mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-09-15T03:48:23Z",
+        "uri": "https://arquivo.pt/wayback/20180915034823mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-09-16T04:15:40Z",
+        "uri": "https://arquivo.pt/wayback/20180916041540mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2018-09-17T05:38:30Z",
+        "uri": "https://arquivo.pt/wayback/20180917053830mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-03-23T14:01:53Z",
+        "uri": "https://arquivo.pt/wayback/20190323140153mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-03-23T14:01:57Z",
+        "uri": "https://arquivo.pt/wayback/20190323140157mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-03-25T14:07:24Z",
+        "uri": "https://arquivo.pt/wayback/20190325140724mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-03-25T14:07:27Z",
+        "uri": "https://arquivo.pt/wayback/20190325140727mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-19T11:11:42Z",
+        "uri": "https://arquivo.pt/wayback/20190619111142mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-19T11:11:46Z",
+        "uri": "https://arquivo.pt/wayback/20190619111146mp_/https://bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-24T05:03:37Z",
+        "uri": "https://arquivo.pt/wayback/20190624050337mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-24T05:03:41Z",
+        "uri": "https://arquivo.pt/wayback/20190624050341mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-24T20:36:40Z",
+        "uri": "https://arquivo.pt/wayback/20190624203640mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-24T20:36:52Z",
+        "uri": "https://arquivo.pt/wayback/20190624203652mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-06-25T09:50:10Z",
+        "uri": "https://arquivo.pt/wayback/20190625095010mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-09-23T09:47:28Z",
+        "uri": "https://arquivo.pt/wayback/20190923094728mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-09-26T08:59:49Z",
+        "uri": "https://arquivo.pt/wayback/20190926085949mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-10-07T21:17:08Z",
+        "uri": "https://arquivo.pt/wayback/20191007211708mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-11-16T18:51:07Z",
+        "uri": "https://arquivo.pt/wayback/20191116185107mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-11-28T04:55:28Z",
+        "uri": "https://arquivo.pt/wayback/20191128045528mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2019-12-20T22:07:10Z",
+        "uri": "https://arquivo.pt/wayback/20191220220710mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-02-04T14:44:29Z",
+        "uri": "https://arquivo.pt/wayback/20200204144429mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-02-06T14:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20200206145745mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-02-07T03:16:17Z",
+        "uri": "https://arquivo.pt/wayback/20200207031617mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-02-27T04:29:10Z",
+        "uri": "https://arquivo.pt/wayback/20200227042910mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-03-07T01:35:23Z",
+        "uri": "https://arquivo.pt/wayback/20200307013523mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-03-12T15:14:01Z",
+        "uri": "https://arquivo.pt/wayback/20200312151401mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-03-13T05:25:56Z",
+        "uri": "https://arquivo.pt/wayback/20200313052556mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-03-17T01:34:27Z",
+        "uri": "https://arquivo.pt/wayback/20200317013427mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-06-05T03:37:49Z",
+        "uri": "https://arquivo.pt/wayback/20200605033749mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-06-16T22:40:10Z",
+        "uri": "https://arquivo.pt/wayback/20200616224010mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-06-19T10:27:57Z",
+        "uri": "http://archive.md/20200619102757/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-07-11T22:20:32Z",
+        "uri": "https://arquivo.pt/wayback/20200711222032mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-09-13T17:33:19Z",
+        "uri": "https://arquivo.pt/wayback/20200913173319mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-09-24T12:01:52Z",
+        "uri": "https://arquivo.pt/wayback/20200924120152mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2020-12-15T02:28:04Z",
+        "uri": "https://arquivo.pt/wayback/20201215022804mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-02-05T06:59:02Z",
+        "uri": "https://web.archive.org.au/awa/20210205065902mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-03-03T23:32:34Z",
+        "uri": "https://arquivo.pt/wayback/20210303233234mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-03-16T07:03:03Z",
+        "uri": "https://arquivo.pt/wayback/20210316070303mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-06-18T16:24:22Z",
+        "uri": "https://arquivo.pt/wayback/20210618162422mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-07-13T22:30:44Z",
+        "uri": "http://archive.md/20210713223044/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-09-09T17:48:18Z",
+        "uri": "https://arquivo.pt/wayback/20210909174818mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-09-22T15:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20210922155507mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-10-28T14:10:46Z",
+        "uri": "https://arquivo.pt/wayback/20211028141046mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2021-11-13T06:09:58Z",
+        "uri": "https://arquivo.pt/wayback/20211113060958mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-01-19T19:43:39Z",
+        "uri": "https://arquivo.pt/wayback/20220119194339mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-01-24T18:44:50Z",
+        "uri": "https://arquivo.pt/wayback/20220124184450mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-01-24T23:59:05Z",
+        "uri": "https://arquivo.pt/wayback/20220124235905mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-01-29T14:22:30Z",
+        "uri": "https://vefsafn.is/20220129142230mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-01-29T20:49:30Z",
+        "uri": "https://arquivo.pt/wayback/20220129204930mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-02-09T22:01:50Z",
+        "uri": "https://arquivo.pt/wayback/20220209220150mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-11T19:24:09Z",
+        "uri": "https://arquivo.pt/wayback/20220411192409mp_/http://bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-16T10:36:25Z",
+        "uri": "https://arquivo.pt/wayback/20220416103625mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-16T10:36:48Z",
+        "uri": "https://arquivo.pt/wayback/20220416103648mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-16T10:36:52Z",
+        "uri": "https://arquivo.pt/wayback/20220416103652mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-16T10:46:42Z",
+        "uri": "https://arquivo.pt/wayback/20220416104642mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-04-23T21:04:38Z",
+        "uri": "https://arquivo.pt/wayback/20220423210438mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-05-19T02:48:28Z",
+        "uri": "https://arquivo.pt/wayback/20220519024828mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-05-19T02:48:28Z",
+        "uri": "https://arquivo.pt/wayback/20220519024828mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-06-02T10:00:49Z",
+        "uri": "https://vefsafn.is/20220602100049mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-08-04T00:52:31Z",
+        "uri": "https://arquivo.pt/wayback/20220804005231mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2022-10-14T22:31:20Z",
+        "uri": "https://arquivo.pt/wayback/20221014223120mp_/https://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2023-01-24T05:45:32Z",
+        "uri": "https://arquivo.pt/wayback/20230124054532mp_/http://www.bibsonomy.org/"
+      },
+      {
+        "datetime": "2023-01-24T06:06:18Z",
+        "uri": "https://arquivo.pt/wayback/20230124060618mp_/https://www.bibsonomy.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2010-12-23T16:10:37Z",
+      "uri": "https://arquivo.pt/wayback/20101223161037mp_/http://www.bibsonomy.org/"
+    },
+    "last": {
+      "datetime": "2023-01-24T06:06:18Z",
+      "uri": "https://arquivo.pt/wayback/20230124060618mp_/https://www.bibsonomy.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bibsonomy.org/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bibsonomy.org/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bibsonomy.org/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bibsonomy.org/"
+}

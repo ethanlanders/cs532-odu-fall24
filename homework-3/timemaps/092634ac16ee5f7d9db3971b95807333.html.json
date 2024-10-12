@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.odu.edu/hs/centers/globalhealth",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/hs/centers/globalhealth",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-05T07:19:58Z",
+        "uri": "https://arquivo.pt/wayback/20211105071958mp_/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-11-11T03:03:35Z",
+        "uri": "https://arquivo.pt/wayback/20211111030335mp_/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-24T20:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20230124203103mp_/https://www.odu.edu/hs/centers/globalhealth"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-05T07:19:58Z",
+      "uri": "https://arquivo.pt/wayback/20211105071958mp_/https://odu.edu/hs/centers/globalhealth"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:31:03Z",
+      "uri": "https://arquivo.pt/wayback/20230124203103mp_/https://www.odu.edu/hs/centers/globalhealth"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/hs/centers/globalhealth",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/hs/centers/globalhealth",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/hs/centers/globalhealth"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/hs/centers/globalhealth"
+}

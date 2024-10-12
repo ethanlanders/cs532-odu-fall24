@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/search/publ/bibtex0?q=",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/publ/bibtex0?q=",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-17T04:10:43Z",
+        "uri": "https://arquivo.pt/wayback/20200317041043mp_/https://dblp.uni-trier.de/search/publ/bibtex0/?q="
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-17T04:10:43Z",
+      "uri": "https://arquivo.pt/wayback/20200317041043mp_/https://dblp.uni-trier.de/search/publ/bibtex0/?q="
+    },
+    "last": {
+      "datetime": "2020-03-17T04:10:43Z",
+      "uri": "https://arquivo.pt/wayback/20200317041043mp_/https://dblp.uni-trier.de/search/publ/bibtex0/?q="
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/search/publ/bibtex0?q=",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/publ/bibtex0?q=",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/search/publ/bibtex0?q="
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/search/publ/bibtex0?q="
+}

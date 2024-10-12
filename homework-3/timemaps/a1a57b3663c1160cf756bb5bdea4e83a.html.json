@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/events",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/events",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-01-24T20:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20230124204533mp_/https://www.odu.edu/events"
+      }
+    ],
+    "first": {
+      "datetime": "2023-01-24T20:45:33Z",
+      "uri": "https://arquivo.pt/wayback/20230124204533mp_/https://www.odu.edu/events"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:45:33Z",
+      "uri": "https://arquivo.pt/wayback/20230124204533mp_/https://www.odu.edu/events"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/events",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/events",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/events"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/events"
+}

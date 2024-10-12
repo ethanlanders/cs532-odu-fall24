@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://dblp.dagstuhl.de/search/publ/bibtex1?q=",
+  "self": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de/search/publ/bibtex1?q=",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-14T07:11:54Z",
+        "uri": "https://arquivo.pt/wayback/20200214071154mp_/https://dblp.dagstuhl.de/search/publ/bibtex1?q="
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-14T07:11:54Z",
+      "uri": "https://arquivo.pt/wayback/20200214071154mp_/https://dblp.dagstuhl.de/search/publ/bibtex1?q="
+    },
+    "last": {
+      "datetime": "2020-02-14T07:11:54Z",
+      "uri": "https://arquivo.pt/wayback/20200214071154mp_/https://dblp.dagstuhl.de/search/publ/bibtex1?q="
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.dagstuhl.de/search/publ/bibtex1?q=",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de/search/publ/bibtex1?q=",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.dagstuhl.de/search/publ/bibtex1?q="
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.dagstuhl.de/search/publ/bibtex1?q="
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/computer-science",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-06T23:25:46Z",
+        "uri": "http://archive.md/20231206232546/https://www.odu.edu/computer-science"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-06T23:25:46Z",
+      "uri": "http://archive.md/20231206232546/https://www.odu.edu/computer-science"
+    },
+    "last": {
+      "datetime": "2023-12-06T23:25:46Z",
+      "uri": "http://archive.md/20231206232546/https://www.odu.edu/computer-science"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/computer-science",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/computer-science"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/computer-science"
+}

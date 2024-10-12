@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/facultystaff/research/development",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff/research/development",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-03T14:02:48Z",
+        "uri": "https://arquivo.pt/wayback/20211103140248mp_/https://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2021-11-03T14:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20211103140253mp_/http://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2022-04-24T19:55:08Z",
+        "uri": "https://arquivo.pt/wayback/20220424195508mp_/https://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2022-04-24T19:55:14Z",
+        "uri": "https://arquivo.pt/wayback/20220424195514mp_/http://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2022-08-05T11:29:26Z",
+        "uri": "https://arquivo.pt/wayback/20220805112926mp_/https://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2022-08-05T11:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20220805112930mp_/http://www.odu.edu/facultystaff/research/development"
+      },
+      {
+        "datetime": "2023-01-24T20:28:12Z",
+        "uri": "https://arquivo.pt/wayback/20230124202812mp_/https://www.odu.edu/facultystaff/research/development"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-03T14:02:48Z",
+      "uri": "https://arquivo.pt/wayback/20211103140248mp_/https://www.odu.edu/facultystaff/research/development"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:28:12Z",
+      "uri": "https://arquivo.pt/wayback/20230124202812mp_/https://www.odu.edu/facultystaff/research/development"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/facultystaff/research/development",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff/research/development",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/facultystaff/research/development"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/facultystaff/research/development"
+}

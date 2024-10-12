@@ -43,7 +43,7 @@ def download_timemap(uri_mapping_file, output_dir, start):
     uri_hash_map = load_uri_mapping(uri_mapping_file)
 
     # Limit to URIs from 50 onwards
-    test_uri_hash_map = dict(list(uri_hash_map.items())[50:])
+    test_uri_hash_map = dict(list(uri_hash_map.items())[start:])
 
     for hash_file, uri in test_uri_hash_map.items():
         output_file = os.path.join(output_dir, f"{hash_file}.json")
@@ -52,4 +52,4 @@ def download_timemap(uri_mapping_file, output_dir, start):
         start += 1
 
 # Begin the process with the appropriate files
-download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps", 50)
+download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps", 266)

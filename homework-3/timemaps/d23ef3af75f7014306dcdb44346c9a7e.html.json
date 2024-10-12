@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://status.arxiv.org",
+  "self": "http://localhost:1208/timemap/json/https://status.arxiv.org",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-06T08:53:05Z",
+        "uri": "https://arquivo.pt/wayback/20200306085305mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-03-09T20:24:13Z",
+        "uri": "https://web.archive.org.au/awa/20210309202413mp_/http://pandora.nla.gov.au/pan/52190/20210310-0000/status.arxiv.org/index.html"
+      },
+      {
+        "datetime": "2021-09-11T19:46:50Z",
+        "uri": "https://arquivo.pt/wayback/20210911194650mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-10-22T08:39:52Z",
+        "uri": "https://arquivo.pt/wayback/20211022083952mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-10-22T08:39:53Z",
+        "uri": "https://arquivo.pt/wayback/20211022083953mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-10-26T14:17:33Z",
+        "uri": "https://arquivo.pt/wayback/20211026141733mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-10-26T14:17:34Z",
+        "uri": "https://arquivo.pt/wayback/20211026141734mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2021-11-01T14:10:15Z",
+        "uri": "https://arquivo.pt/wayback/20211101141015mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2022-08-28T13:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20220828131649mp_/https://status.arxiv.org/"
+      },
+      {
+        "datetime": "2022-10-04T07:02:50Z",
+        "uri": "http://archive.md/20221004070250/https://status.arxiv.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-06T08:53:05Z",
+      "uri": "https://arquivo.pt/wayback/20200306085305mp_/https://status.arxiv.org/"
+    },
+    "last": {
+      "datetime": "2022-10-04T07:02:50Z",
+      "uri": "http://archive.md/20221004070250/https://status.arxiv.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://status.arxiv.org",
+    "json_format": "http://localhost:1208/timemap/json/https://status.arxiv.org",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://status.arxiv.org"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://status.arxiv.org"
+}

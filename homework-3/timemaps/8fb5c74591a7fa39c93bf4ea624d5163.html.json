@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/about/accreditation",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/accreditation",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-10-10T03:56:24Z",
+        "uri": "http://archive.md/20141010035624/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-09-10T15:34:58Z",
+        "uri": "https://arquivo.pt/wayback/20210910153458mp_/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-10-21T05:55:53Z",
+        "uri": "https://arquivo.pt/wayback/20211021055553mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-22T10:24:21Z",
+        "uri": "https://arquivo.pt/wayback/20220122102421mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-04-17T05:29:56Z",
+        "uri": "https://arquivo.pt/wayback/20220417052956mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-04-20T17:00:30Z",
+        "uri": "https://arquivo.pt/wayback/20220420170030mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-01-24T19:18:13Z",
+        "uri": "https://arquivo.pt/wayback/20230124191813mp_/https://www.odu.edu/about/accreditation"
+      }
+    ],
+    "first": {
+      "datetime": "2014-10-10T03:56:24Z",
+      "uri": "http://archive.md/20141010035624/https://www.odu.edu/about/accreditation"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:18:13Z",
+      "uri": "https://arquivo.pt/wayback/20230124191813mp_/https://www.odu.edu/about/accreditation"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/accreditation",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/accreditation",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/accreditation"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/accreditation"
+}

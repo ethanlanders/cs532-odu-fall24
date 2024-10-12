@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.odu.edu/life/support/wgec",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/support/wgec",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-07T22:14:37Z",
+        "uri": "https://arquivo.pt/wayback/20220507221437mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-05-16T04:42:35Z",
+        "uri": "https://arquivo.pt/wayback/20220516044235mp_/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-18T08:08:24Z",
+        "uri": "https://arquivo.pt/wayback/20220818080824mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-16T04:05:20Z",
+        "uri": "https://arquivo.pt/wayback/20221116040520mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-24T20:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124202200mp_/https://www.odu.edu/life/support/wgec"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-07T22:14:37Z",
+      "uri": "https://arquivo.pt/wayback/20220507221437mp_/https://odu.edu/life/support/wgec"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:22:00Z",
+      "uri": "https://arquivo.pt/wayback/20230124202200mp_/https://www.odu.edu/life/support/wgec"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/support/wgec",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/support/wgec",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/support/wgec"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/support/wgec"
+}

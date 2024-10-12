@@ -1,0 +1,230 @@
+{
+  "original_uri": "https://odusports.com/",
+  "self": "http://localhost:1208/timemap/json/https://odusports.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2005-07-23T02:07:54Z",
+        "uri": "https://web.archive.org.au/awa/20050723020754mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2013-05-09T21:57:04Z",
+        "uri": "http://archive.md/20130509215704/http://odusports.com/"
+      },
+      {
+        "datetime": "2014-07-12T13:31:14Z",
+        "uri": "https://vefsafn.is/20140712133114mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2014-07-13T00:28:50Z",
+        "uri": "https://vefsafn.is/20140713002850mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2014-10-26T16:56:36Z",
+        "uri": "https://vefsafn.is/20141026165636mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2014-10-27T04:11:01Z",
+        "uri": "https://vefsafn.is/20141027041101mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2015-03-02T00:39:19Z",
+        "uri": "https://vefsafn.is/20150302003919mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2015-03-03T01:25:30Z",
+        "uri": "https://vefsafn.is/20150303012530mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2015-06-27T15:31:03Z",
+        "uri": "https://vefsafn.is/20150627153103mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2015-06-27T22:29:14Z",
+        "uri": "https://vefsafn.is/20150627222914mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2015-10-10T07:57:43Z",
+        "uri": "https://vefsafn.is/20151010075743mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2015-10-10T16:43:37Z",
+        "uri": "https://vefsafn.is/20151010164337mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2016-05-21T22:57:34Z",
+        "uri": "https://arquivo.pt/wayback/20160521225734mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-04-02T10:41:17Z",
+        "uri": "https://arquivo.pt/wayback/20190402104117mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-09-16T06:42:30Z",
+        "uri": "https://arquivo.pt/wayback/20190916064230mp_/https://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-09-23T06:41:34Z",
+        "uri": "https://arquivo.pt/wayback/20190923064134mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2019-09-23T06:41:35Z",
+        "uri": "https://arquivo.pt/wayback/20190923064135mp_/https://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-09-23T09:46:45Z",
+        "uri": "https://arquivo.pt/wayback/20190923094645mp_/https://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-09-27T20:44:24Z",
+        "uri": "https://arquivo.pt/wayback/20190927204424mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2019-10-14T16:22:50Z",
+        "uri": "https://arquivo.pt/wayback/20191014162250mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-10-16T02:32:58Z",
+        "uri": "https://arquivo.pt/wayback/20191016023258mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2019-12-21T19:08:58Z",
+        "uri": "https://arquivo.pt/wayback/20191221190858mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2019-12-21T19:09:10Z",
+        "uri": "https://arquivo.pt/wayback/20191221190910mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2019-12-27T09:06:21Z",
+        "uri": "https://arquivo.pt/wayback/20191227090621mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2020-03-18T04:14:38Z",
+        "uri": "https://arquivo.pt/wayback/20200318041438mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2020-03-18T04:14:50Z",
+        "uri": "https://arquivo.pt/wayback/20200318041450mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2020-03-18T06:09:45Z",
+        "uri": "https://arquivo.pt/wayback/20200318060945mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2020-06-19T13:05:35Z",
+        "uri": "https://arquivo.pt/wayback/20200619130535mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2020-06-19T13:05:49Z",
+        "uri": "https://arquivo.pt/wayback/20200619130549mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2020-06-28T20:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20200628200801mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2020-09-25T00:31:36Z",
+        "uri": "https://arquivo.pt/wayback/20200925003136mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2020-12-26T02:41:05Z",
+        "uri": "https://arquivo.pt/wayback/20201226024105mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2021-03-17T16:51:23Z",
+        "uri": "https://arquivo.pt/wayback/20210317165123mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2021-03-27T02:28:03Z",
+        "uri": "https://arquivo.pt/wayback/20210327022803mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2021-07-01T09:50:56Z",
+        "uri": "https://arquivo.pt/wayback/20210701095056mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2021-09-23T22:07:26Z",
+        "uri": "https://arquivo.pt/wayback/20210923220726mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2021-09-27T21:41:52Z",
+        "uri": "https://arquivo.pt/wayback/20210927214152mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2021-11-03T11:13:07Z",
+        "uri": "https://arquivo.pt/wayback/20211103111307mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2021-11-03T11:13:13Z",
+        "uri": "https://arquivo.pt/wayback/20211103111313mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2021-11-10T23:15:33Z",
+        "uri": "https://arquivo.pt/wayback/20211110231533mp_/https://www.odusports.com/"
+      },
+      {
+        "datetime": "2022-01-26T02:21:12Z",
+        "uri": "https://arquivo.pt/wayback/20220126022112mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2022-01-26T05:00:04Z",
+        "uri": "https://arquivo.pt/wayback/20220126050004mp_/http://odusports.com/"
+      },
+      {
+        "datetime": "2022-01-26T05:00:32Z",
+        "uri": "https://arquivo.pt/wayback/20220126050032mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2022-04-22T06:46:16Z",
+        "uri": "https://arquivo.pt/wayback/20220422064616mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2022-04-22T17:11:43Z",
+        "uri": "https://arquivo.pt/wayback/20220422171143mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2022-05-07T15:41:04Z",
+        "uri": "https://arquivo.pt/wayback/20220507154104mp_/http://www.odusports.com/"
+      },
+      {
+        "datetime": "2022-05-07T16:17:15Z",
+        "uri": "https://arquivo.pt/wayback/20220507161715mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2022-05-27T01:19:18Z",
+        "uri": "https://arquivo.pt/wayback/20220527011918mp_/https://www.odusports.com/"
+      },
+      {
+        "datetime": "2022-08-18T01:58:03Z",
+        "uri": "https://arquivo.pt/wayback/20220818015803mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2022-11-15T20:24:42Z",
+        "uri": "https://arquivo.pt/wayback/20221115202442mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2023-02-12T23:41:13Z",
+        "uri": "https://arquivo.pt/wayback/20230212234113mp_/https://odusports.com/"
+      },
+      {
+        "datetime": "2023-02-12T23:58:32Z",
+        "uri": "https://arquivo.pt/wayback/20230212235832mp_/http://odusports.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2005-07-23T02:07:54Z",
+      "uri": "https://web.archive.org.au/awa/20050723020754mp_/http://www.odusports.com/"
+    },
+    "last": {
+      "datetime": "2023-02-12T23:58:32Z",
+      "uri": "https://arquivo.pt/wayback/20230212235832mp_/http://odusports.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://odusports.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://odusports.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://odusports.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://odusports.com/"
+}

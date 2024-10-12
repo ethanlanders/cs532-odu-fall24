@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://warmes-bett.de/",
+  "self": "http://localhost:1208/timemap/json/https://warmes-bett.de/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-22T16:40:25Z",
+        "uri": "http://archive.md/20220322164025/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-15T14:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20220515145142mp_/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-08-25T18:12:45Z",
+        "uri": "https://arquivo.pt/wayback/20220825181245mp_/https://warmes-bett.de/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-22T16:40:25Z",
+      "uri": "http://archive.md/20220322164025/https://warmes-bett.de/"
+    },
+    "last": {
+      "datetime": "2022-08-25T18:12:45Z",
+      "uri": "https://arquivo.pt/wayback/20220825181245mp_/https://warmes-bett.de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://warmes-bett.de/",
+    "json_format": "http://localhost:1208/timemap/json/https://warmes-bett.de/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://warmes-bett.de/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://warmes-bett.de/"
+}

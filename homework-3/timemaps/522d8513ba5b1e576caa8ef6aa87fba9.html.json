@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/military",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/military",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:34:07Z",
+        "uri": "https://arquivo.pt/wayback/20210910153407mp_/https://www.odu.edu/military"
+      },
+      {
+        "datetime": "2021-11-03T11:13:22Z",
+        "uri": "https://arquivo.pt/wayback/20211103111322mp_/https://www.odu.edu/military"
+      },
+      {
+        "datetime": "2021-11-03T11:13:26Z",
+        "uri": "https://arquivo.pt/wayback/20211103111326mp_/http://www.odu.edu/military"
+      },
+      {
+        "datetime": "2022-01-22T10:17:22Z",
+        "uri": "https://arquivo.pt/wayback/20220122101722mp_/https://odu.edu/military"
+      },
+      {
+        "datetime": "2022-01-26T05:32:32Z",
+        "uri": "https://arquivo.pt/wayback/20220126053232mp_/http://www.odu.edu/military"
+      },
+      {
+        "datetime": "2022-04-17T05:23:27Z",
+        "uri": "https://arquivo.pt/wayback/20220417052327mp_/https://odu.edu/military"
+      },
+      {
+        "datetime": "2022-04-22T17:13:32Z",
+        "uri": "https://arquivo.pt/wayback/20220422171332mp_/https://www.odu.edu/military"
+      },
+      {
+        "datetime": "2022-04-22T17:13:36Z",
+        "uri": "https://arquivo.pt/wayback/20220422171336mp_/http://www.odu.edu/military"
+      },
+      {
+        "datetime": "2022-04-24T18:50:05Z",
+        "uri": "https://arquivo.pt/wayback/20220424185005mp_/http://www.odu.edu/military"
+      },
+      {
+        "datetime": "2022-07-30T14:33:53Z",
+        "uri": "https://arquivo.pt/wayback/20220730143353mp_/https://odu.edu/military"
+      },
+      {
+        "datetime": "2022-10-11T02:08:05Z",
+        "uri": "https://arquivo.pt/wayback/20221011020805mp_/https://odu.edu/military"
+      },
+      {
+        "datetime": "2023-01-24T20:00:32Z",
+        "uri": "https://arquivo.pt/wayback/20230124200032mp_/https://www.odu.edu/military"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:34:07Z",
+      "uri": "https://arquivo.pt/wayback/20210910153407mp_/https://www.odu.edu/military"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:00:32Z",
+      "uri": "https://arquivo.pt/wayback/20230124200032mp_/https://www.odu.edu/military"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/military",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/military",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/military"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/military"
+}

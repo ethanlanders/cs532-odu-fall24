@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://translate.google.com/website?sl=en",
+  "self": "http://localhost:1208/timemap/json/https://translate.google.com/website?sl=en",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-03-08T22:18:37Z",
+        "uri": "http://archive.md/20210308221837/https://translate.google.com/website?sl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2021-03-08T22:18:37Z",
+      "uri": "http://archive.md/20210308221837/https://translate.google.com/website?sl=en"
+    },
+    "last": {
+      "datetime": "2021-03-08T22:18:37Z",
+      "uri": "http://archive.md/20210308221837/https://translate.google.com/website?sl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://translate.google.com/website?sl=en",
+    "json_format": "http://localhost:1208/timemap/json/https://translate.google.com/website?sl=en",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://translate.google.com/website?sl=en"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://translate.google.com/website?sl=en"
+}

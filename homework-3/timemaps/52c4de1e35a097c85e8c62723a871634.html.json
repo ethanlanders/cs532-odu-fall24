@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups",
+  "self": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-04T03:13:20Z",
+        "uri": "https://arquivo.pt/wayback/20211104031320mp_/https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups"
+      },
+      {
+        "datetime": "2022-05-07T17:52:32Z",
+        "uri": "https://arquivo.pt/wayback/20220507175232mp_/https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-04T03:13:20Z",
+      "uri": "https://arquivo.pt/wayback/20211104031320mp_/https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups"
+    },
+    "last": {
+      "datetime": "2022-05-07T17:52:32Z",
+      "uri": "https://arquivo.pt/wayback/20220507175232mp_/https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups",
+    "json_format": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://odu.campusgroups.com/login_only?redirect=https://odu.campusgroups.com/groups"
+}

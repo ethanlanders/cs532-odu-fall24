@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.saarland.de/stk/DE/home/home_node.html",
+  "self": "http://localhost:1208/timemap/json/https://www.saarland.de/stk/DE/home/home_node.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-06-29T05:55:11Z",
+        "uri": "https://arquivo.pt/wayback/20210629055511mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2021-09-12T12:10:28Z",
+        "uri": "https://arquivo.pt/wayback/20210912121028mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2021-10-19T19:34:49Z",
+        "uri": "https://arquivo.pt/wayback/20211019193449mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2021-10-30T20:32:00Z",
+        "uri": "https://arquivo.pt/wayback/20211030203200mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-01-31T08:32:44Z",
+        "uri": "https://arquivo.pt/wayback/20220131083244mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-02-15T19:40:46Z",
+        "uri": "https://arquivo.pt/wayback/20220215194046mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-04-30T16:17:29Z",
+        "uri": "https://arquivo.pt/wayback/20220430161729mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-05-18T13:10:12Z",
+        "uri": "https://arquivo.pt/wayback/20220518131012mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-07-13T14:14:27Z",
+        "uri": "https://arquivo.pt/wayback/20220713141427mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-07-14T13:15:27Z",
+        "uri": "https://arquivo.pt/wayback/20220714131527mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-07-15T13:31:54Z",
+        "uri": "https://arquivo.pt/wayback/20220715133154mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-07-16T13:30:48Z",
+        "uri": "https://arquivo.pt/wayback/20220716133048mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-07-17T13:57:28Z",
+        "uri": "https://arquivo.pt/wayback/20220717135728mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      },
+      {
+        "datetime": "2022-08-27T08:50:39Z",
+        "uri": "https://arquivo.pt/wayback/20220827085039mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+      }
+    ],
+    "first": {
+      "datetime": "2021-06-29T05:55:11Z",
+      "uri": "https://arquivo.pt/wayback/20210629055511mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+    },
+    "last": {
+      "datetime": "2022-08-27T08:50:39Z",
+      "uri": "https://arquivo.pt/wayback/20220827085039mp_/https://www.saarland.de/stk/DE/home/home_node.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.saarland.de/stk/DE/home/home_node.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.saarland.de/stk/DE/home/home_node.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.saarland.de/stk/DE/home/home_node.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.saarland.de/stk/DE/home/home_node.html"
+}

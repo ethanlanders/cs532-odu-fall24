@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/admission/graduate",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/graduate",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-10T15:37:17Z",
+        "uri": "https://arquivo.pt/wayback/20210910153717mp_/https://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2021-11-03T11:18:11Z",
+        "uri": "https://arquivo.pt/wayback/20211103111811mp_/https://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2021-11-03T11:18:15Z",
+        "uri": "https://arquivo.pt/wayback/20211103111815mp_/http://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-01-22T10:35:12Z",
+        "uri": "https://arquivo.pt/wayback/20220122103512mp_/https://odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-01-26T05:36:08Z",
+        "uri": "https://arquivo.pt/wayback/20220126053608mp_/http://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-04-17T05:42:43Z",
+        "uri": "https://arquivo.pt/wayback/20220417054243mp_/https://odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-04-22T17:18:14Z",
+        "uri": "https://arquivo.pt/wayback/20220422171814mp_/https://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-04-22T17:18:18Z",
+        "uri": "https://arquivo.pt/wayback/20220422171818mp_/http://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-04-24T18:53:05Z",
+        "uri": "https://arquivo.pt/wayback/20220424185305mp_/http://www.odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-07-30T14:51:00Z",
+        "uri": "https://arquivo.pt/wayback/20220730145100mp_/https://odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2022-10-11T02:25:09Z",
+        "uri": "https://arquivo.pt/wayback/20221011022509mp_/https://odu.edu/admission/graduate"
+      },
+      {
+        "datetime": "2023-01-24T19:58:53Z",
+        "uri": "https://arquivo.pt/wayback/20230124195853mp_/https://www.odu.edu/admission/graduate"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-10T15:37:17Z",
+      "uri": "https://arquivo.pt/wayback/20210910153717mp_/https://www.odu.edu/admission/graduate"
+    },
+    "last": {
+      "datetime": "2023-01-24T19:58:53Z",
+      "uri": "https://arquivo.pt/wayback/20230124195853mp_/https://www.odu.edu/admission/graduate"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/graduate",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/graduate",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/graduate"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/graduate"
+}

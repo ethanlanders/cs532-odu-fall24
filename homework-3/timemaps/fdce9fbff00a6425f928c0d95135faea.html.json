@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://info.arxiv.org/about/donate.html",
+  "self": "http://localhost:1208/timemap/json/https://info.arxiv.org/about/donate.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-06-22T15:55:10Z",
+        "uri": "https://vefsafn.is/20240622155510mp_/https://info.arxiv.org/about/donate.html"
+      }
+    ],
+    "first": {
+      "datetime": "2024-06-22T15:55:10Z",
+      "uri": "https://vefsafn.is/20240622155510mp_/https://info.arxiv.org/about/donate.html"
+    },
+    "last": {
+      "datetime": "2024-06-22T15:55:10Z",
+      "uri": "https://vefsafn.is/20240622155510mp_/https://info.arxiv.org/about/donate.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://info.arxiv.org/about/donate.html",
+    "json_format": "http://localhost:1208/timemap/json/https://info.arxiv.org/about/donate.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://info.arxiv.org/about/donate.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://info.arxiv.org/about/donate.html"
+}

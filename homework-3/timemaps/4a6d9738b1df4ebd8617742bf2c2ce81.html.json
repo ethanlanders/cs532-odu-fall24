@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/news",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/news",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-03T11:25:24Z",
+        "uri": "https://arquivo.pt/wayback/20211103112524mp_/https://www.odu.edu/news"
+      },
+      {
+        "datetime": "2021-11-03T11:25:29Z",
+        "uri": "https://arquivo.pt/wayback/20211103112529mp_/http://www.odu.edu/news"
+      },
+      {
+        "datetime": "2022-01-22T10:58:24Z",
+        "uri": "https://arquivo.pt/wayback/20220122105824mp_/https://odu.edu/news"
+      },
+      {
+        "datetime": "2022-01-26T05:42:20Z",
+        "uri": "https://arquivo.pt/wayback/20220126054220mp_/http://www.odu.edu/news"
+      },
+      {
+        "datetime": "2022-04-17T06:09:45Z",
+        "uri": "https://arquivo.pt/wayback/20220417060945mp_/https://odu.edu/news"
+      },
+      {
+        "datetime": "2022-04-22T17:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20220422172523mp_/https://www.odu.edu/news"
+      },
+      {
+        "datetime": "2022-04-22T17:25:28Z",
+        "uri": "https://arquivo.pt/wayback/20220422172528mp_/http://www.odu.edu/news"
+      },
+      {
+        "datetime": "2022-04-24T18:58:08Z",
+        "uri": "https://arquivo.pt/wayback/20220424185808mp_/http://www.odu.edu/news"
+      },
+      {
+        "datetime": "2022-07-30T15:40:18Z",
+        "uri": "https://arquivo.pt/wayback/20220730154018mp_/https://odu.edu/news"
+      },
+      {
+        "datetime": "2022-10-11T03:29:04Z",
+        "uri": "https://arquivo.pt/wayback/20221011032904mp_/https://odu.edu/news"
+      },
+      {
+        "datetime": "2023-01-24T20:44:08Z",
+        "uri": "https://arquivo.pt/wayback/20230124204408mp_/https://www.odu.edu/news"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-03T11:25:24Z",
+      "uri": "https://arquivo.pt/wayback/20211103112524mp_/https://www.odu.edu/news"
+    },
+    "last": {
+      "datetime": "2023-01-24T20:44:08Z",
+      "uri": "https://arquivo.pt/wayback/20230124204408mp_/https://www.odu.edu/news"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/news",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/news",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/news"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/news"
+}

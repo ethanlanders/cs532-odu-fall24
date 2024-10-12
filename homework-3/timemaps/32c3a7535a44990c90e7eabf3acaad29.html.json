@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://arxiv.org/abs/1806.00871",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1806.00871",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-01T20:23:31Z",
+        "uri": "https://arquivo.pt/wayback/20211101202331mp_/https://arxiv.org/abs/1806.00871"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-01T20:23:31Z",
+      "uri": "https://arquivo.pt/wayback/20211101202331mp_/https://arxiv.org/abs/1806.00871"
+    },
+    "last": {
+      "datetime": "2021-11-01T20:23:31Z",
+      "uri": "https://arquivo.pt/wayback/20211101202331mp_/https://arxiv.org/abs/1806.00871"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/1806.00871",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1806.00871",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/1806.00871"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/1806.00871"
+}
