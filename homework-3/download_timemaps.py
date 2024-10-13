@@ -1,55 +1,83 @@
-import subprocess # https://docs.python.org/3/library/subprocess.html
-import time
-import os
+import subprocess # Module to run external commands and interact with the system shell.
+import time # Module to add delays (for pausing between requests)
+import os # Module for interacting with the file system.
 
 def load_uri_mapping(mapping_file):
-    uri_hash_mapping = {}
+    """
+    Load the URI to hash mapping from a given file. Each line of the file should contain
+    a hash and a URI separated by a ': '.
+
+    Args:
+        mapping_file (str): Path to the mapping file.
+
+    Returns:
+        dict: A dictionary where the keys are hash filenames and the values are URIs.
+    """
+    uri_hash_mapping = {} # Initialze an empty dictionary to store the hash-URI mapping.
+
     with open(mapping_file, 'r') as f:
+        # Process each line of the file to extract the hash and URI.
         for line in f:
-            hash_file, uri = line.split(': ', 1)
-            uri_hash_mapping[hash_file.strip()] = uri.strip()
-    return uri_hash_mapping
+            hash_file, uri = line.split(': ', 1) # Split the line by the first ': ' found.
+            uri_hash_mapping[hash_file.strip()] = uri.strip() # Remove any extra spaces and store.
+
+    return uri_hash_mapping # Return the dictionary of hash-URI pairs.
 
 def query_memgator(uri, output_file):
+    """
+    Query MemGator for a TimeMap corresponding to a given URI and save the result.
+    """
+    # Command to run MemGator with relevant parameters.
     command = f"~/MemGator/memgator -c 'ODU CS532 eland007@odu.edu' -a ~/MemGator/docs/archives.json -f JSON {uri}"
+    
     try:
+        # Run the command in a subprocess and capture the output, both stdout and stderr.
         result = subprocess.run(command, shell=True, capture_output=True, text=True, timeout=180)
         
-        # Checks for errors in querying MemGator
+        # Check if the command was successful by checking the return code.
         if result.returncode != 0:
-            print(f"Error querying MemGator for {uri}: {result.stderr}")
+            print(f"Error querying MemGator for {uri}: {result.stderr}") # Output error if command fails.
         else:
-            # Print raw output for debugging purposes
+            # Print raw output for debugging and verification purposes.
             if result.stdout:
-                print(f"TimeMap for {uri}: {result.stdout}")
+                print(f"TimeMap for {uri}: {result.stdout}") # Print the result if TimeMap is found.
             else:
-                print(f"No TimeMap for {uri}.")
+                print(f"No TimeMap for {uri}.") # Notify if no TimeMap is returned.
 
-            # Save the stdout to the output file
+            # Write the result to the specified output file (in JSON format).
             with open(output_file, 'w') as f:
                 f.write(result.stdout)
     
     except subprocess.TimeoutExpired:
+        # If the query takes longer than 180 seconds, output a timeout message.
         print(f"Query for {uri} timed out after 180 seconds.")
 
-    # Sleep to avoid overwhelming the MemGator server
+    # Pause for 10 seconds between queries to avoid server overload.
     time.sleep(10)
 
-def download_timemap(uri_mapping_file, output_dir, start):
-    # Ensure output directory exists
+def download_timemap(uri_mapping_file, output_dir):
+    """
+    Download TimeMaps for URIs listed in a mapping file, saving them to a specified directory.
+
+    Args:
+        uri_mapping_file (str): Path to the file containing URI-to-hash mappings.
+        output_dir (str): Directory to save the TimeMap JSON files.
+    """
+    # Ensure output directory exists (create it if it doesn't).
     os.makedirs(output_dir, exist_ok=True)
     
-    # Load the URI and hash mappings from the file
+    # Load the URI-hash mapping from the provided file.
     uri_hash_map = load_uri_mapping(uri_mapping_file)
 
-    # Limit to URIs from 50 onwards
-    test_uri_hash_map = dict(list(uri_hash_map.items())[start:])
+    # Initialize a counter for tracking progress.
+    uri_count = 1
 
-    for hash_file, uri in test_uri_hash_map.items():
-        output_file = os.path.join(output_dir, f"{hash_file}.json")
-        print(f"\nURI {start}\nQuerying TimeMap for {uri} and saving as {output_file}")
-        query_memgator(uri, output_file)
-        start += 1
+    # Loop through each hash and URI pair to download the TimeMap.
+    for hash_file, uri in uri_hash_map.items():
+        output_file = os.path.join(output_dir, f"{hash_file}.json") # Define the output file path.
+        print(f"\nURI {uri_count}\nQuerying TimeMap for {uri} and saving as {output_file}")
+        query_memgator(uri, output_file) # Query MemGator and save the result.
+        uri_count += 1 # Increment the counter for the next URI.
 
-# Begin the process with the appropriate files
-download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps", 266)
+# Start the process by providing the URI mapping file and output directory
+download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps")
