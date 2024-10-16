@@ -1,5 +1,7 @@
 import json
 import os
+import re
+from urllib.parse import urlparse
 from prettytable import PrettyTable
 from collections import defaultdict
 
@@ -27,6 +29,21 @@ def load_timemap(filepath):
     except json.JSONDecodeError:
         return None # Return None if JSON is invalid.
     
+def get_core_domain(uri):
+    """
+    Extract the core domain from a URI, stripping away paths and query parameters.
+
+    Args:
+        uri(str): The URI to extract the core domain from.
+
+    Returns:
+        str: The core domain of the URI.
+    """
+    parsed_uri = urlparse(uri)
+    print(parsed_uri)
+    domain = parsed_uri.netloc # Extract the domain (netloc)
+    return domain
+
 def count_mementos(timemap):
     """
     Count the number of mementos in the given TimeMap.
@@ -82,6 +99,45 @@ def count_memento_occurrences(memento_counts):
         occurrences[count] += 1
 
     return occurrences # Return the dictionary of memento occurrences.
+
+def count_core_domain_frequencies(uri_hash_map, memento_counts):
+    """
+    Count the frequencies of core domains based on memento counts.
+
+    Args:
+        uri_hash_map (dict): A dictionary mapping hash filenames to URIs.
+        memento_counts (dict): A dictionary of memento counts per URI file.
+    
+    Returns:
+        dict: A dictionary where the keys are core domains and value are their frequencies.
+    """
+    domain_frequencies = defaultdict(int)
+
+    for hash_file, memento_count in uri_hash_map.items():
+        uri = uri_hash_map.get(hash_file)
+        print (uri)
+        if uri:
+            core_domain = get_core_domain(uri)
+            domain_frequencies[core_domain] += 1
+            print(f"Processing URI: {uri}, Domain: {core_domain}, Memento Count: {memento_count}")
+
+    return domain_frequencies
+
+def find_most_frequent_domains(memento_counts, uri_hash_map, top_n=5):
+    """
+    Find the most frequent core domains among the URIs with a given memento count.
+
+    Args:
+        memento_counts (dict): Dictionary where keys are filenames (hashes) and values are memento counts.
+        uri_hash_map (dict): Dictionary mapping hash filenames (without extensions) to their original URIs.
+        top_n (int): Number of top URIs to display.
+
+    Returns:
+        list: A list of tuples with the top core domains and their frequencies.
+    """
+    domain_frequencies = count_core_domain_frequencies(uri_hash_map, memento_counts)
+    sorted_domains = sorted(domain_frequencies.items(), key=lambda x: x[1], reverse=True)
+    return sorted_domains[:top_n]
 
 def find_top_mementos (memento_counts, uri_hash_map, top_n=5):
     """
@@ -149,6 +205,22 @@ def generate_top_mementos_table(top_mementos):
 
     print(table) # Print the table to the console.
 
+def generate_domain_memento_table(domain_mementos):
+    """
+    Generate and print a table of the top URIs with the most mementos.
+
+    Args:
+        top_mementos (list): A list of tuples containing URIs (filenames) and memento counts.
+    """
+    table = PrettyTable() # Initialize the table
+    table.field_names = ["Domain", "Memento Count"]  # Set column headers.
+
+    # Add rows to the table for each memento count and its occurrence count.
+    for domain, memento_count in domain_mementos:
+        table.add_row([domain, memento_count])
+
+    print(table) # Print the table to the console.
+
 # Main process: Set directory path and run analysis.
 timemaps_dir = "homework-3/timemaps"
 
@@ -161,8 +233,14 @@ occurrences = count_memento_occurrences(memento_counts)
 # Find the top URIs with the most mementos.
 top_mementos = find_top_mementos(memento_counts, load_uri_mapping("homework-2/uri_mapping.txt"), top_n=5)
 
+# Find the most frequent domains.
+most_frequent_domains = find_most_frequent_domains(memento_counts, load_uri_mapping("homework-2/uri_mapping.txt"), top_n=5)
+
 # Generate and display the summary table.
 generate_summary_table(occurrences)
 
 # Generate and display the table of top mementos.
 generate_top_mementos_table(top_mementos)
+
+# Generate and display the most frequent domains
+generate_domain_memento_table(most_frequent_domains)
