@@ -5,9 +5,9 @@ from urllib.parse import urlparse
 from prettytable import PrettyTable
 from collections import defaultdict
 
- # TODO load URI Mapping to obtain the URIs for finding top 5 URIs with most mementos
-
 from utils import load_uri_mapping
+
+# ====================== TimeMap Handling Functions ======================
 
 def load_timemap(filepath):
     """
@@ -18,7 +18,6 @@ def load_timemap(filepath):
 
     Returns:
         dict or None: The parsed JSON object (TimeMap) or None if the file is invalid/empty.
-
     """
     try:
         # Open the file and check if it's empty.    
@@ -29,36 +28,6 @@ def load_timemap(filepath):
     except json.JSONDecodeError:
         return None # Return None if JSON is invalid.
     
-def get_core_domain(uri):
-    """
-    Extract the core domain from a URI, stripping away paths and query parameters.
-
-    Args:
-        uri(str): The URI to extract the core domain from.
-
-    Returns:
-        str: The core domain of the URI.
-    """
-    parsed_uri = urlparse(uri)
-    print(parsed_uri)
-    domain = parsed_uri.netloc # Extract the domain (netloc)
-    return domain
-
-def count_mementos(timemap):
-    """
-    Count the number of mementos in the given TimeMap.
-
-    Args:
-        timemap (dict or None): The TimeMap object. If None, assume no mementos.
-
-    Returns:
-        int: The number of mementos (0 if the TimeMap is None).
-
-    """
-    if timemap is None:
-        return 0    # Return 0 if no valid TimeMap.
-    return len(timemap.get('mementos', [])) # Count the mementos in the 'mementos' list.
-
 def analyze_timemaps(timemaps_dir):
     """
     Analyze all TimeMaps in a directory, counting the number of mementos for each.
@@ -82,6 +51,23 @@ def analyze_timemaps(timemaps_dir):
 
     return memento_counts # Return the dictionary of memento counts.
 
+# ======================= Memento Counting Functions =======================
+
+def count_mementos(timemap):
+    """
+    Count the number of mementos in the given TimeMap.
+
+    Args:
+        timemap (dict or None): The TimeMap object. If None, assume no mementos.
+
+    Returns:
+        int: The number of mementos (0 if the TimeMap is None).
+
+    """
+    if timemap is None:
+        return 0    # Return 0 if no valid TimeMap.
+    return len(timemap.get('mementos', [])) # Count the mementos in the 'mementos' list.
+
 def count_memento_occurrences(memento_counts):
     """
     Count how many times each specific memento count occurs across all URIs.
@@ -99,6 +85,57 @@ def count_memento_occurrences(memento_counts):
         occurrences[count] += 1
 
     return occurrences # Return the dictionary of memento occurrences.
+
+def find_top_mementos (memento_counts, uri_hash_map, top_n=5):
+    """
+    Find the top URIs with the most mementos.
+
+    Args:
+        memento_counts (dict): Dictionary where keys are filenames (hashes) and values are memento counts.
+        uri_hash_map (dict): Dictionary mapping hash filenames (without extensions) to their original URIs.
+        top_n (int): Number of top URIs to display.
+
+    Returns:
+        list: A list of tuples, where each tuple contains the original URI and its corresponding memento count.
+            Example: [('http://example.com', 0), ('http://another.com', 3), ...]
+    """
+    # Sort the memento counts in descending order, so the URIs with the most mementos come first.
+    sorted_uris = sorted(memento_counts.items(), key=lambda x: x[1], reverse=True)
+    
+    top_uris = [] # List to store the top URIs and their memento counts.
+
+    # Iterate over the top N sorted URIs.
+    for hash_file, memento_count in sorted_uris[:top_n]:
+        # Remove the '.json' extension from the filename to match the keys in uri_hash_map.
+        hash_key = hash_file.replace('.json', '')
+
+        # Check if the stripped filename (hash_key) exists in the URI hash map.
+        if hash_key in uri_hash_map:
+            # Append a tuple of (original URI, memento count) to the top_uris list
+            top_uris.append((uri_hash_map[hash_key], memento_count))
+        else:
+            # If the hash_key is not found in the mapping, print a warning for debugging purposes.
+            print(f"Warning: {hash_key} not found in URI hash mapping.")
+
+    # Return the list of top URIs with their corresponding memento counts.
+    return top_uris
+
+# ===================== Domain Processing Functions ==================
+
+def get_core_domain(uri):
+    """
+    Extract the core domain from a URI, stripping away paths and query parameters.
+
+    Args:
+        uri(str): The URI to extract the core domain from.
+
+    Returns:
+        str: The core domain of the URI.
+    """
+    parsed_uri = urlparse(uri)
+    print(parsed_uri)
+    domain = parsed_uri.netloc # Extract the domain (netloc)
+    return domain
 
 def count_core_domain_frequencies(uri_hash_map, memento_counts):
     """
@@ -139,39 +176,7 @@ def find_most_frequent_domains(memento_counts, uri_hash_map, top_n=5):
     sorted_domains = sorted(domain_frequencies.items(), key=lambda x: x[1], reverse=True)
     return sorted_domains[:top_n]
 
-def find_top_mementos (memento_counts, uri_hash_map, top_n=5):
-    """
-    Find the top URIs with the most mementos.
-
-    Args:
-        memento_counts (dict): Dictionary where keys are filenames (hashes) and values are memento counts.
-        uri_hash_map (dict): Dictionary mapping hash filenames (without extensions) to their original URIs.
-        top_n (int): Number of top URIs to display.
-
-    Returns:
-        list: A list of tuples, where each tuple contains the original URI and its corresponding memento count.
-            Example: [('http://example.com', 0), ('http://another.com', 3), ...]
-    """
-    # Sort the memento counts in descending order, so the URIs with the most mementos come first.
-    sorted_uris = sorted(memento_counts.items(), key=lambda x: x[1], reverse=True)
-    
-    top_uris = [] # List to store the top URIs and their memento counts.
-
-    # Iterate over the top N sorted URIs.
-    for hash_file, memento_count in sorted_uris[:top_n]:
-        # Remove the '.json' extension from the filename to match the keys in uri_hash_map.
-        hash_key = hash_file.replace('.json', '')
-
-        # Check if the stripped filename (hash_key) exists in the URI hash map.
-        if hash_key in uri_hash_map:
-            # Append a tuple of (original URI, memento count) to the top_uris list
-            top_uris.append((uri_hash_map[hash_key], memento_count))
-        else:
-            # If the hash_key is not found in the mapping, print a warning for debugging purposes.
-            print(f"Warning: {hash_key} not found in URI hash mapping.")
-
-    # Return the list of top URIs with their corresponding memento counts.
-    return top_uris
+# ====================== Table Display Functions =======================
 
 def generate_summary_table(occurrences):
     """
@@ -187,7 +192,7 @@ def generate_summary_table(occurrences):
     for memento_count, uri_count in sorted(occurrences.items()):
         table.add_row([memento_count, uri_count])
 
-    print(table) # Print the table to the console.
+    print(table)
 
 def generate_top_mementos_table(top_mementos):
     """
@@ -199,11 +204,11 @@ def generate_top_mementos_table(top_mementos):
     table = PrettyTable() # Initialize the table
     table.field_names = ["URI (Filename)", "Memento Count"]  # Set column headers.
 
-    # Add rows to the table for each memento count and its occurrence count.
+    # Add rows to the table for each URI and its memmento count.
     for uri, memento_count in top_mementos:
         table.add_row([uri, memento_count])
 
-    print(table) # Print the table to the console.
+    print(table)
 
 def generate_domain_memento_table(domain_mementos):
     """
@@ -215,32 +220,27 @@ def generate_domain_memento_table(domain_mementos):
     table = PrettyTable() # Initialize the table
     table.field_names = ["Domain", "Memento Count"]  # Set column headers.
 
-    # Add rows to the table for each memento count and its occurrence count.
+    # Add rows to the table for each domain and its memento count.
     for domain, memento_count in domain_mementos:
         table.add_row([domain, memento_count])
 
-    print(table) # Print the table to the console.
+    print(table)
 
-# Main process: Set directory path and run analysis.
-timemaps_dir = "homework-3/timemaps"
+# ========================= Main Process =========================
 
-# Analyze the TimeMaps and count mementos.
-memento_counts = analyze_timemaps(timemaps_dir)
+if __name__ == "__main__":
+    timemaps_dir = "homework-3/timemaps"
+    uri_hash_map = load_uri_mapping("homework-2/uri_mapping.txt")
 
-# Count how many URIs have the same memento count.
-occurrences = count_memento_occurrences(memento_counts)
+    # Analyze the TimeMaps and count mementos.
+    memento_counts = analyze_timemaps(timemaps_dir)
 
-# Find the top URIs with the most mementos.
-top_mementos = find_top_mementos(memento_counts, load_uri_mapping("homework-2/uri_mapping.txt"), top_n=5)
+    # Count occurrences and find top URIs/domains.
+    occurrences = count_memento_occurrences(memento_counts)
+    top_mementos = find_top_mementos(memento_counts, uri_hash_map, top_n=5)
+    most_frequent_domains = find_most_frequent_domains(memento_counts, uri_hash_map, top_n=5)
 
-# Find the most frequent domains.
-most_frequent_domains = find_most_frequent_domains(memento_counts, load_uri_mapping("homework-2/uri_mapping.txt"), top_n=5)
-
-# Generate and display the summary table.
-generate_summary_table(occurrences)
-
-# Generate and display the table of top mementos.
-generate_top_mementos_table(top_mementos)
-
-# Generate and display the most frequent domains
-generate_domain_memento_table(most_frequent_domains)
+    # Generate and display tables.
+    generate_summary_table(occurrences)
+    generate_top_mementos_table(top_mementos)
+    generate_domain_memento_table(most_frequent_domains)
