@@ -1,0 +1,242 @@
+\documentclass[12pt]{article}
+\usepackage{times} 			% use Times New Roman font
+
+\usepackage[margin=1in]{geometry}   % sets 1 inch margins on all sides
+\usepackage[hidelinks]{hyperref}               % for URL formatting
+\usepackage[pdftex]{graphicx}       % So includegraphics will work
+\setlength{\parindent}{0pt} % No indentation for paragraphs
+\setlength{\parskip}{1em}           % skip 1em between paragraphs
+\usepackage{indentfirst}            % indent the first line of each paragraph
+\usepackage{datetime}
+\usepackage[small, bf]{caption}
+\usepackage{listings}               % for code listings
+\usepackage{xcolor}                 % for styling code
+\usepackage{multirow}
+\usepackage{subcaption}     % for subfigures
+
+%\setlength\intextsep{1.69cm} 
+
+%New colors defined below
+\definecolor{backcolour}{RGB}{246, 246, 246}   % 0xF6, 0xF6, 0xF6
+\definecolor{codegreen}{RGB}{16, 124, 2}       % 0x10, 0x7C, 0x02
+\definecolor{codepurple}{RGB}{170, 0, 217}     % 0xAA, 0x00, 0xD9
+\definecolor{codered}{RGB}{154, 0, 18}         % 0x9A, 0x00, 0x12
+
+%Code listing style named "gcolabstyle" - matches Google Colab
+\lstdefinestyle{gcolabstyle}{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{backcolour},   
+  commentstyle=\itshape\color{codegreen},
+  keywordstyle=\color{codepurple},
+  stringstyle=\color{codered},
+  numberstyle=\ttfamily\footnotesize\color{darkgray}, 
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2
+}
+
+\lstset{style=gcolabstyle}      %set gcolabstyle code listing
+
+% to make long URIs break nicely
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+
+% for fancy page headings
+\usepackage{fancyhdr}
+\setlength{\headheight}{13.6pt} % to remove fancyhdr warning
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small \thepage}
+\chead{\small CS 532, Spring 2024} 
+\lhead{\small HW\#3, Landers}  % EDIT THIS, REPLACE # with HW number
+
+%-------------------------------------------------------------------------
+\begin{document}
+
+% EDIT THE ITEMS HERE
+\begin{centering}
+{\large\textbf{HW\#3 - Web Archiving}}\\ 
+Ethan Landers\\
+Due: October 20th by 11:59 PM EST\\
+\end{centering}
+
+%-------------------------------------------------------------------------
+
+% The * after \section just says to not number the sections
+
+\section*{Methodology}
+\subsection*{Data Sources}
+The URIs in this assignment originate from Homework 2 for CS 532, where I created a URI mapping file named uri\_mapping.txt. This file contains a dictionary that pairs the generated hash file names, which hold raw HTML content, with their corresponding URIs.
+
+\subsection*{Tools Used}
+I utilized MemGator to complete this task. For each URI, I queried MemGator within the query\_memgator() function in download\_timemaps.py using:
+\begin{lstlisting}[language=bash, numbers=none]
+~/MemGator/memgator -c 'ODU CS532 eland007@odu.edu' -a ~/MemGator/docs/archives.json -f JSON {uri}
+\end{lstlisting}
+
+\subsection*{Python Modules \& Libraries Used}
+\begin{itemize}
+    \item import subprocess
+    \begin{itemize}
+        \item This module assists with running external commands and interacting with the system shell.
+    \end{itemize}
+    \item import time
+    \begin{itemize}
+        \item This module assists with adding delays for pausing between requests.
+    \end{itemize}
+    \item import os
+    \begin{itemize}
+        \item This module assists with interacting with the file system.
+    \end{itemize}
+    \item import json
+    \begin{itemize}
+        \item This module assists with parsing and working with JSON data formats.
+    \end{itemize}
+    \item from urllib.parse import urlparse
+    \begin{itemize}
+        \item This function helps with parsing URLs into components.
+    \end{itemize}
+    \item from prettytable import PrettyTable
+    \begin{itemize}
+        \item This library helps with generating formatted tables in a readable format.
+    \end{itemize}
+    \item from collections import defaultdict
+    \begin{itemize}
+        \item This class is a dictionary-like container that provides values for non-existing keys.
+    \end{itemize}
+\end{itemize}
+
+
+\section*{Challenges and Considerations}
+\subsection*{Performance Issues}
+Gathering all the TimeMaps with MemGator through download\_timemaps.py took a considerable amount of time, probably roughly over 8 hours. There were over 500 URIs to analyze to gather all the necessary TimeMaps, and MemGator contacts many archives to find relevant mementos, therefore taking a considerable amount of time.
+
+\section*{Q1}
+There are three main files for this assignment: download\_timemaps.py, analyze\_mementos.py, and utils.py. For Q1, I used download\_timemaps.py, which defines two functions: query\_memgator() and download\_timemap(). The former queries MemGator for a TimeMap of a given URI and saves the result, or writes a blank file if no memento exists. The latter drives the TimeMap download process for all relevant URIs.
+
+In utils.py, the function load\_uri\_mapping() is used by both download\_timemaps.py and analyze\_mementos.py() to access uri\_mapping.txt, generated in Homework 2. This file contains URIs and their associated hashes, providing the necessary data for the assignment.
+
+\begin{lstlisting}[language=Python, caption=download\_timemaps.py, label=lst:download_timemaps]
+def query_memgator(uri, output_file):
+
+    command = f"~/MemGator/memgator -c 'ODU CS532 eland007@odu.edu' -a ~/MemGator/docs/archives.json -f JSON {uri}"
+    
+    try:
+        result = subprocess.run(command, shell=True, capture_output=True, text=True, timeout=180)
+
+        if result.returncode != 0:
+            print(f"Error querying MemGator for {uri}: {result.stderr}")
+        else:
+            if result.stdout:
+                print(f"TimeMap for {uri}: {result.stdout}")
+            else:
+                print(f"No TimeMap for {uri}.")
+
+            with open(output_file, 'w') as f:
+                f.write(result.stdout)
+    
+    except subprocess.TimeoutExpired:
+        print(f"Query for {uri} timed out after 180 seconds.")
+
+    time.sleep(10)
+
+def download_timemap(uri_mapping_file, output_dir):
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    uri_hash_map = load_uri_mapping(uri_mapping_file)
+
+    uri_count = 1
+
+    for hash_file, uri in uri_hash_map.items():
+        output_file = os.path.join(output_dir, f"{hash_file}.json")
+        query_memgator(uri, output_file)
+        uri_count += 1
+
+download_timemap("homework-2/uri_mapping.txt", "homework-3/timemaps")
+\end{lstlisting}
+
+\section*{Q2}
+
+To answer Q2, I performed four tasks: handling TimeMaps, counting mementos, processing domains, and displaying tables.
+
+First, the function load\_timemap() loads TimeMaps, and analyze\_timemaps() counts mementos across all TimeMaps in a directory.
+
+For memento counting, count\_mementos() counts mementos in a TimeMap, while count\_memento\_occurrences() tallies how often each memento appears, contributing to Table \ref{tbl:memento_distribution}. find\_top\_mementos() identifies URIs with the most mementos for Table \ref{tbl:top_uris}.
+
+For domain analysis, get\_core\_domain() extracts the core domain from a URI. count\_core\_domain\_frequencies() tracks domain frequencies based on memento counts, and find\_most\_frequent\_domains() identifies the most frequent domains based on memento counts.
+
+Finally, running analyze\_mementos.py generates three tables that display the memento analysis:
+
+\begin{table}[h]
+\centering
+\caption{Distribution of Mementos Across URI-Rs}
+\label{tbl:memento_distribution}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Mementos} & \textbf{URI-Rs} \\ \hline \hline
+0 & 298 \\ \hline
+3 & 232 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Top URI-Rs With the Most Mementos"}
+\label{tbl:top_uris}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{URI-Rs With The Most Mementos} & \textbf{Memento Count} \\ \hline \hline
+https://www.odu.edu/sci & 3 \\ \hline
+https://arxiv.org/abs/1905.12607 & 3 \\ \hline
+https://arxiv.org/abs/1905.03836 & 3 \\ \hline
+https://www.odu.edu/partnerships/community & 3 \\ \hline
+https://www.odu.edu/life/sports-recreation & 3 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Top Domains With the Most Mementos}
+\label{tbl:top_domains}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Domains With The Most Mementos} & \textbf{Memento Count} \\ \hline \hline
+www.odu.edu/sci & 102 \\ \hline
+news-un-org.translate.goog & 96 \\ \hline
+dblp.uni-trier.de & 84 \\ \hline
+arxiv.org & 57 \\ \hline
+www.daad-ukraine.org & 45 \\ \hline
+\end{tabular}
+\end{table}
+
+\textit{Q: What URI-Rs had the most mementos? Did that surprise you?}
+
+I was not able to obtain an accurate analysis at the URI-R level because out of the 530 analyzed URI-Rs, 232 of them had three mementos. Table \ref{tbl:top_uris} displays five URIs with a memento count of three. However, these URIs may represent the first ones encountered in the dataset with that memento count, which could lead to inaccuracies in analysis. Consequently, I decided to look at the domain level to determine which domains had the mementos created for them.
+
+The URI-Rs that were gathered from Homework 1 that have the most mementos belong to the domain \url{www.odu.edu}. I'm not surprised by this as Old Dominion University is a large, reputable public university known for its research. Additionally, it has a .edu top-level domain, which is often associated with educational institutions. 
+
+\clearpage
+
+\section*{References}
+
+\begin{itemize}
+    \item{Defaultdict in Python, \url{https://www.geeksforgeeks.org/defaultdict-in-python/}}
+    \item{JSON Python Library, \url{https://docs.python.org/3/library/json.html}}
+    \item{MemGator Documentation, \url{https://github.com/oduwsdl/MemGator}}
+    \item{Pretty Table Python Library, \url{https://pypi.org/project/prettytable/}}
+    \item{Python Urllib Module, \url{https://www.geeksforgeeks.org/python-urllib-module/}}
+    \item {Subprocess Python Library, \url{https://docs.python.org/3/library/subprocess.html}}
+    \item{time.sleep() in Python, \url{https://www.geeksforgeeks.org/sleep-in-python/}}
+\end{itemize}
+
+\end{document}
+
