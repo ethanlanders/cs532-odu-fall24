@@ -34,9 +34,9 @@ def analyze_timemaps(timemaps_dir):
         timemaps_dir (str): The directory path containing TimeMap files.
 
     Returns:
-        dict: A dictionary where the keys are filenames and values are memento counts.
+        dict: A dictionary where the keys are filenames and values are tuples (memento_count, earliest_datetime).
     """
-    memento_counts = {} # Dictionary to store the counts for each file.
+    analysis_results = {} # Dictionary to store the counts for each file.
 
     # Loop over all files in the directory.
     for filename in os.listdir(timemaps_dir):
@@ -47,9 +47,10 @@ def analyze_timemaps(timemaps_dir):
         
         # Only include TimeMaps with more than 0 mementos.
         if memento_count > 0:
-            memento_counts[filename] = memento_count
+            earliest_dt = extract_earliest_datetime(timemap)
+            analysis_results[filename] = (memento_count, earliest_dt)
 
-    return memento_counts # Return the filtered dictionary of memento counts.
+    return analysis_results # Return the filtered dictionary of memento counts.
 
 def count_mementos(timemap):
     """
@@ -66,13 +67,42 @@ def count_mementos(timemap):
         return 0    # Return 0 if no valid TimeMap.
     return len(timemap.get('mementos', [])) # Count the mementos in the 'mementos' list.
 
-def extract_earliest_datetime():
-    pass
+def extract_earliest_datetime(timemap):
+    if timemap is None or 'mementos' not in timemap:
+        return None
+    
+    first_memento = timemap.get('mementos', {}).get('first', None)
 
-def calculate_memento_age():
-    pass
+    if first_memento is not None and 'datetime' in first_memento:
+        return datetime.strptime(first_memento['datetime'], "%Y-%m-%dT%H:%M:%SZ")
+
+    return None
+
+def calculate_memento_age(earliest_datetime):
+    if earliest_datetime is None:
+        return None
+    
+    current_datetime = datetime.now()
+    age = current_datetime - earliest_datetime
+
+    return age.days
 
 if __name__ == "__main__":
     timemaps_dir = "homework-3/timemaps"
-    memento_counts = analyze_timemaps(timemaps_dir)
-    
+    analysis_results = analyze_timemaps(timemaps_dir)
+        
+    uri_memento_ages = []
+
+    # Print the results
+    for filename, (count, earliest_dt) in analysis_results.items():
+        memento_age = calculate_memento_age(earliest_dt)    
+        if memento_age is not None:
+            uri_memento_ages.append(memento_age)
+        print(f"File: {filename}, Memento Count: {count}, Earliest Datetime: {earliest_dt}, Memento Age: {memento_age} days")
+
+    plt.boxplot(uri_memento_ages)
+
+    plt.ylabel('Age in Days')
+    plt.title('Distribution of Memento Age Distribution Across URIs')
+
+    plt.show()
