@@ -1,7 +1,7 @@
 import os
 import json
 import matplotlib.pyplot as plt
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def load_timemap(filepath):
     """
@@ -111,18 +111,41 @@ if __name__ == "__main__":
     # Analyze all TimeMaps and obtain memento count and earliest datetime for each.
     analysis_results = analyze_timemaps(timemaps_dir)
 
-    # List to hold the calculated memento ages for plotting. 
-    uri_memento_ages = []
+    uri_memento_ages = []  # List to hold the calculated memento ages for plotting. 
+    oldest_memento_uri = None  # Variable to store URI of the oldest memento.
+    oldest_memento_date = None  # Variable to store the date of the oldest memento.
+
+    cutoff_date = datetime.now() - timedelta(weeks=1)
+    count_recent_mementos = 0
 
     # Print the results and store ages for plotting.
     for filename, (count, earliest_dt) in analysis_results.items():
+        timemap = load_timemap(os.path.join(timemaps_dir, filename))
+        original_uri = timemap.get('original_uri') if timemap else None  # Extract original URI.
+        
+        # print(f"[DEBUG] Processing {filename}: Original URI = {original_uri}, Earliest Datetime = {earliest_dt}")
+
         # Calculate the age of the earliest memento.
-        memento_age = calculate_memento_age(earliest_dt)    
+        memento_age = calculate_memento_age(earliest_dt)
         if memento_age is not None:
             uri_memento_ages.append(memento_age)  # Add age to list for plotting.
         
+        # Check if the earliest memento is within the last week
+        if earliest_dt is not None and earliest_dt >= cutoff_date:
+            count_recent_mementos += 1
+
+        # Update oldest memento URI and date if current memento is older.
+        if oldest_memento_date is None or (earliest_dt is not None and earliest_dt < oldest_memento_date):
+            print(f"[DEBUG] Found an older memento: {original_uri} on {earliest_dt}")
+            oldest_memento_date = earliest_dt
+            oldest_memento_uri = original_uri  # Store URI of the oldest memento.
+
         # Print details for each TimeMap file.
-        print(f"File: {filename}, Memento Count: {count}, Earliest Datetime: {earliest_dt}, Memento Age: {memento_age} days\n")
+        # print(f"File: {filename}, Memento Count: {count}, Earliest Datetime: {earliest_dt}, Memento Age: {memento_age} days\n")
+
+    print(f"URI with the oldest memento: {oldest_memento_uri}, Earliest Memento Date: {oldest_memento_date}")
+
+    print(f"Number of URI-Rs with an age of less than 1 week: {count_recent_mementos}")
 
     # Plot the distribution of memento ages as a boxplot.
     plt.boxplot(uri_memento_ages, vert=False)  # Horizontal boxplot for readability.
