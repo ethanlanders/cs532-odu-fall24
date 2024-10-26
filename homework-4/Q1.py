@@ -100,9 +100,8 @@ if __name__ == "__main__":
             uri_memento_ages.append(memento_age)
         print(f"File: {filename}, Memento Count: {count}, Earliest Datetime: {earliest_dt}, Memento Age: {memento_age} days")
 
-    plt.boxplot(uri_memento_ages)
-
-    plt.ylabel('Age in Days')
-    plt.title('Distribution of Memento Age Distribution Across URIs')
-
+    plt.boxplot(uri_memento_ages, vert=False)
+    plt.xlabel('Age of Mementos (Days)')
+    plt.yticks([]) # Remove x-axis tick
+    plt.title('Distribution of Memento Ages Across URIs')
     plt.show()
