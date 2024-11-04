@@ -5,6 +5,26 @@ import os
 # Create the Karate Club graph using NetworkX
 G = nx.karate_club_graph()
 
+def save_graph_snapshot(graph, pos, title, output_path, node_colors, node_size=500):
+    plt.figure(figsize=(10, 8))
+    pos = nx.spring_layout(graph)
+
+    # Draw nodes with predefined colors and black outlines
+    nx.draw_networkx_nodes(
+        graph, pos, node_color=node_colors,
+        node_size=node_size, edgecolors='black', linewidths=1
+    )
+
+    # Draw edges and labels
+    nx.draw_networkx_edges(graph, pos, edge_color='gray')
+    nx.draw_networkx_labels(graph, pos)
+
+    # Save the figure as the initial state
+    plt.title(title)
+    plt.axis('off')
+    plt.savefig(os.path.join(output_path))
+    plt.close()
+
 # Define colors and outline each faction
 def get_node_colors(graph):
     node_colors = []
@@ -15,31 +35,7 @@ def get_node_colors(graph):
             node_colors.append('white')  # Color for John's faction
     return node_colors
 
-# Function to save the initial graph before iterations
-def save_initial_graph(graph):
-    plt.figure(figsize=(10, 8))
-    pos = nx.kamada_kawai_layout(graph)
-
-    # Draw nodes with predefined colors and black outlines
-    nx.draw_networkx_nodes(
-        graph, pos, node_color=get_node_colors(graph),
-        node_size=500, edgecolors='black', linewidths=1
-    )
-
-    # Draw edges and labels
-    nx.draw_networkx_edges(graph, pos, edge_color='gray')
-    nx.draw_networkx_labels(graph, pos)
-
-    # Save the figure as the initial state
-    plt.title("Initial Karate Club Graph")
-    plt.axis('off')
-    plt.savefig(os.path.join("homework-5", "intial_karate_club_graph.png"))
-    plt.close()
-
 def girvan_newman_visualization(graph):
-    # Save the initial graph
-    save_initial_graph(graph)
-    
     # Make a copy of the graph to avoid modifying the original
     working_graph = graph.copy()
     iteration = 1
@@ -48,38 +44,36 @@ def girvan_newman_visualization(graph):
     output_dir = "homework-5/iterations"
     os.makedirs(output_dir, exist_ok=True)
 
-    while nx.number_connected_components(working_graph) == 1:
-        # Calculate edge betweenness centrality
-        edge_betweenness = nx.edge_betweenness_centrality(working_graph)
+    # Initial position and node colors
+    pos = nx.spring_layout(graph)
+    node_colors = get_node_colors(graph)
 
-        # Find the edge with the highest centrality and remove it
+    # Save the initial graph
+    save_graph_snapshot(
+        graph, pos, "Initial Karate Club Graph",
+        os.path.join("homework-5", "initial_karate_club_graph.png"),
+        node_colors
+    )
+
+    while nx.number_connected_components(working_graph) == 1:
+        # Calculate edge betweenness centrality and remove the highest edge
+        edge_betweenness = nx.edge_betweenness_centrality(working_graph)
         edge_to_remove = max(edge_betweenness, key=edge_betweenness.get)
         working_graph.remove_edge(*edge_to_remove)
 
-        # Draw the graph at each iteration
-        plt.figure(figsize=(10, 8))
-        pos = nx.kamada_kawai_layout(working_graph)
+        if nx.number_connected_components(working_graph) > 1:
+            break
 
-        # Draw nodes with predefined colors and black outlines
-        nx.draw_networkx_nodes(
-            working_graph, pos, node_color=get_node_colors(graph), 
-            node_size=500, edgecolors='black', linewidths=1
+        # Save snapshot for each iteration
+        save_graph_snapshot(
+            working_graph, pos, 
+            f"Iteration {iteration} of Girvan-Newman Algorithm",
+            os.path.join(output_dir, f"girvan_newman_iteration_{iteration}.png"),
+            node_colors
         )
 
-        # Draw edges and labels
-        nx.draw_networkx_edges(working_graph, pos, edge_color='gray')
-        nx.draw_networkx_labels(working_graph, pos)
-
-        # Title for each iteration
-        plt.title(f"Iteration {iteration} of Girvan-Newman Algorithm")
-        plt.axis('off')
-
-        # Save the figure as an image file
-        plt.savefig(os.path.join(output_dir, f"girvan_newman_iteration_{iteration}.png"))
-        # plt.show()
-
         # Increment iteration counter
-        iteration += 1
+        iteration += 1        
 
     # Return the final split components for analysis
     components = list(nx.connected_components(working_graph))
