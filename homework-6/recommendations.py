@@ -220,10 +220,10 @@ def getRecommendedItems(prefs, itemMatch, user):
     return rankings
 
 
-def loadMovieLens(path='/data/movielens'):
+def loadMovieLens(path='homework-6/ml-100k'):
   # Get movie titles
     movies = {}
-    for line in open(path + '/u.item'):
+    for line in open(path + '/u.item', encoding='ISO-8859-1'):
         (id, title) = line.split('|')[0:2]
         movies[id] = title
   # Load data
