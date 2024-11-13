@@ -120,6 +120,26 @@ def topMatches(
     scores.reverse()
     return scores[0:n]
 
+def find_least_most_correlated_users(
+    prefs,
+    person,
+    n=5,
+    similarity=sim_pearson,
+):
+    '''
+    Returns the best matches for person from the prefs dictionary. 
+    Number of results and similarity function are optional params.
+    '''
+
+    correlation_scores = [(similarity(prefs, person, other), other) for other in prefs
+              if other != person]
+    correlation_scores.sort(reverse=True)
+
+    most_correlated_users = correlation_scores[:n]
+    least_correlated_users = correlation_scores[-n:]
+
+    return most_correlated_users, least_correlated_users
+
 
 def getRecommendations(prefs, person, similarity=sim_pearson):
     '''
