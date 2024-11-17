@@ -7,7 +7,7 @@ from recommendations import loadMovieLens_v2, calculateSimilarItems
 movies, prefs = loadMovieLens_v2('ml-100k')
 
 # Define my favorite and least favorite movies by title
-favorite_movie = "Trainspotting (1996)"
+favorite_movie = "Aliens (1986)"
 least_favorite_movie = "Sleepless in Seattle (1993)"
 
 # Retrieve the ID of my favorite movie by searching through the movies dictionary
