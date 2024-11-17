@@ -240,21 +240,22 @@ def getRecommendedItems(prefs, itemMatch, user):
     return rankings
 
 
-# def loadMovieLens(path='homework-6/ml-100k'):
-#   # Get movie titles
-#     movies = {}
-#     for line in open(path + '/u.item', encoding='ISO-8859-1'):
-#         (id, title) = line.split('|')[0:2]
-#         movies[id] = title
-#   # Load data
-#     prefs = {}
-#     for line in open(path + '/u.data'):
-#         (user, movieid, rating, ts) = line.split('\t')
-#         prefs.setdefault(user, {})
-#         prefs[user][movies[movieid]] = float(rating)
-#     return prefs
-
 def loadMovieLens(path='homework-6/ml-100k'):
+  # Get movie titles
+    movies = {}
+    for line in open(path + '/u.item', encoding='ISO-8859-1'):
+        (id, title) = line.split('|')[0:2]
+        movies[id] = title
+  # Load data
+    prefs = {}
+    for line in open(path + '/u.data'):
+        (user, movieid, rating, ts) = line.split('\t')
+        prefs.setdefault(user, {})
+        prefs[user][movies[movieid]] = float(rating)
+    return prefs
+
+# Modified loadMovieLens() for Q4
+def loadMovieLens_v2(path='homework-6/ml-100k'):
   # Get movie titles
     movies = {}
     for line in open(path + '/u.item', encoding='ISO-8859-1'):
