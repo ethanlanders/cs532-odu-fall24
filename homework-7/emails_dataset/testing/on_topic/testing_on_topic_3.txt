@@ -1,0 +1,15 @@
+Everyone is welcome to join in-person or on Zoom for the end of semester presentations from two students who are taking Honors Research Courses CS492 and CS591. CS491/591 and CS492/592 are elective courses, ideal for students who conduct intensive research with faculty mentors. Come and join us to find out more about Honors Research in CS, an honors program for CS students. If you cannot make it and would like to view the video later, send me an email and I can provide the link. 
+Time & date: December 13 Wednesday, 2-3pm
+Location: CS conference room ECSB 3316 or Zoom 
+https://odu.zoom.us/j/95633850793?pwd=QkpuS3Q0WVFCMGwzU2N5OUthMC8yQT09
+
+Presenter:
+James  Owens, recipient of U-RISE scholarship
+Title: "Predictive Models for Cognitive Task Load Using Eye Movements.", Research mentor: Dr. Jayarathna
+
+Presenter: Kayla Pineda
+Title: "Human-Drone Interfaces: A Review", Research mentor: Dr. Jayarathna
+
+Jing He
+Professor, Coordinator of Honors Program in CS
+Department of Computer Science

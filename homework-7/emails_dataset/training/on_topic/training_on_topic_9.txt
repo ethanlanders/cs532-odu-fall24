@@ -1,0 +1,17 @@
+CS Colloquium
+Friday, November 15
+10:30am
+ECSB auditorium (1st floor)
+
+    Speaker:  Dr. Dushan Wadduwage
+                         Assistant Professor in Data Science and Computer Science ,
+                         Old Dominion University.
+              
+Title: Intricacies of image data of living systems: how to process them? How to acquire them?
+
+Abstract: Image data from life science experiments differ from typical computer vision data, yet computer vision algorithms are commonly applied across life sciences. In this talk, I’ll share how we identified a key distinction between these datasets and how this insight reshaped our approach to developing a new image-based diagnostic for antimicrobial resistance. I will then explain how our findings guided us in creating a general-purpose machine-learning framework tailored for hypothesis-driven experiments in life sciences. Finally, I’ll illustrate the synergy between our framework and modern computational microscopy techniques, using a real-world example examining DNA damage in mice caused by NDAM, a toxin found in industrial waste.
+Bio: Dr. Dushan Wadduwage is an Assistant Professor in Data Science and Computer Science at Old Dominion University. Previously, he was a John Harvard Distinguished Science Fellow at Harvard University, where he led a data-driven computational imaging group at the Center for Advanced Imaging. With expertise in biomedical optics, computer science, and electronic engineering, he develops computational imaging systems for biology and medicine by integrating optics and machine learning. Dr. Wadduwage earned his PhD from the National University of Singapore under the Singapore-MIT Alliance for Research and Technology (SMART) fellowship and completed postdoctoral training at MIT.
+Zoom Link: https://odu.zoom.us/j/93640168993?pwd=oAAFCS3q6N1PfLbFvW8XbKgr2uzkB0.1
+                    Passcode: 6881003909
+  
+Colloquium - Wadduwage.jpg

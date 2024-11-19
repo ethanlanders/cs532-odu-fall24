@@ -1,0 +1,153 @@
+
+ WaniKani Community	
+ 
+
+Since your last visit
+58	118
+New Topics	New Users
+Popular Topics
+Reading
+September 13
+🍁 Fall Equinox 24-hour Readathon (Sept. 21st)
+taiyousea	
+taiyousea
+
+topic image
+Hey, all! The 24-hour Readathon event has returned for autumn! If you’ve never participated, readathons are a fun way to finish any manga/novel/story/VN that you’ve been dragging your feet on, or to start one that you’ve been waiting for a good excuse to dive into.
+
+likes 549	replies 38	Read More
+ 
+Campfire
+September 11
+Classical Music Appreciation Thread 🎵
+soggyboy	
+soggyboy
+
+The last two threads were closed due to inactivity. Classical Music Appreciation (thread from 2017) and Just Another Classical Music Appreciation Thread (thread from 2020).
+
+likes 133	replies 25	Read More
+ 
+Book Clubs
+September 14
+ダンジョン飯１ 🍽 (IMC) - Week 1
+Jintor	
+Jintor
+
+topic image
+Intermediate Manga Club
+Home Thread
+
+docs.google.com
+ダンジョン飯 1 Book Club
+
+This Sheet is private
+
+likes 145	replies 31	Read More
+ 
+Campfire
+September 14
+When comparing languages and it just *chef's kiss*
+Jaimejo	
+Jaimejo
+
+For me, comparisons make all the difference in learning. If I’m learning something new and struggling on a certain point, it helps me a ton to have an example of something parallel that I am familiar with and do understand. Even if its just for perspective that what I’m trying to learn isn’t impossible.
+
+likes 59	replies 19	Read More
+ 
+Kanji
+September 14
+Things you love about learning kanji
+discopatrick	
+discopatrick
+
+I’ll go first.
+
+For example, you learn that “roll” is 転…
+
+Then you learn that “carry” is 運…
+
+Then you learn that “to drive” (a word you recognise from your beginner Japanese studies) is 運転する and it suddenly hits you as to WHY that word sounds the way it does. Up until this point it was just a series of sounds, u-n-te-n-su-ru, but now you realise it’s made of building blocks that mean something, and it all seems so beautifully elegant.
+
+likes 52	replies 14	Read More
+ 
+ 
+Popular Posts
+ 	
+With all due respect and genuinely trying to be constructive, you should fix whatever it is that’s performing so poorly in your database infrastructure instead of cutting down on features to keep the thing trudging along. Such a short login timeout is something I haven’t seen outside of banking and military websites.
+
+simias	
+simias
+
+New login timeout
+
+Read More
+ 
+I probably shouldn’t say anything now that things are calming down, but I have to get this off my chest: This round of poll was not fun at all. 21 people liked the nomination post of Silent Witch, which made me regard the nomination as well-received. It’s okay to say you’re not interested in particular books, but people dragging it in the mud calling it weeb and offputting was just plain rude, imo. I’ve seen “please vote for this book” posts, but not “please don’t vote for this book” posts before. Even in jest, that doesn’t exactly encourage me to participate in this book club, much less nominate more books. I even kind of regret it.
+
+Redglare	
+Redglare
+
+Intermediate Japanese Book Club // Now Reading: 変な家 // Next: 妊娠カレンダー
+
+Read More
+ 
+I agree. I’ve never heard of such a short session timeout before (outside of banking and healthcare) and can’t imagine how this would even fix any performance issues. Honestly, to me the only correct session timeout period for a non-sensitive website is never. Sure, reauthenticate on sensitive pages like purchases and profile changes, but there’s no reason to ever log people out completely.
+
+seanblue	
+seanblue
+
+New login timeout
+
+Read More
+ 
+This must be the strangest solution to performance issues. Forcing users to log in more often increases workload for server, not the other way around. Also I am guessing the server is somehow caching data and sorting it manually instead of relying on optimized data processing engines like an actual database. If this is the case, please hire someone who actually know how these things work and how to use them.
+
+Angelodmage	
+Angelodmage
+
+New login timeout
+
+Read More
+ 
+Alright, decision time!
+
+Looking at the first scenario, 妊娠カレンダー is now 3 votes ahead of サイレント・ウィッチ, so that seems pretty clear to me.
+Regarding who would read along with the respective club, we get 21 votes for 妊娠カレンダー and 20 votes for サイレント・ウィッチ, which is also a very good result.
+
+NicoleIsEnough	
+NicoleIsEnough
+
+Intermediate Japanese Book Club // Now Reading: 変な家 // Next: 妊娠カレンダー
+
+Read More
+ 
+ 
+New for you
+ 	
+カードキャプターさくら・Card Captor Sakura Book Club 🌸 Week 2
+Book Clubs
+
+likes260	replies51
+ 
+New login timeout
+Announcements
+
+likes669	replies68
+ 
+Checking interest in 嵐のピクニック
+Book Clubs
+
+likes86	replies15
+ 
+変な家 🏠 🔍 (IBC)・Week 7
+Book Clubs
+
+likes87	replies15
+ 
+Japenese Music~! ♫☆★♪
+Listening
+
+likes33	replies26
+ 
+ 
+This summary is sent from WaniKani Community when we haven't seen you in a while. Change your email settings, or click here to unsubscribe.	
