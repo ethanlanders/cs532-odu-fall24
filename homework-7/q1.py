@@ -15,8 +15,12 @@ def generate_files(base_folder, dataset_types, categories, count_per_category):
             count = count_per_category[dataset_type]
             for i in range(1, count + 1):
                 file_path = os.path.join(category_folder, f"{dataset_type}_{category}_{i}.txt")
-                with open(file_path, 'w') as f:
-                    f.write("")  # Create an empty file
+                if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+                    print(f"File '{file_path} already exists and is not empty. Skipping.")
+                else:
+                    with open(file_path, 'w') as f:
+                        f.write("")  # Create an empty file
+                    print(f"Created file: {file_path}")
 
 # Specify parameters
 base_folder = "emails_dataset"
@@ -26,4 +30,4 @@ count_per_category = {"training": 20, "testing": 5}
 
 # Generate the files
 generate_files(base_folder, dataset_types, categories, count_per_category)
-print(f"Generated dataset files in {base_folder}/")
+print(f"Dataset files processed in {base_folder}/")
