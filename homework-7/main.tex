@@ -1,0 +1,184 @@
+\documentclass[12pt]{article}
+\usepackage{times} 			% use Times New Roman font
+
+\usepackage[margin=1in]{geometry}   % sets 1 inch margins on all sides
+\usepackage[hidelinks]{hyperref}               % for URL formatting
+\usepackage[pdftex]{graphicx}       % So includegraphics will work
+\setlength{\parskip}{1em}           % skip 1em between paragraphs
+\setlength{\parindent}{0pt} % Set paragraph indentation to zero
+\usepackage{datetime}
+\usepackage[small, bf]{caption}
+\usepackage{listings}               % for code listings
+\usepackage{xcolor}                 % for styling code
+\usepackage{multirow}
+\usepackage{subcaption}     % for subfigures
+
+%\setlength\intextsep{1.69cm} 
+
+%New colors defined below
+\definecolor{backcolour}{RGB}{246, 246, 246}   % 0xF6, 0xF6, 0xF6
+\definecolor{codegreen}{RGB}{16, 124, 2}       % 0x10, 0x7C, 0x02
+\definecolor{codepurple}{RGB}{170, 0, 217}     % 0xAA, 0x00, 0xD9
+\definecolor{codered}{RGB}{154, 0, 18}         % 0x9A, 0x00, 0x12
+
+%Code listing style named "gcolabstyle" - matches Google Colab
+\lstdefinestyle{gcolabstyle}{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{backcolour},   
+  commentstyle=\itshape\color{codegreen},
+  keywordstyle=\color{codepurple},
+  stringstyle=\color{codered},
+  numberstyle=\ttfamily\footnotesize\color{darkgray}, 
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2
+}
+
+\lstset{style=gcolabstyle}      %set gcolabstyle code listing
+
+% to make long URIs break nicely
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+
+% for fancy page headings
+\usepackage{fancyhdr}
+\setlength{\headheight}{13.6pt} % to remove fancyhdr warning
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small \thepage}
+\chead{\small CS 532, Fall 2024} 
+\lhead{\small HW\#7, Landers}  % EDIT THIS, REPLACE # with HW number
+
+%------------------- Title -------------------%
+
+\begin{document}
+
+% EDIT THE ITEMS HERE
+\begin{centering}
+{\large\textbf{HW\#7 - Email Classification}}\\ 
+Ethan Landers\\
+Due: Sunday, November 24, 2024 by 11:59 PM\\
+\end{centering}
+
+%--------------------- Q1 ---------------------%
+
+% The * after \section just says to not number the sections
+\section*{Q1}
+
+\emph{Q: What topic did you decide to classify on?}
+
+I decided to classify my emails on whether they were from Old Dominion University (on-topic) or not (off-topic).
+
+To create the dataset, I wrote a script called q1.py that generated the necessary folder structure and blank files for organizing the email content. The base folder, \emph{emails\_dataset}, contains two sub folders: \emph{testing} and \emph{on\_topic}. These sub folders are further divided into \emph{off\_topic} and \emph{on\_topic} categories.
+
+For the \emph{training} dataset, I generated 20 blank files for each category (\emph{on\_topic} and \emph{off\_topic}), and for the \emph{testing} dataset, I generated five blank files for each category. I used a consistent naming scheme to ensure clarity and easy identification of each file based on its dataset type and category. Below is an excerpt of the code showing how the file paths were structured:
+
+\begin{verbatim}
+...
+
+file_path = os.path.join(category_folder, 
+f"{dataset_type}_{category}_{i}.txt")
+
+...
+
+base_folder = "emails_dataset"
+dataset_types = ["training", "testing"]
+categories = ["on_topic", "off_topic"]
+
+\end{verbatim}
+
+This organization allowed me to systematically populate the files with the content of my emails, ensuring a balanced and well-structured dataset for classification.
+
+%--------------------- Q2 ---------------------%
+
+\section*{Q2}
+
+The goal of Q2 was to classify emails as "on\_topic" or "off\_topic" using a Naive Bayes classifier. To achieve this, I implemented a script, q2.py, which performs training, testing, and evaluation of the classifier.
+
+This implementation is based on code provided in the Google Colab notebook for this assignment, which can be found \href{https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch06.ipynb}{here}. Specifically, the notebook provided the foundational functions for feature extraction and probability calculations.
+
+One key component of the classifier is the getwords() function, adapted from the notebook. This function processes the text of each email by:
+\begin{itemize}
+    \item Splitting it into words.
+    \item Filtering out words that are too short or long.
+    \item Creating a dictionary of unique words from the email.
+\end{itemize}
+
+This dictionary serves as the set of features for each email, forming the input of the Naive Bayes classifier.
+
+I defined two key functions, test\_classifier() and train\_classifier(), which are not part of the original notebook. Each take three parameters: the Naive Bayes classifier, the folder containing the relevant dataset, and the category being trained or tested.
+\begin{itemize}
+    \item The training function reads emails from the training dataset and passes their text to the classifier's train() method along with the corresponding category.
+    \item The testing function reads emails from the testing dataset, predicts their category using the classifier, and compares the predictions with the actual labels. It stores the results, indicating whether each prediction was correct.
+\end{itemize} 
+
+\emph{Q: For those emails that the classifier got wrong, what factors might have caused the classifier to be incorrect? You will need to look at the text of the email to determine this.}
+
+The classifier performed perfectly on the testing dataset, correctly classifying all emails as either as "on\_topic" or "off\_topic." The results were printed in the terminal and saved to the CSV file named "classification\_results.csv." Below are the results of the classifier:
+
+\begin{verbatim}
+                 File Name     Actual  Predicted  Correct
+0   testing_on_topic_4.txt   on_topic   on_topic     True
+1   testing_on_topic_5.txt   on_topic   on_topic     True
+2   testing_on_topic_1.txt   on_topic   on_topic     True
+3   testing_on_topic_2.txt   on_topic   on_topic     True
+4   testing_on_topic_3.txt   on_topic   on_topic     True
+5  testing_off_topic_2.txt  off_topic  off_topic     True
+6  testing_off_topic_3.txt  off_topic  off_topic     True
+7  testing_off_topic_1.txt  off_topic  off_topic     True
+8  testing_off_topic_4.txt  off_topic  off_topic     True
+9  testing_off_topic_5.txt  off_topic  off_topic     True
+\end{verbatim}
+
+
+%--------------------- Q3 ---------------------%
+
+\section*{Q3}
+
+\begin{table}[h]
+\centering
+\caption{Classification Results Confusion Matrix}
+\begin{tabular}{l|l|c|c|}
+\multicolumn{2}{c}{}&\multicolumn{2}{c}{Actual}\\
+\cline{3-4}
+\multicolumn{2}{c|}{}&on\_topic&off\_topic\\
+\cline{2-4}
+\multirow{2}{*}{Predicted}& on\_topic & 5 (TP) & 0 (FP)\\
+\cline{2-4}
+& off\_topic & 0 (FN) & 5 (TN) \\
+\cline{2-4}
+\end{tabular}
+\end{table}
+
+\emph{Q: Based on the results in the confusion matrix, how well did the classifier perform?}
+
+Based on the results in the confusion matrix, the classifier performed perfectly, achieving 100\% accuracy. All 10 test emails were classified correctly, with no false positives or false negatives. This indicates that the model effectively distinguished between "on\_topic" and "off\_topic" emails within the test dataset.
+
+\emph{Q: Would you prefer an email classifier to have more false positives or more false negatives? Why?}
+
+The choice between tolerating more false positives or false negatives depends on a variety of factors:
+\begin{itemize}
+    \item \textbf{False Positives:} If the classifier produces more false positives, it means that irrelevant emails (off\_topic) are mistakenly categorized as relevant (on\_topic). This could lead to wasted time reviewing off-topic emails but ensures that all relevant emails are identified.
+    \item \textbf{False Negatives:} If the classifier produces more false negatives, it means that some relevant emails (on\_topic) are mistakenly categorized as irrelevant (off\_topic). This risks missing important messages, which could be problematic if critical information is lost.
+\end{itemize}
+
+For most email classification tasks, minimizing false negatives would often be preferred. Missing a critical email (false negative) has more serious implications than having to sort through a few off-topic ones (false positive).
+
+%----------------- References -----------------%
+
+\section*{References}
+
+\begin{itemize}
+    \item {Document Filtering, \url{https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch06.ipynb}}
+    \item {Module-12 Document-Filtering, \url{https://docs.google.com/presentation/d/1OpfBDl2YEE7AONVeKUyHA-J7a1mRjncD7cen8F6BG1A/edit#slide=id.g7f83ebe645_0_15}}
+\end{itemize}
+
+\end{document}
