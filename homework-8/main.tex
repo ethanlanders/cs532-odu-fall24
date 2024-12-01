@@ -1,0 +1,588 @@
+\documentclass[12pt]{article}
+\usepackage{times} 			% use Times New Roman font
+
+\usepackage[margin=1in]{geometry}   % sets 1 inch margins on all sides
+\usepackage[hidelinks]{hyperref}               % for URL formatting
+\usepackage[pdftex]{graphicx}       % So includegraphics will work
+\setlength{\parskip}{1em}           % skip 1em between paragraphs
+\setlength{\parindent}{0pt} % Set paragraph indentation to zero
+\usepackage{datetime}
+\usepackage[small, bf]{caption}
+\usepackage{listings}               % for code listings
+\usepackage{xcolor}                 % for styling code
+\usepackage{multirow}
+\usepackage{subcaption}     % for subfigures
+
+%\setlength\intextsep{1.69cm} 
+
+%New colors defined below
+\definecolor{backcolour}{RGB}{246, 246, 246}   % 0xF6, 0xF6, 0xF6
+\definecolor{codegreen}{RGB}{16, 124, 2}       % 0x10, 0x7C, 0x02
+\definecolor{codepurple}{RGB}{170, 0, 217}     % 0xAA, 0x00, 0xD9
+\definecolor{codered}{RGB}{154, 0, 18}         % 0x9A, 0x00, 0x12
+
+%Code listing style named "gcolabstyle" - matches Google Colab
+\lstdefinestyle{gcolabstyle}{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{backcolour},   
+  commentstyle=\itshape\color{codegreen},
+  keywordstyle=\color{codepurple},
+  stringstyle=\color{codered},
+  numberstyle=\ttfamily\footnotesize\color{darkgray}, 
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2
+}
+
+\lstset{style=gcolabstyle}      %set gcolabstyle code listing
+
+% to make long URIs break nicely
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+
+% for fancy page headings
+\usepackage{fancyhdr}
+\setlength{\headheight}{13.6pt} % to remove fancyhdr warning
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small \thepage}
+\chead{\small CS 532, Fall 2024} 
+\lhead{\small HW\#8, Landers}  % EDIT THIS, REPLACE # with HW number
+
+%------------------- Title -------------------%
+
+\begin{document}
+
+% EDIT THE ITEMS HERE
+\begin{centering}
+{\large\textbf{HW\#8 - Exploring LLMs}}\\ 
+Ethan Landers\\
+Due: Monday, December 2, 2024 by 11:59 PM\\
+\end{centering}
+
+%--------------------- Q1 ---------------------%
+
+\section*{Q1}
+
+\begin{enumerate}
+    
+    \item I generated the words "restaurant" (Figure \ref{fig:restaurant}) and "president" (Figure \ref{fig:president}) through the Random Word Generator. Then, I plugged those words into \url{http://vectors.nlpl.eu/explore/embeddings/en/misc/}computed a cosine similarity value of 0.167 (Figure \ref{fig:cos-sim-1}). Then I interchanged the word "president" with "food", and the cosine similarity value was computed as 0.440 (Figure \ref{fig:cos-sim-2}).
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-1-1.png}
+        \caption{Random Word Generator - Restaurant}
+        \label{fig:restaurant}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-1-2.png}
+        \caption{Random Word Generator - President}
+        \label{fig:president}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-1-3.png}
+        \caption{Cosine Similarity Value Between "Restaurant" and "President"}
+        \label{fig:cos-sim-1}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-1-4.png}
+        \caption{Cosine Similarity Value Between "Restaurant" and "Food"}
+        \label{fig:cos-sim-2}
+    \end{figure}
+    
+    \item I generated the noun "tongue" through the Random Word Generator (Figure \ref{fig:tongue}). See Figure \ref{fig:semantic-associates}, I plugged the word into \url{http://vectors.nlpl.eu/explore/embeddings/en/similar/} and found that the ten most semantic associated words related to "tongue" were:
+    \begin{itemize}
+        \item tongue (adj), 0.71
+        \item tongue (propn), 0.60
+        \item cheek (noun), 0.58
+        \item lip (noun), 0.55
+        \item throat (noun), 0.52
+        \item eyelid (noun), 0,51
+        \item forehead (noun), 0.51
+        \item tooth (noun), 0.51
+        \item belly (noun), 0.50
+        \item finger (noun), 0.50
+    \end{itemize}
+    I found that for the top semantic associate word "tongue (adj)," the generated noun "tongue (noun)" was not in the list of most semantic-associated words (Figure \ref{fig:cross-reference}.
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-2-1.png}
+        \caption{Random Word Generator - "Tongue"}
+        \label{fig:tongue}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-2-2.png}
+        \caption{Semantic Associates of "Tongue"}
+        \label{fig:semantic-associates}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-2-3.png}
+        \caption{Cross Reference}
+        \label{fig:cross-reference}
+    \end{figure}
+
+    \item I generated the random word "client" using the Random Word Generator (see Figure \ref{fig:rwg-3}). I then determined the top ten semantic associates of "client" (Figure \ref{fig:semantic-associates-client}). See Figure \ref{fig:force-directed-diagram} for the force directed diagram for the word generated by \url{http://vectors.nlpl.eu/explore/embeddings/en/similar/}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-3-1.png}
+        \caption{Random Word Generator - "Client"}
+        \label{fig:rwg-3}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-3-2.png}
+        \caption{Semantic Associates of "Client"}
+        \label{fig:semantic-associates-client}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Q1-3-3.png}
+        \caption{Force-Directed Diagram}
+        \label{fig:force-directed-diagram}
+    \end{figure}
+    
+\end{enumerate}
+
+%--------------------- Q2 ---------------------%
+
+\section*{Q2}
+
+I found a news article from tech.co demonstrating forty unique ChatGPT prompts. 
+
+Below are five prompts from the article that I tested using ChatGPT:
+
+\begin{enumerate}
+    
+    % #1
+    \item \emph{I would like to learn about [topic/subject]. Please provide me with a brief summary of [topic/subject] that could be understood by a 10-year-old.}
+    
+    \begin{itemize}
+        
+        \item \textbf{My Personal Prompt:}
+
+        I would like to learn about \emph{astrology}. Please provide me with a brief summary of \emph{astrology} that could be understood by a 10-year-old.
+        
+        \item \textbf{AI Response:}
+        
+        Astronomy is the science that studies everything beyond Earth. This includes the Sun, the Moon, stars, planets, and other objects in space like asteroids, comets, and galaxies. It's like exploring the biggest, most amazing space playground you can imagine!
+
+        Astronomers use telescopes and special tools to look at the sky and learn about these objects. They study how stars are born, how they live, and how they die. They also explore how planets move and what they are made of.
+
+        The Sun, which is a star, is the closest one to Earth and gives us light and warmth. The Moon orbits around Earth and makes the tides in the oceans. There are billions of stars in our galaxy, called the Milky Way, and there are many more galaxies out there in the universe.
+
+        Astronomy helps us understand the universe, how it started, and how it works. It’s like solving the greatest mystery of all time!
+        m
+    \end{itemize}
+
+    % #2
+    \item \emph{I would like you to create an agenda for my meeting about [meeting subject]. In the meeting, I would like to discuss [list of things that need to be discussed]. I’d like it to be set out so the meeting runs smoothly. The scheduled meeting duration is [specified time].}
+
+    \begin{itemize}
+        
+        \item \textbf{My Personal Prompt:}
+
+        \item \emph{I would like you to create an agenda for my meeting about \emph{my tech nonprofit}. In the meeting, I would like to discuss \emph{fundraising, community engagement, and procedural changes}. I’d like it to be set out so the meeting runs smoothly. The scheduled meeting duration is \emph{one hour}.}
+
+        \item \textbf{AI Response:}
+
+        \begin{verbatim}
+# Tech Nonprofit Meeting Agenda
+
+**Date:** [Insert Date]  
+**Time:** [Insert Time]  
+**Duration:** 1 Hour  
+**Location:** [Insert Location or Link]  
+**Facilitator:** [Insert Name]
+
+## Agenda Overview (5 minutes)  
+- Welcome and objectives:
+  1. Fundraising.
+  2. Community engagement.  
+  3. Procedural changes.
+
+## Fundraising (15 minutes)  
+- Current progress and opportunities.  
+- Donor outreach and budgeting.  
+- Assign next steps.
+
+## Community Engagement (10 minutes)  
+- Current involvement and ideas for improvement.  
+- Discuss partnerships and visibility.  
+- Assign leads for initiatives.
+
+## Procedural Changes (10 minutes)  
+- Summary of changes and benefits.  
+- Team feedback and implementation plan.  
+- Assign responsibilities.
+
+## Wrap-Up (5 minutes)  
+- Recap action items and set deadlines.  
+- Confirm next meeting date.  
+- Thank attendees.
+
+**Adjourn**
+        \end{verbatim}
+    \end{itemize}
+
+    % #3
+    \item \emph{Generate some engaging ideas for social media posts about [product/service].}
+
+    \begin{itemize}
+       
+        \item \textbf{My Personal Prompt:}
+        
+        Generate some engaging ideas for social media posts about \emph{sweaters for dogs}.
+
+        \item \textbf{AI Response:}   
+
+Here are some engaging and creative social media post ideas to promote dog sweaters:
+
+---
+
+### 1. **Cuteness Overload: Share Adorable Dog Photos**
+   **Caption:**  
+   *"Keep your pup cozy and stylish this season! ��❄️ Check out Max rocking his favorite sweater. What color would your dog wear?"*  
+   **Visual:**  
+   High-quality image or carousel of dogs in colorful, cozy sweaters.
+
+---
+
+### 2. **Polls and Engagement**
+   **Caption:**  
+   *"Which sweater style suits your furry friend best? Vote below! �� ��"*  
+   **Visual:**  
+   Split photo or poll with options like “Classic Knit,” “Holiday Fun,” “Bold Patterns.”
+
+---
+
+### 3. **Behind-the-Scenes Production**
+   **Caption:**  
+   *"Ever wonder how we design the perfect sweater for your furry BFF? Peek behind the scenes as we knit our love into every thread. ����"*  
+   **Visual:**  
+   Time-lapse video of sweater production or sketches.
+
+---
+
+### 4. **Doggy Fashion Show**
+   **Caption:**  
+   *"✨ Runway ready! Meet our #SweaterSquad models showing off this season’s coziest looks. Share your pup’s photos with #PawfectSweaters for a chance to be featured!"*  
+   **Visual:**  
+   A short video or slideshow of dogs strutting in sweaters.
+
+---
+
+### 5. **Seasonal Tie-In**
+   **Caption:**  
+   *"The weather outside is frightful, but your pup will feel delightful! ��❤️ Bundle up with our warmest sweaters this winter."*  
+   **Visual:**  
+   A playful video of a dog putting on a sweater while snow falls.
+
+---
+
+### 6. **Customer Spotlight**
+   **Caption:**  
+   *"Meet Charlie, our cozy customer of the week! �� Charlie loves his sweater because it keeps him warm on his winter walks. Share your pup’s story and tag us to be featured!"*  
+   **Visual:**  
+   A happy customer’s photo and their short testimonial.
+
+---
+
+### 7. **Tips and Tricks**
+   **Caption:**  
+   *"Pro tip for sweater season: How to measure your pup for the perfect fit! ��✨ Swipe to learn more."*  
+   **Visual:**  
+   An instructional carousel showing how to size a dog sweater.
+
+---
+
+### 8. **Special Offers**
+   **Caption:**  
+   *"Who’s ready for sweater weather? �� Get your dog winter-ready and save 15% this weekend only! Use code PAWS15. ��️"*  
+   **Visual:**  
+   Cozy-looking banner with a dog in a sweater next to promo details.
+
+---
+
+### 9. **Holiday Cheer**
+   **Caption:**  
+   *"Santa’s little helper never looked so adorable! ���� Dress your pup in holiday spirit with our festive collection."*  
+   **Visual:**  
+   A dog in a holiday-themed sweater near decorations or a tree.
+
+---
+
+### 10. **Fun Facts**
+   **Caption:**  
+   *"Did you know? Small and short-haired dogs feel the cold more than others! Keep them comfy and safe this winter with our snug sweaters. ❄️❤️"*  
+   **Visual:**  
+   A short infographic or cute animated GIF.
+
+---
+
+Let me know if you would like a specific tone or style for any of these ideas!
+        
+    \end{itemize}
+
+    % #4
+    \item \emph{Come up with some video suggestions to promote [company/product] that I can post on TikTok.}
+
+    \begin{itemize}
+        \item \textbf{My Personal Prompt:}
+
+        Come up with some video suggestions to promote \emph{dog sweaters} that I can post on TikTok.
+
+        \item \textbf{AI Response:}
+
+Here are creative TikTok video ideas to promote dog sweaters that can engage viewers:
+
+---
+
+### 1. **Dog Sweater Transformation**  
+   **Concept:** Show a before-and-after transformation.  
+   **Script:** Start with a shivering dog looking cold, and then cut to the same dog looking cozy and confident in its new sweater.  
+   **Caption:** *\"From shivers to style—sweater weather has never looked cuter! ��❄️\"*  
+   **Audio:** Trendy music with a dramatic beat drop for the transformation.
+
+---
+
+### 2. **“Pup Fashion Show”**  
+   **Concept:** Create a mini-runway show.  
+   **Script:** Show different dogs walking or prancing in various sweaters. Add captions describing the \"look,\" such as \"Cozy Chic\" or \"Snowflake Style.\"  
+   **Caption:** *\"Who wore it best? ��✨ #DoggyRunway\"*  
+   **Audio:** Upbeat music or a remix of a classic fashion show tune.
+
+---
+
+### 3. **POV: Your Dog in Their Sweater**  
+   **Concept:** Create a \"Point of View\" video from the dog’s perspective.  
+   **Script:** POV: The moment your human buys you the coziest sweater, and now you are the star of the park. Show wagging tails and playful struts.  
+   **Caption:** *\"Life is better in a sweater. ��\"*  
+   **Audio:** A trending sound or \"Stayin' Alive\" by Bee Gees for a sassy vibe.
+
+---
+
+### 4. **How to Measure Your Dog for a Sweater**  
+   **Concept:** Provide a quick, helpful tutorial.  
+   **Script:** Step-by-step instructions showing how to size a dog for a sweater, featuring a well-behaved pup.  
+   **Caption:** *\"Make sure it’s the perfect fit! ��✨ #DogSweaterTips\"*  
+   **Audio:** Calm and instructional background music.
+
+---
+
+### 5. **Dog Sweater “Unboxing”**  
+   **Concept:** Showcase excitement for receiving a new sweater.  
+   **Script:** Unbox a package with the dog’s sweater, then cut to the dog trying it on and looking thrilled.  
+   **Caption:** *\"The moment they know they’ll be warm AND stylish. ����\"*  
+   **Audio:** Trendy unboxing soundtracks or \"Can’t Stop the Feeling!\" by Justin Timberlake.
+
+---
+
+### 6. **Cold vs. Cozy Challenge**  
+   **Concept:** Highlight the benefits of sweaters.  
+   **Script:** Show dogs outside in the cold without a sweater, followed by them looking warm and comfy wearing one. Use text overlays like \"Cold Dog Problems\" and \"Cozy Dog Solutions.\"  
+   **Caption:** *\"Say goodbye to chilly walks! #DogSweaterGoals\"*  
+   **Audio:** Dramatic \"before\" sound turning into cheerful music.
+
+---
+
+### 7. **Holiday Sweater Showcase**  
+   **Concept:** Spotlight festive holiday sweaters.  
+   **Script:** Dogs wearing Christmas- or winter-themed sweaters, surrounded by holiday decorations. Add playful text like, \"Santa’s Favorite Helper!\"  
+   **Caption:** *\"Holiday spirit starts with the perfect sweater. ����\"*  
+   **Audio:** Popular holiday tunes like \"Jingle Bell Rock.\"
+
+---
+
+### 8. **Doggy Dance Party**  
+   **Concept:** Dogs in sweaters dancing to a TikTok trend.  
+   **Script:** Capture clips of dogs hopping, spinning, or wagging in their sweaters, syncing the movements to trending dances.  
+   **Caption:** *\"When the sweater is this good, you gotta dance! ����\"*  
+   **Audio:** Use a current viral TikTok sound.
+
+---
+
+### 9. **Why Dogs Love Our Sweaters**  
+   **Concept:** Highlight benefits from a dog’s \"perspective.\"  
+   **Script:** Add playful text like, \"Keeps me warm. Gets me compliments. 10/10.\" Pair with cute clips of dogs enjoying their sweaters.  
+   **Caption:** *\"Your pup deserves the best! ����\"*  
+   **Audio:** A lighthearted or funny sound effect.
+
+---
+
+### 10. **Sweater Giveaway or Challenge**  
+   **Concept:** Encourage user participation.  
+   **Script:** Announce a contest where viewers can win a sweater for their dog by posting their cutest pet photo or video.  
+   **Caption:** *\"Want your pup to rock one of these? Enter our giveaway! ����\"*  
+   **Audio:** Exciting or celebratory music.
+
+---
+
+Would you like a script or storyboard for any of these ideas?
+        
+    \end{itemize}
+
+    % #5
+    \item \emph{Produce five enticing Google Ad headlines about [product] that will drive clicks to [website].}
+
+    \begin{itemize}
+        \item \textbf{My Personal Prompt:}
+
+        Produce five enticing Google Ad headlines about \emph{my photography services} that will drive clicks to \emph{my photography portfolio website}.
+        
+        \item \textbf{AI Response:}
+
+        Here are five compelling Google Ad headlines to promote your photography services and drive traffic to your portfolio:
+
+        “Capture Your Best Moments—View My Stunning Photography Portfolio!”
+        
+        “Professional Photography Tailored for You—Book Now!”
+        
+        “See the Art of Photography—Explore My Portfolio Today!”
+        
+        “Bring Your Vision to Life—Exceptional Photography Services”
+        
+        “Timeless Photos for Every Occasion—Visit My Portfolio Now!”
+
+        Let me know if you would like help refining them further or aligning them to a specific style or audience!
+        
+    \end{itemize}
+    
+\end{enumerate}
+
+\href{https://chatgpt.com/share/674bc4a1-1b88-8010-bccf-b5922594932e}{Click here} to access my ChatGPT thread for this question.
+
+%--------------------- Q3 ---------------------%
+
+\section*{Q3}
+
+I asked ChatGPT to explain Multidimensional Scaling in Clustering for me as I found it a bit complex. ChatGPT was helpful in understanding the high level purpose of Multidimensional Scaling but failed at explaining the concept technically. 
+
+For example, here is the high-level view of Multidimensional Scaling that it provided:
+
+"Multidimensional Scaling is a method used to visualize how similar or different objects are. It takes data that measures the distances or dissimilarities between items (e.g., how far apart they are based on some characteristics) and places these items in a low-dimensional space, like a 2D or 3D graph."
+
+I found this easy to understand, clarifying my understanding of the topic.
+
+However, the main problem was that it tried to explain Multidimensional Scaling step-by-step by first starting with explaining with a table of pairwise distances between items. It provided the following: A 0 2 3 B 2 0 4 C 3 4 0. ChatGPT then stated: "This table says that items A and B are 2 units apart, A and C are 3 units apart, and so on." The logic does not make sense, and the explanation makes learning the concept almost more difficult. 
+
+I then followed up asking for clarification, and ChatGPT did not directly answer my question. It proceeded to technically explain dissimilarity matrices, but the follow-up explanation discussed information that was not even mentioned in the original explanation. 
+
+I ended up being more confused after asking for clarification. For me, it feels like untrustworthy information.
+
+\href{https://chatgpt.com/share/674c7a1f-8b54-8010-8ccb-1ee336c79273}{Click here} to access my ChatGPT thread for this question.
+
+%--------------------- Q4 ---------------------%
+
+\section*{Q4}
+
+I chose Michele Weigle, Steven Zeil, and Michael Nelson for this question.
+
+Below are my prompts, ChatGPT's responses, and whether the generated papers exist.
+
+\begin{enumerate}
+    % #1
+    \item Michele Weigle
+    \begin{itemize}
+        \item \textbf{My Personal Prompt:}
+
+        Describe the research of Michele Weigle from Old Dominion University and provide 2 of her best known papers.
+        
+        \item \textbf{ChatGPT's Response:}
+
+        Michele Weigle is a professor of Computer Science at Old Dominion University. Her research focuses on web archiving, digital preservation, and information visualization. She has contributed significantly to developing tools and methodologies for analyzing and managing archived web content, including leveraging the Memento protocol for accessing archived web pages. She also explores areas such as the impact of robots in web archives and how social media metadata influences web archiving practices.
+        
+        Two of her well-regarded papers include:
+        
+        1. **"Where Did the Web Archive Go?"** This paper investigates the challenges and methodologies for detecting and managing missing web resources in web archives. It earned the Best Research Paper Award at the Theory and Practice of Digital Libraries Conference (TPDL) in 2021. \emph{(hyperlink to: Michele C. Weigle @ ODU)}
+        
+        2. **"Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives"** This paper introduces a search interface to improve the discovery of changes in archived web pages. It won the Best Student Paper Award at the ACM/IEEE Joint Conference on Digital Libraries (JCDL) in 2023. \emph{(hyperlink to: Michele C. Weigle @ ODU)}
+        
+        For more details on her research, you can visit her [Old Dominion University profile](https://www.cs.odu.edu/~weigle) or her [publications page](https://weiglemc.github.io/).
+        
+        \item \textbf{Do the generated papers exist?}
+
+        Yes, they do. When I click on the hyperlinks embedded in the ChatGPT response, I am taken to Michele Weigle's personal website, where I can find links to the published papers.
+        
+    \end{itemize}
+
+    % #2
+    \item Steven Zeil
+    \begin{itemize}
+        \item \textbf{My Personal Prompt:}
+
+        Describe the research of Steven Zeil from Old Dominion University and provide 2 of his best known papers.
+        
+        \item \textbf{ChatGPT's Response:}
+
+        Dr. Steven Zeil, a faculty member at Old Dominion University, focuses his research on software engineering, algorithms, and educational technology. His contributions include enhancing the teaching and visualization of computer science concepts. One notable initiative is the development of **AlgAE**, a framework designed to create animations that illustrate the execution of algorithms in programming, particularly C++ and Java. This tool helps students better understand abstract data structures and their transformations through graphical representations and animations.
+
+        Another area of his work involves metadata extraction and document classification, employing rule-based systems to process and organize large collections of structured and semi-structured documents effectively.
+        
+        Two representative papers from his work include:
+        1. **"AlgAE: Rapid Animation of C++/Java Code"**, which delves into using animations to teach algorithmic concepts effectively.
+        2. **"Automated Template-Based Metadata Extraction Architecture"**, focusing on automated systems for metadata extraction in document processing. 
+        
+        For more details, you can explore his profile on the [ODU website](https://www.cs.odu.edu/~zeil/).
+        
+        \item \textbf{Do the generated papers exist?}
+
+        The second generated paper is published and exists, and through the generated hyperlink I can access it. The first generation is not a paper but is research that he conducted.
+        
+    \end{itemize}
+
+    % #3
+    \item Michael Nelson
+    \begin{itemize}
+        \item \textbf{My Personal Prompt:}
+
+        Describe the research of Michael Nelson from Old Dominion University and provide 2 of his best known papers.
+        
+        \item \textbf{ChatGPT's Response:}
+
+        Michael L. Nelson is a distinguished professor in the Department of Computer Science at Old Dominion University and an influential figure in the field of digital preservation, web science, and data management. His research is characterized by a focus on the challenges of long-term accessibility and sustainability of digital resources. Nelson has contributed significantly to developing standards and protocols to support digital object preservation, including work related to the Open Archives Initiative (OAI) and the Memento Protocol. His projects often involve collaboration with prominent institutions, including NASA and the Library of Congress.
+
+        Two of his notable papers include:
+        
+        "Object Reuse and Exchange": Co-authored with Carl Lagoze and others, this paper discusses standards for describing and exchanging groups of web resources, contributing to the OAI-ORE framework. This work leverages concepts from the Semantic Web and aims to facilitate better digital object aggregation and interoperability \emph{(Old Dominion University, ODU Digital Commons}
+        
+        "Adding the Dimension of Time to HTTP": This paper, co-authored with Herbert Van de Sompel, addresses how HTTP can be enhanced to incorporate time-based resource states. This is central to the Memento Protocol, which supports web archiving and the access of past web states, thus preserving historical digital content \emph{Old Dominion University, https://www.odu.edu/computer-science}
+        
+        Nelson's influential contributions have helped shape digital preservation practices, particularly through the development of robust web standards and tools that enhance the accessibility and longevity of digital information​
+                
+        \item \textbf{Do the generated papers exist?}
+
+        Yes, the generated papers exist. The ChatGPT responses generated clickable hyperlinks that take me directly to the published research papers by Nelson.
+
+        
+    \end{itemize}
+\end{enumerate}
+
+\href{https://chatgpt.com/share/674bc47b-f270-8010-b147-94693d80b972}{Click here} to access my ChatGPT thread for this question.
+
+%----------------- References -----------------%
+
+\section*{References}
+
+\begin{itemize}
+    \item {40 Best ChatGPT Prompts, \url{https://tech.co/news/best-chatgpt-prompts}}
+    \item {Computing Associates, \url{http://vectors.nlpl.eu/explore/embeddings/en/similar/}}
+    \item {Computing Similarity, \url{http://vectors.nlpl.eu/explore/embeddings/en/misc/}}
+    \item {CS532 HW8 Q2, \url{https://chatgpt.com/share/674bc4a1-1b88-8010-bccf-b5922594932e}}
+    \item {CS532 HW8 Q3, \url{https://chatgpt.com/share/674c7a1f-8b54-8010-8ccb-1ee336c79273}}
+    \item {CS532 HW8 Q4, \url{https://chatgpt.com/share/674bc47b-f270-8010-b147-94693d80b972}}
+    \item {Random Word Generator, \url{https://randomwordgenerator.com/noun.php}}
+\end{itemize}
+
+\end{document}
