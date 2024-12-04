@@ -1,0 +1,2932 @@
+<!DOCTYPE html>
+<html lang="en" style="position: relative; min-height: 100%; height: auto;" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer,strict-origin-when-cross-origin">
+  <title>An Efficient RDF Converter and SPARQL Endpoint for the Complete OpenStreetMap Data. - Internet Archive Scholar
+  </title>
+  <link rel="stylesheet"
+    href="/static/scholar-semantic-ui.v2.4.2.min.css"
+    type="text/css">
+  <link rel="stylesheet"
+    href="/static/scholar.css"
+    type="text/css">
+  <style>
+  </style>
+  <link rel="icon" 
+    type="image/x-icon" 
+    href="/static/ia-favicon.ico">
+<link rel="canonical" href="/search">
+</head>
+
+<body>
+<nav class="ui inverted menu" style="margin: 0;" dir="ltr">
+  <div class="ui container">
+    <a href="https://archive.org/" class="header item">
+      <img class="logo" src="/static/ia-logo.svg" style="width: 20px;" alt="">
+      <img class="mobile-hide" src="/static/ia-wordmark.svg" style="margin-left: 10px; width: 180px;" alt="Internet Archive">
+    </a>
+
+    <div class="right menu">
+      <span style="margin-top: 0.5em">
+        <a class="ui grey label" href="https://scholar.archive.org/fatcat">Fatcat Bibliographic Database</a>
+      </span>
+      <div class="ui simple dropdown item translate-dropdown" aria-expanded="false" role="menu" aria-controls="language_menu" title="language selection menu">
+        <div class="translate-icon"></div>
+        <i class="dropdown icon" style="margin-left: 0.2em;"></i>
+        <div id="language_menu" class="menu">
+            <a role="menuitem" class="item" href="/en/">English</a>
+            <a role="menuitem" class="item" href="/ar/">عَرَبِيّ</a>
+            <a role="menuitem" class="item" href="/de/">Deutsch</a>
+            <a role="menuitem" class="item" href="/el/">ελληνικά</a>
+            <a role="menuitem" class="item" href="/es/">Español</a>
+            <a role="menuitem" class="item" href="/fa/">فارسی</a>
+            <a role="menuitem" class="item" href="/fr/">Français</a>
+            <a role="menuitem" class="item" href="/hr/">Hrvatski</a>
+            <a role="menuitem" class="item" href="/it/">Italiano</a>
+            <a role="menuitem" class="item" href="/ko/">한국어</a>
+            <a role="menuitem" class="item" href="/nb/">Norwegian Bokmål</a>
+            <a role="menuitem" class="item" href="/nl/">Nederlands</a>
+            <a role="menuitem" class="item" href="/pt/">Português</a>
+            <a role="menuitem" class="item" href="/ru/">Русский</a>
+            <a role="menuitem" class="item" href="/zh/">中文</a>
+            <div class="divider"></div>
+            <a class="item" href="https://hosted.weblate.org/projects/internetarchive/fatcat-scholar/">Contribute to translations</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="ui vertical stripe segment" style="background-color: #dedede;">
+  <div class="ui container" style="padding-top: 1em; padding-bottom: 0; padding-left: 0; padding-right: 0;">
+    <div class="ui equal height stackable grid">
+      <div class="ui four wide column" style="padding-bottom: 0;">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+          <a href="/">
+            <img src="/static/scholar-vaporwave-logo-small.png" alt="Internet Archive Scholar" style="width: 200px; margin-top: -1.5em;">
+          </a>
+        </div>
+      </div>
+      <div class="ui twelve wide column">
+        <form class="" id="search_form" name="search_form" action="/search" method="get" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+          <meta itemprop="target" content="/search?q={q}"/>
+          <div class="ui form">
+            <div class="ui action input large fluid">
+              <input type="search" placeholder="by title, authors, keywords..." name="q" aria-label="search for papers" required itemprop="query-input" style="border-radius: 0; border: 1px #999 solid;" value="An Efficient RDF Converter and SPARQL Endpoint for the Complete OpenStreetMap Data.">
+              <button id="search_submit_button" class="ui green button" style="border-radius: 0; background-color: #44a25a; font-size: 1.2rem;">Search</button>
+            </div>
+          </div>
+        </form>
+        <div style="display: flex; width: 100%; justify-content: space-between; padding-top: 0.5em;">
+          <div></div>
+          <div>
+              <a href="/feed/rss?q=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data." rel="nofollow">
+RSS Feed              </a>
+              &nbsp;
+            <a rel="help" href="/help" style="order: -1;">User Guide</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<main class="ui main container" style="min-height: calc(100vh - 30em);">
+
+<!-- these hidden query fields should be *before* any form/button that could override them -->
+
+
+
+
+
+<div class="tablet-only" style="margin-top: 1.0em;">
+
+  <details class="search-filters">
+    <summary><i class="filter icon"></i>Filters</summary>
+    <div class="tablet-filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+  </details>
+
+    <span class="hit-count" style="font-size: 1.5em;">102</span>
+Hits    <span style="color: rgba(0,0,0,0.55);">
+in     4.2
+sec    </span>
+</div>
+
+<div class="ui equal height divided grid" style="margin-top: 1em;">
+
+  <nav class="ui tablet-hide two wide column">
+      <div style="width: 100%; text-align: end;">
+        <span class="hit-count" style="display: block; font-size: 2.0em;">
+          102
+        </span>
+Hits      </div>
+      <div style="text-align: end;">
+        <span style="color: rgba(0,0,0,0.55);">
+in     4.2
+sec        </span>
+      </div>
+      <div class="ui clearing divider"></div>
+
+    <div class = "filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+    
+  </nav>
+
+  <div class="ui fourteen wide column serp-column">
+
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          GeoSPARQL Query Tool - A Geospatial Semantic Web Visual Query Tool
+      </span>
+      <span class="release-type" >
+      </span>
+
+        <br>
+        <span class="original-title">
+          english         </span>
+
+
+  </h3>
+
+    <div class="author-row">
+    Ralph Grove, James Wilson, Dave Kolas, Nancy Wiegand
+    </div>
+
+
+      <span title="">2014</span>
+    <i title="SCITEPRESS - Science and and Technology Publications">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/6fahnysnqbbhncn3wmnzz4u7si" style="color: black;">Proceedings of the 10th International Conference on Web Information Systems and Technologies</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190222140051/http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/3f/bb/3fbbc315fe8fb7c05fe2df7b9f767315a7465879.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190222140051/http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (1.8 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190222140051/http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190222140051/http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        is being developed <em>for</em> <em>the</em> Semantic Geospatial Web. &nbsp;...&nbsp;
+        Protocols such as GeoSPARQL <em>and</em> stSPARQL extend <em>SPARQL</em> in order to take advantage of spatial relationships inherent in geospatial <em>data</em>. &nbsp;...&nbsp;
+        In our work, we developed a graphical interface <em>and</em> used <em>OpenStreetMap</em> <em>and</em> Web Map Service <em>for</em> map display. Our work uses <em>the</em> GeoSPARQL model as <em>an</em> extension to <em>SPARQL</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.5220/0004797800330040">doi:10.5220/0004797800330040</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/webist/GroveWKW14.html">dblp:conf/webist/GroveWKW14</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea">fatcat:7oyxhj43hrbqdgb7wvftqm2cea</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190222140051/http://pdfs.semanticscholar.org/3fbb/c315fe8fb7c05fe2df7b9f767315a7465879.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/3f/bb/3fbbc315fe8fb7c05fe2df7b9f767315a7465879.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.5220/0004797800330040">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          Publisher / doi.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Ralph Grove, James Wilson, Dave Kolas, Nancy Wiegand. &#34;GeoSPARQL Query Tool - A Geospatial Semantic Web Visual Query Tool.&#34;  Proceedings of the 10th International Conference on Web Information Systems and Technologies (2014) 33-40
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/7oyxhj43hrbqdgb7wvftqm2cea" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/lwed4t354ffebcjjxpnocthcky" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Geolinked Open Data for the Municipality of Catania
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Sergio Consoli, Aldo Gangemi, Andrea Giovanni Nuzzolese, Silvio Peroni, Valentina Presutti, Diego Reforgiato Recupero, Daria Spampinato
+    </div>
+
+
+      <span title="">2014</span>
+    <i title="ACM Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/tdrsvefnbzb4blr74qezzvb7l4" style="color: black;">Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14) - WIMS &#39;14</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20160501064310/http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/88/08/8808811869b7f6fea588010b99e09fd60ec09933.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20160501064310/http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (923.1 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20160501064310/http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20160501064310/http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2016; you can also visit <a rel="external noopener" href="http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        <em>SPARQL</em> <em>endpoint</em> <em>and</em> content negotiation of <em>data</em> <em>The</em> produced <em>data</em> consist of 854,221 triples <em>and</em> can be publicly queried by selecting <em>the</em> <em>RDF</em> graph called &lt;prisma&gt; on <em>the</em> dedicated <em>SPARQL</em> <em>endpoint</em> accessible &nbsp;...&nbsp;
+        <em>SPARQL</em> <em>endpoint</em> <em>and</em> content negotiation of <em>data</em> (i.e. publication <em>and</em> consumption of <em>data</em>). &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/2611040.2611092">doi:10.1145/2611040.2611092</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/wims/ConsoliGNPPRS14.html">dblp:conf/wims/ConsoliGNPPRS14</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i">fatcat:lg6hsoborvfuton2rr2qythx6i</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20160501064310/http://speroni.web.cs.unibo.it/publications/consoli-2014-geolinked-open-data.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/88/08/8808811869b7f6fea588010b99e09fd60ec09933.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1145/2611040.2611092">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          acm.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Sergio Consoli, Aldo Gangemi, Andrea Giovanni Nuzzolese, Silvio Peroni, Valentina Presutti, Diego Reforgiato Recupero, Daria Spampinato. &#34;Geolinked Open Data for the Municipality of Catania.&#34;  Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14) - WIMS &#39;14 (2014) 58:1-58:8
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/lg6hsoborvfuton2rr2qythx6i" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/xegdwm2akbdffgaxypsiocxvvi" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          A semantic web approach to uplift decentralized household energy data
+      </span>
+      <span class="release-type" >
+        [article]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Jiantao Wu, Fabrizio Orlandi, Tarek AlSkaif, Declan O&#39;Sullivan, Soumyabrata Dev
+    </div>
+
+
+      <span title="2022-08-26">2022</span>
+    <i >
+      arXiv
+    </i>
+    &nbsp;
+
+    <span class="release-stage" >pre-print</span>
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220831024801/https://arxiv.org/pdf/2208.10265v2.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/79/9f/799f5e01847aad70440695f82e8484c13b2892b0.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20220831024801/https://arxiv.org/pdf/2208.10265v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (4.2 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20220831024801/https://arxiv.org/pdf/2208.10265v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20220831024801/https://arxiv.org/pdf/2208.10265v2.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2022; you can also visit <a rel="external noopener" href="https://arxiv.org/pdf/2208.10265v2.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+        <h4 class="ui horizontal divider header">
+          Other Versions
+        </h4>
+      <div class="biblio-record">
+            <span title="2022-08-18">2022</span>
+
+    <span class="release-stage" >pre-print</span>
+
+
+        <br>
+        <span class="external-identifiers">
+    <a target="_blank" rel="external noopener" href="https://arxiv.org/abs/2208.10265v1">arXiv:2208.10265v1</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/frdkzhny2rhfbkc6ftatsbetmu">fatcat:frdkzhny2rhfbkc6ftatsbetmu</a>
+</span>
+
+        <br>
+      </div>
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We offer <em>an</em> ontology-based approach <em>for</em> managing decentralized <em>data</em> at <em>the</em> device-level resolution in a system. &nbsp;...&nbsp;
+        As a consequence, <em>the</em> scope of <em>the</em> <em>data</em> associated with each device may easily be expanded in <em>an</em> interoperable manner throughout <em>the</em> Web, <em>and</em> additional information, such as weather, can be obtained from &nbsp;...&nbsp;
+        Federated queries across <em>SPARQL</em> <em>endpoints</em> <em>The</em> <em>data</em> that is published as Linked <em>Data</em> does not have to be contained in a single <em>SPARQL</em> <em>endpoint</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener" href="https://arxiv.org/abs/2208.10265v2">arXiv:2208.10265v2</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy">fatcat:mqksqmlphvhfteq4heufgvfjhy</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+            <span class="ui label basic blue small">Multiple Versions</span>
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220831024801/https://arxiv.org/pdf/2208.10265v2.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/79/9f/799f5e01847aad70440695f82e8484c13b2892b0.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+  
+
+      <a target="_blank" rel="external noopener" href="https://arxiv.org/abs/2208.10265v2" title="arxiv.org access">
+      <button class="ui compact blue labeled icon button serp-button">
+        <i class="file alternate outline icon"></i>
+        arxiv.org
+      </button>
+    </a>
+
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Jiantao Wu, Fabrizio Orlandi, Tarek AlSkaif, Declan O&#39;Sullivan, Soumyabrata Dev. &#34;A semantic web approach to uplift decentralized household energy data.&#34;  arXiv (2022)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/mqksqmlphvhfteq4heufgvfjhy" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/wjut4wklpbbxbn336mw3ftlvoi" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          A Hybrid Approach Combining R*-Tree and k-d Trees to Improve Linked Open Data Query Performance
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Yuxiang Sun, Tianyi Zhao, Seulgi Yoon, Yongju Lee
+    </div>
+
+
+      <span title="2021-03-08">2021</span>
+    <i title="MDPI AG">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/smrngspzhzce7dy6ofycrfxbim" style="color: black;">Applied Sciences</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20210313043127/https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/ef/aa/efaa3f14db07e531ed99bc04b4223f2bab28501a.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20210313043127/https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (3.9 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20210313043127/https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20210313043127/https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2021; you can also visit <a rel="external noopener" href="https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Because <em>the</em> LOD cloud is based on graph-based resource description framework (<em>RDF</em>) triples <em>and</em> <em>the</em> <em>SPARQL</em> query language, we cannot directly adopt traditional techniques employed <em>for</em> database management &nbsp;...&nbsp;
+        This paper addresses how <em>the</em> LOD cloud can be <em>efficiently</em> organized, retrieved, <em>and</em> evaluated. &nbsp;...&nbsp;
+        Conflicts of Interest: <em>The</em> authors declare no conflict of interest. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app11052405">doi:10.3390/app11052405</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4">fatcat:h7n2mx243ndenmo3jyrzlmjum4</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+          
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20210313043127/https://res.mdpi.com/d_attachment/applsci/applsci-11-02405/article_deploy/applsci-11-02405-v3.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/ef/aa/efaa3f14db07e531ed99bc04b4223f2bab28501a.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app11052405">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          mdpi.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Yuxiang Sun, Tianyi Zhao, Seulgi Yoon, Yongju Lee. &#34;A Hybrid Approach Combining R*-Tree and k-d Trees to Improve Linked Open Data Query Performance.&#34;  Applied Sciences (2021) 2405
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/h7n2mx243ndenmo3jyrzlmjum4" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/7wqjqlqbiragdclzpaxjoeu4jq" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Semantic Traffic Sensor Data: The TRAFAIR Experience
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Federico Desimoni, Sergio Ilarri, Laura Po, Federica Rollo, Raquel Trillo-Lado
+    </div>
+
+
+      <span title="2020-08-25">2020</span>
+    <i title="MDPI AG">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/smrngspzhzce7dy6ofycrfxbim" style="color: black;">Applied Sciences</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200828092929/https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/ea/6a/ea6abfda8ccca400f84b5b7f87c7023ddc5fe580.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20200828092929/https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (3.1 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20200828092929/https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20200828092929/https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2020; you can also visit <a rel="external noopener" href="https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        <em>and</em> integration, modeling andprediction, <em>the</em> publication of open <em>data</em>, <em>and</em> <em>the</em> development of applications <em>for</em> end-users andpublic administrations. &nbsp;...&nbsp;
+        We present <em>the</em> tools <em>and</em> techniques used in <em>the</em> project <em>and</em> validate our strategies fordata modeling <em>and</em> its semantic enrichment over two cities: Modena (Italy) <em>and</em> Zaragoza (Spain).<em>An</em> experimental evaluation &nbsp;...&nbsp;
+        This service allows generating <em>RDF</em> <em>data</em> <em>and</em> publishing it on a <em>SPARQL</em> <em>Endpoint</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app10175882">doi:10.3390/app10175882</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae">fatcat:stx3gjt4knbade2rfmiikic5ae</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+          
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200828092929/https://res.mdpi.com/d_attachment/applsci/applsci-10-05882/article_deploy/applsci-10-05882-v2.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/ea/6a/ea6abfda8ccca400f84b5b7f87c7023ddc5fe580.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app10175882">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          mdpi.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Federico Desimoni, Sergio Ilarri, Laura Po, Federica Rollo, Raquel Trillo-Lado. &#34;Semantic Traffic Sensor Data: The TRAFAIR Experience.&#34;  Applied Sciences 10.17  (2020) 5882
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/stx3gjt4knbade2rfmiikic5ae" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/ge4qubgvk5evdmnfqofxzhwi5y" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Enabling Spatio-Temporal Search in Open Data
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Sebastian Neumaier, Axel Polleres
+    </div>
+
+
+      <span title="">2018</span>
+    <i title="Elsevier BV">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/tol7woxlqjeg5bmzadeg6qrg3e" style="color: black;">Social Science Research Network</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190430090211/http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/88/2a/882ad3e17640546ca1b9624b8bd39548fd6359ed.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190430090211/http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (3.4 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190430090211/http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190430090211/http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        portals with entities from this knowledge graph, <em>and</em> (iii) enable structured, spatio-temporal search <em>and</em> querying over Open <em>Data</em> catalogs, both via a search interface as well as via a <em>SPARQL</em> <em>endpoint</em>, &nbsp;...&nbsp;
+        Likewise, <em>for</em> many use cases (such as, <em>for</em> instance, <em>data</em> journalism <em>and</em> fact checking) a pre-dominant need is to scope down <em>the</em> relevant datasets to a particular period or region. &nbsp;...&nbsp;
+        <em>The</em> 2012 project LinkedGeoData  [21]  resulted in a Linked <em>Data</em> resource, generated by <em>converting</em> a subset of <em>OpenStreetMap</em> <em>data</em> to <em>RDF</em> <em>and</em> deriving a lightweight ontology from it. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.2139/ssrn.3304721">doi:10.2139/ssrn.3304721</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi">fatcat:vchensb3krdk5mgzsio3arzzoi</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190430090211/http://epub.wu.ac.at/6758/7/neumaier2018TR%2Denabling.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/88/2a/882ad3e17640546ca1b9624b8bd39548fd6359ed.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.2139/ssrn.3304721">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          ssrn.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Sebastian Neumaier, Axel Polleres. &#34;Enabling Spatio-Temporal Search in Open Data.&#34;  Social Science Research Network (2018)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/vchensb3krdk5mgzsio3arzzoi" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/juhf6dcduzfgve4jltnwjjf5tu" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Enabling Spatio-Temporal Search in Open Data
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Sebastian Neumaier, Axel Polleres
+    </div>
+
+
+      <span title="">2019</span>
+    <i title="Elsevier BV">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/etvhqodrjrc3tpf4c7eo6waru4" style="color: black;">Journal of Web Semantics</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190430090046/http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/73/b1/73b1bb199adb999e8c6bb07aa2870ee7a4f321c9.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20190430090046/http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (3.5 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20190430090046/http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20190430090046/http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2019; you can also visit <a rel="external noopener" href="http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        search interface as well as via a <em>SPARQL</em> <em>endpoint</em>, available at data.wu.ac.at/odgraphsearch/ &nbsp;...&nbsp;
+        Likewise, <em>for</em> many use cases (such as, <em>for</em> instance, <em>data</em> journalism <em>and</em> fact checking) a pre-dominant need is to scope down <em>the</em> relevant datasets to a particular period or region. &nbsp;...&nbsp;
+        <em>The</em> 2012 project LinkedGeoData  [21]  resulted in a Linked <em>Data</em> resource, generated by <em>converting</em> a subset of <em>OpenStreetMap</em> <em>data</em> to <em>RDF</em> <em>and</em> deriving a lightweight ontology from it. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.websem.2018.12.007">doi:10.1016/j.websem.2018.12.007</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa">fatcat:da6mavt66rhsnemy36eyx3ejsa</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Szcezepanski OA Journal List">Szczepanski</span>
+
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20190430090046/http://epub.wu.ac.at/6749/4/neumaier2018TR%2Denabling.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/73/b1/73b1bb199adb999e8c6bb07aa2870ee7a4f321c9.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1016/j.websem.2018.12.007">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          elsevier.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Sebastian Neumaier, Axel Polleres. &#34;Enabling Spatio-Temporal Search in Open Data.&#34;  Journal of Web Semantics (2019) 21-36
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/da6mavt66rhsnemy36eyx3ejsa" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/sgihl6se4neddih2kv3z5ikipa" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          LinkedGeoData: Adding a Spatial Dimension to the Web of Data
+      </span>
+      <span class="release-type" >
+        [chapter]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Sören Auer, Jens Lehmann, Sebastian Hellmann
+    </div>
+
+
+      <span title="">2009</span>
+    <i title="Springer Berlin Heidelberg">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/2w3awgokqne6te4nvlofavy5a4" style="color: black;">Lecture Notes in Computer Science</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170809111556/http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/11/91/11913af3e14e4f2ff141aa9d163c00207fbbac46.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170809111556/http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (464.8 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170809111556/http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170809111556/http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        to <em>the</em> <em>RDF</em> <em>data</em> model, how this <em>data</em> can be interlinked with other spatial <em>data</em> sets, how it can be made accessible <em>for</em> machines according to <em>the</em> linked <em>data</em> paradigm <em>and</em> <em>for</em> humans by means of a faceted &nbsp;...&nbsp;
+        In this paper we contribute to <em>the</em> generation of a spatial dimension <em>for</em> <em>the</em> <em>Data</em> Web by elaborating on how <em>the</em> collaboratively collected <em>OpenStreetMap</em> <em>data</em> can be transformed <em>and</em> represented adhering &nbsp;...&nbsp;
+        Most of <em>the</em> time was spend <em>for</em> <em>SPARQL</em> queries to our local DBpedia <em>and</em> LGD <em>endpoints</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-04930-9_46">doi:10.1007/978-3-642-04930-9_46</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4">fatcat:fpkw4bryp5aq3lvgt7o5ffwzv4</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170809111556/http://www.informatik.uni-leipzig.de/~auer/publication/linkedgeodata.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/11/91/11913af3e14e4f2ff141aa9d163c00207fbbac46.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-04930-9_46">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          springer.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Sören Auer, Jens Lehmann, Sebastian Hellmann. &#34;LinkedGeoData: Adding a Spatial Dimension to the Web of Data.&#34;  Lecture Notes in Computer Science (2009) 731-746
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/fpkw4bryp5aq3lvgt7o5ffwzv4" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/oaq7b5vw7bho7j52utbq5lr3ba" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Ontology Modeling for Decentralized Household Energy Systems
+      </span>
+      <span class="release-type" >
+        [article]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Jiantao Wu, Fabrizio Orlandi, Tarek AlSkaif, Declan O&#39;Sullivan, Soumyabrata Dev
+    </div>
+
+
+      <span title="2021-08-03">2021</span>
+    <i >
+      arXiv
+    </i>
+    &nbsp;
+
+    <span class="release-stage" >pre-print</span>
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20210806160904/https://arxiv.org/pdf/2108.01504v1.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/4a/52/4a5266e646167972c19f0af083a1f67cb08ce2a3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20210806160904/https://arxiv.org/pdf/2108.01504v1.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (4.2 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20210806160904/https://arxiv.org/pdf/2108.01504v1.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20210806160904/https://arxiv.org/pdf/2108.01504v1.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2021; you can also visit <a rel="external noopener" href="https://arxiv.org/pdf/2108.01504v1.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We propose <em>an</em> ontology modeling solution <em>for</em> <em>the</em> management of decentralized <em>data</em> at <em>the</em> resolution of a device in <em>the</em> system. &nbsp;...&nbsp;
+        In a decentralized household energy system consisting of various devices such as washing machines, heat pumps, <em>and</em> solar panels, understanding <em>the</em> electric energy consumption <em>and</em> production <em>data</em> at <em>the</em> &nbsp;...&nbsp;
+        <em>The</em> ADAPT Centre <em>for</em> Digital Content Technology is funded under <em>the</em> SFI Research Centres Programme (Grant 13/RC/2106) <em>and</em> is co-funded under <em>the</em> European Regional Development Fund. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener" href="https://arxiv.org/abs/2108.01504v1">arXiv:2108.01504v1</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa">fatcat:yito2oeu3fhujaudu5njdwbmpa</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20210806160904/https://arxiv.org/pdf/2108.01504v1.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/4a/52/4a5266e646167972c19f0af083a1f67cb08ce2a3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+  
+
+      <a target="_blank" rel="external noopener" href="https://arxiv.org/abs/2108.01504v1" title="arxiv.org access">
+      <button class="ui compact blue labeled icon button serp-button">
+        <i class="file alternate outline icon"></i>
+        arxiv.org
+      </button>
+    </a>
+
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Jiantao Wu, Fabrizio Orlandi, Tarek AlSkaif, Declan O&#39;Sullivan, Soumyabrata Dev. &#34;Ontology Modeling for Decentralized Household Energy Systems.&#34;  arXiv (2021)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/yito2oeu3fhujaudu5njdwbmpa" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/viyc4qgzxjgyhkvofdn6cgbqj4" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Simplified RDB2RDF Mapping
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Claus Stadler, Jörg Unbehauen, Patrick Westphal, Mohamed Ahmed Sherif, Jens Lehmann
+    </div>
+
+
+      <span title="">2015</span>
+    <i >
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/s4hirppq3jalbopssw22crbwwa" style="color: black;">The Web Conference</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220122155804/http://ceur-ws.org/Vol-1409/paper-09.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/69/c3/69c35fed4919c093855e8b136291a7f43ace3b9a.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20220122155804/http://ceur-ws.org/Vol-1409/paper-09.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (541.4 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20220122155804/http://ceur-ws.org/Vol-1409/paper-09.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20220122155804/http://ceur-ws.org/Vol-1409/paper-09.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2022; you can also visit <a rel="external noopener" href="http://ceur-ws.org/Vol-1409/paper-09.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        In particular, mapping languages <em>for</em> <em>the</em> conversion of databases to <em>RDF</em> knowledge bases have been developed <em>and</em> standardized in <em>the</em> form of R2RML. &nbsp;...&nbsp;
+        Based on this, we present <em>the</em> Sparqlification Mapping Language (SML), which provides <em>an</em> intuitive way to declare mappings based on SQL VIEWS <em>and</em> <em>SPARQL</em> construct queries. &nbsp;...&nbsp;
+        Acknowledgment This work was supported by grants from <em>the</em> EU&#39;s 7th Framework Programme provided <em>for</em> <em>the</em> projects LOD2 (GA no. 257943) <em>and</em> GeoKnow (GA no. 318159). http://linkedgeodata.org/ http://www.wortschatz.uni-leipzig.de &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/conf/www/StadlerUWSL15.html">dblp:conf/www/StadlerUWSL15</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m">fatcat:orgusimhu5hjdhn4yet62osm2m</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220122155804/http://ceur-ws.org/Vol-1409/paper-09.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/69/c3/69c35fed4919c093855e8b136291a7f43ace3b9a.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+  
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Claus Stadler, Jörg Unbehauen, Patrick Westphal, Mohamed Ahmed Sherif, Jens Lehmann. &#34;Simplified RDB2RDF Mapping.&#34;  The Web Conference (2015)
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/orgusimhu5hjdhn4yet62osm2m" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/txz7jqbryfaurktrq3qh5usnk4" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Mapping Spatiotemporal Data to RDF: A SPARQL Endpoint for Brussels
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Alejandro Vaisman, Kevin Chentout
+    </div>
+
+
+      <span title="2019-08-10">2019</span>
+    <i title="MDPI AG">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/fw2uac7a5jggbfgqwh2wqy7yxu" style="color: black;">ISPRS International Journal of Geo-Information</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200210020252/https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/f8/2c/f82cc17f4481ff84bd6fa13557d2fe4e1e44908c.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20200210020252/https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (3.2 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20200210020252/https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20200210020252/https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2020; you can also visit <a rel="external noopener" href="https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        In addition, <em>the</em> <em>endpoint</em> is enriched with external <em>data</em> obtained from <em>the</em> Linked Open <em>Data</em> Cloud, from sites like DBpedia, Geonames, <em>and</em> LinkedGeoData, to provide context <em>for</em> analysis. &nbsp;...&nbsp;
+        This paper describes how a platform <em>for</em> publishing <em>and</em> querying linked open <em>data</em> <em>for</em> <em>the</em> Brussels Capital region in Belgium is built. &nbsp;...&nbsp;
+        Acknowledgments: Alejandro Vaisman was partially funded by <em>the</em> OSCB (Open Semantic Cloud <em>for</em> Brussels) project, financed by Innoviris. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/ijgi8080353">doi:10.3390/ijgi8080353</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa">fatcat:nqqilsrrmvextdrehyhxyjwqsa</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+          
+              <span class="ui label basic orange small" title="Szcezepanski OA Journal List">Szczepanski</span>
+
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200210020252/https://res.mdpi.com/d_attachment/ijgi/ijgi-08-00353/article_deploy/ijgi-08-00353-v2.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/f8/2c/f82cc17f4481ff84bd6fa13557d2fe4e1e44908c.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/ijgi8080353">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          mdpi.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Alejandro Vaisman, Kevin Chentout. &#34;Mapping Spatiotemporal Data to RDF: A SPARQL Endpoint for Brussels.&#34;  ISPRS International Journal of Geo-Information 8.8  (2019) 353
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/nqqilsrrmvextdrehyhxyjwqsa" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/7nw6tqtuwfgt3l2yghhcimw7pa" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Enabling the geospatial Semantic Web with Parliament and GeoSPARQL
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Robert Battle, Dave Kolas
+    </div>
+
+
+      <span title="">2012</span>
+    <i title="IOS Press">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/pcapks3huberdozbvfqowysuly" style="color: black;">Semantic Web Journal</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170630015511/http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/40/d6/40d65818e5c19de309f81d838b9c5a69238febf3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20170630015511/http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (160.5 kB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20170630015511/http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20170630015511/http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2017; you can also visit <a rel="external noopener" href="http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        We first describe <em>the</em> motivation <em>for</em> GeoSPARQL, then <em>the</em> current state of <em>the</em> art in industry <em>and</em> research, followed by <em>an</em> example use case, <em>and</em> finally our implementation of GeoSPARQL in <em>the</em> Parliament &nbsp;...&nbsp;
+        As <em>the</em> amount of Linked Open <em>Data</em> on <em>the</em> web increases, so does <em>the</em> amount of <em>data</em> with <em>an</em> inherent spatial context. Without spatial reasoning, however, <em>the</em> value of this spatial context is limited. &nbsp;...&nbsp;
+        Linked Open <em>Data</em> promotes <em>the</em> use of <em>the</em> <em>SPARQL</em> Protocol <em>and</em> <em>RDF</em> Query Language (<em>SPARQL</em>) <em>and</em> <em>RDF</em> to query <em>and</em> model <em>data</em>. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3233/sw-2012-0065">doi:10.3233/sw-2012-0065</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq">fatcat:faoscntqbrc5nl6gi62yof6moq</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Szcezepanski OA Journal List">Szczepanski</span>
+
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20170630015511/http://www.semantic-web-journal.net/sites/default/files/swj176_3.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/40/d6/40d65818e5c19de309f81d838b9c5a69238febf3.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3233/sw-2012-0065">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          Publisher / doi.org
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Robert Battle, Dave Kolas. &#34;Enabling the geospatial Semantic Web with Parliament and GeoSPARQL.&#34;  Semantic Web Journal 3.4  (2012) 355-370
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/faoscntqbrc5nl6gi62yof6moq" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/pe4h6w723bd6vfkvjdulmlmm44" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          Learned Semantic Index Structure Using Knowledge Graph Embedding and Density-Based Spatial Clustering Techniques
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Yuxiang Sun, Seok-Ju Chun, Yongju Lee
+    </div>
+
+
+      <span title="2022-07-02">2022</span>
+    <i title="MDPI AG">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/smrngspzhzce7dy6ofycrfxbim" style="color: black;">Applied Sciences</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220703105118/https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/34/ec/34ecb6ab80b40bb253c5ec3ac38f6079f41e7411.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20220703105118/https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (1.5 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20220703105118/https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20220703105118/https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2022; you can also visit <a rel="external noopener" href="https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Using a learned semantic index structure <em>for</em> semantic search, we can <em>efficiently</em> discover interlinked <em>data</em> distributed across multiple resources. &nbsp;...&nbsp;
+        This study addresses <em>the</em> issue of <em>efficient</em> LOD annotation organization, retrieval, <em>and</em> evaluation. &nbsp;...&nbsp;
+        <em>Data</em> Availability Statement: Not applicable. 
+ Conflicts of Interest: <em>The</em> authors declare no conflict of interest. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app12136713">doi:10.3390/app12136713</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4">fatcat:cxjs4zzlzrekfponwf7ahaqis4</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+          
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20220703105118/https://mdpi-res.com/d_attachment/applsci/applsci-12-06713/article_deploy/applsci-12-06713.pdf?version=1656752685" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/34/ec/34ecb6ab80b40bb253c5ec3ac38f6079f41e7411.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/app12136713">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          mdpi.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Yuxiang Sun, Seok-Ju Chun, Yongju Lee. &#34;Learned Semantic Index Structure Using Knowledge Graph Embedding and Density-Based Spatial Clustering Techniques.&#34;  Applied Sciences 12.13  (2022) 6713
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/cxjs4zzlzrekfponwf7ahaqis4" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/y6o7hov4szevxf7q67cyg4liqa" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          TowardsWeb-Scale Collaborative Knowledge Extraction
+      </span>
+      <span class="release-type" >
+        [chapter]
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Sebastian Hellmann, Sören Auer
+    </div>
+
+
+      <span title="">2013</span>
+    <i title="Springer Berlin Heidelberg">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/c7sldn6xkzf6fmnncivnbj4fzu" style="color: black;">The People&#39;s Web Meets NLP</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20141027012413/http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/67/ba/67ba22708e358c6e76535625065aa5b030c20163.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20141027012413/http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (1.6 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20141027012413/http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20141027012413/http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2014; you can also visit <a rel="external noopener" href="http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        <em>The</em> special focus is on three prominent <em>RDF</em> <em>data</em> sets (DBpedia, LinkedGeo-<em>Data</em> <em>and</em> Wiktionary2RDF), which allow users to influence <em>the</em> knowledge extraction process by adding another crowd-sourced layer &nbsp;...&nbsp;
+        While <em>the</em> Web of <em>Data</em>, <em>the</em> Web of Documents <em>and</em> Natural Language Processing are well researched individual fields, approaches to combine all three are fragmented <em>and</em> not yet well aligned. &nbsp;...&nbsp;
+        Acknowledgments We would like to thank our colleagues from AKSW research group <em>and</em> <em>the</em> LOD2 project <em>for</em> their helpful comments during <em>the</em> development of NIF. &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-35085-6_11">doi:10.1007/978-3-642-35085-6_11</a>
+    <a target="_blank" rel="external noopener" href="https://dblp.org/rec/series/tanlp/HellmannA13.html">dblp:series/tanlp/HellmannA13</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq">fatcat:oew4a57fhnhlrmgyemm5c4ergq</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20141027012413/http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/67/ba/67ba22708e358c6e76535625065aa5b030c20163.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.1007/978-3-642-35085-6_11">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="external alternate icon"></i>
+          springer.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Sebastian Hellmann, Sören Auer. &#34;TowardsWeb-Scale Collaborative Knowledge Extraction.&#34;  The People&#39;s Web Meets NLP (2013) 287-313
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/oew4a57fhnhlrmgyemm5c4ergq" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/dpbznacymbhqneybllqie7wsqq" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+          <div class="ui stackable doubling grid">
+<div class="thirteen wide column biblio-record">
+
+<details class="title-dropdown" >
+<summary>
+  <h3 class="biblio-title">
+
+      <span class="link">
+          A Survey of Geospatial Semantic Web for Cultural Heritage
+      </span>
+      <span class="release-type" >
+      </span>
+
+
+
+  </h3>
+
+    <div class="author-row">
+    Nishanbaev, Champion, McMeekin
+    </div>
+
+
+      <span title="2019-05-20">2019</span>
+    <i title="MDPI AG">
+    <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat/container/5s6wur5dpncm5aqw7ez4sazf7m" style="color: black;">Heritage</a>
+    </i>
+    &nbsp;
+
+
+
+
+</summary>
+<div class="dropdown-menu">
+  <h4 class="ui horizontal divider header">
+Preserved Fulltext  </h4>
+
+    <div class="ui items">
+      <div class="item">
+        <div class="image">
+          <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200311032107/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2" title="fulltext access" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+            <div class="ui serp card">
+              <img class="ui" src="https://blobs.fatcat.wiki/thumbnail/pdf/4f/59/4f598043f80fc833b55e1bd40098cfb49ea77b76.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header">
+            <a rel="noopener" href="https://web.archive.org/web/20200311032107/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+Web Archive Capture
+              PDF
+
+                (2.2 MB)
+            </a>
+          </div>
+          <div class="meta">
+            <a rel="noopener" href="https://web.archive.org/web/20200311032107/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+              https://web.archive.org/web/20200311032107/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2
+            </a>
+          </div>
+          <div class="description">
+              <p>A copy of this work was available on the public web and has been preserved in the Wayback Machine. The capture dates from 2020; you can also visit <a rel="external noopener" href="https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2">the original URL</a>.
+The file type is <code>application/pdf</code>.
+          </div>
+          <div class="extra">
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="ui divider"></div>
+</div>
+</details>
+
+
+    <div class="search-highlights">
+        Digital cultural heritage repositories have therefore become <em>an</em> <em>efficient</em> <em>and</em> effective way to disseminate <em>and</em> exploit digital cultural heritage <em>data</em>. &nbsp;...&nbsp;
+        It then proposes a framework to turn geospatial cultural heritage <em>data</em> into machine-readable <em>and</em> processable resource description framework (<em>RDF</em>) <em>data</em> to use in <em>the</em> geospatial semantic web, with a case &nbsp;...&nbsp;
+        Once <em>the</em> <em>data</em> is <em>converted</em> into <em>RDF</em> <em>data</em>, it is populated into a spatio-temporal triple store &#34;Strabon&#34;, which offers <em>an</em> <em>endpoint</em> as shown in  Figure 9 . &nbsp;...&nbsp;
+    </div>
+
+  <span class="external-identifiers">
+    <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/heritage2020093">doi:10.3390/heritage2020093</a>
+    <a target="_blank" rel="external noopener" href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em">fatcat:yyxhshm2wvfphkzeumi66ds4em</a>
+</span>
+
+
+  <div class="tag-row">
+
+    <a rel="noopener" href="/help#tags" aria-label="tag definitions">
+              <span class="ui label basic orange small" title="Directory of Open Access Journals">DOAJ</span>
+
+
+
+    </a>
+
+  </div>
+
+</div>
+
+<div class="three wide left aligned column serp-right-col">
+
+      <a target="_blank" rel="noopener" href="https://web.archive.org/web/20200311032107/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/75515/75720.pdf;jsessionid=B2AF0D4C5A348E939B456BB139F3C009?sequence=2" title="fulltext PDF download" data-goatcounter-click="serp-fulltext" data-goatcounter-title="serp-fulltext">
+    <button class="ui simple right pointing dropdown compact black labeled icon button serp-button">
+      <i class="icon ia-icon"></i>
+Web Archive
+[PDF]
+
+        <div class="menu fulltext-thumbnail">
+          <img src="https://blobs.fatcat.wiki/thumbnail/pdf/4f/59/4f598043f80fc833b55e1bd40098cfb49ea77b76.180px.jpg" alt="fulltext thumbnail" loading="lazy">
+        </div>
+    </button>
+  </a>
+
+
+      <a target="_blank" rel="external noopener noreferrer" href="https://doi.org/10.3390/heritage2020093">
+      <button class="ui left aligned compact blue labeled icon button serp-button">
+          <i class="unlock alternate icon" style="background-color: #fb971f;"></i>
+          mdpi.com
+      </button>
+    </a>
+
+
+  
+
+
+  <div class="action-bar">
+
+    <details class="serp-action-menu">
+      <summary>
+        <div class="circular ui icon compact basic button" title="cite this work">
+          <i class="quote left icon"></i>
+        </div>
+      </summary>
+      <div class="citation-menu menu">
+        <b>Citation</b>
+        <p>Nishanbaev, Champion, McMeekin. &#34;A Survey of Geospatial Semantic Web for Cultural Heritage.&#34;  Heritage 2.2  (2019) 1471-1498
+          <div class="ui divider"></div>
+          <ul class="ui horizontal list">
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em/citeproc?style=modern-language-association" target="_blank" rel="noopener"><i class="external icon"></i>MLA</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em/citeproc?style=elsevier-harvard" target="_blank" rel="noopener"><i class="external icon"></i>Harvard</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em/citeproc?style=csl-json" target="_blank" rel="noopener"><i class="external icon"></i>CSL-JSON</a></li>
+            <li class="item"><a href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em.bib" target="_blank" rel="noopener"><i class="external icon"></i>BibTeX</a></li>
+          </ul>
+      </div>
+    </details>
+
+      <a href="https://scholar.archive.org/fatcat/release/yyxhshm2wvfphkzeumi66ds4em" rel="noopener" title="see metadata on fatcat">
+        <div class="circular ui icon compact basic button">
+          <i class="code icon"></i>
+        </div>
+      </a>
+
+    <a href="/work/cncycei2preldl2esi3ife366u" rel="noopener" title="permalink to this record">
+      <div class="circular ui icon compact basic button">
+        <i class="linkify icon"></i>
+      </div>
+    </a>
+
+  </div>
+
+</div>
+
+</div> 
+
+          <div style="margin-top: 2em; width: 100%;">
+            <div class="search-pagination">
+                <span style="color:rgba(0,0,0,0.55); float: left">&laquo; Previous</span>
+
+<button class="text-button" form="search_form" type="submit" name="offset" value="15" style="float: right;" rel="next">
+  <a>Next &raquo;</a>
+</button>
+
+<i style="padding-left: 0.5em; padding-right: 0.5em;">
+Showing results 1 &mdash; 15 out of 102 results</i>
+
+            </div>
+          </div>
+  </div>
+
+</div>
+</main>
+
+<footer class="ui inverted vertical footer segment" style="padding: 4em 0em; margin-top: 3em; width: 100%;">
+  <div class="ui container">
+    <div class="ui stackable mobile reversed inverted divided equal height grid">
+      <nav class="nine wide column">
+        <div class="ui grid">
+          <div class="tablet-hide two wide column" style="padding-top: 4em; padding-right: 0;">
+            <img class="logo" src="/static/ia-logo.svg" alt="" style="width: 100%; opacity: 0.5;">
+          </div>
+          <div class="one wide column computer only"></div>
+          <div class="thirteen wide twelve wide computer column">
+            <h4 style="font-size: 1.28571429rem;">Internet Archive</h4>
+            <p style="color: rgba(255, 255, 255, 0.5);">
+We are a US 501(c)(3) non-profit library, building a global archive of Internet sites and other cultural artifacts in digital form.
+Other projects include <a target="_blank" rel="noopener" href="https://web.archive.org">The Wayback Machine</a>, <a target="_blank" rel="noopener" href="https://archive.org">archive.org</a>, <a target="_blank" rel="noopener" href="https://openlibrary.org">Open Library</a>, and <a target="_blank" rel="noopener" href="https://archive-it.org">Archive-It</a>.            <div class="ui horizontal inverted link list">
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/">About Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/contact.php">Contact Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/terms.php">Policies</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/donate">Donate</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">Open Infrastructure</h4>
+        <div class="ui inverted link list">
+          <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat" class="item">Biblographic Database (Fatcat)</a>
+          <a target="_blank" rel="external noopener noreferrer" href="https://github.com/internetarchive/fatcat-scholar" class="item">Source Code</a>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">scholar.archive.org</h4>
+        <div class="ui inverted link list">
+          <a href="/about#howitworks" class="item">How It Works</a>
+          <a href="/about#sources" class="item">Content Sources</a>
+          <a href="/about#tdm" class="item">Text and Data Mining</a>
+          <a href="/help" rel="help" class="item">Help</a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* when search is submitted, have submit button animate */
+document.getElementById("search_form").onsubmit = function(){
+  document.getElementById("search_submit_button").classList.add("loading");
+};
+</script>
+  <script>
+    window.goatcounter = {
+        /* title leaks search query, so don't report it */
+        title: "",
+    };
+  </script>
+
+  <script data-goatcounter="/goatcounter/count" async src="/goatcounter/count.js"></script></body>
+</html>

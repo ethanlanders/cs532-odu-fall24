@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en" style="position: relative; min-height: 100%; height: auto;" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer,strict-origin-when-cross-origin">
+  <title>author:Hannah_Bast: autoc|compl|ester - Internet Archive Scholar
+  </title>
+  <link rel="stylesheet"
+    href="/static/scholar-semantic-ui.v2.4.2.min.css"
+    type="text/css">
+  <link rel="stylesheet"
+    href="/static/scholar.css"
+    type="text/css">
+  <style>
+  </style>
+  <link rel="icon" 
+    type="image/x-icon" 
+    href="/static/ia-favicon.ico">
+<link rel="canonical" href="/search">
+</head>
+
+<body>
+<nav class="ui inverted menu" style="margin: 0;" dir="ltr">
+  <div class="ui container">
+    <a href="https://archive.org/" class="header item">
+      <img class="logo" src="/static/ia-logo.svg" style="width: 20px;" alt="">
+      <img class="mobile-hide" src="/static/ia-wordmark.svg" style="margin-left: 10px; width: 180px;" alt="Internet Archive">
+    </a>
+
+    <div class="right menu">
+      <span style="margin-top: 0.5em">
+        <a class="ui grey label" href="https://scholar.archive.org/fatcat">Fatcat Bibliographic Database</a>
+      </span>
+      <div class="ui simple dropdown item translate-dropdown" aria-expanded="false" role="menu" aria-controls="language_menu" title="language selection menu">
+        <div class="translate-icon"></div>
+        <i class="dropdown icon" style="margin-left: 0.2em;"></i>
+        <div id="language_menu" class="menu">
+            <a role="menuitem" class="item" href="/en/">English</a>
+            <a role="menuitem" class="item" href="/ar/">عَرَبِيّ</a>
+            <a role="menuitem" class="item" href="/de/">Deutsch</a>
+            <a role="menuitem" class="item" href="/el/">ελληνικά</a>
+            <a role="menuitem" class="item" href="/es/">Español</a>
+            <a role="menuitem" class="item" href="/fa/">فارسی</a>
+            <a role="menuitem" class="item" href="/fr/">Français</a>
+            <a role="menuitem" class="item" href="/hr/">Hrvatski</a>
+            <a role="menuitem" class="item" href="/it/">Italiano</a>
+            <a role="menuitem" class="item" href="/ko/">한국어</a>
+            <a role="menuitem" class="item" href="/nb/">Norwegian Bokmål</a>
+            <a role="menuitem" class="item" href="/nl/">Nederlands</a>
+            <a role="menuitem" class="item" href="/pt/">Português</a>
+            <a role="menuitem" class="item" href="/ru/">Русский</a>
+            <a role="menuitem" class="item" href="/zh/">中文</a>
+            <div class="divider"></div>
+            <a class="item" href="https://hosted.weblate.org/projects/internetarchive/fatcat-scholar/">Contribute to translations</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="ui vertical stripe segment" style="background-color: #dedede;">
+  <div class="ui container" style="padding-top: 1em; padding-bottom: 0; padding-left: 0; padding-right: 0;">
+    <div class="ui equal height stackable grid">
+      <div class="ui four wide column" style="padding-bottom: 0;">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+          <a href="/">
+            <img src="/static/scholar-vaporwave-logo-small.png" alt="Internet Archive Scholar" style="width: 200px; margin-top: -1.5em;">
+          </a>
+        </div>
+      </div>
+      <div class="ui twelve wide column">
+        <form class="" id="search_form" name="search_form" action="/search" method="get" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+          <meta itemprop="target" content="/search?q={q}"/>
+          <div class="ui form">
+            <div class="ui action input large fluid">
+              <input type="search" placeholder="by title, authors, keywords..." name="q" aria-label="search for papers" required itemprop="query-input" style="border-radius: 0; border: 1px #999 solid;" value="author:Hannah_Bast: autoc|compl|ester">
+              <button id="search_submit_button" class="ui green button" style="border-radius: 0; background-color: #44a25a; font-size: 1.2rem;">Search</button>
+            </div>
+          </div>
+        </form>
+        <div style="display: flex; width: 100%; justify-content: space-between; padding-top: 0.5em;">
+          <div></div>
+          <div>
+              <a href="/feed/rss?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester" rel="nofollow">
+RSS Feed              </a>
+              &nbsp;
+            <a rel="help" href="/help" style="order: -1;">User Guide</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<main class="ui main container" style="min-height: calc(100vh - 30em);">
+
+<!-- these hidden query fields should be *before* any form/button that could override them -->
+
+
+
+
+
+<div class="tablet-only" style="margin-top: 1.0em;">
+
+  <details class="search-filters">
+    <summary><i class="filter icon"></i>Filters</summary>
+    <div class="tablet-filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+  </details>
+
+    <span class="hit-count" style="font-size: 1.5em;">0</span>
+Hits    <span style="color: rgba(0,0,0,0.55);">
+in     0.66
+sec    </span>
+</div>
+
+<div class="ui equal height divided grid" style="margin-top: 1em;">
+
+  <nav class="ui tablet-hide two wide column">
+      <div style="width: 100%; text-align: end;">
+        <span class="hit-count" style="display: block; font-size: 2.0em;">
+          0
+        </span>
+Hits      </div>
+      <div style="text-align: end;">
+        <span style="color: rgba(0,0,0,0.55);">
+in     0.66
+sec        </span>
+      </div>
+      <div class="ui clearing divider"></div>
+
+    <div class = "filter-bar">
+      <div>
+  <label class="filter-label" for="filter_time">Release Date</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="all_time">
+          <span style="font-weight: bold;">
+        All Time
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_week">
+          <span>
+        Past Week
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="past_year">
+          <span>
+        Past Year
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="since_2000">
+          <span>
+        Since 2000
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_time" value="before_1927">
+          <span>
+        Before 1927
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_type">Resource Type</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="papers">
+          <span style="font-weight: bold;">
+        Papers
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="reports">
+          <span>
+        Reports
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="datasets">
+          <span>
+        Datasets
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_type" value="everything">
+          <span>
+        Everything
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="filter_availability">Availability</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="fulltext">
+          <span style="font-weight: bold;">
+        Fulltext
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="microfilm">
+          <span>
+        Microfilm
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="oa">
+          <span>
+        Open Access
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="filter_availability" value="everything">
+          <span>
+        All Records
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      <div>
+  <label class="filter-label" for="sort_order">Sort Order</label>
+  <br>
+  <div class="ui link list" style="margin-top: 0.3em;">
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="relevancy">
+          <span style="font-weight: bold;">
+        Relevancy
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_desc">
+          <span>
+        Recent First
+        </span>
+      </button>
+      <br>
+      <button class="text-button" form="search_form" type="submit" name="sort_order" value="time_asc">
+          <span>
+        Oldest First
+        </span>
+      </button>
+      <br>
+  </div>
+</div>
+<br>
+
+      
+    </div>
+    
+  </nav>
+
+  <div class="ui fourteen wide column serp-column">
+      <div class="ui placeholder segment" style="height: 100%;">
+        <div class="ui icon header">
+          <i class="search icon"></i>
+We didn't find any documents matching your query        </div>
+        <div class="inline">
+            <button class="ui primary button" form="search_form" type="submit" name="filter_type" value="everything">
+Try All Resource Types            </button>
+            <button class="ui primary button" form="search_form" type="submit" name="filter_availability" value="everything">
+Try Metadata Records            </button>
+          <a href="/search" class="ui primary button" style="margin: 0.5em;">Start Over</a>
+        </div>
+        <div class="inline">
+          <a href="https://archive.org/search.php?sin=TXT&query=author%3AHannah_Bast%3A%20autoc%7Ccompl%7Cester" target="_blank" rel="noopener" class="ui button" style="margin: 0.5em;">Try archive.org</a>
+          <a href="https://scholar.archive.org/fatcat/release/search?q=author%3AHannah_Bast%3A%20autoc%7Ccompl%7Cester" target="_blank" rel="noopener" class="ui button" style="margin: 0.5em;">Try fatcat</a>
+          <a href="https://www.semanticscholar.org/search?q=author%3AHannah_Bast%3A%20autoc%7Ccompl%7Cester" rel="noopener" target="_blank" rel="noopener" class="ui button" style="margin: 0.5em;">Try Semantic Scholar</a>
+          <a href="https://scholar.google.com/scholar?q=author%3AHannah_Bast%3A%20autoc%7Ccompl%7Cester" target="_blank" rel="noopener" class="ui button" style="margin: 0.5em;">Try Google Scholar</a>
+        </div>
+      </div>
+  </div>
+
+</div>
+</main>
+
+<footer class="ui inverted vertical footer segment" style="padding: 4em 0em; margin-top: 3em; width: 100%;">
+  <div class="ui container">
+    <div class="ui stackable mobile reversed inverted divided equal height grid">
+      <nav class="nine wide column">
+        <div class="ui grid">
+          <div class="tablet-hide two wide column" style="padding-top: 4em; padding-right: 0;">
+            <img class="logo" src="/static/ia-logo.svg" alt="" style="width: 100%; opacity: 0.5;">
+          </div>
+          <div class="one wide column computer only"></div>
+          <div class="thirteen wide twelve wide computer column">
+            <h4 style="font-size: 1.28571429rem;">Internet Archive</h4>
+            <p style="color: rgba(255, 255, 255, 0.5);">
+We are a US 501(c)(3) non-profit library, building a global archive of Internet sites and other cultural artifacts in digital form.
+Other projects include <a target="_blank" rel="noopener" href="https://web.archive.org">The Wayback Machine</a>, <a target="_blank" rel="noopener" href="https://archive.org">archive.org</a>, <a target="_blank" rel="noopener" href="https://openlibrary.org">Open Library</a>, and <a target="_blank" rel="noopener" href="https://archive-it.org">Archive-It</a>.            <div class="ui horizontal inverted link list">
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/">About Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/contact.php">Contact Us</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/about/terms.php">Policies</a>
+              <a class="item" target="_blank" rel="noopener" href="https://archive.org/donate">Donate</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">Open Infrastructure</h4>
+        <div class="ui inverted link list">
+          <a target="_blank" rel="noopener" href="https://scholar.archive.org/fatcat" class="item">Biblographic Database (Fatcat)</a>
+          <a target="_blank" rel="external noopener noreferrer" href="https://github.com/internetarchive/fatcat-scholar" class="item">Source Code</a>
+        </div>
+      </nav>
+      <nav class="three wide column">
+        <h4 class="ui inverted header">scholar.archive.org</h4>
+        <div class="ui inverted link list">
+          <a href="/about#howitworks" class="item">How It Works</a>
+          <a href="/about#sources" class="item">Content Sources</a>
+          <a href="/about#tdm" class="item">Text and Data Mining</a>
+          <a href="/help" rel="help" class="item">Help</a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* when search is submitted, have submit button animate */
+document.getElementById("search_form").onsubmit = function(){
+  document.getElementById("search_submit_button").classList.add("loading");
+};
+</script>
+  <script>
+    window.goatcounter = {
+        /* title leaks search query, so don't report it */
+        title: "",
+    };
+  </script>
+
+  <script data-goatcounter="/goatcounter/count" async src="/goatcounter/count.js"></script></body>
+</html>
