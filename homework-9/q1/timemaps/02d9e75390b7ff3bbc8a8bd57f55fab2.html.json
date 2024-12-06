@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-16T00:25:01Z",
+        "uri": "https://web.archive.org/web/20240416002501/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-16T00:25:01Z",
+      "uri": "https://web.archive.org/web/20240416002501/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL."
+    },
+    "last": {
+      "datetime": "2024-04-16T00:25:01Z",
+      "uri": "https://web.archive.org/web/20240416002501/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=Efficient+SPARQL+Autocompletion+via+SPARQL."
+}

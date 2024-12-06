@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.odu.edu/a-to-z-index",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/a-to-z-index",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-07T06:49:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221107064904/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2022-12-07T15:15:00Z",
+        "uri": "https://wayback.archive-it.org/all/20221207151500/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2023-01-07T15:11:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230107151117/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2023-01-24T20:54:37Z",
+        "uri": "https://arquivo.pt/wayback/20230124205437mp_/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2023-02-07T13:48:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230207134823/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2023-03-07T05:16:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230307051608/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2023-08-25T19:14:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191430/https://www.odu.edu/a-to-z-index"
+      },
+      {
+        "datetime": "2024-05-24T00:08:21Z",
+        "uri": "https://wayback.archive-it.org/all/20240524000821/https://www.odu.edu/a-to-z-index"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-07T06:49:04Z",
+      "uri": "https://wayback.archive-it.org/all/20221107064904/https://www.odu.edu/a-to-z-index"
+    },
+    "last": {
+      "datetime": "2024-05-24T00:08:21Z",
+      "uri": "https://wayback.archive-it.org/all/20240524000821/https://www.odu.edu/a-to-z-index"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/a-to-z-index",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/a-to-z-index",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/a-to-z-index"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/a-to-z-index"
+}

@@ -1,0 +1,490 @@
+{
+  "original_uri": "https://www.odu.edu/hs/centers/globalhealth",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/hs/centers/globalhealth",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-08-10T06:17:24Z",
+        "uri": "https://web.archive.org/web/20140810061724/http://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2016-12-10T04:10:31Z",
+        "uri": "https://web.archive.org/web/20161210041031/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-05-11T16:18:31Z",
+        "uri": "https://web.archive.org/web/20170511161831/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-07-27T14:55:52Z",
+        "uri": "https://web.archive.org/web/20170727145552/http://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-08-03T17:31:13Z",
+        "uri": "https://web.archive.org/web/20170803173113/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-08-14T00:57:13Z",
+        "uri": "https://web.archive.org/web/20170814005713/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-09-13T15:12:47Z",
+        "uri": "https://web.archive.org/web/20170913151247/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-10-14T02:30:32Z",
+        "uri": "https://web.archive.org/web/20171014023032/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-11-13T23:17:31Z",
+        "uri": "https://web.archive.org/web/20171113231731/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-12-04T04:41:56Z",
+        "uri": "https://web.archive.org/web/20171204044156/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2017-12-15T03:04:39Z",
+        "uri": "https://web.archive.org/web/20171215030439/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-01-15T01:02:28Z",
+        "uri": "https://web.archive.org/web/20180115010228/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-01-16T09:39:54Z",
+        "uri": "https://web.archive.org/web/20180116093954/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-02-09T09:05:29Z",
+        "uri": "https://web.archive.org/web/20180209090529/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-02-17T03:18:55Z",
+        "uri": "https://web.archive.org/web/20180217031855/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-03-20T22:18:56Z",
+        "uri": "https://web.archive.org/web/20180320221856/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-04-20T23:19:19Z",
+        "uri": "https://web.archive.org/web/20180420231919/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-05-11T17:00:43Z",
+        "uri": "https://web.archive.org/web/20180511170043/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-05-22T13:32:38Z",
+        "uri": "https://web.archive.org/web/20180522133238/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-06-22T13:06:33Z",
+        "uri": "https://web.archive.org/web/20180622130633/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-07-11T13:22:06Z",
+        "uri": "https://web.archive.org/web/20180711132206/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-07-23T16:49:49Z",
+        "uri": "https://web.archive.org/web/20180723164949/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-08-23T20:47:57Z",
+        "uri": "https://web.archive.org/web/20180823204757/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-09-10T06:39:02Z",
+        "uri": "https://web.archive.org/web/20180910063902/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-09-23T23:47:49Z",
+        "uri": "https://web.archive.org/web/20180923234749/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-10-25T09:34:29Z",
+        "uri": "https://web.archive.org/web/20181025093429/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-11-10T17:15:36Z",
+        "uri": "https://web.archive.org/web/20181110171536/http://www.odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-11-25T13:15:53Z",
+        "uri": "https://web.archive.org/web/20181125131553/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2018-12-26T10:33:29Z",
+        "uri": "https://web.archive.org/web/20181226103329/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-01-26T19:55:53Z",
+        "uri": "https://web.archive.org/web/20190126195553/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-01-27T22:04:43Z",
+        "uri": "https://web.archive.org/web/20190127220443/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-02-28T07:28:08Z",
+        "uri": "https://web.archive.org/web/20190228072808/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-03-01T10:43:23Z",
+        "uri": "https://web.archive.org/web/20190301104323/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-04-01T22:57:25Z",
+        "uri": "https://web.archive.org/web/20190401225725/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-05-03T15:01:49Z",
+        "uri": "https://web.archive.org/web/20190503150149/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-06-04T04:22:04Z",
+        "uri": "https://web.archive.org/web/20190604042204/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-07-05T17:35:03Z",
+        "uri": "https://web.archive.org/web/20190705173503/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2019-08-05T11:57:26Z",
+        "uri": "https://web.archive.org/web/20190805115726/http://odu.edu:80/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2020-08-27T11:23:58Z",
+        "uri": "https://web.archive.org/web/20200827112358/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2020-08-27T12:54:59Z",
+        "uri": "https://web.archive.org/web/20200827125459/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-04-14T04:45:08Z",
+        "uri": "https://web.archive.org/web/20210414044508/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-04-17T18:09:17Z",
+        "uri": "https://web.archive.org/web/20210417180917/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-04-17T19:49:07Z",
+        "uri": "https://web.archive.org/web/20210417194907/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:00:52Z",
+        "uri": "https://wayback.archive-it.org/all/20210527190052/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:00:52Z",
+        "uri": "https://web.archive.org/web/20210527190052/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:01:02Z",
+        "uri": "https://wayback.archive-it.org/all/20210527190102/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:01:02Z",
+        "uri": "https://web.archive.org/web/20210527190102/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:01:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210527190107/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-05-27T19:01:07Z",
+        "uri": "https://web.archive.org/web/20210527190107/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-11-05T07:19:58Z",
+        "uri": "https://arquivo.pt/wayback/20211105071958mp_/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-11-05T07:19:58Z",
+        "uri": "https://web.archive.org/web/20211105071958/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-11-11T03:03:35Z",
+        "uri": "https://arquivo.pt/wayback/20211111030335mp_/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2021-11-11T03:03:35Z",
+        "uri": "https://web.archive.org/web/20211111030335/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-03-19T22:55:32Z",
+        "uri": "https://web.archive.org/web/20220319225532/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-03-19T23:50:21Z",
+        "uri": "https://web.archive.org/web/20220319235021/https://www.odu.edu/hs/centers/globalhealth/"
+      },
+      {
+        "datetime": "2022-04-27T13:54:54Z",
+        "uri": "https://web.archive.org/web/20220427135454/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-06-26T01:50:30Z",
+        "uri": "https://web.archive.org/web/20220626015030/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:26Z",
+        "uri": "https://wayback.archive-it.org/all/20220811202726/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:26Z",
+        "uri": "https://web.archive.org/web/20220811202726/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220811202731/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:31Z",
+        "uri": "https://web.archive.org/web/20220811202731/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220811202736/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-11T20:27:36Z",
+        "uri": "https://web.archive.org/web/20220811202736/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-15T23:48:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220815234824/http://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-08-15T23:48:24Z",
+        "uri": "https://web.archive.org/web/20220815234824/http://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-10-04T03:13:00Z",
+        "uri": "https://web.archive.org/web/20221004031300/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-10-31T11:20:39Z",
+        "uri": "https://web.archive.org/web/20221031112039/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-10-31T11:21:02Z",
+        "uri": "https://web.archive.org/web/20221031112102/http://www.odu.edu/hs/centers/globalhealth/"
+      },
+      {
+        "datetime": "2022-11-07T06:05:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060512/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-11-07T06:05:12Z",
+        "uri": "https://web.archive.org/web/20221107060512/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-11-07T19:20:59Z",
+        "uri": "https://wayback.archive-it.org/all/20221107192059/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-11-07T19:20:59Z",
+        "uri": "https://web.archive.org/web/20221107192059/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-12-07T12:42:22Z",
+        "uri": "https://wayback.archive-it.org/all/20221207124222/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-12-07T12:42:22Z",
+        "uri": "https://web.archive.org/web/20221207124222/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-12-08T06:57:27Z",
+        "uri": "https://web.archive.org/web/20221208065727/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-12-10T18:24:41Z",
+        "uri": "https://wayback.archive-it.org/all/20221210182441/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2022-12-10T18:24:41Z",
+        "uri": "https://web.archive.org/web/20221210182441/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-07T11:44:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230107114438/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-07T11:44:38Z",
+        "uri": "https://web.archive.org/web/20230107114438/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-10T03:11:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230110031131/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-10T03:11:31Z",
+        "uri": "https://web.archive.org/web/20230110031131/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-01-24T20:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20230124203103mp_/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-02-07T10:34:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230207103415/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-02-07T10:34:15Z",
+        "uri": "https://web.archive.org/web/20230207103415/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-02-10T05:38:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230210053829/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-02-10T05:38:29Z",
+        "uri": "https://web.archive.org/web/20230210053829/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-02-20T01:03:26Z",
+        "uri": "https://web.archive.org/web/20230220010326/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-07T04:58:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045806/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-07T04:58:06Z",
+        "uri": "https://web.archive.org/web/20230307045806/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-07T15:44:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230307154413/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-07T15:44:13Z",
+        "uri": "https://web.archive.org/web/20230307154413/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-03-27T22:34:55Z",
+        "uri": "https://web.archive.org/web/20230327223455/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-07-10T23:13:46Z",
+        "uri": "https://web.archive.org/web/20230710231346/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-07-10T23:40:04Z",
+        "uri": "https://web.archive.org/web/20230710234004/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-25T18:52:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230825185214/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-25T18:52:14Z",
+        "uri": "https://web.archive.org/web/20230825185214/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-25T19:26:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230825192604/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-25T19:26:04Z",
+        "uri": "https://web.archive.org/web/20230825192604/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-26T13:06:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230826130647/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-08-26T13:06:47Z",
+        "uri": "https://web.archive.org/web/20230826130647/http://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2023-11-28T03:54:25Z",
+        "uri": "https://web.archive.org/web/20231128035425/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-02-14T16:08:27Z",
+        "uri": "https://web.archive.org/web/20240214160827/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-02-21T20:14:36Z",
+        "uri": "https://web.archive.org/web/20240221201436/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-02-28T23:50:09Z",
+        "uri": "https://web.archive.org/web/20240228235009/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-03-25T12:58:01Z",
+        "uri": "https://web.archive.org/web/20240325125801/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-04-04T07:27:00Z",
+        "uri": "https://web.archive.org/web/20240404072700/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-04-17T03:30:24Z",
+        "uri": "https://web.archive.org/web/20240417033024/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-04-27T16:07:55Z",
+        "uri": "https://web.archive.org/web/20240427160755/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-05-23T23:12:05Z",
+        "uri": "https://wayback.archive-it.org/all/20240523231205/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-05-26T23:03:01Z",
+        "uri": "https://wayback.archive-it.org/all/20240526230301/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-06-04T04:13:28Z",
+        "uri": "https://web.archive.org/web/20240604041328/https://odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-09-11T08:42:00Z",
+        "uri": "https://web.archive.org/web/20240911084200/https://www.odu.edu/hs/centers/globalhealth"
+      },
+      {
+        "datetime": "2024-09-17T21:15:49Z",
+        "uri": "https://web.archive.org/web/20240917211549/https://www.odu.edu/hs/centers/globalhealth"
+      }
+    ],
+    "first": {
+      "datetime": "2014-08-10T06:17:24Z",
+      "uri": "https://web.archive.org/web/20140810061724/http://odu.edu/hs/centers/globalhealth"
+    },
+    "last": {
+      "datetime": "2024-09-17T21:15:49Z",
+      "uri": "https://web.archive.org/web/20240917211549/https://www.odu.edu/hs/centers/globalhealth"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/hs/centers/globalhealth",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/hs/centers/globalhealth",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/hs/centers/globalhealth"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/hs/centers/globalhealth"
+}

@@ -1,0 +1,86 @@
+{
+  "original_uri": "https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+  "self": "http://localhost:1208/timemap/json/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-10T23:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20200210233122mp_/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2020-05-16T19:58:28Z",
+        "uri": "https://web.archive.org/web/20200516195828/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2021-04-25T10:42:18Z",
+        "uri": "https://web.archive.org/web/20210425104218/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2021-10-13T14:29:39Z",
+        "uri": "https://web.archive.org/web/20211013142939/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2021-10-13T14:29:40Z",
+        "uri": "https://web.archive.org/web/20211013142940/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2022-02-18T17:16:58Z",
+        "uri": "https://web.archive.org/web/20220218171658/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2022-03-06T00:49:27Z",
+        "uri": "https://web.archive.org/web/20220306004927/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2022-04-27T20:31:33Z",
+        "uri": "https://web.archive.org/web/20220427203133/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2023-04-10T19:07:10Z",
+        "uri": "https://web.archive.org/web/20230410190710/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2023-06-20T02:09:28Z",
+        "uri": "https://web.archive.org/web/20230620020928/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-01-31T15:09:14Z",
+        "uri": "https://web.archive.org/web/20240131150914/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-01-31T15:10:05Z",
+        "uri": "https://web.archive.org/web/20240131151005/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-01-31T15:10:06Z",
+        "uri": "https://web.archive.org/web/20240131151006/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-02-27T02:53:01Z",
+        "uri": "https://web.archive.org/web/20240227025301/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-09-06T22:14:27Z",
+        "uri": "https://web.archive.org/web/20240906221427/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      },
+      {
+        "datetime": "2024-11-25T05:28:41Z",
+        "uri": "https://web.archive.org/web/20241125052841/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-10T23:31:22Z",
+      "uri": "https://arquivo.pt/wayback/20200210233122mp_/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+    },
+    "last": {
+      "datetime": "2024-11-25T05:28:41Z",
+      "uri": "https://web.archive.org/web/20241125052841/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+    "json_format": "http://localhost:1208/timemap/json/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard"
+}

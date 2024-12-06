@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://weiglemc.github.io/talks/",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-27T07:52:35Z",
+        "uri": "https://web.archive.org/web/20220927075235/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2023-05-30T11:03:37Z",
+        "uri": "https://web.archive.org/web/20230530110337/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2023-12-10T20:16:50Z",
+        "uri": "https://web.archive.org/web/20231210201650/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:19Z",
+        "uri": "https://web.archive.org/web/20240121112719/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2024-04-15T17:15:14Z",
+        "uri": "https://web.archive.org/web/20240415171514/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2024-05-24T19:30:27Z",
+        "uri": "https://web.archive.org/web/20240524193027/https://weiglemc.github.io/talks/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-27T07:52:35Z",
+      "uri": "https://web.archive.org/web/20220927075235/https://weiglemc.github.io/talks/"
+    },
+    "last": {
+      "datetime": "2024-05-24T19:30:27Z",
+      "uri": "https://web.archive.org/web/20240524193027/https://weiglemc.github.io/talks/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/talks/",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/talks/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/talks/"
+}

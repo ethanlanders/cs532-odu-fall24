@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-29T21:12:35Z",
+        "uri": "https://web.archive.org/web/20230929211235/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+      },
+      {
+        "datetime": "2023-12-04T20:08:32Z",
+        "uri": "https://web.archive.org/web/20231204200832/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:07Z",
+        "uri": "https://web.archive.org/web/20231216174007/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+      },
+      {
+        "datetime": "2024-04-22T23:51:11Z",
+        "uri": "https://web.archive.org/web/20240422235111/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+      },
+      {
+        "datetime": "2024-05-19T05:18:31Z",
+        "uri": "https://web.archive.org/web/20240519051831/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-29T21:12:35Z",
+      "uri": "https://web.archive.org/web/20230929211235/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+    },
+    "last": {
+      "datetime": "2024-05-19T05:18:31Z",
+      "uri": "https://web.archive.org/web/20240519051831/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/studienkollegs-preparatory-courses-in-germany/"
+}

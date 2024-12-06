@@ -1,0 +1,538 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/about/copyright.html",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/copyright.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-27T17:00:07Z",
+        "uri": "https://web.archive.org/web/20180527170007/http://dblp.uni-trier.de:80/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-06-21T05:48:26Z",
+        "uri": "https://web.archive.org/web/20180621054826/http://dblp.uni-trier.de:80/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-03T00:04:19Z",
+        "uri": "https://wayback.archive-it.org/all/20180703000419/http://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-03T00:04:19Z",
+        "uri": "https://web.archive.org/web/20180703000419/http://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-03T01:40:06Z",
+        "uri": "https://wayback.archive-it.org/all/20180703014006/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-03T01:40:06Z",
+        "uri": "https://web.archive.org/web/20180703014006/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-28T09:06:18Z",
+        "uri": "https://web.archive.org/web/20180728090618/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-07-30T19:44:20Z",
+        "uri": "https://web.archive.org/web/20180730194420/http://dblp.uni-trier.de:80/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-10-03T01:45:15Z",
+        "uri": "https://wayback.archive-it.org/all/20181003014515/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-10-03T01:45:15Z",
+        "uri": "https://web.archive.org/web/20181003014515/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2018-12-25T13:24:05Z",
+        "uri": "https://web.archive.org/web/20181225132405/http://dblp.uni-trier.de:80/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-01-02T22:29:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190102222919/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-01-02T22:29:19Z",
+        "uri": "https://web.archive.org/web/20190102222919/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-01-07T22:44:12Z",
+        "uri": "https://web.archive.org/web/20190107224412/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-03-23T19:53:02Z",
+        "uri": "https://web.archive.org/web/20190323195302/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-04-02T21:17:15Z",
+        "uri": "https://wayback.archive-it.org/all/20190402211715/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-04-02T21:17:15Z",
+        "uri": "https://web.archive.org/web/20190402211715/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-05-03T21:59:53Z",
+        "uri": "https://web.archive.org/web/20190503215953/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-07-02T20:12:06Z",
+        "uri": "https://wayback.archive-it.org/all/20190702201206/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-07-02T20:12:06Z",
+        "uri": "https://web.archive.org/web/20190702201206/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-07-07T14:19:52Z",
+        "uri": "https://web.archive.org/web/20190707141952/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-10-02T20:08:09Z",
+        "uri": "https://wayback.archive-it.org/all/20191002200809/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-10-02T20:08:09Z",
+        "uri": "https://web.archive.org/web/20191002200809/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2019-11-14T22:36:32Z",
+        "uri": "https://arquivo.pt/wayback/20191114223632mp_/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-01-02T20:57:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200102205725/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-01-02T20:57:25Z",
+        "uri": "https://web.archive.org/web/20200102205725/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-02-05T11:59:17Z",
+        "uri": "https://arquivo.pt/wayback/20200205115917mp_/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-03-12T15:49:12Z",
+        "uri": "https://arquivo.pt/wayback/20200312154912mp_/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-03-18T03:08:26Z",
+        "uri": "https://web.archive.org/web/20200318030826/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-04-21T14:39:19Z",
+        "uri": "https://web.archive.org/web/20200421143919/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-04-22T06:20:33Z",
+        "uri": "https://web.archive.org/web/20200422062033/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-05-11T16:59:47Z",
+        "uri": "https://web.archive.org/web/20200511165947/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-05-24T09:30:04Z",
+        "uri": "https://web.archive.org/web/20200524093004/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-06-09T23:49:42Z",
+        "uri": "https://web.archive.org/web/20200609234942/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-06-17T05:44:49Z",
+        "uri": "https://web.archive.org/web/20200617054449/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-06-18T06:17:20Z",
+        "uri": "https://web.archive.org/web/20200618061720/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-07-29T19:28:47Z",
+        "uri": "https://web.archive.org/web/20200729192847/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-08-01T07:01:20Z",
+        "uri": "https://web.archive.org/web/20200801070120/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-09-18T01:30:18Z",
+        "uri": "https://web.archive.org/web/20200918013018/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-10-04T04:30:26Z",
+        "uri": "https://wayback.archive-it.org/all/20201004043026/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-10-04T04:30:26Z",
+        "uri": "https://web.archive.org/web/20201004043026/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-10-28T16:42:57Z",
+        "uri": "https://web.archive.org/web/20201028164257/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2020-10-29T03:20:46Z",
+        "uri": "https://web.archive.org/web/20201029032046/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-01-03T11:57:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210103115717/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-01-03T11:57:17Z",
+        "uri": "https://web.archive.org/web/20210103115717/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-01-07T07:47:57Z",
+        "uri": "https://web.archive.org/web/20210107074757/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-03T23:18:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210403231842/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-03T23:18:42Z",
+        "uri": "https://web.archive.org/web/20210403231842/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-05T08:00:59Z",
+        "uri": "https://web.archive.org/web/20210405080059/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-11T05:07:05Z",
+        "uri": "https://web.archive.org/web/20210411050705/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-23T17:41:10Z",
+        "uri": "https://web.archive.org/web/20210423174110/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-24T05:26:38Z",
+        "uri": "https://web.archive.org/web/20210424052638/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-04-24T07:37:40Z",
+        "uri": "https://web.archive.org/web/20210424073740/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-05-06T18:24:12Z",
+        "uri": "https://web.archive.org/web/20210506182412/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-05-14T05:10:32Z",
+        "uri": "https://web.archive.org/web/20210514051032/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-07-03T14:09:27Z",
+        "uri": "https://wayback.archive-it.org/all/20210703140927/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-07-03T14:09:27Z",
+        "uri": "https://web.archive.org/web/20210703140927/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-08-11T22:01:50Z",
+        "uri": "https://web.archive.org/web/20210811220150/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-09-19T17:17:09Z",
+        "uri": "https://arquivo.pt/wayback/20210919171709mp_/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-10-04T11:04:08Z",
+        "uri": "https://wayback.archive-it.org/all/20211004110408/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-10-04T11:04:08Z",
+        "uri": "https://web.archive.org/web/20211004110408/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-10-22T19:14:56Z",
+        "uri": "https://web.archive.org/web/20211022191456/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-11-01T07:01:10Z",
+        "uri": "https://web.archive.org/web/20211101070110/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-11-20T15:00:06Z",
+        "uri": "https://web.archive.org/web/20211120150006/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-12-03T12:40:34Z",
+        "uri": "https://web.archive.org/web/20211203124034/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-12-08T04:54:27Z",
+        "uri": "https://web.archive.org/web/20211208045427/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2021-12-14T05:24:52Z",
+        "uri": "https://web.archive.org/web/20211214052452/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-01-03T16:15:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220103161512/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-01-03T16:15:12Z",
+        "uri": "https://web.archive.org/web/20220103161512/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-01-04T23:31:46Z",
+        "uri": "https://web.archive.org/web/20220104233146/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-02-20T08:51:59Z",
+        "uri": "https://web.archive.org/web/20220220085159/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-04-01T07:00:01Z",
+        "uri": "https://web.archive.org/web/20220401070001/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-04-04T11:59:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220404115946/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-04-04T11:59:46Z",
+        "uri": "https://web.archive.org/web/20220404115946/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-04-07T08:04:27Z",
+        "uri": "https://web.archive.org/web/20220407080427/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-04-27T04:53:10Z",
+        "uri": "https://web.archive.org/web/20220427045310/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-06-19T14:17:01Z",
+        "uri": "https://web.archive.org/web/20220619141701/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-07-05T10:37:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220705103732/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-07-05T10:37:32Z",
+        "uri": "https://web.archive.org/web/20220705103732/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-09-26T01:18:54Z",
+        "uri": "https://web.archive.org/web/20220926011854/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-10-04T12:08:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221004120809/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-10-04T12:08:09Z",
+        "uri": "https://web.archive.org/web/20221004120809/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-11-04T12:36:42Z",
+        "uri": "https://web.archive.org/web/20221104123642/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-11-14T23:51:49Z",
+        "uri": "https://web.archive.org/web/20221114235149/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-12-01T00:57:06Z",
+        "uri": "https://web.archive.org/web/20221201005706/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2022-12-06T03:29:22Z",
+        "uri": "https://web.archive.org/web/20221206032922/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-01-05T17:57:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230105175719/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-01-05T17:57:19Z",
+        "uri": "https://web.archive.org/web/20230105175719/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-01-28T03:42:37Z",
+        "uri": "https://web.archive.org/web/20230128034237/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-03-14T18:15:05Z",
+        "uri": "https://web.archive.org/web/20230314181505/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-04-02T17:12:03Z",
+        "uri": "https://web.archive.org/web/20230402171203/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-04-03T20:38:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230403203813/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-04-03T20:38:13Z",
+        "uri": "https://web.archive.org/web/20230403203813/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-05-02T01:22:15Z",
+        "uri": "https://web.archive.org/web/20230502012215/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-06-01T00:44:11Z",
+        "uri": "https://web.archive.org/web/20230601004411/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-06-08T02:50:45Z",
+        "uri": "https://web.archive.org/web/20230608025045/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-07-01T07:01:48Z",
+        "uri": "https://web.archive.org/web/20230701070148/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-07-04T17:04:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230704170417/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-07-04T17:04:17Z",
+        "uri": "https://web.archive.org/web/20230704170417/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-07-06T13:04:07Z",
+        "uri": "https://web.archive.org/web/20230706130407/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-08-10T14:49:16Z",
+        "uri": "https://web.archive.org/web/20230810144916/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-10-01T19:30:56Z",
+        "uri": "https://web.archive.org/web/20231001193056/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-10-04T21:33:03Z",
+        "uri": "https://wayback.archive-it.org/all/20231004213303/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-10-21T09:14:19Z",
+        "uri": "https://web.archive.org/web/20231021091419/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-11-01T02:57:31Z",
+        "uri": "https://web.archive.org/web/20231101025731/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-12-01T12:11:23Z",
+        "uri": "https://web.archive.org/web/20231201121123/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-12-08T16:47:47Z",
+        "uri": "https://web.archive.org/web/20231208164747/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-12-15T02:54:51Z",
+        "uri": "https://web.archive.org/web/20231215025451/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-12-15T17:06:37Z",
+        "uri": "https://web.archive.org/web/20231215170637/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2023-12-23T17:42:36Z",
+        "uri": "https://web.archive.org/web/20231223174236/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-01-01T15:25:40Z",
+        "uri": "https://web.archive.org/web/20240101152540/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-01-02T09:27:14Z",
+        "uri": "https://web.archive.org/web/20240102092714/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-01-05T06:07:45Z",
+        "uri": "https://web.archive.org/web/20240105060745/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-02-02T06:51:14Z",
+        "uri": "https://web.archive.org/web/20240202065114/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-02-25T04:44:29Z",
+        "uri": "https://web.archive.org/web/20240225044429/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-03-03T21:42:22Z",
+        "uri": "https://web.archive.org/web/20240303214222/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-03-24T06:01:13Z",
+        "uri": "https://web.archive.org/web/20240324060113/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-04-01T21:50:34Z",
+        "uri": "https://web.archive.org/web/20240401215034/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-04-23T10:30:08Z",
+        "uri": "https://web.archive.org/web/20240423103008/http://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-05-01T09:02:11Z",
+        "uri": "https://web.archive.org/web/20240501090211/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-05-21T02:22:06Z",
+        "uri": "https://web.archive.org/web/20240521022206/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-06-01T00:44:04Z",
+        "uri": "https://web.archive.org/web/20240601004404/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-07-04T03:38:49Z",
+        "uri": "https://web.archive.org/web/20240704033849/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-08-04T10:23:39Z",
+        "uri": "https://web.archive.org/web/20240804102339/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-09-15T20:24:34Z",
+        "uri": "https://web.archive.org/web/20240915202434/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-10-01T20:17:13Z",
+        "uri": "https://web.archive.org/web/20241001201713/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-10-06T12:22:23Z",
+        "uri": "https://web.archive.org/web/20241006122223/https://dblp.uni-trier.de/db/about/copyright.html"
+      },
+      {
+        "datetime": "2024-12-01T01:35:08Z",
+        "uri": "https://web.archive.org/web/20241201013508/https://dblp.uni-trier.de/db/about/copyright.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-27T17:00:07Z",
+      "uri": "https://web.archive.org/web/20180527170007/http://dblp.uni-trier.de:80/db/about/copyright.html"
+    },
+    "last": {
+      "datetime": "2024-12-01T01:35:08Z",
+      "uri": "https://web.archive.org/web/20241201013508/https://dblp.uni-trier.de/db/about/copyright.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/about/copyright.html",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/copyright.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/about/copyright.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/about/copyright.html"
+}

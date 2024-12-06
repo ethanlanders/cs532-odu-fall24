@@ -1,0 +1,542 @@
+{
+  "original_uri": "https://www.odu.edu/counselingservices",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/counselingservices",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-12-09T22:50:59Z",
+        "uri": "https://web.archive.org/web/20121209225059/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2013-01-17T18:00:05Z",
+        "uri": "https://web.archive.org/web/20130117180005/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2013-04-26T09:49:18Z",
+        "uri": "https://web.archive.org/web/20130426094918/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2013-07-22T08:29:59Z",
+        "uri": "https://web.archive.org/web/20130722082959/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2013-08-14T09:44:53Z",
+        "uri": "https://web.archive.org/web/20130814094453/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2013-08-20T00:57:41Z",
+        "uri": "https://web.archive.org/web/20130820005741/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2013-09-20T16:49:45Z",
+        "uri": "https://web.archive.org/web/20130920164945/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2014-01-15T15:37:00Z",
+        "uri": "https://web.archive.org/web/20140115153700/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2014-02-15T19:08:30Z",
+        "uri": "https://web.archive.org/web/20140215190830/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2014-03-28T05:48:30Z",
+        "uri": "https://web.archive.org/web/20140328054830/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2014-06-26T15:32:46Z",
+        "uri": "https://web.archive.org/web/20140626153246/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2015-11-09T12:22:41Z",
+        "uri": "https://web.archive.org/web/20151109122241/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-01-16T11:49:09Z",
+        "uri": "https://web.archive.org/web/20160116114909/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-02-16T08:12:53Z",
+        "uri": "https://web.archive.org/web/20160216081253/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-03-18T01:06:47Z",
+        "uri": "https://web.archive.org/web/20160318010647/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-04-18T23:37:49Z",
+        "uri": "https://web.archive.org/web/20160418233749/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-05-19T22:21:39Z",
+        "uri": "https://web.archive.org/web/20160519222139/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-06-19T20:15:11Z",
+        "uri": "https://web.archive.org/web/20160619201511/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-06-29T05:06:41Z",
+        "uri": "https://web.archive.org/web/20160629050641/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-07-20T14:00:05Z",
+        "uri": "https://web.archive.org/web/20160720140005/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-08-20T20:17:35Z",
+        "uri": "https://web.archive.org/web/20160820201735/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-09-21T10:10:47Z",
+        "uri": "https://web.archive.org/web/20160921101047/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2016-10-23T12:27:51Z",
+        "uri": "https://web.archive.org/web/20161023122751/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-02-04T04:13:40Z",
+        "uri": "https://web.archive.org/web/20170204041340/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-05-06T23:41:17Z",
+        "uri": "https://web.archive.org/web/20170506234117/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-06-07T02:16:30Z",
+        "uri": "https://web.archive.org/web/20170607021630/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-06-14T08:43:33Z",
+        "uri": "https://web.archive.org/web/20170614084333/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2017-07-07T23:37:41Z",
+        "uri": "https://web.archive.org/web/20170707233741/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-07-13T12:45:10Z",
+        "uri": "https://web.archive.org/web/20170713124510/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2017-07-26T14:44:14Z",
+        "uri": "https://web.archive.org/web/20170726144414/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2017-08-07T14:33:17Z",
+        "uri": "https://web.archive.org/web/20170807143317/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-09-07T14:05:24Z",
+        "uri": "https://web.archive.org/web/20170907140524/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2017-10-22T19:42:01Z",
+        "uri": "https://web.archive.org/web/20171022194201/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2018-07-22T13:16:45Z",
+        "uri": "https://web.archive.org/web/20180722131645/http://www.odu.edu:80/counselingservices"
+      },
+      {
+        "datetime": "2018-09-28T14:49:25Z",
+        "uri": "https://web.archive.org/web/20180928144925/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2018-12-30T08:53:42Z",
+        "uri": "https://web.archive.org/web/20181230085342/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-04-16T18:31:12Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183112/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-04-16T18:31:12Z",
+        "uri": "https://web.archive.org/web/20200416183112/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-04-16T18:31:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183146/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-04-16T18:31:46Z",
+        "uri": "https://web.archive.org/web/20200416183146/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-07-20T08:06:06Z",
+        "uri": "https://web.archive.org/web/20200720080606/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-07-30T08:48:36Z",
+        "uri": "https://web.archive.org/web/20200730084836/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2020-12-16T00:07:30Z",
+        "uri": "https://web.archive.org/web/20201216000730/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-01-07T15:13:44Z",
+        "uri": "https://web.archive.org/web/20210107151344/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-01-26T02:47:48Z",
+        "uri": "https://web.archive.org/web/20210126024748/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-01-26T02:47:48Z",
+        "uri": "https://web.archive.org/web/20210126024748/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-04-14T15:56:55Z",
+        "uri": "https://web.archive.org/web/20210414155655/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-04-19T23:03:17Z",
+        "uri": "https://web.archive.org/web/20210419230317/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-04-21T20:15:22Z",
+        "uri": "https://web.archive.org/web/20210421201522/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-06T10:19:32Z",
+        "uri": "https://web.archive.org/web/20210506101932/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-06T10:19:32Z",
+        "uri": "https://web.archive.org/web/20210506101932/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:04:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210443/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:04:43Z",
+        "uri": "https://web.archive.org/web/20210526210443/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:04:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210456/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:04:56Z",
+        "uri": "https://web.archive.org/web/20210526210456/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:05:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210518/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-05-26T21:05:18Z",
+        "uri": "https://web.archive.org/web/20210526210518/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-07-31T20:50:53Z",
+        "uri": "https://web.archive.org/web/20210731205053/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-07-31T21:11:55Z",
+        "uri": "http://archive.md/20210731211155/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-07-31T21:58:12Z",
+        "uri": "http://archive.md/20210731215812/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-08-13T00:57:40Z",
+        "uri": "https://web.archive.org/web/20210813005740/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-11-03T11:55:22Z",
+        "uri": "https://arquivo.pt/wayback/20211103115522mp_/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-11-03T11:55:22Z",
+        "uri": "https://web.archive.org/web/20211103115522/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-11-03T11:55:26Z",
+        "uri": "https://arquivo.pt/wayback/20211103115526mp_/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2021-11-03T11:55:26Z",
+        "uri": "https://web.archive.org/web/20211103115526/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-01-22T12:31:52Z",
+        "uri": "https://arquivo.pt/wayback/20220122123152mp_/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-01-26T06:03:17Z",
+        "uri": "https://arquivo.pt/wayback/20220126060317mp_/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-01-28T16:15:32Z",
+        "uri": "https://web.archive.org/web/20220128161532/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-03-20T00:42:01Z",
+        "uri": "https://web.archive.org/web/20220320004201/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-03-20T00:42:01Z",
+        "uri": "https://web.archive.org/web/20220320004201/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-03-20T02:03:01Z",
+        "uri": "https://web.archive.org/web/20220320020301/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-03-20T02:03:02Z",
+        "uri": "https://web.archive.org/web/20220320020302/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-04-17T07:55:39Z",
+        "uri": "https://arquivo.pt/wayback/20220417075539mp_/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-04-22T18:55:10Z",
+        "uri": "https://arquivo.pt/wayback/20220422185510mp_/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-04-22T18:55:15Z",
+        "uri": "https://arquivo.pt/wayback/20220422185515mp_/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-04-24T19:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20220424191634mp_/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-05-28T17:25:03Z",
+        "uri": "https://web.archive.org/web/20220528172503/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-06-16T18:16:27Z",
+        "uri": "https://web.archive.org/web/20220616181627/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-07-30T17:18:06Z",
+        "uri": "https://arquivo.pt/wayback/20220730171806mp_/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:50:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215050/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:50:50Z",
+        "uri": "https://web.archive.org/web/20220810215050/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:51:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215100/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:51:00Z",
+        "uri": "https://web.archive.org/web/20220810215100/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:51:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215108/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-10T21:51:08Z",
+        "uri": "https://web.archive.org/web/20220810215108/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-08-15T08:54:56Z",
+        "uri": "https://web.archive.org/web/20220815085456/http://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-10-03T05:40:37Z",
+        "uri": "https://web.archive.org/web/20221003054037/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-10-11T04:40:11Z",
+        "uri": "https://arquivo.pt/wayback/20221011044011mp_/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-11-07T06:02:07Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060207/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-11-07T06:02:07Z",
+        "uri": "https://web.archive.org/web/20221107060207/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-11-07T18:16:08Z",
+        "uri": "https://wayback.archive-it.org/all/20221107181608/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-11-07T18:16:08Z",
+        "uri": "https://web.archive.org/web/20221107181608/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-11-13T04:18:06Z",
+        "uri": "https://web.archive.org/web/20221113041806/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-12-07T11:38:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221207113840/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-12-07T11:38:40Z",
+        "uri": "https://web.archive.org/web/20221207113840/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-12-08T06:57:22Z",
+        "uri": "https://web.archive.org/web/20221208065722/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-12-10T16:32:46Z",
+        "uri": "https://wayback.archive-it.org/all/20221210163246/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2022-12-10T16:32:46Z",
+        "uri": "https://web.archive.org/web/20221210163246/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-01-07T10:48:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230107104838/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-01-07T10:48:38Z",
+        "uri": "https://web.archive.org/web/20230107104838/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-01-09T16:46:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230109164644/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-01-09T16:46:44Z",
+        "uri": "https://web.archive.org/web/20230109164644/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-01-24T20:21:52Z",
+        "uri": "https://arquivo.pt/wayback/20230124202152mp_/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-02-07T09:36:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230207093641/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-02-07T09:36:41Z",
+        "uri": "https://web.archive.org/web/20230207093641/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-02-10T01:54:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230210015439/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-02-10T01:54:39Z",
+        "uri": "https://web.archive.org/web/20230210015439/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-02-20T01:00:33Z",
+        "uri": "https://web.archive.org/web/20230220010033/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-03-07T04:54:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045415/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-03-07T04:54:15Z",
+        "uri": "https://web.archive.org/web/20230307045415/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-03-07T14:46:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230307144602/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-03-07T14:46:02Z",
+        "uri": "https://web.archive.org/web/20230307144602/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-03-27T22:34:03Z",
+        "uri": "https://web.archive.org/web/20230327223403/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-07-06T23:54:32Z",
+        "uri": "https://web.archive.org/web/20230706235432/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-07-06T23:57:52Z",
+        "uri": "https://web.archive.org/web/20230706235752/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-25T19:44:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230825194448/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-25T19:44:48Z",
+        "uri": "https://web.archive.org/web/20230825194448/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-26T05:08:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230826050827/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-26T05:08:27Z",
+        "uri": "https://web.archive.org/web/20230826050827/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-26T12:35:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230826123540/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-08-26T12:35:40Z",
+        "uri": "https://web.archive.org/web/20230826123540/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2023-10-11T22:43:40Z",
+        "uri": "https://web.archive.org/web/20231011224340/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-01-17T00:35:33Z",
+        "uri": "https://web.archive.org/web/20240117003533/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-04-04T07:26:50Z",
+        "uri": "https://web.archive.org/web/20240404072650/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-04-27T16:12:28Z",
+        "uri": "https://web.archive.org/web/20240427161228/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-05-24T04:39:30Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043930/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-05-24T16:48:28Z",
+        "uri": "https://wayback.archive-it.org/all/20240524164828/https://odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-05-27T12:12:45Z",
+        "uri": "https://wayback.archive-it.org/all/20240527121245/http://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-06-30T13:34:48Z",
+        "uri": "https://web.archive.org/web/20240630133448/https://www.odu.edu/counselingservices"
+      },
+      {
+        "datetime": "2024-07-23T18:07:57Z",
+        "uri": "https://web.archive.org/web/20240723180757/http://www.odu.edu/counselingservices"
+      }
+    ],
+    "first": {
+      "datetime": "2012-12-09T22:50:59Z",
+      "uri": "https://web.archive.org/web/20121209225059/http://www.odu.edu/counselingservices"
+    },
+    "last": {
+      "datetime": "2024-07-23T18:07:57Z",
+      "uri": "https://web.archive.org/web/20240723180757/http://www.odu.edu/counselingservices"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/counselingservices",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/counselingservices",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/counselingservices"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/counselingservices"
+}

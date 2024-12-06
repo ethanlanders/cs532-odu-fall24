@@ -1,0 +1,306 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/de/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-12T22:51:43Z",
+        "uri": "https://web.archive.org/web/20180512225143/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2018-08-16T00:25:07Z",
+        "uri": "https://web.archive.org/web/20180816002507/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2018-08-21T09:37:47Z",
+        "uri": "https://web.archive.org/web/20180821093747/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2018-10-23T04:40:56Z",
+        "uri": "https://web.archive.org/web/20181023044056/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2018-11-16T03:39:23Z",
+        "uri": "https://web.archive.org/web/20181116033923/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2019-02-10T21:24:00Z",
+        "uri": "https://web.archive.org/web/20190210212400/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2019-04-01T14:52:37Z",
+        "uri": "https://web.archive.org/web/20190401145237/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2019-04-03T08:56:12Z",
+        "uri": "https://web.archive.org/web/20190403085612/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2020-09-20T01:30:56Z",
+        "uri": "https://web.archive.org/web/20200920013056/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2020-10-23T11:28:55Z",
+        "uri": "https://web.archive.org/web/20201023112855/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-01-24T22:10:27Z",
+        "uri": "https://web.archive.org/web/20210124221027/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-04-13T16:48:46Z",
+        "uri": "https://web.archive.org/web/20210413164846/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-06-17T02:34:22Z",
+        "uri": "https://web.archive.org/web/20210617023422/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-06-17T02:34:22Z",
+        "uri": "https://web.archive.org/web/20210617023422/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-09-19T20:15:58Z",
+        "uri": "https://web.archive.org/web/20210919201558/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-11-06T19:28:54Z",
+        "uri": "https://web.archive.org/web/20211106192854/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2021-12-04T16:53:44Z",
+        "uri": "https://web.archive.org/web/20211204165344/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-02-25T00:55:28Z",
+        "uri": "https://web.archive.org/web/20220225005528/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-02-26T23:17:32Z",
+        "uri": "https://web.archive.org/web/20220226231732/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-02-27T03:35:40Z",
+        "uri": "https://web.archive.org/web/20220227033540/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-02-27T20:29:35Z",
+        "uri": "https://web.archive.org/web/20220227202935/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-03-15T03:01:12Z",
+        "uri": "https://web.archive.org/web/20220315030112/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-03-19T06:07:45Z",
+        "uri": "https://web.archive.org/web/20220319060745/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-03-28T06:27:28Z",
+        "uri": "https://web.archive.org/web/20220328062728/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-04-24T19:11:18Z",
+        "uri": "https://web.archive.org/web/20220424191118/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-05-05T21:25:59Z",
+        "uri": "https://web.archive.org/web/20220505212559/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-05-16T01:10:31Z",
+        "uri": "https://web.archive.org/web/20220516011031/http://www.daad-ukraine.org/de"
+      },
+      {
+        "datetime": "2022-05-16T01:49:19Z",
+        "uri": "https://web.archive.org/web/20220516014919/https://www.daad-ukraine.org/de"
+      },
+      {
+        "datetime": "2022-05-23T14:56:39Z",
+        "uri": "https://web.archive.org/web/20220523145639/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-05-24T12:39:59Z",
+        "uri": "https://web.archive.org/web/20220524123959/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-05-30T05:04:12Z",
+        "uri": "https://web.archive.org/web/20220530050412/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-05-30T05:04:18Z",
+        "uri": "https://web.archive.org/web/20220530050418/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-06-15T00:36:43Z",
+        "uri": "https://web.archive.org/web/20220615003643/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-06-18T23:28:40Z",
+        "uri": "https://web.archive.org/web/20220618232840/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-07-26T17:04:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220726170425/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-07-26T17:04:25Z",
+        "uri": "https://web.archive.org/web/20220726170425/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-08-02T14:56:31Z",
+        "uri": "https://web.archive.org/web/20220802145631/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-08-18T11:18:25Z",
+        "uri": "https://web.archive.org/web/20220818111825/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-21T19:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20220921190800mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-21T19:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20220921190801mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T03:47:43Z",
+        "uri": "https://arquivo.pt/wayback/20220922034743mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T03:47:44Z",
+        "uri": "https://arquivo.pt/wayback/20220922034744mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T14:10:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220922141019/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-22T14:10:19Z",
+        "uri": "https://web.archive.org/web/20220922141019/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-23T20:45:03Z",
+        "uri": "https://arquivo.pt/wayback/20220923204503mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-23T20:45:04Z",
+        "uri": "https://arquivo.pt/wayback/20220923204504mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-25T01:22:06Z",
+        "uri": "https://web.archive.org/web/20220925012206/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:22Z",
+        "uri": "https://arquivo.pt/wayback/20220930190722mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:25Z",
+        "uri": "https://arquivo.pt/wayback/20220930190725mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-09-30T19:07:27Z",
+        "uri": "https://arquivo.pt/wayback/20220930190727mp_/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-10-20T13:45:41Z",
+        "uri": "https://web.archive.org/web/20221020134541/http://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-10-27T15:17:55Z",
+        "uri": "https://wayback.archive-it.org/all/20221027151755/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-10-27T15:17:55Z",
+        "uri": "https://web.archive.org/web/20221027151755/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2022-12-25T05:12:02Z",
+        "uri": "https://web.archive.org/web/20221225051202/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-01-27T04:58:20Z",
+        "uri": "https://web.archive.org/web/20230127045820/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-02-02T18:15:09Z",
+        "uri": "https://web.archive.org/web/20230202181509/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-02-12T14:59:09Z",
+        "uri": "https://web.archive.org/web/20230212145909/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-03-12T07:37:02Z",
+        "uri": "https://web.archive.org/web/20230312073702/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-03-13T16:33:56Z",
+        "uri": "https://web.archive.org/web/20230313163356/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-05-13T19:29:22Z",
+        "uri": "https://web.archive.org/web/20230513192922/https://www.daad-ukraine.org/de"
+      },
+      {
+        "datetime": "2023-05-13T19:29:25Z",
+        "uri": "https://web.archive.org/web/20230513192925/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-06-04T01:06:24Z",
+        "uri": "https://web.archive.org/web/20230604010624/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-06-21T19:40:04Z",
+        "uri": "https://web.archive.org/web/20230621194004/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-10-31T17:52:24Z",
+        "uri": "https://web.archive.org/web/20231031175224/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-12-02T09:06:52Z",
+        "uri": "https://web.archive.org/web/20231202090652/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2023-12-04T20:08:21Z",
+        "uri": "https://web.archive.org/web/20231204200821/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2024-05-19T05:32:21Z",
+        "uri": "https://web.archive.org/web/20240519053221/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2024-09-23T22:21:32Z",
+        "uri": "https://web.archive.org/web/20240923222132/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2024-09-25T18:49:44Z",
+        "uri": "https://web.archive.org/web/20240925184944/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2024-10-07T20:43:58Z",
+        "uri": "https://web.archive.org/web/20241007204358/https://www.daad-ukraine.org/de/"
+      },
+      {
+        "datetime": "2024-11-24T14:41:32Z",
+        "uri": "https://web.archive.org/web/20241124144132/https://www.daad-ukraine.org/de/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-12T22:51:43Z",
+      "uri": "https://web.archive.org/web/20180512225143/https://www.daad-ukraine.org/de/"
+    },
+    "last": {
+      "datetime": "2024-11-24T14:41:32Z",
+      "uri": "https://web.archive.org/web/20241124144132/https://www.daad-ukraine.org/de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/de/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/de/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/de/"
+}

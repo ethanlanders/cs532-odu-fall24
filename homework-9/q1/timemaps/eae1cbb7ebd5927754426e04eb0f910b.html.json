@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-08T23:44:15Z",
+        "uri": "https://web.archive.org/web/20240708234415/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER%253A+Scalable%252C+Easy%252C+Fast."
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-08T23:44:15Z",
+      "uri": "https://web.archive.org/web/20240708234415/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER%253A+Scalable%252C+Easy%252C+Fast."
+    },
+    "last": {
+      "datetime": "2024-07-08T23:44:15Z",
+      "uri": "https://web.archive.org/web/20240708234415/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER%253A+Scalable%252C+Easy%252C+Fast."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=Semantic+Full-Text+Search+with+ESTER:+Scalable,+Easy,+Fast."
+}

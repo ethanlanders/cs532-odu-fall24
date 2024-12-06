@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-15T17:16:40Z",
+        "uri": "https://web.archive.org/web/20231215171640/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+      },
+      {
+        "datetime": "2024-04-18T22:19:04Z",
+        "uri": "https://web.archive.org/web/20240418221904/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-15T17:16:40Z",
+      "uri": "https://web.archive.org/web/20231215171640/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+    },
+    "last": {
+      "datetime": "2024-04-18T22:19:04Z",
+      "uri": "https://web.archive.org/web/20240418221904/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=Efficient+interactive+query+expansion+with+complete+search."
+}

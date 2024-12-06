@@ -1,0 +1,430 @@
+{
+  "original_uri": "https://www.odu.edu/academics/student-computing/student-email",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/student-computing/student-email",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-12-30T01:17:13Z",
+        "uri": "https://web.archive.org/web/20131230011713/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2014-01-29T20:23:05Z",
+        "uri": "https://web.archive.org/web/20140129202305/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2014-03-15T21:17:59Z",
+        "uri": "https://web.archive.org/web/20140315211759/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2014-03-29T11:46:50Z",
+        "uri": "https://web.archive.org/web/20140329114650/http://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2014-07-04T01:12:28Z",
+        "uri": "https://web.archive.org/web/20140704011228/http://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2015-07-26T01:32:46Z",
+        "uri": "https://web.archive.org/web/20150726013246/http://odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2015-08-25T09:28:14Z",
+        "uri": "https://web.archive.org/web/20150825092814/http://odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-04-13T06:19:32Z",
+        "uri": "https://web.archive.org/web/20160413061932/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-05-14T01:33:11Z",
+        "uri": "https://web.archive.org/web/20160514013311/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-06-09T01:47:17Z",
+        "uri": "https://web.archive.org/web/20160609014717/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-07-10T08:15:49Z",
+        "uri": "https://web.archive.org/web/20160710081549/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-08-10T10:21:32Z",
+        "uri": "https://web.archive.org/web/20160810102132/http://odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-09-11T01:05:15Z",
+        "uri": "https://web.archive.org/web/20160911010515/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-10-12T14:12:12Z",
+        "uri": "https://web.archive.org/web/20161012141212/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-11-12T21:45:17Z",
+        "uri": "https://web.archive.org/web/20161112214517/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2016-11-14T11:31:31Z",
+        "uri": "https://web.archive.org/web/20161114113131/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-02-17T13:04:02Z",
+        "uri": "https://web.archive.org/web/20170217130402/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-03-14T08:25:55Z",
+        "uri": "https://web.archive.org/web/20170314082555/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-04-20T10:59:23Z",
+        "uri": "https://web.archive.org/web/20170420105923/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-07-17T18:36:26Z",
+        "uri": "https://web.archive.org/web/20170717183626/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-07-18T18:44:35Z",
+        "uri": "https://web.archive.org/web/20170718184435/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-07-23T14:28:54Z",
+        "uri": "https://web.archive.org/web/20170723142854/http://odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-07-28T00:02:49Z",
+        "uri": "https://web.archive.org/web/20170728000249/http://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-09-20T03:40:13Z",
+        "uri": "https://web.archive.org/web/20170920034013/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-10-08T18:24:13Z",
+        "uri": "https://web.archive.org/web/20171008182413/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-11-19T15:54:59Z",
+        "uri": "https://web.archive.org/web/20171119155459/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-11-29T07:41:00Z",
+        "uri": "https://web.archive.org/web/20171129074100/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-12-10T12:41:04Z",
+        "uri": "https://web.archive.org/web/20171210124104/http://odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2017-12-30T10:38:00Z",
+        "uri": "https://web.archive.org/web/20171230103800/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-01-31T13:01:07Z",
+        "uri": "https://web.archive.org/web/20180131130107/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-03-03T19:00:17Z",
+        "uri": "https://web.archive.org/web/20180303190017/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-03-05T17:15:40Z",
+        "uri": "https://web.archive.org/web/20180305171540/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-05-08T04:45:51Z",
+        "uri": "https://web.archive.org/web/20180508044551/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-07-09T02:47:52Z",
+        "uri": "https://web.archive.org/web/20180709024752/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-09-08T08:22:13Z",
+        "uri": "https://web.archive.org/web/20180908082213/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2018-11-08T10:15:39Z",
+        "uri": "https://web.archive.org/web/20181108101539/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-01-08T18:59:03Z",
+        "uri": "https://web.archive.org/web/20190108185903/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-03-10T22:11:36Z",
+        "uri": "https://web.archive.org/web/20190310221136/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-05-10T19:06:33Z",
+        "uri": "https://web.archive.org/web/20190510190633/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-07-15T05:14:48Z",
+        "uri": "https://web.archive.org/web/20190715051448/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-09-13T18:08:08Z",
+        "uri": "https://web.archive.org/web/20190913180808/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-11-05T07:40:25Z",
+        "uri": "https://web.archive.org/web/20191105074025/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2019-12-01T19:10:10Z",
+        "uri": "https://web.archive.org/web/20191201191010/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2020-01-08T07:01:59Z",
+        "uri": "https://web.archive.org/web/20200108070159/http://www.odu.edu:80/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2020-08-07T23:13:05Z",
+        "uri": "https://web.archive.org/web/20200807231305/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2020-08-17T11:36:42Z",
+        "uri": "https://web.archive.org/web/20200817113642/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-04-16T04:27:54Z",
+        "uri": "https://web.archive.org/web/20210416042754/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-04-17T19:20:10Z",
+        "uri": "https://web.archive.org/web/20210417192010/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:12:06Z",
+        "uri": "https://wayback.archive-it.org/all/20210527131206/https://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:12:06Z",
+        "uri": "https://web.archive.org/web/20210527131206/https://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:13:05Z",
+        "uri": "https://wayback.archive-it.org/all/20210527131305/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:13:05Z",
+        "uri": "https://web.archive.org/web/20210527131305/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:13:41Z",
+        "uri": "https://wayback.archive-it.org/all/20210527131341/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-05-27T13:13:41Z",
+        "uri": "https://web.archive.org/web/20210527131341/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2021-09-05T06:01:27Z",
+        "uri": "https://web.archive.org/web/20210905060127/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-04-07T09:44:52Z",
+        "uri": "https://web.archive.org/web/20220407094452/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-08T14:08:53Z",
+        "uri": "https://web.archive.org/web/20220808140853/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:04Z",
+        "uri": "https://wayback.archive-it.org/all/20220811152804/https://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:04Z",
+        "uri": "https://web.archive.org/web/20220811152804/https://odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220811152821/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:21Z",
+        "uri": "https://web.archive.org/web/20220811152821/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220811152829/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-11T15:28:29Z",
+        "uri": "https://web.archive.org/web/20220811152829/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-08-14T10:18:57Z",
+        "uri": "https://web.archive.org/web/20220814101857/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-11-07T07:05:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221107070524/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-11-07T07:05:24Z",
+        "uri": "https://web.archive.org/web/20221107070524/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-11-07T07:05:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221107070525/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-11-07T07:05:25Z",
+        "uri": "https://web.archive.org/web/20221107070525/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-12-07T23:21:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221207232134/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-12-07T23:21:34Z",
+        "uri": "https://web.archive.org/web/20221207232134/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-12-07T23:22:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221207232233/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-12-07T23:22:33Z",
+        "uri": "https://web.archive.org/web/20221207232233/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2022-12-18T12:19:10Z",
+        "uri": "https://web.archive.org/web/20221218121910/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-01-07T20:46:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230107204616/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-01-07T20:46:16Z",
+        "uri": "https://web.archive.org/web/20230107204616/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-01-07T20:46:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230107204624/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-01-07T20:46:24Z",
+        "uri": "https://web.archive.org/web/20230107204624/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-02-07T20:05:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230207200545/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-02-07T20:05:45Z",
+        "uri": "https://web.archive.org/web/20230207200545/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-02-07T20:06:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230207200610/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-02-07T20:06:10Z",
+        "uri": "https://web.archive.org/web/20230207200610/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-03-07T05:27:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230307052757/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-03-07T05:27:57Z",
+        "uri": "https://web.archive.org/web/20230307052757/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-03-07T05:28:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230307052800/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-03-07T05:28:00Z",
+        "uri": "https://web.archive.org/web/20230307052800/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-04-29T12:18:51Z",
+        "uri": "https://web.archive.org/web/20230429121851/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-05-11T05:03:53Z",
+        "uri": "https://web.archive.org/web/20230511050353/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-08-25T19:15:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191519/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-08-25T19:15:19Z",
+        "uri": "https://web.archive.org/web/20230825191519/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-08-25T19:51:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230825195144/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-08-25T19:51:44Z",
+        "uri": "https://web.archive.org/web/20230825195144/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2023-11-28T03:54:19Z",
+        "uri": "https://web.archive.org/web/20231128035419/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-02-28T21:32:10Z",
+        "uri": "https://web.archive.org/web/20240228213210/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-03-25T12:55:07Z",
+        "uri": "https://web.archive.org/web/20240325125507/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-04-04T07:27:02Z",
+        "uri": "https://web.archive.org/web/20240404072702/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-04-17T03:30:44Z",
+        "uri": "https://web.archive.org/web/20240417033044/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-04-27T16:07:52Z",
+        "uri": "https://web.archive.org/web/20240427160752/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-05-24T00:09:01Z",
+        "uri": "https://wayback.archive-it.org/all/20240524000901/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-05-24T04:33:20Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043320/http://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-06-18T17:39:31Z",
+        "uri": "https://web.archive.org/web/20240618173931/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-07-15T23:30:23Z",
+        "uri": "https://web.archive.org/web/20240715233023/https://www.odu.edu/academics/student-computing/student-email"
+      },
+      {
+        "datetime": "2024-09-14T15:27:31Z",
+        "uri": "https://web.archive.org/web/20240914152731/https://www.odu.edu/academics/student-computing/student-email"
+      }
+    ],
+    "first": {
+      "datetime": "2013-12-30T01:17:13Z",
+      "uri": "https://web.archive.org/web/20131230011713/http://www.odu.edu:80/academics/student-computing/student-email"
+    },
+    "last": {
+      "datetime": "2024-09-14T15:27:31Z",
+      "uri": "https://web.archive.org/web/20240914152731/https://www.odu.edu/academics/student-computing/student-email"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/academics/student-computing/student-email",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/student-computing/student-email",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/academics/student-computing/student-email"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/academics/student-computing/student-email"
+}

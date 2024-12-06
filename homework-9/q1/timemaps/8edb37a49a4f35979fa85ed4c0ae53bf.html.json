@@ -1,0 +1,306 @@
+{
+  "original_uri": "https://openalex.org/about",
+  "self": "http://localhost:1208/timemap/json/https://openalex.org/about",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-20T20:29:11Z",
+        "uri": "https://web.archive.org/web/20211120202911/https://openalex.org/about"
+      },
+      {
+        "datetime": "2021-11-21T13:08:14Z",
+        "uri": "https://web.archive.org/web/20211121130814/https://openalex.org/about"
+      },
+      {
+        "datetime": "2021-12-02T00:58:57Z",
+        "uri": "https://web.archive.org/web/20211202005857/http://openalex.org/about"
+      },
+      {
+        "datetime": "2021-12-02T22:37:59Z",
+        "uri": "https://web.archive.org/web/20211202223759/http://openalex.org/about"
+      },
+      {
+        "datetime": "2022-01-22T13:02:54Z",
+        "uri": "https://web.archive.org/web/20220122130254/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-01-28T08:32:51Z",
+        "uri": "https://web.archive.org/web/20220128083251/http://openalex.org/about"
+      },
+      {
+        "datetime": "2022-02-07T06:47:12Z",
+        "uri": "https://web.archive.org/web/20220207064712/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-02-07T06:52:48Z",
+        "uri": "https://web.archive.org/web/20220207065248/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-03-18T05:02:15Z",
+        "uri": "https://web.archive.org/web/20220318050215/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-03-31T12:55:24Z",
+        "uri": "https://web.archive.org/web/20220331125524/http://openalex.org/about"
+      },
+      {
+        "datetime": "2022-03-31T12:59:42Z",
+        "uri": "https://web.archive.org/web/20220331125942/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-04-01T08:43:35Z",
+        "uri": "https://web.archive.org/web/20220401084335/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-04-01T08:45:15Z",
+        "uri": "https://web.archive.org/web/20220401084515/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-04-08T08:59:21Z",
+        "uri": "https://web.archive.org/web/20220408085921/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-05-22T18:12:20Z",
+        "uri": "https://arquivo.pt/wayback/20220522181220mp_/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-05-22T18:12:20Z",
+        "uri": "https://arquivo.pt/wayback/20220522181220mp_/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-05-26T08:28:11Z",
+        "uri": "https://web.archive.org/web/20220526082811/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-05-31T05:01:39Z",
+        "uri": "https://web.archive.org/web/20220531050139/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-05-31T19:40:42Z",
+        "uri": "https://web.archive.org/web/20220531194042/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-07-24T23:58:09Z",
+        "uri": "https://web.archive.org/web/20220724235809/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-08-28T04:25:32Z",
+        "uri": "https://arquivo.pt/wayback/20220828042532mp_/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-09-26T01:18:49Z",
+        "uri": "https://web.archive.org/web/20220926011849/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-10-03T12:00:53Z",
+        "uri": "https://web.archive.org/web/20221003120053/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-10-17T20:54:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221017205404/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-10-17T20:54:04Z",
+        "uri": "https://web.archive.org/web/20221017205404/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-11-28T11:58:38Z",
+        "uri": "https://web.archive.org/web/20221128115838/https://openalex.org/about"
+      },
+      {
+        "datetime": "2022-12-25T10:30:54Z",
+        "uri": "https://web.archive.org/web/20221225103054/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-01-27T15:05:24Z",
+        "uri": "https://web.archive.org/web/20230127150524/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-02-16T14:10:12Z",
+        "uri": "https://web.archive.org/web/20230216141012/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-02-28T06:47:08Z",
+        "uri": "https://web.archive.org/web/20230228064708/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-03-03T13:57:41Z",
+        "uri": "https://web.archive.org/web/20230303135741/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-03-11T03:47:06Z",
+        "uri": "https://web.archive.org/web/20230311034706/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-03-15T03:31:56Z",
+        "uri": "https://web.archive.org/web/20230315033156/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-03-27T00:58:52Z",
+        "uri": "https://web.archive.org/web/20230327005852/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-03-31T20:39:16Z",
+        "uri": "https://web.archive.org/web/20230331203916/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-04-01T05:03:52Z",
+        "uri": "https://web.archive.org/web/20230401050352/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-04-05T12:51:12Z",
+        "uri": "https://web.archive.org/web/20230405125112/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-04-19T08:27:49Z",
+        "uri": "https://web.archive.org/web/20230419082749/http://openalex.org/about"
+      },
+      {
+        "datetime": "2023-04-20T10:26:21Z",
+        "uri": "https://web.archive.org/web/20230420102621/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-04-21T12:14:41Z",
+        "uri": "https://web.archive.org/web/20230421121441/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-05-01T12:51:09Z",
+        "uri": "https://web.archive.org/web/20230501125109/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-05-31T16:09:25Z",
+        "uri": "https://web.archive.org/web/20230531160925/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-06-01T00:04:04Z",
+        "uri": "https://web.archive.org/web/20230601000404/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-08-24T04:17:50Z",
+        "uri": "https://web.archive.org/web/20230824041750/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-09-12T07:29:33Z",
+        "uri": "https://web.archive.org/web/20230912072933/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-09-23T09:36:35Z",
+        "uri": "https://web.archive.org/web/20230923093635/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-10-29T20:22:44Z",
+        "uri": "https://web.archive.org/web/20231029202244/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-12-13T10:03:17Z",
+        "uri": "https://web.archive.org/web/20231213100317/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-12-15T02:52:55Z",
+        "uri": "https://web.archive.org/web/20231215025255/https://openalex.org/about"
+      },
+      {
+        "datetime": "2023-12-15T17:20:42Z",
+        "uri": "https://web.archive.org/web/20231215172042/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-02-25T04:45:37Z",
+        "uri": "https://web.archive.org/web/20240225044537/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-03-24T16:41:13Z",
+        "uri": "https://wayback.archive-it.org/all/20240324164113/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-04-25T02:10:06Z",
+        "uri": "https://web.archive.org/web/20240425021006/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-04-25T02:51:02Z",
+        "uri": "https://web.archive.org/web/20240425025102/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-04-27T01:20:27Z",
+        "uri": "https://web.archive.org/web/20240427012027/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-05-23T16:28:33Z",
+        "uri": "https://wayback.archive-it.org/all/20240523162833/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-06-05T02:22:27Z",
+        "uri": "https://web.archive.org/web/20240605022227/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-06-14T05:16:41Z",
+        "uri": "https://web.archive.org/web/20240614051641/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-06-18T01:21:29Z",
+        "uri": "https://web.archive.org/web/20240618012129/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-06-25T23:18:59Z",
+        "uri": "https://wayback.archive-it.org/all/20240625231859/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-07-23T21:07:38Z",
+        "uri": "https://wayback.archive-it.org/all/20240723210738/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-08-23T21:54:07Z",
+        "uri": "https://wayback.archive-it.org/all/20240823215407/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-08-24T10:37:15Z",
+        "uri": "https://web.archive.org/web/20240824103715/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-09-08T12:19:55Z",
+        "uri": "https://web.archive.org/web/20240908121955/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-09-15T21:35:07Z",
+        "uri": "https://web.archive.org/web/20240915213507/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-09-24T15:27:25Z",
+        "uri": "https://web.archive.org/web/20240924152725/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-09-25T16:49:51Z",
+        "uri": "https://web.archive.org/web/20240925164951/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-10-07T09:18:44Z",
+        "uri": "https://web.archive.org/web/20241007091844/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-11-05T03:30:03Z",
+        "uri": "https://web.archive.org/web/20241105033003/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-11-27T01:49:00Z",
+        "uri": "https://web.archive.org/web/20241127014900/https://openalex.org/about"
+      },
+      {
+        "datetime": "2024-11-27T05:10:40Z",
+        "uri": "https://web.archive.org/web/20241127051040/https://openalex.org/about"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-20T20:29:11Z",
+      "uri": "https://web.archive.org/web/20211120202911/https://openalex.org/about"
+    },
+    "last": {
+      "datetime": "2024-11-27T05:10:40Z",
+      "uri": "https://web.archive.org/web/20241127051040/https://openalex.org/about"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://openalex.org/about",
+    "json_format": "http://localhost:1208/timemap/json/https://openalex.org/about",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://openalex.org/about"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://openalex.org/about"
+}

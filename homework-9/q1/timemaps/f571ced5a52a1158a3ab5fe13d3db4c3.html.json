@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en",
+  "self": "http://localhost:1208/timemap/json/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-24T23:59:39Z",
+        "uri": "https://web.archive.org/web/20240424235939/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+      },
+      {
+        "datetime": "2024-04-25T00:51:06Z",
+        "uri": "https://web.archive.org/web/20240425005106/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+      },
+      {
+        "datetime": "2024-04-25T04:55:28Z",
+        "uri": "https://web.archive.org/web/20240425045528/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-24T23:59:39Z",
+      "uri": "https://web.archive.org/web/20240424235939/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+    },
+    "last": {
+      "datetime": "2024-04-25T04:55:28Z",
+      "uri": "https://web.archive.org/web/20240425045528/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en",
+    "json_format": "http://localhost:1208/timemap/json/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en"
+}

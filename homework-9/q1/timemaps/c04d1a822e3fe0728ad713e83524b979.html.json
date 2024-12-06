@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-18T03:22:16Z",
+        "uri": "https://web.archive.org/web/20240418032216/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-18T03:22:16Z",
+      "uri": "https://web.archive.org/web/20240418032216/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data."
+    },
+    "last": {
+      "datetime": "2024-04-18T03:22:16Z",
+      "uri": "https://web.archive.org/web/20240418032216/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=An+Efficient+RDF+Converter+and+SPARQL+Endpoint+for+the+Complete+OpenStreetMap+Data."
+}

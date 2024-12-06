@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-29T21:08:12Z",
+        "uri": "https://web.archive.org/web/20230929210812/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+      },
+      {
+        "datetime": "2023-12-02T09:30:44Z",
+        "uri": "https://web.archive.org/web/20231202093044/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+      },
+      {
+        "datetime": "2023-12-04T20:08:40Z",
+        "uri": "https://web.archive.org/web/20231204200840/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+      },
+      {
+        "datetime": "2024-05-19T05:52:53Z",
+        "uri": "https://web.archive.org/web/20240519055253/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-29T21:08:12Z",
+      "uri": "https://web.archive.org/web/20230929210812/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+    },
+    "last": {
+      "datetime": "2024-05-19T05:52:53Z",
+      "uri": "https://web.archive.org/web/20240519055253/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/starting-your-studies-in-germany/university-entrance-qualification/"
+}

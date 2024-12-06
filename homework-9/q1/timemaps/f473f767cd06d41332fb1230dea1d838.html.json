@@ -1,0 +1,830 @@
+{
+  "original_uri": "https://info.arxiv.org/help/license/index.html",
+  "self": "http://localhost:1208/timemap/json/https://info.arxiv.org/help/license/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-02-01T21:30:02Z",
+        "uri": "https://web.archive.org/web/20230201213002/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-02-02T08:10:32Z",
+        "uri": "https://web.archive.org/web/20230202081032/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-02-02T20:35:59Z",
+        "uri": "https://web.archive.org/web/20230202203559/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-02-25T06:04:13Z",
+        "uri": "https://web.archive.org/web/20230225060413/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-02-25T06:04:24Z",
+        "uri": "https://web.archive.org/web/20230225060424/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-02-27T18:04:58Z",
+        "uri": "https://web.archive.org/web/20230227180458/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-04T14:01:02Z",
+        "uri": "https://web.archive.org/web/20230304140102/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-06T06:06:59Z",
+        "uri": "https://web.archive.org/web/20230306060659/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-06T06:29:55Z",
+        "uri": "https://web.archive.org/web/20230306062955/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-10T23:23:59Z",
+        "uri": "https://web.archive.org/web/20230310232359/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-14T15:58:02Z",
+        "uri": "https://web.archive.org/web/20230314155802/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-21T19:13:24Z",
+        "uri": "https://web.archive.org/web/20230321191324/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-21T19:13:36Z",
+        "uri": "https://web.archive.org/web/20230321191336/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-24T03:48:40Z",
+        "uri": "https://web.archive.org/web/20230324034840/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-25T17:02:41Z",
+        "uri": "https://web.archive.org/web/20230325170241/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-03-28T05:49:56Z",
+        "uri": "https://web.archive.org/web/20230328054956/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-04-10T00:28:12Z",
+        "uri": "https://web.archive.org/web/20230410002812/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-04-26T09:23:22Z",
+        "uri": "https://web.archive.org/web/20230426092322/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-05-07T00:11:07Z",
+        "uri": "https://web.archive.org/web/20230507001107/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-05-30T09:57:30Z",
+        "uri": "https://web.archive.org/web/20230530095730/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-05-30T14:08:44Z",
+        "uri": "https://web.archive.org/web/20230530140844/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-05-30T19:57:40Z",
+        "uri": "https://web.archive.org/web/20230530195740/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-01T00:44:03Z",
+        "uri": "https://web.archive.org/web/20230601004403/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-01T16:23:26Z",
+        "uri": "https://web.archive.org/web/20230601162326/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-01T17:54:11Z",
+        "uri": "https://web.archive.org/web/20230601175411/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-09T10:15:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230609101520/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-09T10:15:20Z",
+        "uri": "https://web.archive.org/web/20230609101520/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-06-23T08:43:44Z",
+        "uri": "https://web.archive.org/web/20230623084344/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-07-14T01:37:26Z",
+        "uri": "https://web.archive.org/web/20230714013726/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-07-21T22:01:15Z",
+        "uri": "https://web.archive.org/web/20230721220115/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-01T04:36:51Z",
+        "uri": "https://web.archive.org/web/20230801043651/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-01T13:30:19Z",
+        "uri": "https://web.archive.org/web/20230801133019/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-02T10:53:25Z",
+        "uri": "https://web.archive.org/web/20230802105325/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-09T23:46:54Z",
+        "uri": "https://web.archive.org/web/20230809234654/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-17T17:19:27Z",
+        "uri": "https://web.archive.org/web/20230817171927/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-24T13:40:01Z",
+        "uri": "https://web.archive.org/web/20230824134001/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-28T06:57:51Z",
+        "uri": "https://web.archive.org/web/20230828065751/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-08-31T05:25:47Z",
+        "uri": "https://web.archive.org/web/20230831052547/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-09-16T11:53:02Z",
+        "uri": "https://web.archive.org/web/20230916115302/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-09-21T08:52:06Z",
+        "uri": "https://web.archive.org/web/20230921085206/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-09-21T15:22:54Z",
+        "uri": "https://web.archive.org/web/20230921152254/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-10-07T05:22:36Z",
+        "uri": "https://web.archive.org/web/20231007052236/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-10-15T02:56:52Z",
+        "uri": "https://web.archive.org/web/20231015025652/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-02T04:21:32Z",
+        "uri": "https://web.archive.org/web/20231102042132/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-06T11:41:07Z",
+        "uri": "https://web.archive.org/web/20231106114107/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-13T23:29:28Z",
+        "uri": "https://web.archive.org/web/20231113232928/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-16T05:08:36Z",
+        "uri": "https://web.archive.org/web/20231116050836/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-24T14:58:11Z",
+        "uri": "https://web.archive.org/web/20231124145811/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-11-27T09:33:27Z",
+        "uri": "https://web.archive.org/web/20231127093327/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-02T10:02:21Z",
+        "uri": "https://web.archive.org/web/20231202100221/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-06T07:27:23Z",
+        "uri": "https://web.archive.org/web/20231206072723/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-15T02:24:01Z",
+        "uri": "https://web.archive.org/web/20231215022401/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-15T16:38:19Z",
+        "uri": "https://web.archive.org/web/20231215163819/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-15T20:39:25Z",
+        "uri": "https://web.archive.org/web/20231215203925/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-16T09:18:43Z",
+        "uri": "https://web.archive.org/web/20231216091843/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-16T12:04:43Z",
+        "uri": "https://web.archive.org/web/20231216120443/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-16T13:07:26Z",
+        "uri": "https://web.archive.org/web/20231216130726/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-18T04:32:42Z",
+        "uri": "https://web.archive.org/web/20231218043242/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-24T22:11:16Z",
+        "uri": "https://web.archive.org/web/20231224221116/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-25T00:13:18Z",
+        "uri": "https://web.archive.org/web/20231225001318/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-25T00:13:19Z",
+        "uri": "https://web.archive.org/web/20231225001319/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-25T00:13:20Z",
+        "uri": "https://web.archive.org/web/20231225001320/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-25T00:13:21Z",
+        "uri": "https://web.archive.org/web/20231225001321/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-25T00:13:21Z",
+        "uri": "https://web.archive.org/web/20231225001321/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-28T05:38:44Z",
+        "uri": "https://web.archive.org/web/20231228053844/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2023-12-31T22:48:39Z",
+        "uri": "https://web.archive.org/web/20231231224839/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-02T00:10:24Z",
+        "uri": "https://web.archive.org/web/20240102001024/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-05T14:14:01Z",
+        "uri": "https://web.archive.org/web/20240105141401/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-07T23:41:39Z",
+        "uri": "https://web.archive.org/web/20240107234139/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-14T23:55:20Z",
+        "uri": "https://web.archive.org/web/20240114235520/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-18T03:44:24Z",
+        "uri": "https://web.archive.org/web/20240118034424/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-19T11:45:31Z",
+        "uri": "https://wayback.archive-it.org/all/20240119114531/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-22T00:08:26Z",
+        "uri": "https://web.archive.org/web/20240122000826/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-22T22:41:58Z",
+        "uri": "https://web.archive.org/web/20240122224158/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-24T22:17:10Z",
+        "uri": "https://web.archive.org/web/20240124221710/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-01-29T23:08:44Z",
+        "uri": "https://web.archive.org/web/20240129230844/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-02T09:33:35Z",
+        "uri": "https://web.archive.org/web/20240202093335/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-04T19:51:58Z",
+        "uri": "https://web.archive.org/web/20240204195158/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-05T09:51:25Z",
+        "uri": "https://web.archive.org/web/20240205095125/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-05T23:34:36Z",
+        "uri": "https://web.archive.org/web/20240205233436/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-07T02:51:11Z",
+        "uri": "https://web.archive.org/web/20240207025111/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-07T13:39:10Z",
+        "uri": "https://web.archive.org/web/20240207133910/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-11T14:09:06Z",
+        "uri": "https://web.archive.org/web/20240211140906/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-20T01:26:43Z",
+        "uri": "https://web.archive.org/web/20240220012643/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-20T06:28:02Z",
+        "uri": "https://web.archive.org/web/20240220062802/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-02-27T02:04:27Z",
+        "uri": "https://web.archive.org/web/20240227020427/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-02T18:39:15Z",
+        "uri": "https://web.archive.org/web/20240302183915/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-03T12:10:25Z",
+        "uri": "https://web.archive.org/web/20240303121025/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-04T18:02:41Z",
+        "uri": "https://web.archive.org/web/20240304180241/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-04T21:20:24Z",
+        "uri": "https://web.archive.org/web/20240304212024/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-09T19:19:31Z",
+        "uri": "https://web.archive.org/web/20240309191931/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-11T04:50:59Z",
+        "uri": "https://web.archive.org/web/20240311045059/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-12T04:16:28Z",
+        "uri": "https://web.archive.org/web/20240312041628/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-13T03:23:12Z",
+        "uri": "https://web.archive.org/web/20240313032312/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-14T09:30:35Z",
+        "uri": "https://web.archive.org/web/20240314093035/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-19T04:35:05Z",
+        "uri": "https://web.archive.org/web/20240319043505/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-19T05:24:30Z",
+        "uri": "https://web.archive.org/web/20240319052430/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-19T12:37:18Z",
+        "uri": "https://web.archive.org/web/20240319123718/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-03-26T05:35:48Z",
+        "uri": "https://web.archive.org/web/20240326053548/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-02T06:05:53Z",
+        "uri": "https://web.archive.org/web/20240402060553/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-05T07:41:18Z",
+        "uri": "https://web.archive.org/web/20240405074118/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-09T06:49:16Z",
+        "uri": "https://web.archive.org/web/20240409064916/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-13T23:16:04Z",
+        "uri": "https://web.archive.org/web/20240413231604/http://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-14T06:11:20Z",
+        "uri": "https://web.archive.org/web/20240414061120/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-18T18:17:20Z",
+        "uri": "https://web.archive.org/web/20240418181720/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-20T16:06:27Z",
+        "uri": "https://web.archive.org/web/20240420160627/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-20T16:27:27Z",
+        "uri": "https://web.archive.org/web/20240420162727/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-23T21:58:44Z",
+        "uri": "https://web.archive.org/web/20240423215844/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-25T18:51:16Z",
+        "uri": "https://web.archive.org/web/20240425185116/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-25T22:53:18Z",
+        "uri": "https://web.archive.org/web/20240425225318/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-27T15:31:27Z",
+        "uri": "https://web.archive.org/web/20240427153127/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-04-29T21:26:56Z",
+        "uri": "https://web.archive.org/web/20240429212656/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-01T15:39:14Z",
+        "uri": "https://web.archive.org/web/20240501153914/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-01T19:47:40Z",
+        "uri": "https://web.archive.org/web/20240501194740/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-02T19:20:18Z",
+        "uri": "https://web.archive.org/web/20240502192018/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-11T11:39:28Z",
+        "uri": "https://web.archive.org/web/20240511113928/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-11T20:05:57Z",
+        "uri": "https://web.archive.org/web/20240511200557/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-17T03:42:16Z",
+        "uri": "https://web.archive.org/web/20240517034216/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-17T06:06:12Z",
+        "uri": "https://web.archive.org/web/20240517060612/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-17T18:30:33Z",
+        "uri": "https://web.archive.org/web/20240517183033/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-22T16:35:01Z",
+        "uri": "https://web.archive.org/web/20240522163501/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-24T19:43:35Z",
+        "uri": "https://web.archive.org/web/20240524194335/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-25T20:16:18Z",
+        "uri": "https://web.archive.org/web/20240525201618/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-05-26T04:01:32Z",
+        "uri": "https://web.archive.org/web/20240526040132/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-01T01:56:48Z",
+        "uri": "https://web.archive.org/web/20240601015648/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-01T07:31:47Z",
+        "uri": "https://web.archive.org/web/20240601073147/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-06T13:32:44Z",
+        "uri": "https://wayback.archive-it.org/all/20240606133244/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-06T13:32:44Z",
+        "uri": "https://web.archive.org/web/20240606133244/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-08T02:08:04Z",
+        "uri": "https://web.archive.org/web/20240608020804/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-11T01:41:31Z",
+        "uri": "https://web.archive.org/web/20240611014131/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-13T03:01:11Z",
+        "uri": "https://web.archive.org/web/20240613030111/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-15T02:35:12Z",
+        "uri": "https://web.archive.org/web/20240615023512/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-17T10:22:30Z",
+        "uri": "https://web.archive.org/web/20240617102230/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-19T19:53:59Z",
+        "uri": "https://web.archive.org/web/20240619195359/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-22T03:06:55Z",
+        "uri": "https://web.archive.org/web/20240622030655/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-22T05:47:44Z",
+        "uri": "https://web.archive.org/web/20240622054744/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-22T15:55:34Z",
+        "uri": "https://vefsafn.is/20240622155534mp_/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-22T22:16:33Z",
+        "uri": "https://web.archive.org/web/20240622221633/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-29T04:28:32Z",
+        "uri": "https://web.archive.org/web/20240629042832/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-06-30T03:08:02Z",
+        "uri": "https://web.archive.org/web/20240630030802/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-01T12:40:15Z",
+        "uri": "https://web.archive.org/web/20240701124015/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-02T08:25:51Z",
+        "uri": "https://web.archive.org/web/20240702082551/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-04T17:08:12Z",
+        "uri": "https://web.archive.org/web/20240704170812/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-07T05:18:59Z",
+        "uri": "https://web.archive.org/web/20240707051859/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-08T00:10:11Z",
+        "uri": "https://web.archive.org/web/20240708001011/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-09T06:56:40Z",
+        "uri": "https://web.archive.org/web/20240709065640/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-13T06:19:04Z",
+        "uri": "https://web.archive.org/web/20240713061904/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-14T04:22:07Z",
+        "uri": "https://web.archive.org/web/20240714042207/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-15T02:23:59Z",
+        "uri": "https://web.archive.org/web/20240715022359/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-15T16:08:45Z",
+        "uri": "https://web.archive.org/web/20240715160845/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-16T00:56:02Z",
+        "uri": "https://web.archive.org/web/20240716005602/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-17T01:37:24Z",
+        "uri": "https://web.archive.org/web/20240717013724/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-17T16:05:01Z",
+        "uri": "https://web.archive.org/web/20240717160501/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-23T01:38:35Z",
+        "uri": "https://web.archive.org/web/20240723013835/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-07-30T02:27:25Z",
+        "uri": "https://web.archive.org/web/20240730022725/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-01T08:18:29Z",
+        "uri": "https://web.archive.org/web/20240801081829/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-01T14:30:06Z",
+        "uri": "https://web.archive.org/web/20240801143006/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-06T03:43:24Z",
+        "uri": "https://web.archive.org/web/20240806034324/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-10T12:07:13Z",
+        "uri": "https://web.archive.org/web/20240810120713/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-10T12:23:24Z",
+        "uri": "https://web.archive.org/web/20240810122324/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-10T19:08:29Z",
+        "uri": "https://web.archive.org/web/20240810190829/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-10T19:08:45Z",
+        "uri": "https://web.archive.org/web/20240810190845/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-10T19:12:12Z",
+        "uri": "https://web.archive.org/web/20240810191212/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-13T04:32:57Z",
+        "uri": "https://web.archive.org/web/20240813043257/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-20T05:26:12Z",
+        "uri": "https://web.archive.org/web/20240820052612/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-23T23:58:43Z",
+        "uri": "https://web.archive.org/web/20240823235843/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-27T06:05:45Z",
+        "uri": "https://web.archive.org/web/20240827060545/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-28T04:03:12Z",
+        "uri": "https://web.archive.org/web/20240828040312/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-08-29T23:54:26Z",
+        "uri": "https://web.archive.org/web/20240829235426/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-01T13:41:08Z",
+        "uri": "https://web.archive.org/web/20240901134108/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-01T17:32:27Z",
+        "uri": "https://web.archive.org/web/20240901173227/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-04T04:50:29Z",
+        "uri": "https://web.archive.org/web/20240904045029/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-11T05:50:50Z",
+        "uri": "https://web.archive.org/web/20240911055050/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-12T04:20:15Z",
+        "uri": "https://web.archive.org/web/20240912042015/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-13T12:18:14Z",
+        "uri": "https://web.archive.org/web/20240913121814/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-15T16:59:29Z",
+        "uri": "https://web.archive.org/web/20240915165929/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-17T14:23:04Z",
+        "uri": "https://web.archive.org/web/20240917142304/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-19T06:27:09Z",
+        "uri": "https://web.archive.org/web/20240919062709/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-19T15:28:29Z",
+        "uri": "https://web.archive.org/web/20240919152829/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-22T06:39:48Z",
+        "uri": "https://web.archive.org/web/20240922063948/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-23T19:31:54Z",
+        "uri": "https://web.archive.org/web/20240923193154/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-24T00:20:17Z",
+        "uri": "https://web.archive.org/web/20240924002017/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-25T14:48:17Z",
+        "uri": "https://web.archive.org/web/20240925144817/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-26T07:18:37Z",
+        "uri": "https://web.archive.org/web/20240926071837/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-09-26T19:57:48Z",
+        "uri": "https://web.archive.org/web/20240926195748/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-01T16:12:22Z",
+        "uri": "https://web.archive.org/web/20241001161222/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-01T17:02:23Z",
+        "uri": "https://web.archive.org/web/20241001170223/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-03T08:02:46Z",
+        "uri": "https://web.archive.org/web/20241003080246/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-03T17:14:02Z",
+        "uri": "https://web.archive.org/web/20241003171402/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-03T20:22:29Z",
+        "uri": "https://web.archive.org/web/20241003202229/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-04T06:30:54Z",
+        "uri": "https://web.archive.org/web/20241004063054/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-04T17:50:57Z",
+        "uri": "https://web.archive.org/web/20241004175057/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-06T05:32:59Z",
+        "uri": "https://web.archive.org/web/20241006053259/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-06T10:50:53Z",
+        "uri": "https://web.archive.org/web/20241006105053/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-06T19:57:34Z",
+        "uri": "https://web.archive.org/web/20241006195734/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-07T09:04:44Z",
+        "uri": "https://web.archive.org/web/20241007090444/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-10-09T12:36:39Z",
+        "uri": "https://web.archive.org/web/20241009123639/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-11-13T07:02:29Z",
+        "uri": "https://web.archive.org/web/20241113070229/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-11-24T17:27:46Z",
+        "uri": "https://web.archive.org/web/20241124172746/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-11-27T04:51:40Z",
+        "uri": "https://web.archive.org/web/20241127045140/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-11-30T18:31:38Z",
+        "uri": "https://web.archive.org/web/20241130183138/https://info.arxiv.org/help/license/index.html"
+      },
+      {
+        "datetime": "2024-12-03T01:56:13Z",
+        "uri": "https://web.archive.org/web/20241203015613/https://info.arxiv.org/help/license/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2023-02-01T21:30:02Z",
+      "uri": "https://web.archive.org/web/20230201213002/https://info.arxiv.org/help/license/index.html"
+    },
+    "last": {
+      "datetime": "2024-12-03T01:56:13Z",
+      "uri": "https://web.archive.org/web/20241203015613/https://info.arxiv.org/help/license/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://info.arxiv.org/help/license/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://info.arxiv.org/help/license/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://info.arxiv.org/help/license/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://info.arxiv.org/help/license/index.html"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://mastodon.social/@dblp",
+  "self": "http://localhost:1208/timemap/json/https://mastodon.social/@dblp",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-23T12:43:35Z",
+        "uri": "https://web.archive.org/web/20240423124335/https://mastodon.social/@dblp"
+      },
+      {
+        "datetime": "2024-04-28T22:41:23Z",
+        "uri": "https://web.archive.org/web/20240428224123/https://mastodon.social/@dblp"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-23T12:43:35Z",
+      "uri": "https://web.archive.org/web/20240423124335/https://mastodon.social/@dblp"
+    },
+    "last": {
+      "datetime": "2024-04-28T22:41:23Z",
+      "uri": "https://web.archive.org/web/20240428224123/https://mastodon.social/@dblp"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://mastodon.social/@dblp",
+    "json_format": "http://localhost:1208/timemap/json/https://mastodon.social/@dblp",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://mastodon.social/@dblp"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://mastodon.social/@dblp"
+}

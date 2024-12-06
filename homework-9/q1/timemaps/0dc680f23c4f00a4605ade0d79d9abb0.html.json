@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-16T02:07:27Z",
+        "uri": "https://web.archive.org/web/20240416020727/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-16T02:07:27Z",
+      "uri": "https://web.archive.org/web/20240416020727/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+    },
+    "last": {
+      "datetime": "2024-04-16T02:07:27Z",
+      "uri": "https://web.archive.org/web/20240416020727/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+}

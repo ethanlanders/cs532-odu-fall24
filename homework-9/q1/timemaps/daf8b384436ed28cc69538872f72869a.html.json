@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://arxiv.org/format/2208.04895",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/format/2208.04895",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-08T06:30:49Z",
+        "uri": "https://web.archive.org/web/20221208063049/https://arxiv.org/format/2208.04895"
+      },
+      {
+        "datetime": "2024-09-30T16:29:12Z",
+        "uri": "https://web.archive.org/web/20240930162912/https://arxiv.org/format/2208.04895"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-08T06:30:49Z",
+      "uri": "https://web.archive.org/web/20221208063049/https://arxiv.org/format/2208.04895"
+    },
+    "last": {
+      "datetime": "2024-09-30T16:29:12Z",
+      "uri": "https://web.archive.org/web/20240930162912/https://arxiv.org/format/2208.04895"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/format/2208.04895",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/format/2208.04895",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/format/2208.04895"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/format/2208.04895"
+}

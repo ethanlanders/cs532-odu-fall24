@@ -1,0 +1,298 @@
+{
+  "original_uri": "https://www.odu.edu/sees/social-mobility",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/sees/social-mobility",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-22T16:36:24Z",
+        "uri": "https://web.archive.org/web/20200722163624/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2020-07-22T16:36:29Z",
+        "uri": "https://web.archive.org/web/20200722163629/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-04-17T18:06:40Z",
+        "uri": "https://web.archive.org/web/20210417180640/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:40Z",
+        "uri": "https://wayback.archive-it.org/all/20210527042840/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:40Z",
+        "uri": "https://web.archive.org/web/20210527042840/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210527042847/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:47Z",
+        "uri": "https://web.archive.org/web/20210527042847/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:55Z",
+        "uri": "https://wayback.archive-it.org/all/20210527042855/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-05-27T04:28:55Z",
+        "uri": "https://web.archive.org/web/20210527042855/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-06-10T07:38:56Z",
+        "uri": "https://web.archive.org/web/20210610073856/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-08-12T23:19:27Z",
+        "uri": "https://web.archive.org/web/20210812231927/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-10-27T21:55:27Z",
+        "uri": "https://web.archive.org/web/20211027215527/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-11-15T16:09:20Z",
+        "uri": "https://arquivo.pt/wayback/20211115160920mp_/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-11-15T16:09:20Z",
+        "uri": "https://web.archive.org/web/20211115160920/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-11-15T16:09:25Z",
+        "uri": "https://arquivo.pt/wayback/20211115160925mp_/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2021-11-15T16:09:25Z",
+        "uri": "https://web.archive.org/web/20211115160925/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-05-27T11:46:47Z",
+        "uri": "https://arquivo.pt/wayback/20220527114647mp_/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-05-28T13:57:47Z",
+        "uri": "https://web.archive.org/web/20220528135747/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-07-02T15:10:38Z",
+        "uri": "https://web.archive.org/web/20220702151038/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220811061642/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:42Z",
+        "uri": "https://web.archive.org/web/20220811061642/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220811061649/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:49Z",
+        "uri": "https://web.archive.org/web/20220811061649/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220811061656/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-08-11T06:16:56Z",
+        "uri": "https://web.archive.org/web/20220811061656/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-09-28T06:32:43Z",
+        "uri": "https://web.archive.org/web/20220928063243/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-09-28T19:30:44Z",
+        "uri": "https://web.archive.org/web/20220928193044/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-07T06:05:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060525/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-07T06:05:25Z",
+        "uri": "https://web.archive.org/web/20221107060525/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-07T19:33:28Z",
+        "uri": "https://wayback.archive-it.org/all/20221107193328/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-07T19:33:28Z",
+        "uri": "https://web.archive.org/web/20221107193328/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-16T04:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20221116044324mp_/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-11-18T19:28:10Z",
+        "uri": "https://web.archive.org/web/20221118192810/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-12-07T12:46:23Z",
+        "uri": "https://wayback.archive-it.org/all/20221207124623/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-12-07T12:46:23Z",
+        "uri": "https://web.archive.org/web/20221207124623/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-12-08T05:59:54Z",
+        "uri": "https://web.archive.org/web/20221208055954/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-12-10T18:46:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221210184640/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2022-12-10T18:46:40Z",
+        "uri": "https://web.archive.org/web/20221210184640/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-01-07T11:49:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230107114947/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-01-07T11:49:47Z",
+        "uri": "https://web.archive.org/web/20230107114947/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-01-10T04:27:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230110042739/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-01-10T04:27:39Z",
+        "uri": "https://web.archive.org/web/20230110042739/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-01-24T19:30:18Z",
+        "uri": "https://arquivo.pt/wayback/20230124193018mp_/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-02-07T10:42:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207104244/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-02-07T10:42:44Z",
+        "uri": "https://web.archive.org/web/20230207104244/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-02-10T05:59:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230210055915/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-02-10T05:59:15Z",
+        "uri": "https://web.archive.org/web/20230210055915/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-02-20T01:03:25Z",
+        "uri": "https://web.archive.org/web/20230220010325/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-03-07T04:58:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045843/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-03-07T04:58:43Z",
+        "uri": "https://web.archive.org/web/20230307045843/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-03-07T15:55:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230307155554/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-03-07T15:55:54Z",
+        "uri": "https://web.archive.org/web/20230307155554/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-03-27T22:34:55Z",
+        "uri": "https://web.archive.org/web/20230327223455/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-05-14T16:59:07Z",
+        "uri": "https://web.archive.org/web/20230514165907/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-08-25T18:52:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230825185229/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-08-25T18:52:29Z",
+        "uri": "https://web.archive.org/web/20230825185229/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-08-26T13:08:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230826130818/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2023-08-26T13:08:18Z",
+        "uri": "https://web.archive.org/web/20230826130818/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-02-21T20:14:40Z",
+        "uri": "https://web.archive.org/web/20240221201440/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-02-28T23:37:53Z",
+        "uri": "https://web.archive.org/web/20240228233753/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-03-25T13:00:11Z",
+        "uri": "https://web.archive.org/web/20240325130011/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-04-01T13:06:33Z",
+        "uri": "https://web.archive.org/web/20240401130633/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-04-04T07:26:54Z",
+        "uri": "https://web.archive.org/web/20240404072654/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-04-27T16:07:51Z",
+        "uri": "https://web.archive.org/web/20240427160751/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-05-13T13:55:07Z",
+        "uri": "https://web.archive.org/web/20240513135507/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-05-23T23:13:12Z",
+        "uri": "https://wayback.archive-it.org/all/20240523231312/https://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-06-22T23:25:24Z",
+        "uri": "https://wayback.archive-it.org/all/20240622232524/http://www.odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-07-25T17:43:25Z",
+        "uri": "https://web.archive.org/web/20240725174325/https://odu.edu/sees/social-mobility"
+      },
+      {
+        "datetime": "2024-09-17T10:39:30Z",
+        "uri": "https://web.archive.org/web/20240917103930/https://www.odu.edu/sees/social-mobility"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-22T16:36:24Z",
+      "uri": "https://web.archive.org/web/20200722163624/https://www.odu.edu/sees/social-mobility"
+    },
+    "last": {
+      "datetime": "2024-09-17T10:39:30Z",
+      "uri": "https://web.archive.org/web/20240917103930/https://www.odu.edu/sees/social-mobility"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/sees/social-mobility",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/sees/social-mobility",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/sees/social-mobility"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/sees/social-mobility"
+}

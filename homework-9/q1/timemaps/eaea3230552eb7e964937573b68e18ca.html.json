@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:28:47Z",
+        "uri": "https://web.archive.org/web/20220524112847/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:23Z",
+        "uri": "https://web.archive.org/web/20220622021423/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2022-08-07T18:26:25Z",
+        "uri": "https://web.archive.org/web/20220807182625/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2022-10-02T15:19:37Z",
+        "uri": "https://web.archive.org/web/20221002151937/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:12Z",
+        "uri": "https://web.archive.org/web/20230107001312/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2023-02-02T17:09:25Z",
+        "uri": "https://web.archive.org/web/20230202170925/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2023-06-03T23:55:47Z",
+        "uri": "https://web.archive.org/web/20230603235547/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2023-12-02T07:53:51Z",
+        "uri": "https://web.archive.org/web/20231202075351/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2024-04-21T20:10:20Z",
+        "uri": "https://web.archive.org/web/20240421201020/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      },
+      {
+        "datetime": "2024-07-14T06:55:22Z",
+        "uri": "https://web.archive.org/web/20240714065522/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:28:47Z",
+      "uri": "https://web.archive.org/web/20220524112847/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+    },
+    "last": {
+      "datetime": "2024-07-14T06:55:22Z",
+      "uri": "https://web.archive.org/web/20240714065522/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/uk/perebuvannya-u-nimechchini/zhitlo-ta-prozhivannya/"
+}

@@ -1,0 +1,366 @@
+{
+  "original_uri": "https://www.odu.edu/vendors",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/vendors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-11-16T06:22:07Z",
+        "uri": "https://web.archive.org/web/20121116062207/http://www.odu.edu:80/vendors"
+      },
+      {
+        "datetime": "2012-12-09T22:42:38Z",
+        "uri": "https://web.archive.org/web/20121209224238/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2013-01-17T17:43:15Z",
+        "uri": "https://web.archive.org/web/20130117174315/http://odu.edu/vendors"
+      },
+      {
+        "datetime": "2013-04-26T14:21:45Z",
+        "uri": "https://web.archive.org/web/20130426142145/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2013-08-13T15:54:58Z",
+        "uri": "https://web.archive.org/web/20130813155458/http://odu.edu/vendors"
+      },
+      {
+        "datetime": "2014-03-28T05:42:42Z",
+        "uri": "https://web.archive.org/web/20140328054242/http://odu.edu/vendors"
+      },
+      {
+        "datetime": "2014-06-22T11:30:27Z",
+        "uri": "https://web.archive.org/web/20140622113027/http://www.odu.edu:80/vendors"
+      },
+      {
+        "datetime": "2014-06-26T14:26:36Z",
+        "uri": "https://web.archive.org/web/20140626142636/http://odu.edu/vendors"
+      },
+      {
+        "datetime": "2017-06-14T03:20:35Z",
+        "uri": "https://web.archive.org/web/20170614032035/http://odu.edu/vendors"
+      },
+      {
+        "datetime": "2017-07-10T08:18:54Z",
+        "uri": "https://web.archive.org/web/20170710081854/http://www.odu.edu:80/vendors"
+      },
+      {
+        "datetime": "2017-07-13T10:06:48Z",
+        "uri": "https://web.archive.org/web/20170713100648/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2017-08-10T06:17:46Z",
+        "uri": "https://web.archive.org/web/20170810061746/http://www.odu.edu:80/vendors"
+      },
+      {
+        "datetime": "2018-07-22T13:15:20Z",
+        "uri": "https://web.archive.org/web/20180722131520/http://www.odu.edu:80/vendors"
+      },
+      {
+        "datetime": "2020-07-26T18:20:58Z",
+        "uri": "https://web.archive.org/web/20200726182058/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2020-07-26T18:21:09Z",
+        "uri": "https://web.archive.org/web/20200726182109/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-04-19T01:01:30Z",
+        "uri": "https://web.archive.org/web/20210419010130/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:26:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012648/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:26:48Z",
+        "uri": "https://web.archive.org/web/20210527012648/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:27:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012701/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:27:01Z",
+        "uri": "https://web.archive.org/web/20210527012701/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:27:10Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012710/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-05-27T01:27:10Z",
+        "uri": "https://web.archive.org/web/20210527012710/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-08-13T03:49:40Z",
+        "uri": "https://web.archive.org/web/20210813034940/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-11-11T02:18:40Z",
+        "uri": "https://arquivo.pt/wayback/20211111021840mp_/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-11-11T02:18:40Z",
+        "uri": "https://web.archive.org/web/20211111021840/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-11-11T02:18:44Z",
+        "uri": "https://arquivo.pt/wayback/20211111021844mp_/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2021-11-11T02:18:44Z",
+        "uri": "https://web.archive.org/web/20211111021844/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-03-19T20:10:59Z",
+        "uri": "https://web.archive.org/web/20220319201059/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-07T22:20:59Z",
+        "uri": "https://arquivo.pt/wayback/20220507222059mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-16T04:43:05Z",
+        "uri": "https://arquivo.pt/wayback/20220516044305mp_/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-23T09:16:53Z",
+        "uri": "https://web.archive.org/web/20220523091653/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-05-25T21:58:51Z",
+        "uri": "https://web.archive.org/web/20220525215851/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030928/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:28Z",
+        "uri": "https://web.archive.org/web/20220811030928/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030940/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:40Z",
+        "uri": "https://web.archive.org/web/20220811030940/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030947/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-11T03:09:47Z",
+        "uri": "https://web.archive.org/web/20220811030947/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-08-18T08:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20220818081634mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-09-24T22:10:18Z",
+        "uri": "https://web.archive.org/web/20220924221018/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-09-27T21:56:24Z",
+        "uri": "https://web.archive.org/web/20220927215624/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-07T06:07:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060744/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-07T06:07:44Z",
+        "uri": "https://web.archive.org/web/20221107060744/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-07T21:14:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221107211406/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-07T21:14:06Z",
+        "uri": "https://web.archive.org/web/20221107211406/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-13T04:33:07Z",
+        "uri": "https://web.archive.org/web/20221113043307/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-16T04:06:32Z",
+        "uri": "https://arquivo.pt/wayback/20221116040632mp_/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-11-18T19:13:44Z",
+        "uri": "https://web.archive.org/web/20221118191344/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-12-07T13:14:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221207131453/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-12-07T13:14:53Z",
+        "uri": "https://web.archive.org/web/20221207131453/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-12-08T06:57:42Z",
+        "uri": "https://web.archive.org/web/20221208065742/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-12-10T22:04:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221210220435/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2022-12-10T22:04:35Z",
+        "uri": "https://web.archive.org/web/20221210220435/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-07T12:51:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230107125106/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-07T12:51:06Z",
+        "uri": "https://web.archive.org/web/20230107125106/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-10T16:29:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230110162942/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-10T16:29:42Z",
+        "uri": "https://web.archive.org/web/20230110162942/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-01-24T20:39:38Z",
+        "uri": "https://arquivo.pt/wayback/20230124203938mp_/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-02-07T12:10:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230207121022/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-02-07T12:10:22Z",
+        "uri": "https://web.archive.org/web/20230207121022/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-02-10T09:48:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230210094831/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-02-10T09:48:31Z",
+        "uri": "https://web.archive.org/web/20230210094831/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-02-20T01:05:49Z",
+        "uri": "https://web.archive.org/web/20230220010549/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-07T05:03:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050310/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-07T05:03:10Z",
+        "uri": "https://web.archive.org/web/20230307050310/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-07T17:22:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230307172216/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-07T17:22:16Z",
+        "uri": "https://web.archive.org/web/20230307172216/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-03-27T22:35:29Z",
+        "uri": "https://web.archive.org/web/20230327223529/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-08-25T19:00:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230825190005/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-08-25T19:00:05Z",
+        "uri": "https://web.archive.org/web/20230825190005/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-08-26T14:06:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230826140656/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-08-26T14:06:56Z",
+        "uri": "https://web.archive.org/web/20230826140656/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2023-11-28T03:54:26Z",
+        "uri": "https://web.archive.org/web/20231128035426/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-02-28T23:49:56Z",
+        "uri": "https://web.archive.org/web/20240228234956/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-03-25T12:56:19Z",
+        "uri": "https://web.archive.org/web/20240325125619/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-04-01T13:06:26Z",
+        "uri": "https://web.archive.org/web/20240401130626/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-04-04T07:27:05Z",
+        "uri": "https://web.archive.org/web/20240404072705/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-04-27T16:09:24Z",
+        "uri": "https://web.archive.org/web/20240427160924/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-05-13T13:55:04Z",
+        "uri": "https://web.archive.org/web/20240513135504/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-05-23T23:20:48Z",
+        "uri": "https://wayback.archive-it.org/all/20240523232048/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-05-25T14:11:52Z",
+        "uri": "https://wayback.archive-it.org/all/20240525141152/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-07-15T23:30:23Z",
+        "uri": "https://web.archive.org/web/20240715233023/https://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-07-29T10:37:02Z",
+        "uri": "https://web.archive.org/web/20240729103702/https://odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-07-29T12:14:15Z",
+        "uri": "https://web.archive.org/web/20240729121415/http://www.odu.edu/vendors"
+      },
+      {
+        "datetime": "2024-09-14T07:18:47Z",
+        "uri": "https://web.archive.org/web/20240914071847/https://www.odu.edu/vendors"
+      }
+    ],
+    "first": {
+      "datetime": "2012-11-16T06:22:07Z",
+      "uri": "https://web.archive.org/web/20121116062207/http://www.odu.edu:80/vendors"
+    },
+    "last": {
+      "datetime": "2024-09-14T07:18:47Z",
+      "uri": "https://web.archive.org/web/20240914071847/https://www.odu.edu/vendors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/vendors",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/vendors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/vendors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/vendors"
+}

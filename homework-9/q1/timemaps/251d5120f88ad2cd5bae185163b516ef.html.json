@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-23T21:04:19Z",
+        "uri": "https://web.archive.org/web/20240423210419/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-23T21:04:19Z",
+      "uri": "https://web.archive.org/web/20240423210419/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+    },
+    "last": {
+      "datetime": "2024-04-23T21:04:19Z",
+      "uri": "https://web.archive.org/web/20240423210419/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration."
+}

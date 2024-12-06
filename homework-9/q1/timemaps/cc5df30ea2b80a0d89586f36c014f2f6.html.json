@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-23T21:03:48Z",
+        "uri": "https://web.archive.org/web/20240423210348/https://scholar.archive.org/search?q=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-23T21:03:48Z",
+      "uri": "https://web.archive.org/web/20240423210348/https://scholar.archive.org/search?q=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+    },
+    "last": {
+      "datetime": "2024-04-23T21:03:48Z",
+      "uri": "https://web.archive.org/web/20240423210348/https://scholar.archive.org/search?q=The+CompleteSearch+Engine%253A+Interactive%252C+Efficient%252C+and+Towards+IR%2526+DB+Integration."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=The+CompleteSearch+Engine:+Interactive,+Efficient,+and+Towards+IR&+DB+Integration."
+}

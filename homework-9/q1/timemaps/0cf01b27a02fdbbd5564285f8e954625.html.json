@@ -1,0 +1,1050 @@
+{
+  "original_uri": "https://www.odu.edu/academics/summer",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/summer",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-21T08:14:57Z",
+        "uri": "https://web.archive.org/web/20120921081457/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2012-11-21T23:37:51Z",
+        "uri": "https://web.archive.org/web/20121121233751/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2012-12-09T19:48:07Z",
+        "uri": "https://web.archive.org/web/20121209194807/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-01-17T17:56:26Z",
+        "uri": "https://web.archive.org/web/20130117175626/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-01-21T09:45:09Z",
+        "uri": "https://web.archive.org/web/20130121094509/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2013-01-28T06:37:37Z",
+        "uri": "https://web.archive.org/web/20130128063737/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2013-03-20T02:59:30Z",
+        "uri": "https://web.archive.org/web/20130320025930/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2013-04-23T05:12:11Z",
+        "uri": "https://web.archive.org/web/20130423051211/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-04-26T10:16:07Z",
+        "uri": "https://web.archive.org/web/20130426101607/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-04-27T04:44:34Z",
+        "uri": "https://web.archive.org/web/20130427044434/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2013-05-28T03:29:42Z",
+        "uri": "https://web.archive.org/web/20130528032942/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2013-06-01T15:48:59Z",
+        "uri": "https://web.archive.org/web/20130601154859/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-08-08T06:18:07Z",
+        "uri": "https://web.archive.org/web/20130808061807/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2013-11-27T14:37:43Z",
+        "uri": "https://web.archive.org/web/20131127143743/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2014-01-26T13:58:45Z",
+        "uri": "https://web.archive.org/web/20140126135845/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2014-02-26T09:10:59Z",
+        "uri": "https://web.archive.org/web/20140226091059/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2014-03-28T05:22:00Z",
+        "uri": "https://web.archive.org/web/20140328052200/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2014-06-26T13:32:45Z",
+        "uri": "https://web.archive.org/web/20140626133245/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2015-02-16T22:43:10Z",
+        "uri": "https://web.archive.org/web/20150216224310/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2016-10-27T07:18:19Z",
+        "uri": "https://web.archive.org/web/20161027071819/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2016-11-07T05:07:53Z",
+        "uri": "https://web.archive.org/web/20161107050753/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2016-11-19T13:27:51Z",
+        "uri": "https://web.archive.org/web/20161119132751/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2016-11-21T17:32:25Z",
+        "uri": "https://web.archive.org/web/20161121173225/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-01-18T22:49:10Z",
+        "uri": "https://web.archive.org/web/20170118224910/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-01-21T14:58:39Z",
+        "uri": "https://web.archive.org/web/20170121145839/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-03-18T09:36:20Z",
+        "uri": "https://web.archive.org/web/20170318093620/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2017-03-20T11:25:58Z",
+        "uri": "https://web.archive.org/web/20170320112558/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-03-23T04:52:32Z",
+        "uri": "https://web.archive.org/web/20170323045232/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-03-26T06:20:49Z",
+        "uri": "https://web.archive.org/web/20170326062049/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2017-04-17T11:33:17Z",
+        "uri": "https://web.archive.org/web/20170417113317/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2017-05-14T04:03:11Z",
+        "uri": "https://web.archive.org/web/20170514040311/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-05-22T23:11:48Z",
+        "uri": "https://web.archive.org/web/20170522231148/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-05-31T06:50:43Z",
+        "uri": "https://web.archive.org/web/20170531065043/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-06-06T00:44:53Z",
+        "uri": "https://web.archive.org/web/20170606004453/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2017-06-06T18:22:18Z",
+        "uri": "https://web.archive.org/web/20170606182218/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2017-06-14T01:54:19Z",
+        "uri": "https://web.archive.org/web/20170614015419/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-07-01T15:23:25Z",
+        "uri": "https://web.archive.org/web/20170701152325/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-07-15T15:17:41Z",
+        "uri": "https://web.archive.org/web/20170715151741/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-08-01T11:38:52Z",
+        "uri": "https://web.archive.org/web/20170801113852/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-08-15T12:29:41Z",
+        "uri": "https://web.archive.org/web/20170815122941/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-09-01T14:06:36Z",
+        "uri": "https://web.archive.org/web/20170901140636/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-09-16T03:16:51Z",
+        "uri": "https://web.archive.org/web/20170916031651/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-10-02T22:15:05Z",
+        "uri": "https://web.archive.org/web/20171002221505/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-11-03T07:24:35Z",
+        "uri": "https://web.archive.org/web/20171103072435/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-11-15T15:01:03Z",
+        "uri": "https://web.archive.org/web/20171115150103/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2017-12-04T07:17:02Z",
+        "uri": "https://web.archive.org/web/20171204071702/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-01-05T00:18:06Z",
+        "uri": "https://web.archive.org/web/20180105001806/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-01-16T05:45:32Z",
+        "uri": "https://web.archive.org/web/20180116054532/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-02-05T16:28:56Z",
+        "uri": "https://web.archive.org/web/20180205162856/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-03-08T08:49:16Z",
+        "uri": "https://web.archive.org/web/20180308084916/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-03-17T18:00:39Z",
+        "uri": "https://web.archive.org/web/20180317180039/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-04-08T04:08:57Z",
+        "uri": "https://web.archive.org/web/20180408040857/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-04-09T05:07:42Z",
+        "uri": "https://web.archive.org/web/20180409050742/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-05-10T11:18:42Z",
+        "uri": "https://web.archive.org/web/20180510111842/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-05-17T16:26:11Z",
+        "uri": "https://web.archive.org/web/20180517162611/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-06-11T01:04:20Z",
+        "uri": "https://web.archive.org/web/20180611010420/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-07-12T08:43:31Z",
+        "uri": "https://web.archive.org/web/20180712084331/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-07-17T17:25:29Z",
+        "uri": "https://web.archive.org/web/20180717172529/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-08-12T01:49:05Z",
+        "uri": "https://web.archive.org/web/20180812014905/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-09-08T06:39:44Z",
+        "uri": "https://web.archive.org/web/20180908063944/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2018-09-12T08:10:00Z",
+        "uri": "https://web.archive.org/web/20180912081000/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2018-09-13T04:15:01Z",
+        "uri": "https://web.archive.org/web/20180913041501/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-09-16T22:04:12Z",
+        "uri": "https://web.archive.org/web/20180916220412/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-10-14T00:14:02Z",
+        "uri": "https://web.archive.org/web/20181014001402/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-11-05T06:09:42Z",
+        "uri": "https://web.archive.org/web/20181105060942/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2018-11-14T11:04:27Z",
+        "uri": "https://web.archive.org/web/20181114110427/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-11-17T01:15:23Z",
+        "uri": "https://web.archive.org/web/20181117011523/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2018-12-15T13:25:58Z",
+        "uri": "https://web.archive.org/web/20181215132558/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-01-15T11:24:23Z",
+        "uri": "https://web.archive.org/web/20190115112423/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-01-16T19:38:33Z",
+        "uri": "https://web.archive.org/web/20190116193833/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-02-16T05:05:40Z",
+        "uri": "https://web.archive.org/web/20190216050540/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-03-18T16:45:08Z",
+        "uri": "https://web.archive.org/web/20190318164508/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-03-19T12:29:42Z",
+        "uri": "https://web.archive.org/web/20190319122942/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-04-08T20:21:04Z",
+        "uri": "https://web.archive.org/web/20190408202104/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2019-04-14T21:36:59Z",
+        "uri": "https://web.archive.org/web/20190414213659/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2019-04-17T11:22:13Z",
+        "uri": "https://web.archive.org/web/20190417112213/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2019-04-19T22:12:31Z",
+        "uri": "https://web.archive.org/web/20190419221231/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-05-18T21:40:08Z",
+        "uri": "https://web.archive.org/web/20190518214008/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-05-22T22:49:28Z",
+        "uri": "https://web.archive.org/web/20190522224928/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-06-04T20:20:59Z",
+        "uri": "https://web.archive.org/web/20190604202059/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2019-06-22T23:39:45Z",
+        "uri": "https://web.archive.org/web/20190622233945/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-07-18T20:57:43Z",
+        "uri": "https://web.archive.org/web/20190718205743/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-07-23T20:05:27Z",
+        "uri": "https://web.archive.org/web/20190723200527/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-08-23T15:36:10Z",
+        "uri": "https://web.archive.org/web/20190823153610/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-09-18T16:14:11Z",
+        "uri": "https://web.archive.org/web/20190918161411/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-09-23T13:50:38Z",
+        "uri": "https://web.archive.org/web/20190923135038/http://odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-10-16T05:30:30Z",
+        "uri": "https://web.archive.org/web/20191016053030/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-12-14T12:54:30Z",
+        "uri": "https://web.archive.org/web/20191214125430/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2019-12-15T09:08:47Z",
+        "uri": "https://web.archive.org/web/20191215090847/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-02-13T14:37:03Z",
+        "uri": "https://web.archive.org/web/20200213143703/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2020-02-14T15:13:56Z",
+        "uri": "https://web.archive.org/web/20200214151356/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:24:54Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192454/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:24:54Z",
+        "uri": "https://web.archive.org/web/20200416192454/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:25:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192522/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:25:22Z",
+        "uri": "https://web.archive.org/web/20200416192522/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:25:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192544/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-16T19:25:44Z",
+        "uri": "https://web.archive.org/web/20200416192544/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-04-24T12:58:30Z",
+        "uri": "https://web.archive.org/web/20200424125830/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-05-03T11:07:08Z",
+        "uri": "https://web.archive.org/web/20200503110708/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2020-07-02T14:59:29Z",
+        "uri": "https://web.archive.org/web/20200702145929/http://www.odu.edu:80/academics/summer"
+      },
+      {
+        "datetime": "2020-07-11T09:53:36Z",
+        "uri": "https://web.archive.org/web/20200711095336/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-07-14T23:02:05Z",
+        "uri": "https://web.archive.org/web/20200714230205/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-08-17T11:24:56Z",
+        "uri": "https://web.archive.org/web/20200817112456/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-08-20T19:31:12Z",
+        "uri": "https://web.archive.org/web/20200820193112/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-08-30T22:14:00Z",
+        "uri": "https://web.archive.org/web/20200830221400/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2020-10-11T05:14:47Z",
+        "uri": "https://web.archive.org/web/20201011051447/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-01-15T22:30:30Z",
+        "uri": "https://web.archive.org/web/20210115223030/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-01-25T17:29:57Z",
+        "uri": "https://web.archive.org/web/20210125172957/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-03-23T01:26:18Z",
+        "uri": "https://web.archive.org/web/20210323012618/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-13T17:32:59Z",
+        "uri": "https://web.archive.org/web/20210413173259/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-13T22:01:55Z",
+        "uri": "https://web.archive.org/web/20210413220155/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-14T03:24:22Z",
+        "uri": "https://web.archive.org/web/20210414032422/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-14T08:33:19Z",
+        "uri": "https://web.archive.org/web/20210414083319/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-25T18:22:07Z",
+        "uri": "https://web.archive.org/web/20210425182207/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-29T11:19:19Z",
+        "uri": "https://web.archive.org/web/20210429111919/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-04-29T12:06:30Z",
+        "uri": "https://web.archive.org/web/20210429120630/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-20T14:58:46Z",
+        "uri": "https://web.archive.org/web/20210520145846/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:06Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200106/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:06Z",
+        "uri": "https://web.archive.org/web/20210526200106/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200129/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:29Z",
+        "uri": "https://web.archive.org/web/20210526200129/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200136/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-05-26T20:01:36Z",
+        "uri": "https://web.archive.org/web/20210526200136/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-08-11T19:22:00Z",
+        "uri": "https://web.archive.org/web/20210811192200/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-08-12T05:57:20Z",
+        "uri": "https://web.archive.org/web/20210812055720/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-08-12T07:36:53Z",
+        "uri": "https://web.archive.org/web/20210812073653/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-09-02T19:01:07Z",
+        "uri": "https://webarchive.loc.gov/all/20210902190107/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-09-03T08:21:14Z",
+        "uri": "https://webarchive.loc.gov/all/20210903082114/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-09-04T07:28:53Z",
+        "uri": "https://webarchive.loc.gov/all/20210904072853/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-09-10T15:36:56Z",
+        "uri": "https://arquivo.pt/wayback/20210910153656mp_/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-10-17T18:13:27Z",
+        "uri": "https://web.archive.org/web/20211017181327/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-10-19T11:35:00Z",
+        "uri": "https://web.archive.org/web/20211019113500/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-03T11:17:36Z",
+        "uri": "https://arquivo.pt/wayback/20211103111736mp_/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-03T11:17:36Z",
+        "uri": "https://web.archive.org/web/20211103111736/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-03T11:17:41Z",
+        "uri": "https://arquivo.pt/wayback/20211103111741mp_/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-03T11:17:41Z",
+        "uri": "https://web.archive.org/web/20211103111741/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-26T05:12:27Z",
+        "uri": "https://web.archive.org/web/20211126051227/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2021-11-28T15:56:04Z",
+        "uri": "https://web.archive.org/web/20211128155604/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-02T10:58:11Z",
+        "uri": "https://web.archive.org/web/20220102105811/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-08T16:37:36Z",
+        "uri": "https://web.archive.org/web/20220108163736/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-10T17:04:12Z",
+        "uri": "https://web.archive.org/web/20220110170412/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-11T20:16:01Z",
+        "uri": "https://web.archive.org/web/20220111201601/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-12T16:57:08Z",
+        "uri": "https://web.archive.org/web/20220112165708/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-12T21:57:44Z",
+        "uri": "https://web.archive.org/web/20220112215744/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-13T01:01:10Z",
+        "uri": "https://web.archive.org/web/20220113010110/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-13T19:29:49Z",
+        "uri": "https://web.archive.org/web/20220113192949/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-16T23:36:08Z",
+        "uri": "https://web.archive.org/web/20220116233608/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-17T07:07:24Z",
+        "uri": "https://web.archive.org/web/20220117070724/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-21T21:46:26Z",
+        "uri": "https://web.archive.org/web/20220121214626/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-22T10:33:10Z",
+        "uri": "https://arquivo.pt/wayback/20220122103310mp_/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-24T20:25:49Z",
+        "uri": "https://web.archive.org/web/20220124202549/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-26T02:02:43Z",
+        "uri": "https://web.archive.org/web/20220126020243/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-26T05:35:43Z",
+        "uri": "https://arquivo.pt/wayback/20220126053543mp_/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-01-31T22:18:10Z",
+        "uri": "https://web.archive.org/web/20220131221810/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-02-01T22:29:17Z",
+        "uri": "https://web.archive.org/web/20220201222917/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-02-03T18:58:30Z",
+        "uri": "https://web.archive.org/web/20220203185830/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-02-17T23:31:14Z",
+        "uri": "https://web.archive.org/web/20220217233114/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-03-19T20:37:30Z",
+        "uri": "https://web.archive.org/web/20220319203730/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-03-19T20:37:30Z",
+        "uri": "https://web.archive.org/web/20220319203730/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-07T09:46:26Z",
+        "uri": "https://web.archive.org/web/20220407094626/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-17T00:53:49Z",
+        "uri": "https://web.archive.org/web/20220417005349/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-17T05:40:35Z",
+        "uri": "https://arquivo.pt/wayback/20220417054035mp_/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-22T17:17:39Z",
+        "uri": "https://arquivo.pt/wayback/20220422171739mp_/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-22T17:17:44Z",
+        "uri": "https://arquivo.pt/wayback/20220422171744mp_/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-04-24T18:52:41Z",
+        "uri": "https://arquivo.pt/wayback/20220424185241mp_/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-05-01T16:08:04Z",
+        "uri": "https://web.archive.org/web/20220501160804/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-05-14T05:03:45Z",
+        "uri": "https://web.archive.org/web/20220514050345/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-05-25T10:12:52Z",
+        "uri": "https://web.archive.org/web/20220525101252/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-05-28T23:03:07Z",
+        "uri": "https://web.archive.org/web/20220528230307/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-08T14:59:30Z",
+        "uri": "https://web.archive.org/web/20220608145930/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-15T05:39:06Z",
+        "uri": "https://web.archive.org/web/20220615053906/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-18T23:42:41Z",
+        "uri": "https://web.archive.org/web/20220618234241/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-19T05:53:44Z",
+        "uri": "https://web.archive.org/web/20220619055344/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-19T11:20:39Z",
+        "uri": "https://web.archive.org/web/20220619112039/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-19T11:22:04Z",
+        "uri": "https://web.archive.org/web/20220619112204/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-19T23:24:22Z",
+        "uri": "https://web.archive.org/web/20220619232422/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-19T23:26:51Z",
+        "uri": "https://web.archive.org/web/20220619232651/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-06-25T13:46:14Z",
+        "uri": "https://web.archive.org/web/20220625134614/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-07-30T14:48:55Z",
+        "uri": "https://arquivo.pt/wayback/20220730144855mp_/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-03T20:23:11Z",
+        "uri": "https://web.archive.org/web/20220803202311/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-03T20:51:30Z",
+        "uri": "https://web.archive.org/web/20220803205130/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-04T09:48:05Z",
+        "uri": "https://web.archive.org/web/20220804094805/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-04T14:12:35Z",
+        "uri": "https://web.archive.org/web/20220804141235/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-05T14:17:40Z",
+        "uri": "https://web.archive.org/web/20220805141740/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-07T21:33:37Z",
+        "uri": "https://web.archive.org/web/20220807213337/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-08T10:01:24Z",
+        "uri": "https://web.archive.org/web/20220808100124/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T17:20:19Z",
+        "uri": "https://web.archive.org/web/20220810172019/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:08:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200856/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:08:56Z",
+        "uri": "https://web.archive.org/web/20220810200856/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:09:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200912/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:09:12Z",
+        "uri": "https://web.archive.org/web/20220810200912/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:09:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200924/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-10T20:09:24Z",
+        "uri": "https://web.archive.org/web/20220810200924/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-14T09:23:46Z",
+        "uri": "https://web.archive.org/web/20220814092346/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-14T18:34:13Z",
+        "uri": "https://web.archive.org/web/20220814183413/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-17T19:48:05Z",
+        "uri": "https://web.archive.org/web/20220817194805/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-20T07:01:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220820070137/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-08-20T07:01:37Z",
+        "uri": "https://web.archive.org/web/20220820070137/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-09-22T14:23:45Z",
+        "uri": "https://web.archive.org/web/20220922142345/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-10-02T19:15:45Z",
+        "uri": "https://web.archive.org/web/20221002191545/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-10-11T02:23:04Z",
+        "uri": "https://arquivo.pt/wayback/20221011022304mp_/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-10-13T15:05:55Z",
+        "uri": "https://web.archive.org/web/20221013150555/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-10-24T06:05:21Z",
+        "uri": "https://web.archive.org/web/20221024060521/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-11-07T05:25:03Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052503/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-11-07T05:25:03Z",
+        "uri": "https://web.archive.org/web/20221107052503/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-11-07T11:30:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221107113056/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-11-07T11:30:56Z",
+        "uri": "https://web.archive.org/web/20221107113056/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-07T07:56:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221207075604/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-07T07:56:04Z",
+        "uri": "https://web.archive.org/web/20221207075604/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-08T05:59:23Z",
+        "uri": "https://web.archive.org/web/20221208055923/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-08T05:59:45Z",
+        "uri": "https://web.archive.org/web/20221208055945/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-08T06:50:30Z",
+        "uri": "https://web.archive.org/web/20221208065030/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-09T00:42:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221209004234/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2022-12-09T00:42:34Z",
+        "uri": "https://web.archive.org/web/20221209004234/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-01-07T07:26:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230107072613/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-01-07T07:26:13Z",
+        "uri": "https://web.archive.org/web/20230107072613/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-01-08T14:57:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230108145704/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-01-08T14:57:04Z",
+        "uri": "https://web.archive.org/web/20230108145704/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-01-24T19:51:52Z",
+        "uri": "https://arquivo.pt/wayback/20230124195152mp_/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-02-07T06:33:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063330/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-02-07T06:33:30Z",
+        "uri": "https://web.archive.org/web/20230207063330/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-02-09T10:19:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230209101907/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-02-09T10:19:07Z",
+        "uri": "https://web.archive.org/web/20230209101907/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-02-20T00:46:46Z",
+        "uri": "https://web.archive.org/web/20230220004646/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-07T04:29:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042938/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-07T04:29:38Z",
+        "uri": "https://web.archive.org/web/20230307042938/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-07T09:05:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230307090549/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-07T09:05:49Z",
+        "uri": "https://web.archive.org/web/20230307090549/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-03-27T22:30:16Z",
+        "uri": "https://web.archive.org/web/20230327223016/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-25T17:39:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173934/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-25T17:39:34Z",
+        "uri": "https://web.archive.org/web/20230825173934/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-27T02:22:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022217/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-27T02:22:17Z",
+        "uri": "https://web.archive.org/web/20230827022217/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-30T08:58:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230830085814/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-30T08:58:14Z",
+        "uri": "https://web.archive.org/web/20230830085814/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-30T15:53:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230830155349/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-08-30T15:53:49Z",
+        "uri": "https://web.archive.org/web/20230830155349/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2023-11-28T03:54:13Z",
+        "uri": "https://web.archive.org/web/20231128035413/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-01-17T00:36:04Z",
+        "uri": "https://web.archive.org/web/20240117003604/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-01-17T00:36:04Z",
+        "uri": "https://web.archive.org/web/20240117003604/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-02-21T20:27:01Z",
+        "uri": "https://web.archive.org/web/20240221202701/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-02-24T09:31:26Z",
+        "uri": "https://web.archive.org/web/20240224093126/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-02-28T23:39:11Z",
+        "uri": "https://web.archive.org/web/20240228233911/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-03-25T12:54:41Z",
+        "uri": "https://web.archive.org/web/20240325125441/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-04-01T13:06:37Z",
+        "uri": "https://web.archive.org/web/20240401130637/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-04-04T07:26:57Z",
+        "uri": "https://web.archive.org/web/20240404072657/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-04-18T00:09:53Z",
+        "uri": "https://web.archive.org/web/20240418000953/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-04-27T16:09:37Z",
+        "uri": "https://web.archive.org/web/20240427160937/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-05-13T13:53:59Z",
+        "uri": "https://web.archive.org/web/20240513135359/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-05-23T21:39:03Z",
+        "uri": "https://wayback.archive-it.org/all/20240523213903/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-05-27T20:10:46Z",
+        "uri": "https://wayback.archive-it.org/all/20240527201046/https://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-05-30T03:56:27Z",
+        "uri": "https://wayback.archive-it.org/all/20240530035627/http://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-07-06T13:15:26Z",
+        "uri": "https://web.archive.org/web/20240706131526/http://odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-07-15T23:30:26Z",
+        "uri": "https://web.archive.org/web/20240715233026/https://www.odu.edu/academics/summer"
+      },
+      {
+        "datetime": "2024-09-01T12:11:05Z",
+        "uri": "https://web.archive.org/web/20240901121105/https://www.odu.edu/academics/summer"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-21T08:14:57Z",
+      "uri": "https://web.archive.org/web/20120921081457/http://www.odu.edu:80/academics/summer"
+    },
+    "last": {
+      "datetime": "2024-09-01T12:11:05Z",
+      "uri": "https://web.archive.org/web/20240901121105/https://www.odu.edu/academics/summer"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/academics/summer",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/summer",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/academics/summer"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/academics/summer"
+}

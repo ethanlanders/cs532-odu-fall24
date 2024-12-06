@@ -1,0 +1,2882 @@
+{
+  "original_uri": "https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+  "self": "http://localhost:1208/timemap/json/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-17T07:49:57Z",
+        "uri": "https://web.archive.org/web/20220317074957/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-17T19:22:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220317192240/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-17T19:22:40Z",
+        "uri": "https://web.archive.org/web/20220317192240/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-18T04:02:26Z",
+        "uri": "https://web.archive.org/web/20220318040226/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-18T06:12:28Z",
+        "uri": "https://web.archive.org/web/20220318061228/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-19T05:10:59Z",
+        "uri": "https://web.archive.org/web/20220319051059/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-19T07:54:16Z",
+        "uri": "https://web.archive.org/web/20220319075416/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-19T22:43:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220319224339/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-19T22:43:39Z",
+        "uri": "https://web.archive.org/web/20220319224339/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-20T06:38:44Z",
+        "uri": "https://web.archive.org/web/20220320063844/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-20T07:43:31Z",
+        "uri": "https://web.archive.org/web/20220320074331/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-20T18:07:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220320180712/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-20T18:07:12Z",
+        "uri": "https://web.archive.org/web/20220320180712/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-21T03:10:34Z",
+        "uri": "https://web.archive.org/web/20220321031034/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-21T09:20:13Z",
+        "uri": "https://web.archive.org/web/20220321092013/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-22T05:02:12Z",
+        "uri": "https://web.archive.org/web/20220322050212/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-22T11:02:23Z",
+        "uri": "https://web.archive.org/web/20220322110223/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-22T12:16:18Z",
+        "uri": "https://web.archive.org/web/20220322121618/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-22T21:14:20Z",
+        "uri": "https://web.archive.org/web/20220322211420/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-23T05:25:57Z",
+        "uri": "https://web.archive.org/web/20220323052557/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-23T13:22:20Z",
+        "uri": "https://web.archive.org/web/20220323132220/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-24T01:57:37Z",
+        "uri": "https://web.archive.org/web/20220324015737/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-24T09:27:38Z",
+        "uri": "https://web.archive.org/web/20220324092738/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-24T16:55:56Z",
+        "uri": "https://web.archive.org/web/20220324165556/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-25T08:43:52Z",
+        "uri": "https://web.archive.org/web/20220325084352/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-25T18:15:46Z",
+        "uri": "https://web.archive.org/web/20220325181546/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-26T10:34:32Z",
+        "uri": "https://web.archive.org/web/20220326103432/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-26T19:56:35Z",
+        "uri": "https://web.archive.org/web/20220326195635/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-27T01:26:54Z",
+        "uri": "https://web.archive.org/web/20220327012654/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-27T12:45:12Z",
+        "uri": "https://web.archive.org/web/20220327124512/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-27T20:35:48Z",
+        "uri": "https://web.archive.org/web/20220327203548/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-28T12:33:12Z",
+        "uri": "https://web.archive.org/web/20220328123312/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-28T21:55:57Z",
+        "uri": "https://web.archive.org/web/20220328215557/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-29T11:18:40Z",
+        "uri": "https://web.archive.org/web/20220329111840/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-29T13:11:40Z",
+        "uri": "https://web.archive.org/web/20220329131140/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-29T21:51:50Z",
+        "uri": "https://web.archive.org/web/20220329215150/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-30T23:04:52Z",
+        "uri": "https://web.archive.org/web/20220330230452/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-31T00:19:49Z",
+        "uri": "https://web.archive.org/web/20220331001949/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-31T02:22:55Z",
+        "uri": "https://web.archive.org/web/20220331022255/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-03-31T07:54:40Z",
+        "uri": "https://web.archive.org/web/20220331075440/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T00:13:10Z",
+        "uri": "https://web.archive.org/web/20220401001310/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T08:17:35Z",
+        "uri": "https://web.archive.org/web/20220401081735/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T08:43:40Z",
+        "uri": "https://web.archive.org/web/20220401084340/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T08:45:15Z",
+        "uri": "https://web.archive.org/web/20220401084515/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T13:44:24Z",
+        "uri": "https://web.archive.org/web/20220401134424/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-01T13:44:24Z",
+        "uri": "https://web.archive.org/web/20220401134424/http://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-02T03:25:18Z",
+        "uri": "https://web.archive.org/web/20220402032518/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-02T08:31:10Z",
+        "uri": "https://web.archive.org/web/20220402083110/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-03T01:53:22Z",
+        "uri": "https://web.archive.org/web/20220403015322/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-03T03:21:47Z",
+        "uri": "https://web.archive.org/web/20220403032147/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-03T09:15:35Z",
+        "uri": "https://web.archive.org/web/20220403091535/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-03T18:03:32Z",
+        "uri": "https://web.archive.org/web/20220403180332/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-04T11:19:15Z",
+        "uri": "https://web.archive.org/web/20220404111915/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-04T20:00:56Z",
+        "uri": "https://web.archive.org/web/20220404200056/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-05T16:20:41Z",
+        "uri": "https://wayback.archive-it.org/all/20220405162041/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-05T16:20:41Z",
+        "uri": "https://web.archive.org/web/20220405162041/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-05T21:43:28Z",
+        "uri": "https://web.archive.org/web/20220405214328/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-07T00:39:49Z",
+        "uri": "https://web.archive.org/web/20220407003949/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-08T03:27:12Z",
+        "uri": "https://web.archive.org/web/20220408032712/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-08T22:37:30Z",
+        "uri": "https://web.archive.org/web/20220408223730/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-09T05:28:46Z",
+        "uri": "https://web.archive.org/web/20220409052846/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-09T21:04:15Z",
+        "uri": "https://web.archive.org/web/20220409210415/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-10T21:44:22Z",
+        "uri": "https://web.archive.org/web/20220410214422/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-11T22:32:59Z",
+        "uri": "https://web.archive.org/web/20220411223259/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-12T22:59:47Z",
+        "uri": "https://web.archive.org/web/20220412225947/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-13T23:25:56Z",
+        "uri": "https://web.archive.org/web/20220413232556/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-14T05:42:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220414054201/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-14T05:42:01Z",
+        "uri": "https://web.archive.org/web/20220414054201/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-14T23:39:50Z",
+        "uri": "https://web.archive.org/web/20220414233950/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-16T00:06:30Z",
+        "uri": "https://web.archive.org/web/20220416000630/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-16T22:38:39Z",
+        "uri": "https://arquivo.pt/wayback/20220416223839mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-17T00:48:00Z",
+        "uri": "https://web.archive.org/web/20220417004800/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-18T01:54:54Z",
+        "uri": "https://web.archive.org/web/20220418015454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-19T02:33:51Z",
+        "uri": "https://web.archive.org/web/20220419023351/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-19T04:06:50Z",
+        "uri": "https://web.archive.org/web/20220419040650/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-20T03:42:04Z",
+        "uri": "https://web.archive.org/web/20220420034204/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-21T03:04:50Z",
+        "uri": "https://web.archive.org/web/20220421030450/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-22T04:11:14Z",
+        "uri": "https://web.archive.org/web/20220422041114/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-23T02:37:14Z",
+        "uri": "https://web.archive.org/web/20220423023714/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-24T03:13:24Z",
+        "uri": "https://web.archive.org/web/20220424031324/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-24T12:55:30Z",
+        "uri": "https://web.archive.org/web/20220424125530/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-25T01:45:03Z",
+        "uri": "https://web.archive.org/web/20220425014503/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-26T02:50:54Z",
+        "uri": "https://web.archive.org/web/20220426025054/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-27T03:51:29Z",
+        "uri": "https://web.archive.org/web/20220427035129/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-28T04:33:26Z",
+        "uri": "https://web.archive.org/web/20220428043326/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-29T05:02:04Z",
+        "uri": "https://web.archive.org/web/20220429050204/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-04-30T06:08:59Z",
+        "uri": "https://web.archive.org/web/20220430060859/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-01T05:22:04Z",
+        "uri": "https://web.archive.org/web/20220501052204/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-02T06:07:55Z",
+        "uri": "https://web.archive.org/web/20220502060755/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-03T06:27:53Z",
+        "uri": "https://web.archive.org/web/20220503062753/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-04T03:34:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220504033456/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-04T03:34:56Z",
+        "uri": "https://web.archive.org/web/20220504033456/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-04T08:35:37Z",
+        "uri": "https://web.archive.org/web/20220504083537/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-05T08:46:31Z",
+        "uri": "https://web.archive.org/web/20220505084631/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-05T16:26:04Z",
+        "uri": "https://wayback.archive-it.org/all/20220505162604/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-06T15:44:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220506154454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-06T15:44:54Z",
+        "uri": "https://web.archive.org/web/20220506154454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-06T19:09:59Z",
+        "uri": "https://web.archive.org/web/20220506190959/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-07T17:41:20Z",
+        "uri": "https://web.archive.org/web/20220507174120/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-08T17:57:29Z",
+        "uri": "https://web.archive.org/web/20220508175729/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-09T18:23:43Z",
+        "uri": "https://web.archive.org/web/20220509182343/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-10T20:27:08Z",
+        "uri": "https://web.archive.org/web/20220510202708/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-11T04:40:10Z",
+        "uri": "https://web.archive.org/web/20220511044010/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-11T10:14:46Z",
+        "uri": "https://webarchive.loc.gov/all/20220511101446/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-11T19:55:41Z",
+        "uri": "https://web.archive.org/web/20220511195541/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-11T21:27:08Z",
+        "uri": "https://web.archive.org/web/20220511212708/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-12T06:51:36Z",
+        "uri": "https://web.archive.org/web/20220512065136/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-12T22:08:28Z",
+        "uri": "https://web.archive.org/web/20220512220828/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-13T22:59:01Z",
+        "uri": "https://web.archive.org/web/20220513225901/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-14T04:21:29Z",
+        "uri": "https://web.archive.org/web/20220514042129/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-15T04:23:09Z",
+        "uri": "https://web.archive.org/web/20220515042309/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-15T22:05:07Z",
+        "uri": "https://wayback.archive-it.org/all/20220515220507/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-15T22:05:07Z",
+        "uri": "https://web.archive.org/web/20220515220507/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-16T05:49:04Z",
+        "uri": "https://web.archive.org/web/20220516054904/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-17T06:33:23Z",
+        "uri": "https://web.archive.org/web/20220517063323/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-18T05:00:00Z",
+        "uri": "https://web.archive.org/web/20220518050000/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-18T07:08:49Z",
+        "uri": "https://web.archive.org/web/20220518070849/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-18T07:21:29Z",
+        "uri": "https://web.archive.org/web/20220518072129/http://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-18T10:49:07Z",
+        "uri": "https://web.archive.org/web/20220518104907/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T07:36:16Z",
+        "uri": "https://web.archive.org/web/20220519073616/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T08:26:25Z",
+        "uri": "https://web.archive.org/web/20220519082625/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T14:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20220519144637mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-19T14:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20220519144637mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-20T07:37:03Z",
+        "uri": "https://web.archive.org/web/20220520073703/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-21T08:04:08Z",
+        "uri": "https://web.archive.org/web/20220521080408/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-21T16:04:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220521160454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-21T16:04:54Z",
+        "uri": "https://web.archive.org/web/20220521160454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-23T22:49:58Z",
+        "uri": "https://web.archive.org/web/20220523224958/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-25T02:09:23Z",
+        "uri": "https://web.archive.org/web/20220525020923/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-25T10:40:10Z",
+        "uri": "https://web.archive.org/web/20220525104010/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-25T15:56:34Z",
+        "uri": "https://web.archive.org/web/20220525155634/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-26T07:45:33Z",
+        "uri": "https://web.archive.org/web/20220526074533/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-26T08:15:09Z",
+        "uri": "https://web.archive.org/web/20220526081509/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-27T08:41:53Z",
+        "uri": "https://web.archive.org/web/20220527084153/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-31T00:01:15Z",
+        "uri": "https://web.archive.org/web/20220531000115/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-05-31T21:00:06Z",
+        "uri": "https://web.archive.org/web/20220531210006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-01T16:43:37Z",
+        "uri": "https://web.archive.org/web/20220601164337/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-01T22:37:46Z",
+        "uri": "https://web.archive.org/web/20220601223746/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-02T00:02:52Z",
+        "uri": "https://arquivo.pt/wayback/20220602000252mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-02T08:18:15Z",
+        "uri": "https://web.archive.org/web/20220602081815/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-02T23:00:28Z",
+        "uri": "https://web.archive.org/web/20220602230028/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-03T21:03:10Z",
+        "uri": "https://web.archive.org/web/20220603210310/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-04T05:14:54Z",
+        "uri": "https://web.archive.org/web/20220604051454/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-05T02:27:35Z",
+        "uri": "https://web.archive.org/web/20220605022735/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-05T16:20:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220605162058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-05T16:20:58Z",
+        "uri": "https://web.archive.org/web/20220605162058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-06T03:13:58Z",
+        "uri": "https://web.archive.org/web/20220606031358/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-06T15:25:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220606152522/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-06T15:25:22Z",
+        "uri": "https://web.archive.org/web/20220606152522/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-07T07:18:09Z",
+        "uri": "https://web.archive.org/web/20220607071809/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-08T07:04:46Z",
+        "uri": "https://web.archive.org/web/20220608070446/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-08T16:40:21Z",
+        "uri": "https://web.archive.org/web/20220608164021/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-09T08:56:21Z",
+        "uri": "https://web.archive.org/web/20220609085621/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-09T12:29:15Z",
+        "uri": "https://web.archive.org/web/20220609122915/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-10T12:39:45Z",
+        "uri": "https://web.archive.org/web/20220610123945/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-11T15:10:26Z",
+        "uri": "https://web.archive.org/web/20220611151026/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-12T00:32:44Z",
+        "uri": "https://arquivo.pt/wayback/20220612003244mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-12T13:27:29Z",
+        "uri": "https://web.archive.org/web/20220612132729/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-13T01:00:07Z",
+        "uri": "https://arquivo.pt/wayback/20220613010007mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-13T14:01:03Z",
+        "uri": "https://web.archive.org/web/20220613140103/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-14T15:26:06Z",
+        "uri": "https://web.archive.org/web/20220614152606/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-15T15:43:51Z",
+        "uri": "https://web.archive.org/web/20220615154351/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-15T17:44:51Z",
+        "uri": "https://web.archive.org/web/20220615174451/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-16T09:00:58Z",
+        "uri": "https://web.archive.org/web/20220616090058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-16T15:03:35Z",
+        "uri": "https://web.archive.org/web/20220616150335/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-17T17:28:14Z",
+        "uri": "https://web.archive.org/web/20220617172814/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-18T20:07:38Z",
+        "uri": "https://web.archive.org/web/20220618200738/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-19T16:55:33Z",
+        "uri": "https://web.archive.org/web/20220619165533/http://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-19T20:50:43Z",
+        "uri": "https://web.archive.org/web/20220619205043/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-20T20:50:59Z",
+        "uri": "https://web.archive.org/web/20220620205059/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-21T23:05:06Z",
+        "uri": "https://web.archive.org/web/20220621230506/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-22T18:02:50Z",
+        "uri": "https://web.archive.org/web/20220622180250/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-22T20:56:09Z",
+        "uri": "https://web.archive.org/web/20220622205609/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-23T09:27:04Z",
+        "uri": "https://web.archive.org/web/20220623092704/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-23T18:30:47Z",
+        "uri": "https://web.archive.org/web/20220623183047/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-23T21:37:25Z",
+        "uri": "https://web.archive.org/web/20220623213725/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-24T22:50:16Z",
+        "uri": "https://web.archive.org/web/20220624225016/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-25T08:51:22Z",
+        "uri": "https://web.archive.org/web/20220625085122/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-25T22:44:31Z",
+        "uri": "https://web.archive.org/web/20220625224431/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-26T22:56:47Z",
+        "uri": "https://web.archive.org/web/20220626225647/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-27T23:37:37Z",
+        "uri": "https://web.archive.org/web/20220627233737/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-28T22:35:42Z",
+        "uri": "https://web.archive.org/web/20220628223542/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-29T10:10:52Z",
+        "uri": "https://web.archive.org/web/20220629101052/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-29T19:17:02Z",
+        "uri": "https://web.archive.org/web/20220629191702/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-29T22:55:44Z",
+        "uri": "https://web.archive.org/web/20220629225544/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-30T18:23:21Z",
+        "uri": "https://web.archive.org/web/20220630182321/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-06-30T23:23:12Z",
+        "uri": "https://web.archive.org/web/20220630232312/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-02T00:45:49Z",
+        "uri": "https://web.archive.org/web/20220702004549/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-02T23:48:03Z",
+        "uri": "https://web.archive.org/web/20220702234803/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-03T00:47:52Z",
+        "uri": "https://web.archive.org/web/20220703004752/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-04T00:10:39Z",
+        "uri": "https://web.archive.org/web/20220704001039/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-05T00:58:56Z",
+        "uri": "https://web.archive.org/web/20220705005856/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-05T16:24:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220705162458/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-05T16:24:58Z",
+        "uri": "https://web.archive.org/web/20220705162458/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-06T01:49:33Z",
+        "uri": "https://web.archive.org/web/20220706014933/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-06T17:11:07Z",
+        "uri": "https://wayback.archive-it.org/all/20220706171107/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-06T17:11:07Z",
+        "uri": "https://web.archive.org/web/20220706171107/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-06T19:14:45Z",
+        "uri": "https://web.archive.org/web/20220706191445/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-06T19:33:05Z",
+        "uri": "https://web.archive.org/web/20220706193305/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T01:29:37Z",
+        "uri": "https://web.archive.org/web/20220707012937/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T02:46:50Z",
+        "uri": "https://web.archive.org/web/20220707024650/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T13:28:16Z",
+        "uri": "https://web.archive.org/web/20220707132816/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T19:54:21Z",
+        "uri": "https://web.archive.org/web/20220707195421/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-07T22:22:27Z",
+        "uri": "https://vefsafn.is/20220707222227mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-08T04:05:08Z",
+        "uri": "https://web.archive.org/web/20220708040508/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-09T04:55:16Z",
+        "uri": "https://web.archive.org/web/20220709045516/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-10T05:57:06Z",
+        "uri": "https://web.archive.org/web/20220710055706/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-11T06:51:10Z",
+        "uri": "https://web.archive.org/web/20220711065110/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-14T01:56:16Z",
+        "uri": "https://web.archive.org/web/20220714015616/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-14T02:12:00Z",
+        "uri": "https://web.archive.org/web/20220714021200/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-14T19:31:48Z",
+        "uri": "https://web.archive.org/web/20220714193148/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-15T03:31:30Z",
+        "uri": "https://web.archive.org/web/20220715033130/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-16T11:43:26Z",
+        "uri": "https://web.archive.org/web/20220716114326/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-17T03:38:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220717033808/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-17T03:38:08Z",
+        "uri": "https://web.archive.org/web/20220717033808/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-17T12:26:35Z",
+        "uri": "https://web.archive.org/web/20220717122635/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-17T22:12:43Z",
+        "uri": "https://web.archive.org/web/20220717221243/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-18T19:21:16Z",
+        "uri": "https://web.archive.org/web/20220718192116/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-19T18:42:31Z",
+        "uri": "https://web.archive.org/web/20220719184231/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-21T01:32:55Z",
+        "uri": "https://web.archive.org/web/20220721013255/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-21T20:54:31Z",
+        "uri": "https://web.archive.org/web/20220721205431/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-22T23:02:26Z",
+        "uri": "https://web.archive.org/web/20220722230226/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-25T23:33:15Z",
+        "uri": "https://web.archive.org/web/20220725233315/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-27T16:29:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220727162950/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-27T16:29:50Z",
+        "uri": "https://web.archive.org/web/20220727162950/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-27T22:54:29Z",
+        "uri": "https://web.archive.org/web/20220727225429/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-28T03:18:31Z",
+        "uri": "https://web.archive.org/web/20220728031831/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-28T21:19:32Z",
+        "uri": "https://web.archive.org/web/20220728211932/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-29T00:58:28Z",
+        "uri": "https://web.archive.org/web/20220729005828/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-30T03:35:43Z",
+        "uri": "https://web.archive.org/web/20220730033543/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-07-31T02:51:07Z",
+        "uri": "https://web.archive.org/web/20220731025107/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-01T11:34:23Z",
+        "uri": "https://web.archive.org/web/20220801113423/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-02T12:57:31Z",
+        "uri": "https://web.archive.org/web/20220802125731/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-03T14:54:25Z",
+        "uri": "https://webarchive.loc.gov/all/20220803145425/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T04:35:16Z",
+        "uri": "https://web.archive.org/web/20220804043516/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T08:20:05Z",
+        "uri": "https://wayback.archive-it.org/all/20220804082005/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T08:20:05Z",
+        "uri": "https://web.archive.org/web/20220804082005/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T09:10:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220804091051/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T09:10:51Z",
+        "uri": "https://web.archive.org/web/20220804091051/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T22:54:20Z",
+        "uri": "https://web.archive.org/web/20220804225420/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-04T23:12:13Z",
+        "uri": "https://web.archive.org/web/20220804231213/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-05T18:04:00Z",
+        "uri": "https://web.archive.org/web/20220805180400/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-06T18:22:00Z",
+        "uri": "https://web.archive.org/web/20220806182200/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-07T03:26:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220807032616/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-07T03:26:16Z",
+        "uri": "https://web.archive.org/web/20220807032616/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-07T03:55:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220807035548/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-07T03:55:48Z",
+        "uri": "https://web.archive.org/web/20220807035548/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-07T16:48:27Z",
+        "uri": "https://web.archive.org/web/20220807164827/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-08T01:14:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220808011430/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-08T01:14:30Z",
+        "uri": "https://web.archive.org/web/20220808011430/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-08T17:15:15Z",
+        "uri": "https://web.archive.org/web/20220808171515/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-09T17:59:44Z",
+        "uri": "https://web.archive.org/web/20220809175944/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-10T20:37:30Z",
+        "uri": "https://web.archive.org/web/20220810203730/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-11T06:00:42Z",
+        "uri": "https://web.archive.org/web/20220811060042/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-11T09:47:32Z",
+        "uri": "https://web.archive.org/web/20220811094732/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-11T21:15:02Z",
+        "uri": "https://web.archive.org/web/20220811211502/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-11T23:45:31Z",
+        "uri": "https://web.archive.org/web/20220811234531/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-12T22:26:51Z",
+        "uri": "https://web.archive.org/web/20220812222651/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-13T23:18:02Z",
+        "uri": "https://web.archive.org/web/20220813231802/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-14T17:00:29Z",
+        "uri": "https://web.archive.org/web/20220814170029/http://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-14T23:46:47Z",
+        "uri": "https://web.archive.org/web/20220814234647/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-16T00:08:26Z",
+        "uri": "https://web.archive.org/web/20220816000826/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-17T01:39:25Z",
+        "uri": "https://web.archive.org/web/20220817013925/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-18T01:51:47Z",
+        "uri": "https://web.archive.org/web/20220818015147/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-18T06:16:58Z",
+        "uri": "https://web.archive.org/web/20220818061658/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-19T00:30:01Z",
+        "uri": "https://web.archive.org/web/20220819003001/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-19T02:02:09Z",
+        "uri": "https://web.archive.org/web/20220819020209/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-20T21:49:15Z",
+        "uri": "https://web.archive.org/web/20220820214915/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-22T05:53:22Z",
+        "uri": "https://web.archive.org/web/20220822055322/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-23T07:15:16Z",
+        "uri": "https://web.archive.org/web/20220823071516/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-24T08:05:53Z",
+        "uri": "https://web.archive.org/web/20220824080553/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-25T19:28:24Z",
+        "uri": "https://web.archive.org/web/20220825192824/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-25T23:02:28Z",
+        "uri": "https://web.archive.org/web/20220825230228/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-26T02:07:04Z",
+        "uri": "https://web.archive.org/web/20220826020704/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-26T08:21:17Z",
+        "uri": "https://web.archive.org/web/20220826082117/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-26T13:29:17Z",
+        "uri": "https://web.archive.org/web/20220826132917/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-26T21:01:25Z",
+        "uri": "https://web.archive.org/web/20220826210125/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-27T10:01:57Z",
+        "uri": "https://web.archive.org/web/20220827100157/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-27T19:03:02Z",
+        "uri": "https://web.archive.org/web/20220827190302/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-28T09:06:53Z",
+        "uri": "https://web.archive.org/web/20220828090653/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-28T19:52:02Z",
+        "uri": "https://web.archive.org/web/20220828195202/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-29T09:55:44Z",
+        "uri": "https://web.archive.org/web/20220829095544/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-29T20:49:40Z",
+        "uri": "https://web.archive.org/web/20220829204940/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-30T10:00:59Z",
+        "uri": "https://web.archive.org/web/20220830100059/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-30T21:36:37Z",
+        "uri": "https://web.archive.org/web/20220830213637/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-08-31T21:40:49Z",
+        "uri": "https://web.archive.org/web/20220831214049/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-01T11:28:58Z",
+        "uri": "https://web.archive.org/web/20220901112858/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-01T20:03:49Z",
+        "uri": "https://web.archive.org/web/20220901200349/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-02T08:30:46Z",
+        "uri": "https://web.archive.org/web/20220902083046/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-02T12:53:52Z",
+        "uri": "https://web.archive.org/web/20220902125352/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-02T13:52:14Z",
+        "uri": "https://web.archive.org/web/20220902135214/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-02T21:35:10Z",
+        "uri": "https://web.archive.org/web/20220902213510/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-03T13:23:51Z",
+        "uri": "https://web.archive.org/web/20220903132351/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-03T20:00:58Z",
+        "uri": "https://web.archive.org/web/20220903200058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-04T17:08:00Z",
+        "uri": "https://web.archive.org/web/20220904170800/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-04T20:44:16Z",
+        "uri": "https://web.archive.org/web/20220904204416/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-05T16:25:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220905162554/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-05T16:25:54Z",
+        "uri": "https://web.archive.org/web/20220905162554/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-05T17:30:05Z",
+        "uri": "https://web.archive.org/web/20220905173005/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-05T21:22:02Z",
+        "uri": "https://web.archive.org/web/20220905212202/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-06T06:30:56Z",
+        "uri": "https://web.archive.org/web/20220906063056/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-06T17:06:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220906170621/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-06T17:06:21Z",
+        "uri": "https://web.archive.org/web/20220906170621/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-06T18:49:21Z",
+        "uri": "https://web.archive.org/web/20220906184921/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-07T07:21:12Z",
+        "uri": "https://web.archive.org/web/20220907072112/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-07T18:40:50Z",
+        "uri": "https://web.archive.org/web/20220907184050/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-08T08:33:02Z",
+        "uri": "https://web.archive.org/web/20220908083302/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-08T19:58:00Z",
+        "uri": "https://web.archive.org/web/20220908195800/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-09T08:28:56Z",
+        "uri": "https://web.archive.org/web/20220909082856/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-09T08:58:13Z",
+        "uri": "https://web.archive.org/web/20220909085813/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-09T14:03:04Z",
+        "uri": "https://web.archive.org/web/20220909140304/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-09T19:27:26Z",
+        "uri": "https://web.archive.org/web/20220909192726/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-10T09:49:08Z",
+        "uri": "https://web.archive.org/web/20220910094908/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-10T21:15:59Z",
+        "uri": "https://web.archive.org/web/20220910211559/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-11T08:25:52Z",
+        "uri": "https://web.archive.org/web/20220911082552/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-11T20:59:29Z",
+        "uri": "https://web.archive.org/web/20220911205929/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-12T01:54:41Z",
+        "uri": "https://web.archive.org/web/20220912015441/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-12T08:45:55Z",
+        "uri": "https://web.archive.org/web/20220912084555/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-12T22:09:38Z",
+        "uri": "https://web.archive.org/web/20220912220938/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-13T09:27:26Z",
+        "uri": "https://web.archive.org/web/20220913092726/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-13T21:33:47Z",
+        "uri": "https://web.archive.org/web/20220913213347/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-14T09:18:47Z",
+        "uri": "https://web.archive.org/web/20220914091847/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-15T09:54:09Z",
+        "uri": "https://web.archive.org/web/20220915095409/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-15T23:52:58Z",
+        "uri": "https://web.archive.org/web/20220915235258/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-16T09:33:13Z",
+        "uri": "https://web.archive.org/web/20220916093313/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-16T12:49:47Z",
+        "uri": "https://web.archive.org/web/20220916124947/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-17T00:42:28Z",
+        "uri": "https://web.archive.org/web/20220917004228/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-17T11:24:33Z",
+        "uri": "https://web.archive.org/web/20220917112433/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-18T01:36:07Z",
+        "uri": "https://web.archive.org/web/20220918013607/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-18T16:01:13Z",
+        "uri": "https://web.archive.org/web/20220918160113/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-19T01:20:47Z",
+        "uri": "https://web.archive.org/web/20220919012047/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-19T02:33:43Z",
+        "uri": "https://web.archive.org/web/20220919023343/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-20T18:55:16Z",
+        "uri": "https://web.archive.org/web/20220920185516/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-22T10:41:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220922104159/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-22T10:41:59Z",
+        "uri": "https://web.archive.org/web/20220922104159/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-23T08:20:50Z",
+        "uri": "https://web.archive.org/web/20220923082050/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-23T09:25:10Z",
+        "uri": "https://web.archive.org/web/20220923092510/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-25T06:28:29Z",
+        "uri": "https://web.archive.org/web/20220925062829/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-25T09:52:20Z",
+        "uri": "https://web.archive.org/web/20220925095220/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-26T01:19:01Z",
+        "uri": "https://web.archive.org/web/20220926011901/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-26T02:38:41Z",
+        "uri": "https://web.archive.org/web/20220926023841/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-26T10:33:37Z",
+        "uri": "https://web.archive.org/web/20220926103337/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-27T21:42:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220927214244/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-27T21:42:44Z",
+        "uri": "https://web.archive.org/web/20220927214244/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-29T08:15:54Z",
+        "uri": "https://web.archive.org/web/20220929081554/https://doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-29T13:33:49Z",
+        "uri": "https://web.archive.org/web/20220929133349/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-30T00:50:11Z",
+        "uri": "https://web.archive.org/web/20220930005011/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-30T03:07:48Z",
+        "uri": "https://web.archive.org/web/20220930030748/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-30T05:19:37Z",
+        "uri": "https://web.archive.org/web/20220930051937/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-30T12:30:28Z",
+        "uri": "https://web.archive.org/web/20220930123028/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-09-30T12:50:21Z",
+        "uri": "https://web.archive.org/web/20220930125021/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-01T15:09:43Z",
+        "uri": "https://web.archive.org/web/20221001150943/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-03T03:31:18Z",
+        "uri": "https://web.archive.org/web/20221003033118/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-03T13:28:44Z",
+        "uri": "https://web.archive.org/web/20221003132844/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-04T16:01:16Z",
+        "uri": "https://web.archive.org/web/20221004160116/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-05T16:39:42Z",
+        "uri": "https://wayback.archive-it.org/all/20221005163942/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-05T16:39:42Z",
+        "uri": "https://web.archive.org/web/20221005163942/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-06T16:11:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221006161134/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-06T16:11:34Z",
+        "uri": "https://web.archive.org/web/20221006161134/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-07T19:38:08Z",
+        "uri": "https://web.archive.org/web/20221007193808/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-08T11:42:21Z",
+        "uri": "https://web.archive.org/web/20221008114221/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-08T20:29:39Z",
+        "uri": "https://web.archive.org/web/20221008202939/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-09T09:50:11Z",
+        "uri": "https://web.archive.org/web/20221009095011/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-09T22:21:36Z",
+        "uri": "https://web.archive.org/web/20221009222136/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-10T03:21:15Z",
+        "uri": "https://web.archive.org/web/20221010032115/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-10T11:14:47Z",
+        "uri": "https://web.archive.org/web/20221010111447/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-10T21:36:28Z",
+        "uri": "https://web.archive.org/web/20221010213628/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-11T12:12:20Z",
+        "uri": "https://web.archive.org/web/20221011121220/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-12T13:31:33Z",
+        "uri": "https://web.archive.org/web/20221012133133/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-12T22:08:27Z",
+        "uri": "https://web.archive.org/web/20221012220827/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-13T14:06:18Z",
+        "uri": "https://web.archive.org/web/20221013140618/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-13T15:24:20Z",
+        "uri": "https://web.archive.org/web/20221013152420/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-14T15:04:36Z",
+        "uri": "https://web.archive.org/web/20221014150436/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-14T19:43:34Z",
+        "uri": "https://web.archive.org/web/20221014194334/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-15T16:20:06Z",
+        "uri": "https://web.archive.org/web/20221015162006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-16T14:46:07Z",
+        "uri": "https://web.archive.org/web/20221016144607/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-16T23:13:32Z",
+        "uri": "https://web.archive.org/web/20221016231332/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-17T03:46:28Z",
+        "uri": "https://web.archive.org/web/20221017034628/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-17T15:16:33Z",
+        "uri": "https://web.archive.org/web/20221017151633/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-17T15:52:34Z",
+        "uri": "https://arquivo.pt/wayback/20221017155234mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-18T01:46:25Z",
+        "uri": "https://web.archive.org/web/20221018014625/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-18T17:22:22Z",
+        "uri": "https://web.archive.org/web/20221018172222/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-20T01:48:13Z",
+        "uri": "https://web.archive.org/web/20221020014813/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-21T01:21:42Z",
+        "uri": "https://web.archive.org/web/20221021012142/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-21T21:14:10Z",
+        "uri": "https://web.archive.org/web/20221021211410/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-22T02:21:20Z",
+        "uri": "https://web.archive.org/web/20221022022120/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-22T05:57:05Z",
+        "uri": "https://web.archive.org/web/20221022055705/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-23T02:11:17Z",
+        "uri": "https://web.archive.org/web/20221023021117/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-24T00:54:02Z",
+        "uri": "https://web.archive.org/web/20221024005402/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-24T04:25:44Z",
+        "uri": "https://web.archive.org/web/20221024042544/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-25T03:10:06Z",
+        "uri": "https://web.archive.org/web/20221025031006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-27T05:16:25Z",
+        "uri": "https://web.archive.org/web/20221027051625/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-27T16:52:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221027165244/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-27T16:52:44Z",
+        "uri": "https://web.archive.org/web/20221027165244/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-29T07:46:30Z",
+        "uri": "https://web.archive.org/web/20221029074630/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-29T07:52:45Z",
+        "uri": "https://web.archive.org/web/20221029075245/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-29T13:50:27Z",
+        "uri": "https://wayback.archive-it.org/all/20221029135027/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-29T13:50:27Z",
+        "uri": "https://web.archive.org/web/20221029135027/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-10-31T05:02:42Z",
+        "uri": "https://web.archive.org/web/20221031050242/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-02T09:16:36Z",
+        "uri": "https://web.archive.org/web/20221102091636/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-02T10:50:41Z",
+        "uri": "https://web.archive.org/web/20221102105041/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-05T08:13:59Z",
+        "uri": "https://web.archive.org/web/20221105081359/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-05T16:21:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221105162154/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-05T16:21:54Z",
+        "uri": "https://web.archive.org/web/20221105162154/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-05T18:33:43Z",
+        "uri": "https://web.archive.org/web/20221105183343/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-07T06:00:34Z",
+        "uri": "https://web.archive.org/web/20221107060034/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-12T17:46:15Z",
+        "uri": "https://web.archive.org/web/20221112174615/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-13T06:19:53Z",
+        "uri": "https://web.archive.org/web/20221113061953/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-14T04:36:12Z",
+        "uri": "https://web.archive.org/web/20221114043612/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-14T05:58:12Z",
+        "uri": "https://web.archive.org/web/20221114055812/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-14T08:49:44Z",
+        "uri": "https://web.archive.org/web/20221114084944/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-16T05:21:12Z",
+        "uri": "https://web.archive.org/web/20221116052112/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-17T07:01:23Z",
+        "uri": "https://web.archive.org/web/20221117070123/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-17T10:56:44Z",
+        "uri": "https://webarchive.loc.gov/all/20221117105644/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-18T09:50:59Z",
+        "uri": "https://web.archive.org/web/20221118095059/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-19T07:57:22Z",
+        "uri": "https://web.archive.org/web/20221119075722/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-19T18:47:37Z",
+        "uri": "https://web.archive.org/web/20221119184737/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-21T06:54:26Z",
+        "uri": "https://web.archive.org/web/20221121065426/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-21T10:27:17Z",
+        "uri": "https://web.archive.org/web/20221121102717/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-22T09:42:55Z",
+        "uri": "https://web.archive.org/web/20221122094255/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-22T21:37:49Z",
+        "uri": "https://web.archive.org/web/20221122213749/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-22T22:22:34Z",
+        "uri": "https://web.archive.org/web/20221122222234/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-23T09:04:31Z",
+        "uri": "https://web.archive.org/web/20221123090431/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-23T23:29:48Z",
+        "uri": "https://web.archive.org/web/20221123232948/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-24T10:17:56Z",
+        "uri": "https://web.archive.org/web/20221124101756/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-25T01:51:42Z",
+        "uri": "https://web.archive.org/web/20221125015142/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-25T12:19:06Z",
+        "uri": "https://web.archive.org/web/20221125121906/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-26T01:53:52Z",
+        "uri": "https://web.archive.org/web/20221126015352/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-26T19:20:27Z",
+        "uri": "https://web.archive.org/web/20221126192027/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-26T20:35:28Z",
+        "uri": "https://web.archive.org/web/20221126203528/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-27T02:33:05Z",
+        "uri": "https://web.archive.org/web/20221127023305/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-27T03:13:24Z",
+        "uri": "https://web.archive.org/web/20221127031324/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-28T07:06:44Z",
+        "uri": "https://web.archive.org/web/20221128070644/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-28T22:36:48Z",
+        "uri": "https://web.archive.org/web/20221128223648/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-11-30T15:12:30Z",
+        "uri": "https://web.archive.org/web/20221130151230/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-02T03:12:07Z",
+        "uri": "https://web.archive.org/web/20221202031207/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-02T09:03:03Z",
+        "uri": "https://web.archive.org/web/20221202090303/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-02T09:11:43Z",
+        "uri": "https://web.archive.org/web/20221202091143/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-02T15:37:59Z",
+        "uri": "https://web.archive.org/web/20221202153759/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-03T03:19:54Z",
+        "uri": "https://web.archive.org/web/20221203031954/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-03T20:26:39Z",
+        "uri": "https://web.archive.org/web/20221203202639/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-04T04:56:54Z",
+        "uri": "https://web.archive.org/web/20221204045654/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-05T04:12:13Z",
+        "uri": "https://web.archive.org/web/20221205041213/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-05T06:35:04Z",
+        "uri": "https://web.archive.org/web/20221205063504/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-05T18:09:51Z",
+        "uri": "https://wayback.archive-it.org/all/20221205180951/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-05T18:09:51Z",
+        "uri": "https://web.archive.org/web/20221205180951/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-05T22:03:15Z",
+        "uri": "https://web.archive.org/web/20221205220315/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-06T05:33:27Z",
+        "uri": "https://web.archive.org/web/20221206053327/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-07T22:46:38Z",
+        "uri": "https://web.archive.org/web/20221207224638/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-08T07:04:27Z",
+        "uri": "https://web.archive.org/web/20221208070427/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-09T21:08:23Z",
+        "uri": "https://web.archive.org/web/20221209210823/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-10T10:49:27Z",
+        "uri": "https://web.archive.org/web/20221210104927/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-10T20:35:00Z",
+        "uri": "https://web.archive.org/web/20221210203500/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-10T21:45:38Z",
+        "uri": "https://web.archive.org/web/20221210214538/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-11T08:28:52Z",
+        "uri": "https://web.archive.org/web/20221211082852/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-11T22:24:10Z",
+        "uri": "https://web.archive.org/web/20221211222410/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-12T07:44:10Z",
+        "uri": "https://web.archive.org/web/20221212074410/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-12T09:28:48Z",
+        "uri": "https://web.archive.org/web/20221212092848/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-13T07:52:27Z",
+        "uri": "https://web.archive.org/web/20221213075227/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-13T20:33:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221213203354/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-13T20:33:54Z",
+        "uri": "https://web.archive.org/web/20221213203354/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-14T02:26:54Z",
+        "uri": "https://web.archive.org/web/20221214022654/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-14T08:13:14Z",
+        "uri": "https://web.archive.org/web/20221214081314/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-15T03:53:40Z",
+        "uri": "https://web.archive.org/web/20221215035340/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-15T08:46:33Z",
+        "uri": "https://web.archive.org/web/20221215084633/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-16T07:48:44Z",
+        "uri": "https://web.archive.org/web/20221216074844/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-17T08:54:45Z",
+        "uri": "https://web.archive.org/web/20221217085445/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-17T22:25:12Z",
+        "uri": "https://web.archive.org/web/20221217222512/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-19T06:51:07Z",
+        "uri": "https://web.archive.org/web/20221219065107/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-19T08:07:12Z",
+        "uri": "https://web.archive.org/web/20221219080712/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-20T06:03:24Z",
+        "uri": "https://web.archive.org/web/20221220060324/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-20T08:03:02Z",
+        "uri": "https://web.archive.org/web/20221220080302/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-21T06:25:55Z",
+        "uri": "https://web.archive.org/web/20221221062555/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-21T09:02:41Z",
+        "uri": "https://web.archive.org/web/20221221090241/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-22T09:31:42Z",
+        "uri": "https://web.archive.org/web/20221222093142/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-24T03:22:48Z",
+        "uri": "https://web.archive.org/web/20221224032248/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-24T22:47:32Z",
+        "uri": "https://web.archive.org/web/20221224224732/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-25T06:36:08Z",
+        "uri": "https://web.archive.org/web/20221225063608/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-26T04:09:06Z",
+        "uri": "https://web.archive.org/web/20221226040906/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-26T08:18:42Z",
+        "uri": "https://web.archive.org/web/20221226081842/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-26T19:45:09Z",
+        "uri": "https://web.archive.org/web/20221226194509/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-27T04:42:04Z",
+        "uri": "https://web.archive.org/web/20221227044204/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-28T07:07:05Z",
+        "uri": "https://web.archive.org/web/20221228070705/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-28T12:07:20Z",
+        "uri": "https://web.archive.org/web/20221228120720/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-29T05:45:58Z",
+        "uri": "https://web.archive.org/web/20221229054558/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-29T11:51:01Z",
+        "uri": "https://web.archive.org/web/20221229115101/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-30T07:24:35Z",
+        "uri": "https://web.archive.org/web/20221230072435/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-30T12:38:01Z",
+        "uri": "https://web.archive.org/web/20221230123801/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-31T04:48:04Z",
+        "uri": "https://web.archive.org/web/20221231044804/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-31T13:31:22Z",
+        "uri": "https://web.archive.org/web/20221231133122/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2022-12-31T22:38:55Z",
+        "uri": "https://web.archive.org/web/20221231223855/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-01T14:05:16Z",
+        "uri": "https://web.archive.org/web/20230101140516/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-02T14:33:27Z",
+        "uri": "https://web.archive.org/web/20230102143327/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-02T19:56:19Z",
+        "uri": "https://web.archive.org/web/20230102195619/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-03T15:23:23Z",
+        "uri": "https://web.archive.org/web/20230103152323/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-04T06:30:47Z",
+        "uri": "https://web.archive.org/web/20230104063047/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-05T05:54:49Z",
+        "uri": "https://web.archive.org/web/20230105055449/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-05T16:27:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230105162723/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-05T16:27:23Z",
+        "uri": "https://web.archive.org/web/20230105162723/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-06T16:45:56Z",
+        "uri": "https://web.archive.org/web/20230106164556/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-07T06:07:57Z",
+        "uri": "https://web.archive.org/web/20230107060757/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-07T17:53:33Z",
+        "uri": "https://web.archive.org/web/20230107175333/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-09T04:28:07Z",
+        "uri": "https://web.archive.org/web/20230109042807/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-09T20:53:54Z",
+        "uri": "https://web.archive.org/web/20230109205354/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-10T04:34:01Z",
+        "uri": "https://web.archive.org/web/20230110043401/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-11T07:41:46Z",
+        "uri": "https://web.archive.org/web/20230111074146/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-12T05:09:53Z",
+        "uri": "https://web.archive.org/web/20230112050953/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-13T05:09:44Z",
+        "uri": "https://web.archive.org/web/20230113050944/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-14T04:52:29Z",
+        "uri": "https://web.archive.org/web/20230114045229/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-14T21:59:06Z",
+        "uri": "https://web.archive.org/web/20230114215906/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-14T23:38:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230114233842/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-14T23:38:42Z",
+        "uri": "https://web.archive.org/web/20230114233842/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-15T05:34:29Z",
+        "uri": "https://web.archive.org/web/20230115053429/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-16T05:59:53Z",
+        "uri": "https://web.archive.org/web/20230116055953/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-25T04:59:40Z",
+        "uri": "https://arquivo.pt/wayback/20230125045940mp_/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-30T22:35:17Z",
+        "uri": "https://web.archive.org/web/20230130223517/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-01-30T23:03:01Z",
+        "uri": "https://web.archive.org/web/20230130230301/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-02T12:35:31Z",
+        "uri": "https://web.archive.org/web/20230202123531/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-05T14:07:18Z",
+        "uri": "https://web.archive.org/web/20230205140718/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-05T16:35:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230205163518/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-05T16:35:18Z",
+        "uri": "https://web.archive.org/web/20230205163518/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-06T22:46:54Z",
+        "uri": "https://web.archive.org/web/20230206224654/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-06T22:59:08Z",
+        "uri": "https://web.archive.org/web/20230206225908/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-09T15:25:46Z",
+        "uri": "https://web.archive.org/web/20230209152546/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-10T16:13:39Z",
+        "uri": "https://web.archive.org/web/20230210161339/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-11T16:48:47Z",
+        "uri": "https://web.archive.org/web/20230211164847/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-12T16:54:08Z",
+        "uri": "https://web.archive.org/web/20230212165408/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-13T19:13:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230213191312/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-13T19:13:12Z",
+        "uri": "https://web.archive.org/web/20230213191312/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-13T23:29:46Z",
+        "uri": "https://web.archive.org/web/20230213232946/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-14T00:34:09Z",
+        "uri": "https://web.archive.org/web/20230214003409/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-20T23:45:17Z",
+        "uri": "https://web.archive.org/web/20230220234517/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-21T01:10:35Z",
+        "uri": "https://web.archive.org/web/20230221011035/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-28T01:29:45Z",
+        "uri": "https://web.archive.org/web/20230228012945/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-28T02:29:00Z",
+        "uri": "https://web.archive.org/web/20230228022900/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-02-28T23:01:41Z",
+        "uri": "https://web.archive.org/web/20230228230141/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-05T16:55:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230305165556/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-05T16:55:56Z",
+        "uri": "https://web.archive.org/web/20230305165556/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-06T23:27:51Z",
+        "uri": "https://web.archive.org/web/20230306232751/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-07T02:19:06Z",
+        "uri": "https://web.archive.org/web/20230307021906/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-07T03:49:08Z",
+        "uri": "https://web.archive.org/web/20230307034908/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-07T05:41:51Z",
+        "uri": "https://web.archive.org/web/20230307054151/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-07T14:17:53Z",
+        "uri": "https://web.archive.org/web/20230307141753/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-08T14:09:45Z",
+        "uri": "https://web.archive.org/web/20230308140945/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-11T03:48:34Z",
+        "uri": "https://web.archive.org/web/20230311034834/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-11T11:29:35Z",
+        "uri": "https://web.archive.org/web/20230311112935/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-12T08:06:09Z",
+        "uri": "https://web.archive.org/web/20230312080609/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-14T04:12:07Z",
+        "uri": "https://web.archive.org/web/20230314041207/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-14T14:34:07Z",
+        "uri": "https://web.archive.org/web/20230314143407/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-14T21:52:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230314215254/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-14T21:52:54Z",
+        "uri": "https://web.archive.org/web/20230314215254/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-15T02:08:42Z",
+        "uri": "https://web.archive.org/web/20230315020842/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-16T19:23:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230316192324/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-16T19:23:24Z",
+        "uri": "https://web.archive.org/web/20230316192324/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-18T23:06:24Z",
+        "uri": "https://web.archive.org/web/20230318230624/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-20T00:39:22Z",
+        "uri": "https://web.archive.org/web/20230320003922/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-20T15:23:20Z",
+        "uri": "https://web.archive.org/web/20230320152320/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-21T04:52:36Z",
+        "uri": "https://web.archive.org/web/20230321045236/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-27T00:58:07Z",
+        "uri": "https://web.archive.org/web/20230327005807/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-29T10:24:38Z",
+        "uri": "https://web.archive.org/web/20230329102438/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-29T23:58:02Z",
+        "uri": "https://web.archive.org/web/20230329235802/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-03-30T02:26:04Z",
+        "uri": "https://web.archive.org/web/20230330022604/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-05T16:38:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230405163840/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-05T16:38:40Z",
+        "uri": "https://web.archive.org/web/20230405163840/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-10T21:33:18Z",
+        "uri": "https://web.archive.org/web/20230410213318/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-14T03:47:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230414034724/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-14T03:47:24Z",
+        "uri": "https://web.archive.org/web/20230414034724/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-20T17:43:39Z",
+        "uri": "https://web.archive.org/web/20230420174339/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-21T18:58:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230421185830/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-21T18:58:30Z",
+        "uri": "https://web.archive.org/web/20230421185830/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-04-26T00:01:29Z",
+        "uri": "https://web.archive.org/web/20230426000129/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-05-05T17:06:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230505170647/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-05-05T17:06:47Z",
+        "uri": "https://web.archive.org/web/20230505170647/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-05-15T18:13:17Z",
+        "uri": "https://web.archive.org/web/20230515181317/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-01T03:53:31Z",
+        "uri": "https://web.archive.org/web/20230601035331/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-04T17:13:07Z",
+        "uri": "https://web.archive.org/web/20230604171307/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-04T17:13:09Z",
+        "uri": "https://web.archive.org/web/20230604171309/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-04T19:57:04Z",
+        "uri": "https://web.archive.org/web/20230604195704/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-05T17:32:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230605173223/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-05T17:32:23Z",
+        "uri": "https://web.archive.org/web/20230605173223/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-09T03:32:24Z",
+        "uri": "https://web.archive.org/web/20230609033224/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-06-10T17:33:06Z",
+        "uri": "https://web.archive.org/web/20230610173306/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-07-05T17:02:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230705170224/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-07-05T17:02:24Z",
+        "uri": "https://web.archive.org/web/20230705170224/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-07-09T09:16:16Z",
+        "uri": "https://web.archive.org/web/20230709091616/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-07-23T02:11:12Z",
+        "uri": "https://web.archive.org/web/20230723021112/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-05T17:11:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230805171104/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-05T17:11:04Z",
+        "uri": "https://web.archive.org/web/20230805171104/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-12T11:47:53Z",
+        "uri": "https://web.archive.org/web/20230812114753/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-18T00:34:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230818003405/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-18T00:34:05Z",
+        "uri": "https://web.archive.org/web/20230818003405/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-08-24T04:17:57Z",
+        "uri": "https://web.archive.org/web/20230824041757/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-09-05T17:03:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230905170314/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-09-05T17:03:14Z",
+        "uri": "https://web.archive.org/web/20230905170314/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-09-12T14:53:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230912145342/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-09-12T14:53:42Z",
+        "uri": "https://web.archive.org/web/20230912145342/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-10-05T19:22:30Z",
+        "uri": "https://wayback.archive-it.org/all/20231005192230/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-10-11T16:30:34Z",
+        "uri": "https://web.archive.org/web/20231011163034/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-11-05T18:07:48Z",
+        "uri": "https://wayback.archive-it.org/all/20231105180748/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-11-06T23:17:58Z",
+        "uri": "https://wayback.archive-it.org/all/20231106231758/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-11-27T01:50:49Z",
+        "uri": "https://web.archive.org/web/20231127015049/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-01T02:36:59Z",
+        "uri": "https://web.archive.org/web/20231201023659/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-01T15:55:00Z",
+        "uri": "https://web.archive.org/web/20231201155500/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-05T16:37:07Z",
+        "uri": "https://wayback.archive-it.org/all/20231205163707/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-06T18:39:32Z",
+        "uri": "https://wayback.archive-it.org/all/20231206183932/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-10T16:39:59Z",
+        "uri": "https://web.archive.org/web/20231210163959/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-12T07:10:16Z",
+        "uri": "https://web.archive.org/web/20231212071016/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-15T02:20:06Z",
+        "uri": "https://web.archive.org/web/20231215022006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-15T10:29:28Z",
+        "uri": "https://web.archive.org/web/20231215102928/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-18T00:36:54Z",
+        "uri": "https://web.archive.org/web/20231218003654/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-18T03:11:41Z",
+        "uri": "https://web.archive.org/web/20231218031141/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2023-12-25T04:05:26Z",
+        "uri": "https://web.archive.org/web/20231225040526/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-01T05:06:50Z",
+        "uri": "https://web.archive.org/web/20240101050650/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-05T17:21:54Z",
+        "uri": "https://wayback.archive-it.org/all/20240105172154/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-07T02:12:25Z",
+        "uri": "https://wayback.archive-it.org/all/20240107021225/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-08T05:30:34Z",
+        "uri": "https://web.archive.org/web/20240108053034/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-09T06:07:34Z",
+        "uri": "https://web.archive.org/web/20240109060734/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-15T06:01:51Z",
+        "uri": "https://web.archive.org/web/20240115060151/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-22T05:20:27Z",
+        "uri": "https://web.archive.org/web/20240122052027/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-24T19:23:07Z",
+        "uri": "https://web.archive.org/web/20240124192307/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-01-29T07:25:42Z",
+        "uri": "https://web.archive.org/web/20240129072542/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-05T12:38:23Z",
+        "uri": "https://web.archive.org/web/20240205123823/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-05T17:50:16Z",
+        "uri": "https://wayback.archive-it.org/all/20240205175016/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-06T04:39:05Z",
+        "uri": "https://web.archive.org/web/20240206043905/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-12T12:23:53Z",
+        "uri": "https://web.archive.org/web/20240212122353/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-15T07:00:06Z",
+        "uri": "https://web.archive.org/web/20240215070006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-19T12:46:27Z",
+        "uri": "https://web.archive.org/web/20240219124627/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-25T04:44:51Z",
+        "uri": "https://web.archive.org/web/20240225044451/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-26T09:15:19Z",
+        "uri": "https://web.archive.org/web/20240226091519/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-26T14:19:40Z",
+        "uri": "https://web.archive.org/web/20240226141940/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-02-26T23:27:34Z",
+        "uri": "https://web.archive.org/web/20240226232734/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-01T16:27:15Z",
+        "uri": "https://web.archive.org/web/20240301162715/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-02T11:27:22Z",
+        "uri": "https://web.archive.org/web/20240302112722/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-07T00:45:46Z",
+        "uri": "https://wayback.archive-it.org/all/20240307004546/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-12T11:37:01Z",
+        "uri": "https://web.archive.org/web/20240312113701/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-20T02:06:10Z",
+        "uri": "https://web.archive.org/web/20240320020610/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-03-27T03:19:47Z",
+        "uri": "https://web.archive.org/web/20240327031947/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-03T06:23:37Z",
+        "uri": "https://web.archive.org/web/20240403062337/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-07T15:55:05Z",
+        "uri": "https://web.archive.org/web/20240407155505/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-10T04:32:21Z",
+        "uri": "https://web.archive.org/web/20240410043221/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-14T16:41:23Z",
+        "uri": "https://web.archive.org/web/20240414164123/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-17T12:32:12Z",
+        "uri": "https://web.archive.org/web/20240417123212/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-18T19:48:56Z",
+        "uri": "https://web.archive.org/web/20240418194856/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-19T01:48:20Z",
+        "uri": "https://web.archive.org/web/20240419014820/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-24T23:59:30Z",
+        "uri": "https://web.archive.org/web/20240424235930/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-25T01:00:58Z",
+        "uri": "https://web.archive.org/web/20240425010058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-25T01:17:40Z",
+        "uri": "https://web.archive.org/web/20240425011740/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-25T01:36:52Z",
+        "uri": "https://web.archive.org/web/20240425013652/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-04-26T02:47:50Z",
+        "uri": "https://web.archive.org/web/20240426024750/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-03T03:40:46Z",
+        "uri": "https://web.archive.org/web/20240503034046/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-07T21:40:06Z",
+        "uri": "https://wayback.archive-it.org/all/20240507214006/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-10T02:47:37Z",
+        "uri": "https://web.archive.org/web/20240510024737/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-14T00:29:39Z",
+        "uri": "https://web.archive.org/web/20240514002939/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-15T04:25:52Z",
+        "uri": "https://web.archive.org/web/20240515042552/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-15T21:51:59Z",
+        "uri": "https://web.archive.org/web/20240515215159/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-17T05:43:19Z",
+        "uri": "https://web.archive.org/web/20240517054319/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-22T15:52:12Z",
+        "uri": "https://web.archive.org/web/20240522155212/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-24T06:53:41Z",
+        "uri": "https://web.archive.org/web/20240524065341/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-24T17:49:12Z",
+        "uri": "https://wayback.archive-it.org/all/20240524174912/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-05-31T07:25:38Z",
+        "uri": "https://web.archive.org/web/20240531072538/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-07T07:07:48Z",
+        "uri": "https://web.archive.org/web/20240607070748/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-09T18:33:11Z",
+        "uri": "https://web.archive.org/web/20240609183311/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-14T01:08:18Z",
+        "uri": "https://web.archive.org/web/20240614010818/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-14T05:10:11Z",
+        "uri": "https://web.archive.org/web/20240614051011/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-14T09:39:20Z",
+        "uri": "https://web.archive.org/web/20240614093920/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-18T01:19:59Z",
+        "uri": "https://web.archive.org/web/20240618011959/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-19T03:24:15Z",
+        "uri": "https://web.archive.org/web/20240619032415/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-19T03:39:03Z",
+        "uri": "https://web.archive.org/web/20240619033903/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-19T12:53:33Z",
+        "uri": "https://web.archive.org/web/20240619125333/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-21T09:57:46Z",
+        "uri": "https://web.archive.org/web/20240621095746/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-22T02:08:40Z",
+        "uri": "https://web.archive.org/web/20240622020840/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-22T02:16:33Z",
+        "uri": "https://web.archive.org/web/20240622021633/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-24T17:51:59Z",
+        "uri": "https://wayback.archive-it.org/all/20240624175159/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-26T20:29:30Z",
+        "uri": "https://web.archive.org/web/20240626202930/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-06-29T05:18:22Z",
+        "uri": "https://web.archive.org/web/20240629051822/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-02T15:59:51Z",
+        "uri": "https://web.archive.org/web/20240702155951/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-05T15:54:57Z",
+        "uri": "https://web.archive.org/web/20240705155457/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-06T04:25:00Z",
+        "uri": "https://web.archive.org/web/20240706042500/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-06T23:40:58Z",
+        "uri": "https://wayback.archive-it.org/all/20240706234058/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-13T04:19:05Z",
+        "uri": "https://web.archive.org/web/20240713041905/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-17T11:38:22Z",
+        "uri": "https://web.archive.org/web/20240717113822/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-17T20:13:38Z",
+        "uri": "https://web.archive.org/web/20240717201338/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-18T04:18:23Z",
+        "uri": "https://web.archive.org/web/20240718041823/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-20T06:07:20Z",
+        "uri": "https://web.archive.org/web/20240720060720/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-07-27T06:28:44Z",
+        "uri": "https://web.archive.org/web/20240727062844/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-03T07:21:10Z",
+        "uri": "https://web.archive.org/web/20240803072110/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-07T07:17:41Z",
+        "uri": "https://web.archive.org/web/20240807071741/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-10T07:59:22Z",
+        "uri": "https://web.archive.org/web/20240810075922/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-12T04:59:45Z",
+        "uri": "https://web.archive.org/web/20240812045945/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-19T06:51:17Z",
+        "uri": "https://web.archive.org/web/20240819065117/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-19T23:50:00Z",
+        "uri": "https://web.archive.org/web/20240819235000/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-27T04:18:27Z",
+        "uri": "https://web.archive.org/web/20240827041827/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-08-28T03:24:10Z",
+        "uri": "https://web.archive.org/web/20240828032410/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-04T04:46:28Z",
+        "uri": "https://web.archive.org/web/20240904044628/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-06T22:29:37Z",
+        "uri": "https://wayback.archive-it.org/all/20240906222937/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-11T06:28:48Z",
+        "uri": "https://web.archive.org/web/20240911062848/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-15T21:21:09Z",
+        "uri": "https://web.archive.org/web/20240915212109/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-18T07:12:05Z",
+        "uri": "https://web.archive.org/web/20240918071205/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-18T23:58:03Z",
+        "uri": "https://web.archive.org/web/20240918235803/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-21T17:01:02Z",
+        "uri": "https://web.archive.org/web/20240921170102/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-23T21:04:08Z",
+        "uri": "https://web.archive.org/web/20240923210408/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-25T19:34:17Z",
+        "uri": "https://web.archive.org/web/20240925193417/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-26T01:53:08Z",
+        "uri": "https://web.archive.org/web/20240926015308/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-09-30T17:59:34Z",
+        "uri": "https://web.archive.org/web/20240930175934/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-10-03T03:06:38Z",
+        "uri": "https://web.archive.org/web/20241003030638/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-10-06T12:26:22Z",
+        "uri": "https://web.archive.org/web/20241006122622/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-10-07T09:18:32Z",
+        "uri": "https://web.archive.org/web/20241007091832/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-10-14T17:30:04Z",
+        "uri": "https://web.archive.org/web/20241014173004/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-11-05T03:50:35Z",
+        "uri": "https://web.archive.org/web/20241105035035/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-11-07T00:17:47Z",
+        "uri": "https://wayback.archive-it.org/all/20241107001747/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-11-13T14:43:59Z",
+        "uri": "https://wayback.archive-it.org/all/20241113144359/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-11-26T00:12:54Z",
+        "uri": "https://web.archive.org/web/20241126001254/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-11-28T22:17:43Z",
+        "uri": "https://web.archive.org/web/20241128221743/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      },
+      {
+        "datetime": "2024-12-03T00:43:50Z",
+        "uri": "https://web.archive.org/web/20241203004350/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-17T07:49:57Z",
+      "uri": "https://web.archive.org/web/20220317074957/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+    },
+    "last": {
+      "datetime": "2024-12-03T00:43:50Z",
+      "uri": "https://web.archive.org/web/20241203004350/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+    "json_format": "http://localhost:1208/timemap/json/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine"
+}

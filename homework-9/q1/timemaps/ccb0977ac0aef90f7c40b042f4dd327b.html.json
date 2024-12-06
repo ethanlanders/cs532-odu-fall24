@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://weiglemc.github.io/publications/2021",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2021",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-09T00:29:17Z",
+        "uri": "https://web.archive.org/web/20240709002917/https://weiglemc.github.io/publications/2021"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-09T00:29:17Z",
+      "uri": "https://web.archive.org/web/20240709002917/https://weiglemc.github.io/publications/2021"
+    },
+    "last": {
+      "datetime": "2024-07-09T00:29:17Z",
+      "uri": "https://web.archive.org/web/20240709002917/https://weiglemc.github.io/publications/2021"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/2021",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2021",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/2021"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/2021"
+}

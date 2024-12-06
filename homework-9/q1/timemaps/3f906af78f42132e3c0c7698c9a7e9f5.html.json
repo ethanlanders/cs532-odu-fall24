@@ -1,0 +1,898 @@
+{
+  "original_uri": "https://opencitations.net/about",
+  "self": "http://localhost:1208/timemap/json/https://opencitations.net/about",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-03-14T13:04:36Z",
+        "uri": "https://web.archive.org/web/20120314130436/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-06-18T19:39:04Z",
+        "uri": "https://web.archive.org/web/20120618193904/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-08-18T11:54:48Z",
+        "uri": "https://web.archive.org/web/20120818115448/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-09-22T00:40:28Z",
+        "uri": "https://web.archive.org/web/20120922004028/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-09-22T00:40:28Z",
+        "uri": "https://web.archive.org/web/20120922004028/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2012-10-19T21:33:38Z",
+        "uri": "https://web.archive.org/web/20121019213338/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-10-26T15:13:31Z",
+        "uri": "https://web.archive.org/web/20121026151331/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2012-10-26T15:13:31Z",
+        "uri": "https://web.archive.org/web/20121026151331/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2012-12-19T17:54:54Z",
+        "uri": "https://web.archive.org/web/20121219175454/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2013-03-18T17:30:22Z",
+        "uri": "https://web.archive.org/web/20130318173022/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2013-06-05T22:03:52Z",
+        "uri": "https://web.archive.org/web/20130605220352/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2013-08-06T15:53:17Z",
+        "uri": "https://web.archive.org/web/20130806155317/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2013-10-06T23:31:29Z",
+        "uri": "https://web.archive.org/web/20131006233129/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2013-10-28T10:59:11Z",
+        "uri": "https://web.archive.org/web/20131028105911/http://opencitations.net/about/"
+      },
+      {
+        "datetime": "2013-12-06T11:44:36Z",
+        "uri": "https://web.archive.org/web/20131206114436/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2014-09-19T14:12:30Z",
+        "uri": "https://web.archive.org/web/20140919141230/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2015-02-15T14:39:41Z",
+        "uri": "https://web.archive.org/web/20150215143941/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2015-02-15T14:39:41Z",
+        "uri": "https://web.archive.org/web/20150215143941/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2015-04-08T08:53:22Z",
+        "uri": "https://web.archive.org/web/20150408085322/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2015-04-08T08:53:22Z",
+        "uri": "https://web.archive.org/web/20150408085322/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2016-10-23T13:01:02Z",
+        "uri": "https://web.archive.org/web/20161023130102/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2017-04-09T11:13:37Z",
+        "uri": "https://web.archive.org/web/20170409111337/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2017-04-13T09:12:50Z",
+        "uri": "https://web.archive.org/web/20170413091250/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-05-06T12:40:01Z",
+        "uri": "https://web.archive.org/web/20170506124001/http://opencitations.net:80/about/"
+      },
+      {
+        "datetime": "2017-05-15T19:54:54Z",
+        "uri": "https://web.archive.org/web/20170515195454/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-06-09T20:07:23Z",
+        "uri": "https://web.archive.org/web/20170609200723/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-06-11T02:31:59Z",
+        "uri": "https://web.archive.org/web/20170611023159/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2017-07-11T09:38:14Z",
+        "uri": "https://web.archive.org/web/20170711093814/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-08-11T04:43:29Z",
+        "uri": "https://web.archive.org/web/20170811044329/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-09-11T00:39:14Z",
+        "uri": "https://web.archive.org/web/20170911003914/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2017-10-13T03:42:04Z",
+        "uri": "https://web.archive.org/web/20171013034204/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-04-26T10:07:10Z",
+        "uri": "https://web.archive.org/web/20180426100710/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-06-07T13:41:22Z",
+        "uri": "https://web.archive.org/web/20180607134122/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-07-08T23:47:06Z",
+        "uri": "https://web.archive.org/web/20180708234706/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-08-09T00:09:24Z",
+        "uri": "https://web.archive.org/web/20180809000924/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-08-10T02:44:58Z",
+        "uri": "https://web.archive.org/web/20180810024458/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-09-11T11:39:59Z",
+        "uri": "https://web.archive.org/web/20180911113959/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-09-20T23:03:34Z",
+        "uri": "https://webarchive.loc.gov/all/20180920230334/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2018-10-14T03:58:49Z",
+        "uri": "https://web.archive.org/web/20181014035849/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-11-15T10:47:24Z",
+        "uri": "https://web.archive.org/web/20181115104724/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-12-27T05:56:28Z",
+        "uri": "https://web.archive.org/web/20181227055628/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2018-12-28T09:21:50Z",
+        "uri": "https://web.archive.org/web/20181228092150/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-01-31T04:38:24Z",
+        "uri": "https://web.archive.org/web/20190131043824/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-03-05T04:34:51Z",
+        "uri": "https://web.archive.org/web/20190305043451/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-03-31T04:47:11Z",
+        "uri": "https://web.archive.org/web/20190331044711/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-04-19T07:13:17Z",
+        "uri": "https://web.archive.org/web/20190419071317/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-05-28T06:56:34Z",
+        "uri": "https://web.archive.org/web/20190528065634/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-06-28T14:48:26Z",
+        "uri": "https://web.archive.org/web/20190628144826/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-08-11T05:31:12Z",
+        "uri": "https://web.archive.org/web/20190811053112/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-09-11T03:01:45Z",
+        "uri": "https://web.archive.org/web/20190911030145/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-09-25T14:18:02Z",
+        "uri": "https://web.archive.org/web/20190925141802/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-10-04T14:10:27Z",
+        "uri": "https://arquivo.pt/wayback/20191004141027mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-10-04T14:10:27Z",
+        "uri": "https://web.archive.org/web/20191004141027/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-10-17T06:47:54Z",
+        "uri": "https://web.archive.org/web/20191017064754/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-12-16T12:32:52Z",
+        "uri": "https://web.archive.org/web/20191216123252/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2019-12-21T16:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20191221165507mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2019-12-21T16:55:07Z",
+        "uri": "https://web.archive.org/web/20191221165507/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-02-09T04:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20200209045343mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-02-14T16:52:23Z",
+        "uri": "https://web.archive.org/web/20200214165223/http://opencitations.net:80/about"
+      },
+      {
+        "datetime": "2020-03-10T00:34:38Z",
+        "uri": "https://web.archive.org/web/20200310003438/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-03-16T16:56:43Z",
+        "uri": "https://web.archive.org/web/20200316165643/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-03-17T16:19:27Z",
+        "uri": "https://arquivo.pt/wayback/20200317161927mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-03-17T16:19:27Z",
+        "uri": "https://web.archive.org/web/20200317161927/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-04-17T15:42:50Z",
+        "uri": "https://web.archive.org/web/20200417154250/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-04-22T10:17:10Z",
+        "uri": "https://web.archive.org/web/20200422101710/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-05-04T13:28:21Z",
+        "uri": "https://web.archive.org/web/20200504132821/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-05-08T14:08:36Z",
+        "uri": "https://web.archive.org/web/20200508140836/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-05-12T04:14:22Z",
+        "uri": "https://web.archive.org/web/20200512041422/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-05-24T13:45:10Z",
+        "uri": "https://web.archive.org/web/20200524134510/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-06-16T22:21:08Z",
+        "uri": "https://web.archive.org/web/20200616222108/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-06-18T17:46:39Z",
+        "uri": "https://arquivo.pt/wayback/20200618174639mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-06-18T17:46:39Z",
+        "uri": "https://web.archive.org/web/20200618174639/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-08-04T19:19:41Z",
+        "uri": "https://web.archive.org/web/20200804191941/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-08-11T19:39:45Z",
+        "uri": "https://web.archive.org/web/20200811193945/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-08-13T05:12:45Z",
+        "uri": "https://web.archive.org/web/20200813051245/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-08-15T20:41:02Z",
+        "uri": "https://web.archive.org/web/20200815204102/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-02T19:05:49Z",
+        "uri": "https://web.archive.org/web/20200902190549/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-14T06:19:38Z",
+        "uri": "https://arquivo.pt/wayback/20200914061938mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-14T06:19:38Z",
+        "uri": "https://web.archive.org/web/20200914061938/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-18T01:29:55Z",
+        "uri": "https://web.archive.org/web/20200918012955/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-09-28T14:02:24Z",
+        "uri": "https://web.archive.org/web/20200928140224/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-10-08T14:13:30Z",
+        "uri": "https://web.archive.org/web/20201008141330/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-10-23T05:15:30Z",
+        "uri": "https://web.archive.org/web/20201023051530/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T01:39:59Z",
+        "uri": "https://web.archive.org/web/20201126013959/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T02:21:15Z",
+        "uri": "https://web.archive.org/web/20201126022115/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T03:30:27Z",
+        "uri": "https://web.archive.org/web/20201126033027/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T04:39:41Z",
+        "uri": "https://web.archive.org/web/20201126043941/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T07:07:55Z",
+        "uri": "https://web.archive.org/web/20201126070755/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-26T08:38:40Z",
+        "uri": "https://web.archive.org/web/20201126083840/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-11-27T09:46:13Z",
+        "uri": "https://web.archive.org/web/20201127094613/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-12-01T23:51:29Z",
+        "uri": "https://web.archive.org/web/20201201235129/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-12-15T12:01:38Z",
+        "uri": "https://arquivo.pt/wayback/20201215120138mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-12-15T12:01:38Z",
+        "uri": "https://web.archive.org/web/20201215120138/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2020-12-23T21:49:59Z",
+        "uri": "https://web.archive.org/web/20201223214959/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-01-26T23:48:14Z",
+        "uri": "https://web.archive.org/web/20210126234814/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-01-27T00:38:12Z",
+        "uri": "https://web.archive.org/web/20210127003812/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-02-24T02:00:12Z",
+        "uri": "https://web.archive.org/web/20210224020012/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-03-16T18:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20210316184324mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-03-16T18:43:24Z",
+        "uri": "https://web.archive.org/web/20210316184324/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-04-13T15:35:45Z",
+        "uri": "https://web.archive.org/web/20210413153545/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-04-13T16:20:08Z",
+        "uri": "https://web.archive.org/web/20210413162008/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-04-19T00:11:39Z",
+        "uri": "https://web.archive.org/web/20210419001139/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-04-19T00:26:34Z",
+        "uri": "https://web.archive.org/web/20210419002634/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-05-06T18:14:33Z",
+        "uri": "https://web.archive.org/web/20210506181433/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-05-08T15:49:30Z",
+        "uri": "https://webarchive.loc.gov/all/20210508154930/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-05-11T16:36:23Z",
+        "uri": "https://webarchive.loc.gov/all/20210511163623/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-18T18:06:55Z",
+        "uri": "https://arquivo.pt/wayback/20210618180655mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-18T18:06:55Z",
+        "uri": "https://web.archive.org/web/20210618180655/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-23T17:38:55Z",
+        "uri": "https://web.archive.org/web/20210623173855/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-23T17:38:55Z",
+        "uri": "https://web.archive.org/web/20210623173855/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-06-27T19:42:57Z",
+        "uri": "https://web.archive.org/web/20210627194257/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-07-27T20:36:27Z",
+        "uri": "https://web.archive.org/web/20210727203627/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-07-27T21:20:56Z",
+        "uri": "https://web.archive.org/web/20210727212056/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-08-11T21:54:20Z",
+        "uri": "https://web.archive.org/web/20210811215420/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-08-13T22:38:28Z",
+        "uri": "https://web.archive.org/web/20210813223828/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-08-14T02:31:13Z",
+        "uri": "https://web.archive.org/web/20210814023113/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-08-28T13:18:04Z",
+        "uri": "https://web.archive.org/web/20210828131804/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-04T07:48:36Z",
+        "uri": "https://web.archive.org/web/20210904074836/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-12T09:38:41Z",
+        "uri": "https://arquivo.pt/wayback/20210912093841mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-13T08:24:20Z",
+        "uri": "https://webarchive.loc.gov/all/20210913082420/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-25T17:39:23Z",
+        "uri": "https://web.archive.org/web/20210925173923/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-09-25T18:11:59Z",
+        "uri": "https://web.archive.org/web/20210925181159/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-08T23:16:20Z",
+        "uri": "https://web.archive.org/web/20211008231620/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-22T11:48:55Z",
+        "uri": "https://web.archive.org/web/20211022114855/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-27T04:55:08Z",
+        "uri": "https://web.archive.org/web/20211027045508/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-27T18:17:40Z",
+        "uri": "https://web.archive.org/web/20211027181740/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-28T07:15:53Z",
+        "uri": "https://web.archive.org/web/20211028071553/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-28T08:01:38Z",
+        "uri": "https://web.archive.org/web/20211028080138/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-30T20:54:39Z",
+        "uri": "https://arquivo.pt/wayback/20211030205439mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-10-30T20:54:39Z",
+        "uri": "https://web.archive.org/web/20211030205439/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-11-18T10:30:15Z",
+        "uri": "https://web.archive.org/web/20211118103015/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2021-12-01T21:15:49Z",
+        "uri": "https://web.archive.org/web/20211201211549/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-01-28T07:46:19Z",
+        "uri": "https://web.archive.org/web/20220128074619/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-02-02T23:51:23Z",
+        "uri": "https://arquivo.pt/wayback/20220202235123mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-02-17T13:14:35Z",
+        "uri": "https://web.archive.org/web/20220217131435/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-03-08T14:29:23Z",
+        "uri": "https://web.archive.org/web/20220308142923/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-03-14T05:05:13Z",
+        "uri": "https://web.archive.org/web/20220314050513/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-03-15T04:12:51Z",
+        "uri": "https://web.archive.org/web/20220315041251/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-03-16T06:42:26Z",
+        "uri": "https://web.archive.org/web/20220316064226/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-03-18T03:59:47Z",
+        "uri": "https://web.archive.org/web/20220318035947/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-04-02T01:53:44Z",
+        "uri": "https://web.archive.org/web/20220402015344/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-04-02T01:56:28Z",
+        "uri": "https://web.archive.org/web/20220402015628/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-04-06T20:10:53Z",
+        "uri": "https://web.archive.org/web/20220406201053/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-04-08T03:27:12Z",
+        "uri": "https://web.archive.org/web/20220408032712/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-03T18:43:24Z",
+        "uri": "https://arquivo.pt/wayback/20220503184324mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-24T02:44:13Z",
+        "uri": "https://web.archive.org/web/20220524024413/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-28T00:56:37Z",
+        "uri": "https://web.archive.org/web/20220528005637/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-29T16:37:28Z",
+        "uri": "https://web.archive.org/web/20220529163728/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-05-31T15:01:32Z",
+        "uri": "https://web.archive.org/web/20220531150132/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-06-20T12:59:02Z",
+        "uri": "https://web.archive.org/web/20220620125902/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-07-01T07:03:24Z",
+        "uri": "https://web.archive.org/web/20220701070324/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-08-02T09:06:26Z",
+        "uri": "https://web.archive.org/web/20220802090626/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-08-14T11:31:58Z",
+        "uri": "https://arquivo.pt/wayback/20220814113158mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-08-17T04:03:29Z",
+        "uri": "https://web.archive.org/web/20220817040329/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-09-26T01:19:06Z",
+        "uri": "https://web.archive.org/web/20220926011906/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-09-30T12:31:14Z",
+        "uri": "https://web.archive.org/web/20220930123114/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-10-28T03:56:15Z",
+        "uri": "https://arquivo.pt/wayback/20221028035615mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-11-29T21:04:18Z",
+        "uri": "https://web.archive.org/web/20221129210418/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-11-29T21:04:31Z",
+        "uri": "https://web.archive.org/web/20221129210431/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-12-03T15:33:57Z",
+        "uri": "https://web.archive.org/web/20221203153357/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-12-22T11:54:25Z",
+        "uri": "https://web.archive.org/web/20221222115425/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-12-24T18:12:15Z",
+        "uri": "https://web.archive.org/web/20221224181215/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-12-24T18:12:26Z",
+        "uri": "https://web.archive.org/web/20221224181226/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2022-12-25T04:05:24Z",
+        "uri": "https://web.archive.org/web/20221225040524/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-02-04T04:21:47Z",
+        "uri": "https://arquivo.pt/wayback/20230204042147mp_/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-02-05T13:51:08Z",
+        "uri": "https://web.archive.org/web/20230205135108/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-02-19T21:01:58Z",
+        "uri": "https://web.archive.org/web/20230219210158/http://opencitations.net/about/"
+      },
+      {
+        "datetime": "2023-02-28T06:47:12Z",
+        "uri": "https://web.archive.org/web/20230228064712/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-11T03:48:25Z",
+        "uri": "https://web.archive.org/web/20230311034825/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-11T04:14:13Z",
+        "uri": "https://web.archive.org/web/20230311041413/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-11T04:14:15Z",
+        "uri": "https://web.archive.org/web/20230311041415/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-15T03:32:01Z",
+        "uri": "https://web.archive.org/web/20230315033201/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-27T00:55:16Z",
+        "uri": "https://web.archive.org/web/20230327005516/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-03-31T20:40:14Z",
+        "uri": "https://web.archive.org/web/20230331204014/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-04-01T21:24:29Z",
+        "uri": "https://web.archive.org/web/20230401212429/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-04-05T13:22:27Z",
+        "uri": "https://web.archive.org/web/20230405132227/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-05-01T14:39:23Z",
+        "uri": "https://web.archive.org/web/20230501143923/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-05-01T17:48:39Z",
+        "uri": "https://web.archive.org/web/20230501174839/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-06-01T00:04:36Z",
+        "uri": "https://web.archive.org/web/20230601000436/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-06-05T06:30:50Z",
+        "uri": "https://web.archive.org/web/20230605063050/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-06-29T17:53:18Z",
+        "uri": "https://web.archive.org/web/20230629175318/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-08-02T02:21:37Z",
+        "uri": "https://web.archive.org/web/20230802022137/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-08-24T04:16:41Z",
+        "uri": "https://web.archive.org/web/20230824041641/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-09-12T07:29:27Z",
+        "uri": "https://web.archive.org/web/20230912072927/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-09-23T07:30:58Z",
+        "uri": "https://web.archive.org/web/20230923073058/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-11-27T15:45:11Z",
+        "uri": "https://web.archive.org/web/20231127154511/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-12-15T02:51:13Z",
+        "uri": "https://web.archive.org/web/20231215025113/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-12-15T17:19:29Z",
+        "uri": "https://web.archive.org/web/20231215171929/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2023-12-29T04:57:19Z",
+        "uri": "https://web.archive.org/web/20231229045719/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-01-09T10:41:02Z",
+        "uri": "https://web.archive.org/web/20240109104102/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-02-16T04:56:56Z",
+        "uri": "https://web.archive.org/web/20240216045656/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-02-25T04:47:44Z",
+        "uri": "https://web.archive.org/web/20240225044744/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-03-06T10:14:21Z",
+        "uri": "https://web.archive.org/web/20240306101421/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-03-18T00:56:32Z",
+        "uri": "https://web.archive.org/web/20240318005632/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-03-27T02:39:28Z",
+        "uri": "https://web.archive.org/web/20240327023928/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-03-29T02:34:07Z",
+        "uri": "https://web.archive.org/web/20240329023407/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-04-22T14:55:16Z",
+        "uri": "https://web.archive.org/web/20240422145516/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-04-23T08:50:36Z",
+        "uri": "https://web.archive.org/web/20240423085036/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-04-23T17:18:17Z",
+        "uri": "https://web.archive.org/web/20240423171817/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-04-25T00:41:22Z",
+        "uri": "https://web.archive.org/web/20240425004122/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-04-27T01:20:33Z",
+        "uri": "https://web.archive.org/web/20240427012033/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-05-01T11:48:19Z",
+        "uri": "https://web.archive.org/web/20240501114819/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-01T06:42:02Z",
+        "uri": "https://web.archive.org/web/20240601064202/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-09T07:30:50Z",
+        "uri": "https://web.archive.org/web/20240609073050/http://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-14T05:16:34Z",
+        "uri": "https://web.archive.org/web/20240614051634/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-14T05:16:39Z",
+        "uri": "https://web.archive.org/web/20240614051639/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-18T01:21:21Z",
+        "uri": "https://web.archive.org/web/20240618012121/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-06-18T01:21:25Z",
+        "uri": "https://web.archive.org/web/20240618012125/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-07-05T07:27:48Z",
+        "uri": "https://web.archive.org/web/20240705072748/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-08-07T01:40:37Z",
+        "uri": "https://web.archive.org/web/20240807014037/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-08-26T16:01:08Z",
+        "uri": "https://web.archive.org/web/20240826160108/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-09-01T14:08:34Z",
+        "uri": "https://web.archive.org/web/20240901140834/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-09-15T20:24:11Z",
+        "uri": "https://web.archive.org/web/20240915202411/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-09-24T15:09:40Z",
+        "uri": "https://web.archive.org/web/20240924150940/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-09-25T16:49:51Z",
+        "uri": "https://web.archive.org/web/20240925164951/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-10-03T19:58:02Z",
+        "uri": "https://web.archive.org/web/20241003195802/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-10-07T09:18:44Z",
+        "uri": "https://web.archive.org/web/20241007091844/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-11-05T05:30:22Z",
+        "uri": "https://web.archive.org/web/20241105053022/https://opencitations.net/about"
+      },
+      {
+        "datetime": "2024-11-27T03:31:32Z",
+        "uri": "https://web.archive.org/web/20241127033132/https://opencitations.net/about"
+      }
+    ],
+    "first": {
+      "datetime": "2012-03-14T13:04:36Z",
+      "uri": "https://web.archive.org/web/20120314130436/http://opencitations.net:80/about/"
+    },
+    "last": {
+      "datetime": "2024-11-27T03:31:32Z",
+      "uri": "https://web.archive.org/web/20241127033132/https://opencitations.net/about"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://opencitations.net/about",
+    "json_format": "http://localhost:1208/timemap/json/https://opencitations.net/about",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://opencitations.net/about"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://opencitations.net/about"
+}

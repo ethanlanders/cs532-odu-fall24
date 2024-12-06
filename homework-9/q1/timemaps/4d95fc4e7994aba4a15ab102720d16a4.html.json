@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pid/158/9149.html",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pid/158/9149.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-06T18:11:05Z",
+        "uri": "https://web.archive.org/web/20241006181105/https://dblp.uni-trier.de/pid/158/9149.html"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-06T18:11:05Z",
+      "uri": "https://web.archive.org/web/20241006181105/https://dblp.uni-trier.de/pid/158/9149.html"
+    },
+    "last": {
+      "datetime": "2024-10-06T18:11:05Z",
+      "uri": "https://web.archive.org/web/20241006181105/https://dblp.uni-trier.de/pid/158/9149.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pid/158/9149.html",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pid/158/9149.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pid/158/9149.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pid/158/9149.html"
+}

@@ -1,0 +1,954 @@
+{
+  "original_uri": "https://translate.google.com/website?sl=en",
+  "self": "http://localhost:1208/timemap/json/https://translate.google.com/website?sl=en",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-03-08T22:18:37Z",
+        "uri": "http://archive.md/20210308221837/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2022-06-08T16:36:11Z",
+        "uri": "https://web.archive.org/web/20220608163611/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-08-29T13:57:41Z",
+        "uri": "https://web.archive.org/web/20230829135741/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-09-09T16:28:46Z",
+        "uri": "https://web.archive.org/web/20230909162846/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-09-13T00:27:06Z",
+        "uri": "https://web.archive.org/web/20230913002706/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-10-30T20:27:10Z",
+        "uri": "https://web.archive.org/web/20231030202710/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-11-16T03:05:24Z",
+        "uri": "https://web.archive.org/web/20231116030524/https://translate.google.com/Website?sl=en"
+      },
+      {
+        "datetime": "2023-12-15T07:09:43Z",
+        "uri": "https://web.archive.org/web/20231215070943/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-12-17T01:02:53Z",
+        "uri": "https://web.archive.org/web/20231217010253/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-12-19T04:51:55Z",
+        "uri": "https://web.archive.org/web/20231219045155/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-12-19T04:55:06Z",
+        "uri": "https://web.archive.org/web/20231219045506/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-12-19T04:55:52Z",
+        "uri": "https://web.archive.org/web/20231219045552/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2023-12-19T04:56:12Z",
+        "uri": "https://web.archive.org/web/20231219045612/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-02-14T05:51:58Z",
+        "uri": "https://web.archive.org/web/20240214055158/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-02-26T23:40:45Z",
+        "uri": "https://web.archive.org/web/20240226234045/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-02-27T01:02:22Z",
+        "uri": "https://web.archive.org/web/20240227010222/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-02-27T12:05:22Z",
+        "uri": "https://web.archive.org/web/20240227120522/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-03-07T12:15:36Z",
+        "uri": "https://web.archive.org/web/20240307121536/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-03-07T12:15:38Z",
+        "uri": "https://web.archive.org/web/20240307121538/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-24T23:58:45Z",
+        "uri": "https://web.archive.org/web/20240424235845/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-24T23:59:40Z",
+        "uri": "https://web.archive.org/web/20240424235940/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-25T00:51:07Z",
+        "uri": "https://web.archive.org/web/20240425005107/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-25T01:01:51Z",
+        "uri": "https://web.archive.org/web/20240425010151/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-25T04:55:28Z",
+        "uri": "https://web.archive.org/web/20240425045528/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-25T05:01:59Z",
+        "uri": "https://web.archive.org/web/20240425050159/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-04-25T05:13:07Z",
+        "uri": "https://web.archive.org/web/20240425051307/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-06-28T07:22:57Z",
+        "uri": "https://web.archive.org/web/20240628072257/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-02T02:19:37Z",
+        "uri": "https://web.archive.org/web/20240702021937/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-03T21:56:16Z",
+        "uri": "https://web.archive.org/web/20240703215616/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-09T16:30:45Z",
+        "uri": "https://web.archive.org/web/20240709163045/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-10T12:59:37Z",
+        "uri": "https://web.archive.org/web/20240710125937/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-15T18:48:41Z",
+        "uri": "https://web.archive.org/web/20240715184841/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-18T09:13:27Z",
+        "uri": "https://web.archive.org/web/20240718091327/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-18T18:48:14Z",
+        "uri": "https://web.archive.org/web/20240718184814/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-07-19T12:23:14Z",
+        "uri": "https://web.archive.org/web/20240719122314/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-05T14:12:48Z",
+        "uri": "https://web.archive.org/web/20240805141248/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-07T20:38:09Z",
+        "uri": "https://web.archive.org/web/20240807203809/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-10T16:13:22Z",
+        "uri": "https://web.archive.org/web/20240810161322/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-14T23:18:22Z",
+        "uri": "https://web.archive.org/web/20240814231822/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-15T15:03:14Z",
+        "uri": "https://web.archive.org/web/20240815150314/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-16T18:19:33Z",
+        "uri": "https://web.archive.org/web/20240816181933/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-16T22:40:33Z",
+        "uri": "https://web.archive.org/web/20240816224033/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-17T17:06:02Z",
+        "uri": "https://web.archive.org/web/20240817170602/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-18T18:13:51Z",
+        "uri": "https://web.archive.org/web/20240818181351/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-19T19:45:08Z",
+        "uri": "https://web.archive.org/web/20240819194508/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-20T06:53:13Z",
+        "uri": "https://web.archive.org/web/20240820065313/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-20T17:24:05Z",
+        "uri": "https://web.archive.org/web/20240820172405/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-20T23:14:38Z",
+        "uri": "https://web.archive.org/web/20240820231438/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-21T04:01:04Z",
+        "uri": "https://web.archive.org/web/20240821040104/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-21T23:34:06Z",
+        "uri": "https://web.archive.org/web/20240821233406/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-22T09:54:31Z",
+        "uri": "https://web.archive.org/web/20240822095431/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-22T20:43:23Z",
+        "uri": "https://web.archive.org/web/20240822204323/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-22T21:42:43Z",
+        "uri": "https://web.archive.org/web/20240822214243/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-23T22:59:57Z",
+        "uri": "https://web.archive.org/web/20240823225957/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-23T23:18:40Z",
+        "uri": "https://web.archive.org/web/20240823231840/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-26T21:56:54Z",
+        "uri": "https://web.archive.org/web/20240826215654/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-30T14:40:33Z",
+        "uri": "https://web.archive.org/web/20240830144033/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-08-31T01:06:37Z",
+        "uri": "https://web.archive.org/web/20240831010637/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-01T09:36:09Z",
+        "uri": "https://web.archive.org/web/20240901093609/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-01T13:12:47Z",
+        "uri": "https://web.archive.org/web/20240901131247/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-09T00:08:52Z",
+        "uri": "https://web.archive.org/web/20240909000852/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-09T14:24:33Z",
+        "uri": "https://web.archive.org/web/20240909142433/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-10T12:54:11Z",
+        "uri": "https://web.archive.org/web/20240910125411/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-11T08:53:39Z",
+        "uri": "https://web.archive.org/web/20240911085339/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-11T23:07:27Z",
+        "uri": "https://web.archive.org/web/20240911230727/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-12T01:12:44Z",
+        "uri": "https://web.archive.org/web/20240912011244/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-12T02:17:41Z",
+        "uri": "https://web.archive.org/web/20240912021741/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-12T05:18:24Z",
+        "uri": "https://web.archive.org/web/20240912051824/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-14T10:10:00Z",
+        "uri": "https://web.archive.org/web/20240914101000/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-17T09:45:31Z",
+        "uri": "https://web.archive.org/web/20240917094531/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-17T11:45:20Z",
+        "uri": "https://web.archive.org/web/20240917114520/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-19T14:09:26Z",
+        "uri": "https://web.archive.org/web/20240919140926/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-19T18:14:23Z",
+        "uri": "https://web.archive.org/web/20240919181423/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-30T14:59:17Z",
+        "uri": "https://web.archive.org/web/20240930145917/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-09-30T15:59:13Z",
+        "uri": "https://web.archive.org/web/20240930155913/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-02T18:59:16Z",
+        "uri": "https://web.archive.org/web/20241002185916/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-03T16:02:59Z",
+        "uri": "https://web.archive.org/web/20241003160259/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-03T16:28:38Z",
+        "uri": "https://web.archive.org/web/20241003162838/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-03T19:40:55Z",
+        "uri": "https://web.archive.org/web/20241003194055/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-04T20:58:02Z",
+        "uri": "https://web.archive.org/web/20241004205802/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-06T06:33:57Z",
+        "uri": "https://web.archive.org/web/20241006063357/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-08T14:22:17Z",
+        "uri": "https://web.archive.org/web/20241008142217/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-08T14:27:23Z",
+        "uri": "https://web.archive.org/web/20241008142723/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-08T17:46:05Z",
+        "uri": "https://web.archive.org/web/20241008174605/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-08T22:16:59Z",
+        "uri": "https://web.archive.org/web/20241008221659/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-08T23:36:06Z",
+        "uri": "https://web.archive.org/web/20241008233606/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-23T22:59:54Z",
+        "uri": "https://web.archive.org/web/20241023225954/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-23T23:29:17Z",
+        "uri": "https://web.archive.org/web/20241023232917/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-28T22:11:43Z",
+        "uri": "https://web.archive.org/web/20241028221143/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-28T22:16:46Z",
+        "uri": "https://web.archive.org/web/20241028221646/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-28T23:55:36Z",
+        "uri": "https://web.archive.org/web/20241028235536/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-29T01:56:06Z",
+        "uri": "https://web.archive.org/web/20241029015606/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-29T08:37:12Z",
+        "uri": "https://web.archive.org/web/20241029083712/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-29T08:49:13Z",
+        "uri": "https://web.archive.org/web/20241029084913/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-30T18:51:05Z",
+        "uri": "https://web.archive.org/web/20241030185105/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-30T19:49:11Z",
+        "uri": "https://web.archive.org/web/20241030194911/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-31T02:09:55Z",
+        "uri": "https://web.archive.org/web/20241031020955/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-31T06:26:43Z",
+        "uri": "https://web.archive.org/web/20241031062643/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-31T19:07:40Z",
+        "uri": "https://web.archive.org/web/20241031190740/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-10-31T22:54:28Z",
+        "uri": "https://web.archive.org/web/20241031225428/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-01T00:56:17Z",
+        "uri": "https://web.archive.org/web/20241101005617/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-01T01:06:38Z",
+        "uri": "https://web.archive.org/web/20241101010638/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-01T03:51:13Z",
+        "uri": "https://web.archive.org/web/20241101035113/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-02T02:06:45Z",
+        "uri": "https://web.archive.org/web/20241102020645/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-02T04:45:42Z",
+        "uri": "https://web.archive.org/web/20241102044542/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-02T05:36:17Z",
+        "uri": "https://web.archive.org/web/20241102053617/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-03T22:13:09Z",
+        "uri": "https://web.archive.org/web/20241103221309/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-04T09:07:21Z",
+        "uri": "https://web.archive.org/web/20241104090721/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-04T14:37:48Z",
+        "uri": "https://web.archive.org/web/20241104143748/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-05T00:12:09Z",
+        "uri": "https://web.archive.org/web/20241105001209/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-05T14:53:25Z",
+        "uri": "https://web.archive.org/web/20241105145325/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-05T23:15:46Z",
+        "uri": "https://web.archive.org/web/20241105231546/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-06T04:01:44Z",
+        "uri": "https://web.archive.org/web/20241106040144/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-06T13:04:17Z",
+        "uri": "https://web.archive.org/web/20241106130417/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-06T18:34:28Z",
+        "uri": "https://web.archive.org/web/20241106183428/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-06T23:03:50Z",
+        "uri": "https://web.archive.org/web/20241106230350/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-07T02:33:53Z",
+        "uri": "https://web.archive.org/web/20241107023353/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-07T19:00:17Z",
+        "uri": "https://web.archive.org/web/20241107190017/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-08T02:30:05Z",
+        "uri": "https://web.archive.org/web/20241108023005/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-10T13:54:01Z",
+        "uri": "https://web.archive.org/web/20241110135401/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-12T02:53:40Z",
+        "uri": "https://web.archive.org/web/20241112025340/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-12T18:29:04Z",
+        "uri": "https://web.archive.org/web/20241112182904/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-13T01:33:39Z",
+        "uri": "https://web.archive.org/web/20241113013339/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-13T07:49:19Z",
+        "uri": "https://web.archive.org/web/20241113074919/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-14T13:55:38Z",
+        "uri": "https://web.archive.org/web/20241114135538/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-14T14:34:54Z",
+        "uri": "https://web.archive.org/web/20241114143454/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-14T19:19:40Z",
+        "uri": "https://web.archive.org/web/20241114191940/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T05:22:32Z",
+        "uri": "https://web.archive.org/web/20241115052232/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T10:00:22Z",
+        "uri": "https://web.archive.org/web/20241115100022/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T13:54:19Z",
+        "uri": "https://web.archive.org/web/20241115135419/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T15:01:53Z",
+        "uri": "https://web.archive.org/web/20241115150153/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T15:52:31Z",
+        "uri": "https://web.archive.org/web/20241115155231/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T15:55:48Z",
+        "uri": "https://web.archive.org/web/20241115155548/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T17:16:05Z",
+        "uri": "https://web.archive.org/web/20241115171605/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T23:03:33Z",
+        "uri": "https://web.archive.org/web/20241115230333/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-15T23:41:27Z",
+        "uri": "https://web.archive.org/web/20241115234127/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T03:51:59Z",
+        "uri": "https://web.archive.org/web/20241116035159/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T06:31:57Z",
+        "uri": "https://web.archive.org/web/20241116063157/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T07:21:41Z",
+        "uri": "https://web.archive.org/web/20241116072141/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T14:37:37Z",
+        "uri": "https://web.archive.org/web/20241116143737/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T15:39:11Z",
+        "uri": "https://web.archive.org/web/20241116153911/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-16T21:58:16Z",
+        "uri": "https://web.archive.org/web/20241116215816/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-17T00:36:50Z",
+        "uri": "https://web.archive.org/web/20241117003650/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-17T08:53:59Z",
+        "uri": "https://web.archive.org/web/20241117085359/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-17T08:56:56Z",
+        "uri": "https://web.archive.org/web/20241117085656/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-18T13:31:40Z",
+        "uri": "https://web.archive.org/web/20241118133140/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-18T14:01:48Z",
+        "uri": "https://web.archive.org/web/20241118140148/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-18T16:22:04Z",
+        "uri": "https://web.archive.org/web/20241118162204/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-18T22:05:14Z",
+        "uri": "https://web.archive.org/web/20241118220514/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-19T06:02:38Z",
+        "uri": "https://web.archive.org/web/20241119060238/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-19T10:42:08Z",
+        "uri": "https://web.archive.org/web/20241119104208/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-19T12:47:13Z",
+        "uri": "https://web.archive.org/web/20241119124713/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-19T13:37:59Z",
+        "uri": "https://web.archive.org/web/20241119133759/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-19T19:33:05Z",
+        "uri": "https://web.archive.org/web/20241119193305/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-20T12:26:26Z",
+        "uri": "https://web.archive.org/web/20241120122626/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-20T20:56:19Z",
+        "uri": "https://web.archive.org/web/20241120205619/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-21T19:57:59Z",
+        "uri": "https://web.archive.org/web/20241121195759/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-21T22:22:22Z",
+        "uri": "https://web.archive.org/web/20241121222222/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T03:53:08Z",
+        "uri": "https://web.archive.org/web/20241122035308/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T10:54:31Z",
+        "uri": "https://web.archive.org/web/20241122105431/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T11:42:40Z",
+        "uri": "https://web.archive.org/web/20241122114240/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T11:47:36Z",
+        "uri": "https://web.archive.org/web/20241122114736/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T12:11:20Z",
+        "uri": "https://web.archive.org/web/20241122121120/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T12:17:28Z",
+        "uri": "https://web.archive.org/web/20241122121728/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T12:31:28Z",
+        "uri": "https://web.archive.org/web/20241122123128/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T13:21:44Z",
+        "uri": "https://web.archive.org/web/20241122132144/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T13:33:52Z",
+        "uri": "https://web.archive.org/web/20241122133352/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T13:44:25Z",
+        "uri": "https://web.archive.org/web/20241122134425/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T13:44:38Z",
+        "uri": "https://web.archive.org/web/20241122134438/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T14:24:51Z",
+        "uri": "https://web.archive.org/web/20241122142451/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T14:28:47Z",
+        "uri": "https://web.archive.org/web/20241122142847/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T14:40:39Z",
+        "uri": "https://web.archive.org/web/20241122144039/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T14:46:38Z",
+        "uri": "https://web.archive.org/web/20241122144638/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T16:02:08Z",
+        "uri": "https://web.archive.org/web/20241122160208/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T18:46:27Z",
+        "uri": "https://web.archive.org/web/20241122184627/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T19:55:06Z",
+        "uri": "https://web.archive.org/web/20241122195506/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T20:00:51Z",
+        "uri": "https://web.archive.org/web/20241122200051/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T21:45:02Z",
+        "uri": "https://web.archive.org/web/20241122214502/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T22:13:07Z",
+        "uri": "https://web.archive.org/web/20241122221307/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T22:19:41Z",
+        "uri": "https://web.archive.org/web/20241122221941/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T22:57:35Z",
+        "uri": "https://web.archive.org/web/20241122225735/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-22T23:35:26Z",
+        "uri": "https://web.archive.org/web/20241122233526/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T00:12:50Z",
+        "uri": "https://web.archive.org/web/20241123001250/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T02:29:56Z",
+        "uri": "https://web.archive.org/web/20241123022956/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T03:28:32Z",
+        "uri": "https://web.archive.org/web/20241123032832/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T04:33:11Z",
+        "uri": "https://web.archive.org/web/20241123043311/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T05:04:45Z",
+        "uri": "https://web.archive.org/web/20241123050445/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T05:51:16Z",
+        "uri": "https://web.archive.org/web/20241123055116/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T08:46:51Z",
+        "uri": "https://web.archive.org/web/20241123084651/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T10:27:28Z",
+        "uri": "https://web.archive.org/web/20241123102728/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T11:07:58Z",
+        "uri": "https://web.archive.org/web/20241123110758/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T11:32:13Z",
+        "uri": "https://web.archive.org/web/20241123113213/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T12:10:14Z",
+        "uri": "https://web.archive.org/web/20241123121014/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T13:55:55Z",
+        "uri": "https://web.archive.org/web/20241123135555/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-23T23:17:22Z",
+        "uri": "https://web.archive.org/web/20241123231722/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T04:07:04Z",
+        "uri": "https://web.archive.org/web/20241124040704/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T08:11:11Z",
+        "uri": "https://web.archive.org/web/20241124081111/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T08:45:05Z",
+        "uri": "https://web.archive.org/web/20241124084505/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T11:15:36Z",
+        "uri": "https://web.archive.org/web/20241124111536/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T13:08:14Z",
+        "uri": "https://web.archive.org/web/20241124130814/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T14:55:49Z",
+        "uri": "https://web.archive.org/web/20241124145549/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T16:52:01Z",
+        "uri": "https://web.archive.org/web/20241124165201/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T18:46:43Z",
+        "uri": "https://web.archive.org/web/20241124184643/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-24T20:34:40Z",
+        "uri": "https://web.archive.org/web/20241124203440/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-25T07:25:00Z",
+        "uri": "https://web.archive.org/web/20241125072500/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-25T09:47:59Z",
+        "uri": "https://web.archive.org/web/20241125094759/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-25T11:59:58Z",
+        "uri": "https://web.archive.org/web/20241125115958/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-25T12:55:47Z",
+        "uri": "https://web.archive.org/web/20241125125547/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-25T19:36:04Z",
+        "uri": "https://web.archive.org/web/20241125193604/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-26T03:46:00Z",
+        "uri": "https://web.archive.org/web/20241126034600/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-26T05:19:07Z",
+        "uri": "https://web.archive.org/web/20241126051907/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-26T17:41:14Z",
+        "uri": "https://web.archive.org/web/20241126174114/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-26T19:05:13Z",
+        "uri": "https://web.archive.org/web/20241126190513/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T00:12:49Z",
+        "uri": "https://web.archive.org/web/20241127001249/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T01:58:11Z",
+        "uri": "https://web.archive.org/web/20241127015811/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T03:39:08Z",
+        "uri": "https://web.archive.org/web/20241127033908/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T07:31:29Z",
+        "uri": "https://web.archive.org/web/20241127073129/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T07:52:50Z",
+        "uri": "https://web.archive.org/web/20241127075250/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T09:38:36Z",
+        "uri": "https://web.archive.org/web/20241127093836/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T11:32:19Z",
+        "uri": "https://web.archive.org/web/20241127113219/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T11:53:18Z",
+        "uri": "https://web.archive.org/web/20241127115318/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-27T15:51:20Z",
+        "uri": "https://web.archive.org/web/20241127155120/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-28T21:10:29Z",
+        "uri": "https://web.archive.org/web/20241128211029/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-29T13:10:42Z",
+        "uri": "https://web.archive.org/web/20241129131042/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-29T17:44:45Z",
+        "uri": "https://web.archive.org/web/20241129174445/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-30T02:35:08Z",
+        "uri": "https://web.archive.org/web/20241130023508/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-11-30T04:53:25Z",
+        "uri": "https://web.archive.org/web/20241130045325/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-02T12:02:02Z",
+        "uri": "https://web.archive.org/web/20241202120202/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-02T13:50:28Z",
+        "uri": "https://web.archive.org/web/20241202135028/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-02T18:19:45Z",
+        "uri": "https://web.archive.org/web/20241202181945/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-02T18:31:59Z",
+        "uri": "https://web.archive.org/web/20241202183159/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-03T06:43:26Z",
+        "uri": "https://web.archive.org/web/20241203064326/https://translate.google.com/website?sl=en"
+      },
+      {
+        "datetime": "2024-12-03T11:53:05Z",
+        "uri": "https://web.archive.org/web/20241203115305/https://translate.google.com/website?sl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2021-03-08T22:18:37Z",
+      "uri": "http://archive.md/20210308221837/https://translate.google.com/website?sl=en"
+    },
+    "last": {
+      "datetime": "2024-12-03T11:53:05Z",
+      "uri": "https://web.archive.org/web/20241203115305/https://translate.google.com/website?sl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://translate.google.com/website?sl=en",
+    "json_format": "http://localhost:1208/timemap/json/https://translate.google.com/website?sl=en",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://translate.google.com/website?sl=en"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://translate.google.com/website?sl=en"
+}

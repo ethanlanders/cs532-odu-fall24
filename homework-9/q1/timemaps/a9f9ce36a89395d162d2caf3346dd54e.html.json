@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-25T22:27:20Z",
+        "uri": "https://web.archive.org/web/20210425222720/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+      },
+      {
+        "datetime": "2022-06-25T11:33:35Z",
+        "uri": "https://web.archive.org/web/20220625113335/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+      },
+      {
+        "datetime": "2024-07-09T19:56:49Z",
+        "uri": "https://web.archive.org/web/20240709195649/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-25T22:27:20Z",
+      "uri": "https://web.archive.org/web/20210425222720/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+    },
+    "last": {
+      "datetime": "2024-07-09T19:56:49Z",
+      "uri": "https://web.archive.org/web/20240709195649/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html"
+}

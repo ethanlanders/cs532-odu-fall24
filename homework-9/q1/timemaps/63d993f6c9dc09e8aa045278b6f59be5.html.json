@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T12:12:08Z",
+        "uri": "https://web.archive.org/web/20220524121208/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:31Z",
+        "uri": "https://web.archive.org/web/20220622021431/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2022-07-07T13:37:47Z",
+        "uri": "https://web.archive.org/web/20220707133747/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2022-11-28T08:20:29Z",
+        "uri": "https://web.archive.org/web/20221128082029/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:11Z",
+        "uri": "https://web.archive.org/web/20230107001311/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:21Z",
+        "uri": "https://web.archive.org/web/20230127051121/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2023-03-20T18:57:14Z",
+        "uri": "https://web.archive.org/web/20230320185714/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2023-09-29T20:19:37Z",
+        "uri": "https://web.archive.org/web/20230929201937/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:01Z",
+        "uri": "https://web.archive.org/web/20231216174001/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      },
+      {
+        "datetime": "2024-05-19T05:08:29Z",
+        "uri": "https://web.archive.org/web/20240519050829/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T12:12:08Z",
+      "uri": "https://web.archive.org/web/20220524121208/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+    },
+    "last": {
+      "datetime": "2024-05-19T05:08:29Z",
+      "uri": "https://web.archive.org/web/20240519050829/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/accommodation-and-residency-in-germany/accommodation-and-living/"
+}

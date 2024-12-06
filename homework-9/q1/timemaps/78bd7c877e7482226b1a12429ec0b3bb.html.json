@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/about-us/news/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/about-us/news/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-22T02:14:31Z",
+        "uri": "https://web.archive.org/web/20220622021431/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2022-11-28T08:58:42Z",
+        "uri": "https://web.archive.org/web/20221128085842/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:12Z",
+        "uri": "https://web.archive.org/web/20230107001312/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2023-03-20T19:30:47Z",
+        "uri": "https://web.archive.org/web/20230320193047/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2023-09-29T20:56:12Z",
+        "uri": "https://web.archive.org/web/20230929205612/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:03Z",
+        "uri": "https://web.archive.org/web/20231216174003/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2024-04-21T21:35:39Z",
+        "uri": "https://web.archive.org/web/20240421213539/https://www.daad-ukraine.org/en/about-us/news/"
+      },
+      {
+        "datetime": "2024-07-14T08:21:13Z",
+        "uri": "https://web.archive.org/web/20240714082113/https://www.daad-ukraine.org/en/about-us/news/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-22T02:14:31Z",
+      "uri": "https://web.archive.org/web/20220622021431/https://www.daad-ukraine.org/en/about-us/news/"
+    },
+    "last": {
+      "datetime": "2024-07-14T08:21:13Z",
+      "uri": "https://web.archive.org/web/20240714082113/https://www.daad-ukraine.org/en/about-us/news/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/about-us/news/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/about-us/news/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/about-us/news/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/about-us/news/"
+}

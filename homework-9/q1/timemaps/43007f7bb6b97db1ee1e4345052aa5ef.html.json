@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:52:27Z",
+        "uri": "https://web.archive.org/web/20220524115227/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2022-05-27T23:45:10Z",
+        "uri": "https://web.archive.org/web/20220527234510/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:30Z",
+        "uri": "https://web.archive.org/web/20220622021430/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2022-10-02T15:49:40Z",
+        "uri": "https://web.archive.org/web/20221002154940/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:09Z",
+        "uri": "https://web.archive.org/web/20230107001309/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:19Z",
+        "uri": "https://web.archive.org/web/20230127051119/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-02-02T17:34:59Z",
+        "uri": "https://web.archive.org/web/20230202173459/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-06-04T00:21:23Z",
+        "uri": "https://web.archive.org/web/20230604002123/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-09-29T16:37:59Z",
+        "uri": "https://web.archive.org/web/20230929163759/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:03Z",
+        "uri": "https://web.archive.org/web/20231216174003/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2024-04-21T20:38:11Z",
+        "uri": "https://web.archive.org/web/20240421203811/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      },
+      {
+        "datetime": "2024-07-14T07:17:46Z",
+        "uri": "https://web.archive.org/web/20240714071746/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:52:27Z",
+      "uri": "https://web.archive.org/web/20220524115227/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+    },
+    "last": {
+      "datetime": "2024-07-14T07:17:46Z",
+      "uri": "https://web.archive.org/web/20240714071746/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/the-german-higher-education-system/find-study-programmes/"
+}

@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T13:22:49Z",
+        "uri": "https://web.archive.org/web/20220524132249/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:35Z",
+        "uri": "https://web.archive.org/web/20220622021435/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2022-10-02T17:23:17Z",
+        "uri": "https://web.archive.org/web/20221002172317/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:13Z",
+        "uri": "https://web.archive.org/web/20230107001313/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2023-06-04T01:53:57Z",
+        "uri": "https://web.archive.org/web/20230604015357/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2023-12-02T09:49:14Z",
+        "uri": "https://web.archive.org/web/20231202094914/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:07Z",
+        "uri": "https://web.archive.org/web/20231216174007/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      },
+      {
+        "datetime": "2024-05-19T06:15:41Z",
+        "uri": "https://web.archive.org/web/20240519061541/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T13:22:49Z",
+      "uri": "https://web.archive.org/web/20220524132249/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+    },
+    "last": {
+      "datetime": "2024-05-19T06:15:41Z",
+      "uri": "https://web.archive.org/web/20240519061541/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/recognition-of-degrees/"
+}

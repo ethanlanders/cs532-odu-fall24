@@ -1,0 +1,302 @@
+{
+  "original_uri": "https://www.odu.edu/military/veterans-services",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/military/veterans-services",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-11-18T06:08:32Z",
+        "uri": "https://web.archive.org/web/20131118060832/http://www.odu.edu:80/military/veterans-services"
+      },
+      {
+        "datetime": "2014-01-18T19:18:17Z",
+        "uri": "https://web.archive.org/web/20140118191817/http://www.odu.edu:80/military/veterans-services"
+      },
+      {
+        "datetime": "2022-05-24T22:26:26Z",
+        "uri": "https://web.archive.org/web/20220524222626/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-05-27T11:10:00Z",
+        "uri": "https://arquivo.pt/wayback/20220527111000mp_/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-05-27T19:48:05Z",
+        "uri": "https://web.archive.org/web/20220527194805/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-05-28T03:22:05Z",
+        "uri": "https://web.archive.org/web/20220528032205/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-06-15T09:32:46Z",
+        "uri": "https://web.archive.org/web/20220615093246/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-06-25T08:34:14Z",
+        "uri": "https://web.archive.org/web/20220625083414/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:00:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220811050015/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:00:15Z",
+        "uri": "https://web.archive.org/web/20220811050015/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:00:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220811050016/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:00:16Z",
+        "uri": "https://web.archive.org/web/20220811050016/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220811050101/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-08-11T05:01:01Z",
+        "uri": "https://web.archive.org/web/20220811050101/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-09-29T02:27:46Z",
+        "uri": "https://web.archive.org/web/20220929022746/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-10-31T11:23:02Z",
+        "uri": "https://web.archive.org/web/20221031112302/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-07T06:08:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060843/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-07T06:08:43Z",
+        "uri": "https://web.archive.org/web/20221107060843/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-07T21:48:05Z",
+        "uri": "https://wayback.archive-it.org/all/20221107214805/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-07T21:48:05Z",
+        "uri": "https://web.archive.org/web/20221107214805/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-16T04:30:49Z",
+        "uri": "https://arquivo.pt/wayback/20221116043049mp_/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-12-07T13:25:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221207132509/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-12-07T13:25:09Z",
+        "uri": "https://web.archive.org/web/20221207132509/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-12-08T05:59:45Z",
+        "uri": "https://web.archive.org/web/20221208055945/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-12-10T22:48:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221210224818/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2022-12-10T22:48:18Z",
+        "uri": "https://web.archive.org/web/20221210224818/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-01-07T12:53:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230107125320/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-01-07T12:53:20Z",
+        "uri": "https://web.archive.org/web/20230107125320/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-01-10T18:27:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230110182726/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-01-10T18:27:26Z",
+        "uri": "https://web.archive.org/web/20230110182726/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-01-24T20:41:26Z",
+        "uri": "https://arquivo.pt/wayback/20230124204126mp_/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-02-07T12:11:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230207121157/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-02-07T12:11:57Z",
+        "uri": "https://web.archive.org/web/20230207121157/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-02-10T11:06:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230210110601/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-02-10T11:06:01Z",
+        "uri": "https://web.archive.org/web/20230210110601/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-02-20T01:07:57Z",
+        "uri": "https://web.archive.org/web/20230220010757/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-07T05:03:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050354/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-07T05:03:54Z",
+        "uri": "https://web.archive.org/web/20230307050354/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-07T18:05:55Z",
+        "uri": "https://wayback.archive-it.org/all/20230307180555/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-07T18:05:55Z",
+        "uri": "https://web.archive.org/web/20230307180555/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-03-27T22:36:08Z",
+        "uri": "https://web.archive.org/web/20230327223608/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-07-15T00:31:33Z",
+        "uri": "https://web.archive.org/web/20230715003133/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-08-25T19:03:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230825190315/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-08-25T19:03:15Z",
+        "uri": "https://web.archive.org/web/20230825190315/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-08-26T10:55:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230826105512/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-08-26T10:55:12Z",
+        "uri": "https://web.archive.org/web/20230826105512/http://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2023-11-29T17:50:17Z",
+        "uri": "https://web.archive.org/web/20231129175017/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-02-21T20:14:12Z",
+        "uri": "https://web.archive.org/web/20240221201412/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-02-28T23:49:52Z",
+        "uri": "https://web.archive.org/web/20240228234952/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-02-29T03:07:33Z",
+        "uri": "https://web.archive.org/web/20240229030733/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-03-05T18:24:14Z",
+        "uri": "https://web.archive.org/web/20240305182414/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-03-25T12:55:26Z",
+        "uri": "https://web.archive.org/web/20240325125526/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-04-04T07:27:00Z",
+        "uri": "https://web.archive.org/web/20240404072700/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-04-20T14:06:10Z",
+        "uri": "https://web.archive.org/web/20240420140610/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-04-27T16:09:40Z",
+        "uri": "https://web.archive.org/web/20240427160940/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-05-13T13:53:53Z",
+        "uri": "https://web.archive.org/web/20240513135353/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-05-23T23:24:00Z",
+        "uri": "https://wayback.archive-it.org/all/20240523232400/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-06-18T17:39:54Z",
+        "uri": "https://web.archive.org/web/20240618173954/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-06-21T08:25:17Z",
+        "uri": "https://web.archive.org/web/20240621082517/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-06-23T00:33:05Z",
+        "uri": "https://web.archive.org/web/20240623003305/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-06-30T13:34:32Z",
+        "uri": "https://web.archive.org/web/20240630133432/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-07-25T11:57:57Z",
+        "uri": "https://web.archive.org/web/20240725115757/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-07-31T02:35:18Z",
+        "uri": "https://web.archive.org/web/20240731023518/https://odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-09-10T21:57:05Z",
+        "uri": "https://web.archive.org/web/20240910215705/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-09-17T19:57:34Z",
+        "uri": "https://web.archive.org/web/20240917195734/https://www.odu.edu/military/veterans-services"
+      },
+      {
+        "datetime": "2024-10-07T10:39:09Z",
+        "uri": "https://web.archive.org/web/20241007103909/https://www.odu.edu/military/veterans-services"
+      }
+    ],
+    "first": {
+      "datetime": "2013-11-18T06:08:32Z",
+      "uri": "https://web.archive.org/web/20131118060832/http://www.odu.edu:80/military/veterans-services"
+    },
+    "last": {
+      "datetime": "2024-10-07T10:39:09Z",
+      "uri": "https://web.archive.org/web/20241007103909/https://www.odu.edu/military/veterans-services"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/military/veterans-services",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/military/veterans-services",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/military/veterans-services"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/military/veterans-services"
+}

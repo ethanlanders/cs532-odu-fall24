@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "self": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-05-28T13:11:48Z",
+        "uri": "https://web.archive.org/web/20160528131148/http://dblp.dagstuhl.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-07-28T19:12:51Z",
+        "uri": "https://web.archive.org/web/20160728191251/http://dblp.dagstuhl.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-04-13T13:16:38Z",
+        "uri": "https://web.archive.org/web/20170413131638/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-06-06T02:13:09Z",
+        "uri": "https://web.archive.org/web/20170606021309/http://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-06-15T16:41:58Z",
+        "uri": "https://web.archive.org/web/20170615164158/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-07-07T19:15:57Z",
+        "uri": "https://web.archive.org/web/20170707191557/http://dblp.dagstuhl.de//search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-08-17T03:34:36Z",
+        "uri": "https://web.archive.org/web/20170817033436/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-10-17T13:22:42Z",
+        "uri": "https://web.archive.org/web/20171017132242/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-12-18T01:30:44Z",
+        "uri": "https://web.archive.org/web/20171218013044/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2018-03-03T00:20:37Z",
+        "uri": "https://web.archive.org/web/20180303002037/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2018-08-08T06:05:58Z",
+        "uri": "https://web.archive.org/web/20180808060558/http://dblp.dagstuhl.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-08-17T06:44:29Z",
+        "uri": "https://web.archive.org/web/20210817064429/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-08-17T06:44:57Z",
+        "uri": "https://web.archive.org/web/20210817064457/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2022-03-07T20:56:32Z",
+        "uri": "https://web.archive.org/web/20220307205632/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-09-25T09:04:17Z",
+        "uri": "https://web.archive.org/web/20230925090417/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-12-15T06:19:37Z",
+        "uri": "https://web.archive.org/web/20231215061937/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-03-29T06:13:18Z",
+        "uri": "https://web.archive.org/web/20240329061318/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      }
+    ],
+    "first": {
+      "datetime": "2016-05-28T13:11:48Z",
+      "uri": "https://web.archive.org/web/20160528131148/http://dblp.dagstuhl.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    },
+    "last": {
+      "datetime": "2024-03-29T06:13:18Z",
+      "uri": "https://web.archive.org/web/20240329061318/https://dblp.dagstuhl.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.dagstuhl.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+}

@@ -1,0 +1,830 @@
+{
+  "original_uri": "https://www.odu.edu/about/visitors/campus-map",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/visitors/campus-map",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-21T13:26:41Z",
+        "uri": "https://web.archive.org/web/20120921132641/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2012-10-10T13:36:23Z",
+        "uri": "https://web.archive.org/web/20121010133623/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2012-12-11T13:49:37Z",
+        "uri": "https://web.archive.org/web/20121211134937/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2012-12-18T16:01:23Z",
+        "uri": "https://web.archive.org/web/20121218160123/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2012-12-25T14:05:21Z",
+        "uri": "https://web.archive.org/web/20121225140521/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-01-15T17:17:41Z",
+        "uri": "https://web.archive.org/web/20130115171741/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-02-16T06:14:54Z",
+        "uri": "https://web.archive.org/web/20130216061454/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-04-23T05:13:28Z",
+        "uri": "https://web.archive.org/web/20130423051328/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-04-26T09:22:31Z",
+        "uri": "https://web.archive.org/web/20130426092231/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-05-08T15:16:52Z",
+        "uri": "https://web.archive.org/web/20130508151652/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-06-02T00:13:42Z",
+        "uri": "https://web.archive.org/web/20130602001342/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-08-06T12:59:14Z",
+        "uri": "https://web.archive.org/web/20130806125914/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-09-29T20:18:11Z",
+        "uri": "https://web.archive.org/web/20130929201811/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-11-27T14:56:00Z",
+        "uri": "https://web.archive.org/web/20131127145600/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2013-12-23T00:39:00Z",
+        "uri": "https://web.archive.org/web/20131223003900/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2014-02-09T03:38:32Z",
+        "uri": "https://web.archive.org/web/20140209033832/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2014-02-13T12:20:52Z",
+        "uri": "https://web.archive.org/web/20140213122052/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2014-05-20T14:21:37Z",
+        "uri": "https://web.archive.org/web/20140520142137/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2014-06-25T12:07:24Z",
+        "uri": "https://web.archive.org/web/20140625120724/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2014-07-22T16:13:18Z",
+        "uri": "https://web.archive.org/web/20140722161318/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2014-08-11T12:19:23Z",
+        "uri": "https://web.archive.org/web/20140811121923/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2014-11-30T00:57:42Z",
+        "uri": "https://web.archive.org/web/20141130005742/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2015-02-15T17:29:14Z",
+        "uri": "https://web.archive.org/web/20150215172914/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2015-12-03T05:04:54Z",
+        "uri": "https://web.archive.org/web/20151203050454/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2015-12-11T05:26:03Z",
+        "uri": "https://web.archive.org/web/20151211052603/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2015-12-14T12:51:57Z",
+        "uri": "https://web.archive.org/web/20151214125157/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-01-29T12:27:32Z",
+        "uri": "https://web.archive.org/web/20160129122732/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-02-02T06:02:32Z",
+        "uri": "https://web.archive.org/web/20160202060232/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-02-13T20:02:47Z",
+        "uri": "https://web.archive.org/web/20160213200247/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2016-04-05T03:45:19Z",
+        "uri": "https://web.archive.org/web/20160405034519/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-04-14T16:23:50Z",
+        "uri": "https://web.archive.org/web/20160414162350/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2016-06-04T16:26:40Z",
+        "uri": "https://web.archive.org/web/20160604162640/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-06-05T19:36:35Z",
+        "uri": "https://web.archive.org/web/20160605193635/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-08-08T18:46:50Z",
+        "uri": "https://web.archive.org/web/20160808184650/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2016-10-02T17:26:33Z",
+        "uri": "https://web.archive.org/web/20161002172633/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2016-10-08T09:09:12Z",
+        "uri": "https://web.archive.org/web/20161008090912/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2017-01-09T11:56:55Z",
+        "uri": "https://web.archive.org/web/20170109115655/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-01-21T19:11:59Z",
+        "uri": "https://web.archive.org/web/20170121191159/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2017-05-05T02:55:14Z",
+        "uri": "https://web.archive.org/web/20170505025514/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-05-17T13:34:24Z",
+        "uri": "https://web.archive.org/web/20170517133424/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2017-05-19T16:27:27Z",
+        "uri": "https://web.archive.org/web/20170519162727/http://odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-06-05T11:06:51Z",
+        "uri": "https://web.archive.org/web/20170605110651/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-06-14T11:54:37Z",
+        "uri": "https://web.archive.org/web/20170614115437/http://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-06-21T23:44:25Z",
+        "uri": "https://web.archive.org/web/20170621234425/http://odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-07-05T08:06:56Z",
+        "uri": "https://web.archive.org/web/20170705080656/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-07-06T07:29:35Z",
+        "uri": "https://web.archive.org/web/20170706072935/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-08-06T09:38:35Z",
+        "uri": "https://web.archive.org/web/20170806093835/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-09-07T14:15:26Z",
+        "uri": "https://web.archive.org/web/20170907141526/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-10-14T02:30:59Z",
+        "uri": "https://web.archive.org/web/20171014023059/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-10-23T19:13:49Z",
+        "uri": "https://web.archive.org/web/20171023191349/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2017-11-14T00:32:46Z",
+        "uri": "https://web.archive.org/web/20171114003246/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2017-12-15T02:52:31Z",
+        "uri": "https://web.archive.org/web/20171215025231/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-01-15T00:59:14Z",
+        "uri": "https://web.archive.org/web/20180115005914/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-01-16T10:34:59Z",
+        "uri": "https://web.archive.org/web/20180116103459/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-02-17T04:58:15Z",
+        "uri": "https://web.archive.org/web/20180217045815/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-03-20T23:53:32Z",
+        "uri": "https://web.archive.org/web/20180320235332/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-03-31T10:46:00Z",
+        "uri": "https://web.archive.org/web/20180331104600/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-04-20T23:19:04Z",
+        "uri": "https://web.archive.org/web/20180420231904/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-05-22T13:06:24Z",
+        "uri": "https://web.archive.org/web/20180522130624/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-06-02T13:31:01Z",
+        "uri": "https://web.archive.org/web/20180602133101/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-06-17T09:41:22Z",
+        "uri": "https://web.archive.org/web/20180617094122/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2018-06-22T14:33:39Z",
+        "uri": "https://web.archive.org/web/20180622143339/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-07-23T16:30:12Z",
+        "uri": "https://web.archive.org/web/20180723163012/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-07-26T04:31:31Z",
+        "uri": "https://web.archive.org/web/20180726043131/http://odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-08-17T09:57:51Z",
+        "uri": "https://web.archive.org/web/20180817095751/http://www.odu.edu:80/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2018-08-23T18:45:13Z",
+        "uri": "https://web.archive.org/web/20180823184513/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-09-23T22:21:39Z",
+        "uri": "https://web.archive.org/web/20180923222139/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-10-25T10:53:32Z",
+        "uri": "https://web.archive.org/web/20181025105332/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-11-05T05:24:55Z",
+        "uri": "https://web.archive.org/web/20181105052455/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-11-25T12:37:34Z",
+        "uri": "https://web.archive.org/web/20181125123734/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2018-12-26T12:09:55Z",
+        "uri": "https://web.archive.org/web/20181226120955/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-01-26T17:12:51Z",
+        "uri": "https://web.archive.org/web/20190126171251/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-02-27T00:02:46Z",
+        "uri": "https://web.archive.org/web/20190227000246/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-03-01T23:35:15Z",
+        "uri": "https://web.archive.org/web/20190301233515/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-03-30T03:52:24Z",
+        "uri": "https://web.archive.org/web/20190330035224/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-04-30T05:19:41Z",
+        "uri": "https://web.archive.org/web/20190430051941/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-06-01T19:18:24Z",
+        "uri": "https://web.archive.org/web/20190601191824/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-07-03T14:57:23Z",
+        "uri": "https://web.archive.org/web/20190703145723/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-08-03T19:02:38Z",
+        "uri": "https://web.archive.org/web/20190803190238/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-08-09T18:36:45Z",
+        "uri": "https://web.archive.org/web/20190809183645/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-09-03T17:36:57Z",
+        "uri": "https://web.archive.org/web/20190903173657/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2019-11-05T07:37:58Z",
+        "uri": "https://web.archive.org/web/20191105073758/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-01-08T07:04:51Z",
+        "uri": "https://web.archive.org/web/20200108070451/http://www.odu.edu:80/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-05-12T02:06:12Z",
+        "uri": "https://web.archive.org/web/20200512020612/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-07-17T17:12:04Z",
+        "uri": "https://web.archive.org/web/20200717171204/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-08-17T11:36:44Z",
+        "uri": "https://web.archive.org/web/20200817113644/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-11-05T23:20:45Z",
+        "uri": "https://web.archive.org/web/20201105232045/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2020-11-05T23:20:45Z",
+        "uri": "https://web.archive.org/web/20201105232045/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-03-22T05:01:23Z",
+        "uri": "https://web.archive.org/web/20210322050123/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-03-23T20:09:06Z",
+        "uri": "https://web.archive.org/web/20210323200906/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-03-23T20:09:06Z",
+        "uri": "https://web.archive.org/web/20210323200906/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-04-14T04:44:44Z",
+        "uri": "https://web.archive.org/web/20210414044444/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-04-16T03:11:21Z",
+        "uri": "https://web.archive.org/web/20210416031121/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:52:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215242/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:52:42Z",
+        "uri": "https://web.archive.org/web/20210526215242/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:52:53Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215253/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:52:53Z",
+        "uri": "https://web.archive.org/web/20210526215253/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:53:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215301/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-05-26T21:53:01Z",
+        "uri": "https://web.archive.org/web/20210526215301/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-06-03T22:25:36Z",
+        "uri": "https://web.archive.org/web/20210603222536/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-06-09T22:52:03Z",
+        "uri": "https://web.archive.org/web/20210609225203/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-06-09T22:52:04Z",
+        "uri": "https://web.archive.org/web/20210609225204/https://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-08-13T08:15:34Z",
+        "uri": "https://web.archive.org/web/20210813081534/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-08-13T10:34:54Z",
+        "uri": "https://web.archive.org/web/20210813103454/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-11-03T11:43:04Z",
+        "uri": "https://arquivo.pt/wayback/20211103114304mp_/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-11-03T11:43:04Z",
+        "uri": "https://web.archive.org/web/20211103114304/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-11-03T11:43:09Z",
+        "uri": "https://arquivo.pt/wayback/20211103114309mp_/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-11-03T11:43:09Z",
+        "uri": "https://web.archive.org/web/20211103114309/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2021-12-09T09:44:46Z",
+        "uri": "https://web.archive.org/web/20211209094446/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-01-22T12:01:23Z",
+        "uri": "https://arquivo.pt/wayback/20220122120123mp_/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-01-26T05:55:17Z",
+        "uri": "https://arquivo.pt/wayback/20220126055517mp_/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-04-17T07:17:34Z",
+        "uri": "https://arquivo.pt/wayback/20220417071734mp_/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-04-19T12:53:13Z",
+        "uri": "https://web.archive.org/web/20220419125313/https://www.odu.edu/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2022-04-22T18:49:59Z",
+        "uri": "https://arquivo.pt/wayback/20220422184959mp_/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-04-22T18:50:04Z",
+        "uri": "https://arquivo.pt/wayback/20220422185004mp_/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-04-24T19:08:42Z",
+        "uri": "https://arquivo.pt/wayback/20220424190842mp_/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-05-22T03:52:19Z",
+        "uri": "https://web.archive.org/web/20220522035219/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-06-28T11:47:56Z",
+        "uri": "https://web.archive.org/web/20220628114756/https://www.odu.edu/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2022-06-30T00:21:57Z",
+        "uri": "https://web.archive.org/web/20220630002157/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-07-12T13:36:58Z",
+        "uri": "https://web.archive.org/web/20220712133658/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-07-30T16:49:49Z",
+        "uri": "https://arquivo.pt/wayback/20220730164949mp_/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:13Z",
+        "uri": "https://wayback.archive-it.org/all/20220810231213/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:13Z",
+        "uri": "https://web.archive.org/web/20220810231213/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:41Z",
+        "uri": "https://wayback.archive-it.org/all/20220810231241/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:41Z",
+        "uri": "https://web.archive.org/web/20220810231241/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220810231251/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-10T23:12:51Z",
+        "uri": "https://web.archive.org/web/20220810231251/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-08-12T03:42:04Z",
+        "uri": "https://web.archive.org/web/20220812034204/https://odu.edu/about/visitors/campus-map?"
+      },
+      {
+        "datetime": "2022-09-20T23:10:49Z",
+        "uri": "https://web.archive.org/web/20220920231049/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-09-29T00:57:54Z",
+        "uri": "https://web.archive.org/web/20220929005754/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-07T04:55:29Z",
+        "uri": "https://wayback.archive-it.org/all/20221107045529/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-07T04:55:29Z",
+        "uri": "https://web.archive.org/web/20221107045529/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-07T07:05:46Z",
+        "uri": "https://wayback.archive-it.org/all/20221107070546/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-07T07:05:46Z",
+        "uri": "https://web.archive.org/web/20221107070546/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-11-17T00:17:47Z",
+        "uri": "https://web.archive.org/web/20221117001747/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T07:30:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221207073004/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T07:30:04Z",
+        "uri": "https://web.archive.org/web/20221207073004/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T23:28:27Z",
+        "uri": "https://wayback.archive-it.org/all/20221207232827/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T23:28:27Z",
+        "uri": "https://web.archive.org/web/20221207232827/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-19T04:52:07Z",
+        "uri": "https://web.archive.org/web/20221219045207/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-19T04:52:08Z",
+        "uri": "https://web.archive.org/web/20221219045208/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T07:04:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230107070456/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T07:04:56Z",
+        "uri": "https://web.archive.org/web/20230107070456/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T20:47:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230107204711/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T20:47:11Z",
+        "uri": "https://web.archive.org/web/20230107204711/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-24T19:47:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124194700mp_/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T06:19:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230207061933/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T06:19:33Z",
+        "uri": "https://web.archive.org/web/20230207061933/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T20:08:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230207200809/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T20:08:09Z",
+        "uri": "https://web.archive.org/web/20230207200809/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-20T00:44:53Z",
+        "uri": "https://web.archive.org/web/20230220004453/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T04:25:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042506/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T04:25:06Z",
+        "uri": "https://web.archive.org/web/20230307042506/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T05:28:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230307052811/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T05:28:11Z",
+        "uri": "https://web.archive.org/web/20230307052811/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-27T22:29:34Z",
+        "uri": "https://web.archive.org/web/20230327222934/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-31T21:40:35Z",
+        "uri": "https://web.archive.org/web/20230331214035/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-04-02T10:04:15Z",
+        "uri": "https://web.archive.org/web/20230402100415/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-05-01T22:10:30Z",
+        "uri": "https://web.archive.org/web/20230501221030/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-05-08T18:36:45Z",
+        "uri": "https://web.archive.org/web/20230508183645/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-06-01T09:27:49Z",
+        "uri": "https://web.archive.org/web/20230601092749/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-06-05T00:44:45Z",
+        "uri": "https://web.archive.org/web/20230605004445/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-07-01T11:10:33Z",
+        "uri": "https://web.archive.org/web/20230701111033/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-01T16:10:48Z",
+        "uri": "https://web.archive.org/web/20230801161048/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-03T03:04:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230803030431/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-03T03:04:31Z",
+        "uri": "https://web.archive.org/web/20230803030431/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T17:35:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173525/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T17:35:25Z",
+        "uri": "https://web.archive.org/web/20230825173525/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T19:51:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230825195156/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T19:51:56Z",
+        "uri": "https://web.archive.org/web/20230825195156/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-10-10T16:14:47Z",
+        "uri": "https://web.archive.org/web/20231010161447/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-11-01T14:17:41Z",
+        "uri": "https://web.archive.org/web/20231101141741/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-11-28T03:54:26Z",
+        "uri": "https://web.archive.org/web/20231128035426/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-12-01T11:28:38Z",
+        "uri": "https://web.archive.org/web/20231201112838/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-01-01T13:25:19Z",
+        "uri": "https://web.archive.org/web/20240101132519/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-02-01T10:08:10Z",
+        "uri": "https://web.archive.org/web/20240201100810/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-02-21T20:25:27Z",
+        "uri": "https://web.archive.org/web/20240221202527/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-02-28T23:56:46Z",
+        "uri": "https://web.archive.org/web/20240228235646/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-03-02T08:57:34Z",
+        "uri": "https://web.archive.org/web/20240302085734/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-03-05T03:57:06Z",
+        "uri": "https://web.archive.org/web/20240305035706/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-03-05T18:24:16Z",
+        "uri": "https://web.archive.org/web/20240305182416/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-01T01:24:24Z",
+        "uri": "https://web.archive.org/web/20240401012424/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-01T13:05:16Z",
+        "uri": "https://web.archive.org/web/20240401130516/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-04T07:27:07Z",
+        "uri": "https://web.archive.org/web/20240404072707/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-17T03:31:15Z",
+        "uri": "https://web.archive.org/web/20240417033115/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-18T00:10:32Z",
+        "uri": "https://web.archive.org/web/20240418001032/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-04-27T16:08:39Z",
+        "uri": "https://web.archive.org/web/20240427160839/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-05-01T08:53:02Z",
+        "uri": "https://web.archive.org/web/20240501085302/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-05-13T13:55:08Z",
+        "uri": "https://web.archive.org/web/20240513135508/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-05-23T21:33:12Z",
+        "uri": "https://wayback.archive-it.org/all/20240523213312/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-05-24T04:33:27Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043327/http://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-06-01T02:51:18Z",
+        "uri": "https://web.archive.org/web/20240601025118/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-06-03T19:24:23Z",
+        "uri": "https://web.archive.org/web/20240603192423/http://www.odu.edu//about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-07-05T15:34:26Z",
+        "uri": "https://web.archive.org/web/20240705153426/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-07-29T18:51:55Z",
+        "uri": "https://web.archive.org/web/20240729185155/https://odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-08-01T00:06:59Z",
+        "uri": "https://web.archive.org/web/20240801000659/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-09-01T07:16:12Z",
+        "uri": "https://web.archive.org/web/20240901071612/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-09-12T15:29:30Z",
+        "uri": "https://web.archive.org/web/20240912152930/https://www.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2024-09-17T11:51:34Z",
+        "uri": "https://web.archive.org/web/20240917115134/https://www.odu.edu/about/visitors/campus-map"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-21T13:26:41Z",
+      "uri": "https://web.archive.org/web/20120921132641/http://www.odu.edu/about/visitors/campus-map"
+    },
+    "last": {
+      "datetime": "2024-09-17T11:51:34Z",
+      "uri": "https://web.archive.org/web/20240917115134/https://www.odu.edu/about/visitors/campus-map"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/visitors/campus-map",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/visitors/campus-map",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/visitors/campus-map"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/visitors/campus-map"
+}

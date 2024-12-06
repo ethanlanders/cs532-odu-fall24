@@ -1,0 +1,250 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-05-19T00:38:56Z",
+        "uri": "https://web.archive.org/web/20160519003856/http://dblp.uni-trier.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-07-18T11:28:55Z",
+        "uri": "https://web.archive.org/web/20160718112855/http://dblp.uni-trier.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-09-18T00:50:25Z",
+        "uri": "https://web.archive.org/web/20160918005025/http://dblp.uni-trier.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-11-17T19:49:43Z",
+        "uri": "https://web.archive.org/web/20161117194943/http://dblp.uni-trier.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-11-18T17:48:59Z",
+        "uri": "https://web.archive.org/web/20161118174859/http://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2016-11-24T06:16:29Z",
+        "uri": "https://web.archive.org/web/20161124061629/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-05-01T08:31:08Z",
+        "uri": "https://web.archive.org/web/20170501083108/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-05-11T04:34:25Z",
+        "uri": "https://web.archive.org/web/20170511043425/http://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-06-24T19:14:17Z",
+        "uri": "https://web.archive.org/web/20170624191417/http://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-06-30T23:46:51Z",
+        "uri": "https://web.archive.org/web/20170630234651/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-08-30T19:42:15Z",
+        "uri": "https://web.archive.org/web/20170830194215/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-10-03T00:58:05Z",
+        "uri": "https://wayback.archive-it.org/all/20171003005805/http://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-10-03T00:58:05Z",
+        "uri": "https://web.archive.org/web/20171003005805/http://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-10-30T07:47:57Z",
+        "uri": "https://web.archive.org/web/20171030074757/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2017-12-29T23:22:03Z",
+        "uri": "https://web.archive.org/web/20171229232203/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2018-02-28T10:40:28Z",
+        "uri": "https://web.archive.org/web/20180228104028/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2018-04-29T17:04:43Z",
+        "uri": "https://web.archive.org/web/20180429170443/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2018-06-29T08:58:35Z",
+        "uri": "https://web.archive.org/web/20180629085835/http://dblp.uni-trier.de:80/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2019-10-21T11:18:27Z",
+        "uri": "https://web.archive.org/web/20191021111827/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2019-11-14T22:19:14Z",
+        "uri": "https://arquivo.pt/wayback/20191114221914mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2020-03-12T15:18:20Z",
+        "uri": "https://arquivo.pt/wayback/20200312151820mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2020-03-12T15:56:32Z",
+        "uri": "https://arquivo.pt/wayback/20200312155632mp_/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2020-03-17T03:43:52Z",
+        "uri": "https://web.archive.org/web/20200317034352/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2020-04-20T23:43:51Z",
+        "uri": "https://web.archive.org/web/20200420234351/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2020-05-11T04:30:18Z",
+        "uri": "https://web.archive.org/web/20200511043018/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2020-07-31T03:49:00Z",
+        "uri": "https://web.archive.org/web/20200731034900/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2020-08-08T08:08:25Z",
+        "uri": "https://web.archive.org/web/20200808080825/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-03-23T01:53:38Z",
+        "uri": "https://web.archive.org/web/20210323015338/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-04-25T07:36:55Z",
+        "uri": "https://web.archive.org/web/20210425073655/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-05-07T17:23:31Z",
+        "uri": "https://web.archive.org/web/20210507172331/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-06-21T17:03:08Z",
+        "uri": "https://web.archive.org/web/20210621170308/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-06-21T17:03:08Z",
+        "uri": "https://web.archive.org/web/20210621170308/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-08-12T03:57:34Z",
+        "uri": "https://web.archive.org/web/20210812035734/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-08-15T08:56:49Z",
+        "uri": "https://web.archive.org/web/20210815085649/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-09-19T17:01:15Z",
+        "uri": "https://arquivo.pt/wayback/20210919170115mp_/https://dblp.uni-trier.de/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester"
+      },
+      {
+        "datetime": "2021-10-24T14:36:33Z",
+        "uri": "https://web.archive.org/web/20211024143633/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2021-12-19T15:56:52Z",
+        "uri": "https://web.archive.org/web/20211219155652/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2022-04-08T14:45:45Z",
+        "uri": "https://web.archive.org/web/20220408144545/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2022-07-07T13:33:00Z",
+        "uri": "https://web.archive.org/web/20220707133300/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2022-09-26T01:19:10Z",
+        "uri": "https://web.archive.org/web/20220926011910/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-01-28T19:02:24Z",
+        "uri": "https://web.archive.org/web/20230128190224/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-05-19T22:53:16Z",
+        "uri": "https://web.archive.org/web/20230519225316/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-05-27T11:53:11Z",
+        "uri": "https://web.archive.org/web/20230527115311/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-09-23T13:54:13Z",
+        "uri": "https://web.archive.org/web/20230923135413/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-12-15T06:19:39Z",
+        "uri": "https://web.archive.org/web/20231215061939/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-12-15T06:20:57Z",
+        "uri": "https://web.archive.org/web/20231215062057/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-12-15T10:35:08Z",
+        "uri": "https://web.archive.org/web/20231215103508/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2023-12-15T17:15:27Z",
+        "uri": "https://web.archive.org/web/20231215171527/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-02-25T04:44:34Z",
+        "uri": "https://web.archive.org/web/20240225044434/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-03-04T01:30:01Z",
+        "uri": "https://web.archive.org/web/20240304013001/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-05-21T02:28:49Z",
+        "uri": "https://web.archive.org/web/20240521022849/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-09-26T22:22:40Z",
+        "uri": "https://web.archive.org/web/20240926222240/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-10-06T12:25:36Z",
+        "uri": "https://web.archive.org/web/20241006122536/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-10-06T15:13:04Z",
+        "uri": "https://web.archive.org/web/20241006151304/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-12-02T08:54:41Z",
+        "uri": "https://web.archive.org/web/20241202085441/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      },
+      {
+        "datetime": "2024-12-02T15:32:44Z",
+        "uri": "https://web.archive.org/web/20241202153244/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      }
+    ],
+    "first": {
+      "datetime": "2016-05-19T00:38:56Z",
+      "uri": "https://web.archive.org/web/20160519003856/http://dblp.uni-trier.de:80/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    },
+    "last": {
+      "datetime": "2024-12-02T15:32:44Z",
+      "uri": "https://web.archive.org/web/20241202153244/https://dblp.uni-trier.de/search?q=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/search?q=author:Hannah_Bast:+autoc|compl|ester"
+}

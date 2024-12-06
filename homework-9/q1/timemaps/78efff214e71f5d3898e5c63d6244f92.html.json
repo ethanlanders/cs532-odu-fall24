@@ -1,0 +1,122 @@
+{
+  "original_uri": "https://accessibility2024.arxiv.org/schedule",
+  "self": "http://localhost:1208/timemap/json/https://accessibility2024.arxiv.org/schedule",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-23T22:10:59Z",
+        "uri": "https://web.archive.org/web/20240723221059/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-07-26T15:16:58Z",
+        "uri": "https://web.archive.org/web/20240726151658/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-07-27T05:30:21Z",
+        "uri": "https://web.archive.org/web/20240727053021/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-07-28T08:19:01Z",
+        "uri": "https://web.archive.org/web/20240728081901/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-06T11:51:15Z",
+        "uri": "https://web.archive.org/web/20240806115115/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-07T07:40:21Z",
+        "uri": "https://web.archive.org/web/20240807074021/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-07T08:14:02Z",
+        "uri": "https://web.archive.org/web/20240807081402/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-09T15:45:52Z",
+        "uri": "https://web.archive.org/web/20240809154552/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-10T12:13:28Z",
+        "uri": "https://web.archive.org/web/20240810121328/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-14T04:08:49Z",
+        "uri": "https://web.archive.org/web/20240814040849/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-17T12:42:01Z",
+        "uri": "https://web.archive.org/web/20240817124201/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-08-22T09:31:53Z",
+        "uri": "https://web.archive.org/web/20240822093153/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-02T23:33:53Z",
+        "uri": "https://web.archive.org/web/20240902233353/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-04T04:02:49Z",
+        "uri": "https://web.archive.org/web/20240904040249/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-05T12:15:43Z",
+        "uri": "http://archive.md/20240905121543/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-11T05:02:00Z",
+        "uri": "https://web.archive.org/web/20240911050200/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-12T03:35:33Z",
+        "uri": "https://web.archive.org/web/20240912033533/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-15T18:09:30Z",
+        "uri": "https://web.archive.org/web/20240915180930/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-17T11:32:47Z",
+        "uri": "https://web.archive.org/web/20240917113247/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-19T07:12:19Z",
+        "uri": "https://web.archive.org/web/20240919071219/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-21T11:29:32Z",
+        "uri": "https://web.archive.org/web/20240921112932/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-22T13:40:21Z",
+        "uri": "https://web.archive.org/web/20240922134021/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-24T05:26:52Z",
+        "uri": "https://web.archive.org/web/20240924052652/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-09-25T21:14:22Z",
+        "uri": "https://web.archive.org/web/20240925211422/https://accessibility2024.arxiv.org/schedule"
+      },
+      {
+        "datetime": "2024-10-09T12:36:35Z",
+        "uri": "https://web.archive.org/web/20241009123635/https://accessibility2024.arxiv.org/schedule"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-23T22:10:59Z",
+      "uri": "https://web.archive.org/web/20240723221059/https://accessibility2024.arxiv.org/schedule"
+    },
+    "last": {
+      "datetime": "2024-10-09T12:36:35Z",
+      "uri": "https://web.archive.org/web/20241009123635/https://accessibility2024.arxiv.org/schedule"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://accessibility2024.arxiv.org/schedule",
+    "json_format": "http://localhost:1208/timemap/json/https://accessibility2024.arxiv.org/schedule",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://accessibility2024.arxiv.org/schedule"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://accessibility2024.arxiv.org/schedule"
+}

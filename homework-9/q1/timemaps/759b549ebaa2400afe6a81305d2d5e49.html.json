@@ -1,0 +1,1174 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/about/team.html",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/team.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-01-20T02:32:30Z",
+        "uri": "https://web.archive.org/web/20120120023230/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-21T01:35:08Z",
+        "uri": "https://web.archive.org/web/20120121013508/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-21T11:55:25Z",
+        "uri": "https://web.archive.org/web/20120121115525/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-21T13:08:54Z",
+        "uri": "https://web.archive.org/web/20120121130854/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-22T10:29:05Z",
+        "uri": "https://web.archive.org/web/20120122102905/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-23T06:40:29Z",
+        "uri": "https://web.archive.org/web/20120123064029/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-24T00:01:41Z",
+        "uri": "https://web.archive.org/web/20120124000141/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-24T10:51:15Z",
+        "uri": "https://web.archive.org/web/20120124105115/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-25T17:42:36Z",
+        "uri": "https://web.archive.org/web/20120125174236/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-01-26T03:56:43Z",
+        "uri": "https://web.archive.org/web/20120126035643/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-02-18T02:50:10Z",
+        "uri": "https://web.archive.org/web/20120218025010/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-03-19T17:18:57Z",
+        "uri": "https://web.archive.org/web/20120319171857/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-04-30T00:40:01Z",
+        "uri": "https://web.archive.org/web/20120430004001/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-05-15T15:46:31Z",
+        "uri": "https://web.archive.org/web/20120515154631/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-05-16T00:37:04Z",
+        "uri": "https://web.archive.org/web/20120516003704/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-07-18T17:15:21Z",
+        "uri": "https://web.archive.org/web/20120718171521/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-08-18T05:04:55Z",
+        "uri": "https://web.archive.org/web/20120818050455/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-09-24T00:34:06Z",
+        "uri": "https://web.archive.org/web/20120924003406/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-10-10T06:23:40Z",
+        "uri": "https://web.archive.org/web/20121010062340/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2012-10-12T15:19:35Z",
+        "uri": "https://web.archive.org/web/20121012151935/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-10-14T17:02:42Z",
+        "uri": "https://web.archive.org/web/20121014170242/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-10-20T16:25:12Z",
+        "uri": "https://web.archive.org/web/20121020162512/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2012-11-09T18:00:37Z",
+        "uri": "https://web.archive.org/web/20121109180037/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2013-01-15T03:51:09Z",
+        "uri": "https://web.archive.org/web/20130115035109/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2013-01-19T09:41:33Z",
+        "uri": "https://web.archive.org/web/20130119094133/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2013-04-21T01:12:54Z",
+        "uri": "https://web.archive.org/web/20130421011254/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2013-05-16T03:58:06Z",
+        "uri": "https://web.archive.org/web/20130516035806/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2013-08-22T09:09:20Z",
+        "uri": "https://web.archive.org/web/20130822090920/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2013-10-03T17:26:59Z",
+        "uri": "https://web.archive.org/web/20131003172659/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2013-11-04T01:03:26Z",
+        "uri": "https://web.archive.org/web/20131104010326/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2013-12-05T05:53:01Z",
+        "uri": "https://web.archive.org/web/20131205055301/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2013-12-25T05:46:25Z",
+        "uri": "https://web.archive.org/web/20131225054625/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2014-01-05T07:22:29Z",
+        "uri": "https://web.archive.org/web/20140105072229/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-02-05T08:53:32Z",
+        "uri": "https://web.archive.org/web/20140205085332/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-02-06T09:58:55Z",
+        "uri": "https://web.archive.org/web/20140206095855/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-03-17T23:43:41Z",
+        "uri": "https://web.archive.org/web/20140317234341/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-04-18T12:09:07Z",
+        "uri": "https://web.archive.org/web/20140418120907/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-05-19T08:46:28Z",
+        "uri": "https://web.archive.org/web/20140519084628/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-06-18T23:47:11Z",
+        "uri": "https://web.archive.org/web/20140618234711/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-07-05T17:40:48Z",
+        "uri": "https://web.archive.org/web/20140705174048/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2014-07-20T22:24:52Z",
+        "uri": "https://web.archive.org/web/20140720222452/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2014-10-08T13:50:56Z",
+        "uri": "https://web.archive.org/web/20141008135056/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-02-08T03:11:07Z",
+        "uri": "https://web.archive.org/web/20150208031107/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-02-21T04:48:13Z",
+        "uri": "https://web.archive.org/web/20150221044813/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-03-10T13:34:56Z",
+        "uri": "https://web.archive.org/web/20150310133456/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-03-16T23:09:31Z",
+        "uri": "https://web.archive.org/web/20150316230931/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-03-17T18:12:04Z",
+        "uri": "https://web.archive.org/web/20150317181204/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-04-02T23:01:27Z",
+        "uri": "https://wayback.archive-it.org/all/20150402230127/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-04-02T23:01:27Z",
+        "uri": "https://web.archive.org/web/20150402230127/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-04-17T15:17:30Z",
+        "uri": "https://web.archive.org/web/20150417151730/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-05-18T12:07:57Z",
+        "uri": "https://web.archive.org/web/20150518120757/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-06-18T04:44:12Z",
+        "uri": "https://web.archive.org/web/20150618044412/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-06-29T04:53:30Z",
+        "uri": "https://web.archive.org/web/20150629045330/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-07-02T23:22:03Z",
+        "uri": "https://wayback.archive-it.org/all/20150702232203/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-07-02T23:22:03Z",
+        "uri": "https://web.archive.org/web/20150702232203/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-07-19T13:24:33Z",
+        "uri": "https://web.archive.org/web/20150719132433/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-08-01T20:45:44Z",
+        "uri": "https://web.archive.org/web/20150801204544/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-08-30T16:06:31Z",
+        "uri": "https://web.archive.org/web/20150830160631/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-09-02T08:03:12Z",
+        "uri": "https://web.archive.org/web/20150902080312/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-09-05T17:59:07Z",
+        "uri": "https://web.archive.org/web/20150905175907/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-10-02T19:47:37Z",
+        "uri": "https://wayback.archive-it.org/all/20151002194737/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-10-02T19:47:37Z",
+        "uri": "https://web.archive.org/web/20151002194737/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2015-11-24T03:27:42Z",
+        "uri": "https://web.archive.org/web/20151124032742/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2015-12-24T17:33:19Z",
+        "uri": "https://web.archive.org/web/20151224173319/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-01-02T20:04:59Z",
+        "uri": "https://wayback.archive-it.org/all/20160102200459/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-01-02T20:04:59Z",
+        "uri": "https://web.archive.org/web/20160102200459/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-01-24T16:03:12Z",
+        "uri": "https://web.archive.org/web/20160124160312/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-02-24T16:45:39Z",
+        "uri": "https://web.archive.org/web/20160224164539/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-02-25T17:30:30Z",
+        "uri": "https://web.archive.org/web/20160225173030/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-03-05T02:39:12Z",
+        "uri": "https://web.archive.org/web/20160305023912/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-03-19T19:13:08Z",
+        "uri": "https://web.archive.org/web/20160319191308/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-03-24T09:24:22Z",
+        "uri": "https://web.archive.org/web/20160324092422/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-03-29T09:03:34Z",
+        "uri": "https://web.archive.org/web/20160329090334/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-01T04:32:22Z",
+        "uri": "https://web.archive.org/web/20160401043222/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-04T23:03:45Z",
+        "uri": "https://wayback.archive-it.org/all/20160404230345/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-04T23:03:45Z",
+        "uri": "https://web.archive.org/web/20160404230345/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-16T10:27:44Z",
+        "uri": "https://web.archive.org/web/20160416102744/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-16T10:41:25Z",
+        "uri": "https://web.archive.org/web/20160416104125/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-16T21:10:27Z",
+        "uri": "https://web.archive.org/web/20160416211027/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-04-16T21:15:59Z",
+        "uri": "https://web.archive.org/web/20160416211559/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-05-03T14:16:24Z",
+        "uri": "https://web.archive.org/web/20160503141624/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-05-13T14:27:59Z",
+        "uri": "https://arquivo.pt/wayback/20160513142759mp_/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-06-03T21:29:39Z",
+        "uri": "https://web.archive.org/web/20160603212939/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-06-21T11:31:14Z",
+        "uri": "https://web.archive.org/web/20160621113114/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-07-02T20:02:32Z",
+        "uri": "https://wayback.archive-it.org/all/20160702200232/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-07-02T20:02:32Z",
+        "uri": "https://web.archive.org/web/20160702200232/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-07-22T13:16:25Z",
+        "uri": "https://web.archive.org/web/20160722131625/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-07-24T00:47:53Z",
+        "uri": "https://web.archive.org/web/20160724004753/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-08-23T23:49:22Z",
+        "uri": "https://web.archive.org/web/20160823234922/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-09-24T08:47:13Z",
+        "uri": "https://web.archive.org/web/20160924084713/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-10-02T20:25:05Z",
+        "uri": "https://wayback.archive-it.org/all/20161002202505/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-10-02T20:25:05Z",
+        "uri": "https://web.archive.org/web/20161002202505/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-10-25T09:43:49Z",
+        "uri": "https://web.archive.org/web/20161025094349/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-10-27T05:56:53Z",
+        "uri": "https://web.archive.org/web/20161027055653/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-11-13T16:53:13Z",
+        "uri": "https://web.archive.org/web/20161113165313/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-11-18T16:40:39Z",
+        "uri": "https://web.archive.org/web/20161118164039/http://dblp.uni-trier.de//db/about/team.html"
+      },
+      {
+        "datetime": "2016-11-19T12:53:18Z",
+        "uri": "https://web.archive.org/web/20161119125318/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2016-11-25T21:25:35Z",
+        "uri": "https://web.archive.org/web/20161125212535/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2016-12-27T19:35:32Z",
+        "uri": "https://web.archive.org/web/20161227193532/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-01-02T22:09:43Z",
+        "uri": "https://wayback.archive-it.org/all/20170102220943/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-01-02T22:09:43Z",
+        "uri": "https://web.archive.org/web/20170102220943/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-02-20T19:45:02Z",
+        "uri": "https://web.archive.org/web/20170220194502/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-04-02T22:46:23Z",
+        "uri": "https://wayback.archive-it.org/all/20170402224623/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-04-02T22:46:23Z",
+        "uri": "https://web.archive.org/web/20170402224623/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-05-02T07:34:37Z",
+        "uri": "https://web.archive.org/web/20170502073437/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-05-28T23:45:55Z",
+        "uri": "https://web.archive.org/web/20170528234555/http://dblp.uni-trier.de:80/db/about/team.html?"
+      },
+      {
+        "datetime": "2017-06-02T15:49:16Z",
+        "uri": "https://web.archive.org/web/20170602154916/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-06-03T23:56:40Z",
+        "uri": "https://web.archive.org/web/20170603235640/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-06-11T08:02:29Z",
+        "uri": "https://web.archive.org/web/20170611080229/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-06-19T23:40:23Z",
+        "uri": "https://web.archive.org/web/20170619234023/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-06-24T18:14:26Z",
+        "uri": "https://web.archive.org/web/20170624181426/http://dblp.uni-trier.de//db/about/team.html"
+      },
+      {
+        "datetime": "2017-06-29T10:15:26Z",
+        "uri": "https://web.archive.org/web/20170629101526/http://dblp.uni-trier.de:80/db/about/team.html?"
+      },
+      {
+        "datetime": "2017-06-29T13:43:28Z",
+        "uri": "https://web.archive.org/web/20170629134328/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-07-02T21:36:55Z",
+        "uri": "https://wayback.archive-it.org/all/20170702213655/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-07-02T21:36:55Z",
+        "uri": "https://web.archive.org/web/20170702213655/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-07-03T23:59:40Z",
+        "uri": "https://web.archive.org/web/20170703235940/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-07-17T06:47:14Z",
+        "uri": "https://web.archive.org/web/20170717064714/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-08-17T23:33:28Z",
+        "uri": "https://web.archive.org/web/20170817233328/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-09-17T20:02:37Z",
+        "uri": "https://web.archive.org/web/20170917200237/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-09-23T18:31:51Z",
+        "uri": "https://web.archive.org/web/20170923183151/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-09-24T21:22:04Z",
+        "uri": "https://web.archive.org/web/20170924212204/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-09-24T22:12:01Z",
+        "uri": "https://web.archive.org/web/20170924221201/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-03T00:58:19Z",
+        "uri": "https://wayback.archive-it.org/all/20171003005819/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-03T00:58:19Z",
+        "uri": "https://web.archive.org/web/20171003005819/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-03T03:50:33Z",
+        "uri": "https://wayback.archive-it.org/all/20171003035033/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-03T03:50:33Z",
+        "uri": "https://web.archive.org/web/20171003035033/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-18T06:55:29Z",
+        "uri": "https://web.archive.org/web/20171018065529/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-10-20T03:13:59Z",
+        "uri": "https://web.archive.org/web/20171020031359/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-11-20T06:08:21Z",
+        "uri": "https://web.archive.org/web/20171120060821/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2017-12-21T01:35:32Z",
+        "uri": "https://web.archive.org/web/20171221013532/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-01-02T20:21:25Z",
+        "uri": "https://wayback.archive-it.org/all/20180102202125/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-01-02T20:21:25Z",
+        "uri": "https://web.archive.org/web/20180102202125/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-01-20T20:02:33Z",
+        "uri": "https://web.archive.org/web/20180120200233/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-02-20T17:04:41Z",
+        "uri": "https://web.archive.org/web/20180220170441/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-03-14T23:20:15Z",
+        "uri": "https://web.archive.org/web/20180314232015/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-03-23T21:00:17Z",
+        "uri": "https://web.archive.org/web/20180323210017/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-04-02T23:03:08Z",
+        "uri": "https://wayback.archive-it.org/all/20180402230308/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-04-02T23:03:08Z",
+        "uri": "https://web.archive.org/web/20180402230308/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-04-03T00:30:48Z",
+        "uri": "https://wayback.archive-it.org/all/20180403003048/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-04-03T00:30:48Z",
+        "uri": "https://web.archive.org/web/20180403003048/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-04-23T09:47:51Z",
+        "uri": "https://web.archive.org/web/20180423094751/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-05-25T02:59:31Z",
+        "uri": "https://web.archive.org/web/20180525025931/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-05-27T00:39:37Z",
+        "uri": "https://web.archive.org/web/20180527003937/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-03T00:03:45Z",
+        "uri": "https://wayback.archive-it.org/all/20180703000345/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-03T00:03:45Z",
+        "uri": "https://web.archive.org/web/20180703000345/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-03T01:32:14Z",
+        "uri": "https://wayback.archive-it.org/all/20180703013214/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-03T01:32:14Z",
+        "uri": "https://web.archive.org/web/20180703013214/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-11T18:24:17Z",
+        "uri": "https://web.archive.org/web/20180711182417/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-07-28T09:06:20Z",
+        "uri": "https://web.archive.org/web/20180728090620/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-08-12T13:48:23Z",
+        "uri": "https://web.archive.org/web/20180812134823/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-09-12T05:58:10Z",
+        "uri": "https://web.archive.org/web/20180912055810/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-10-03T01:43:33Z",
+        "uri": "https://wayback.archive-it.org/all/20181003014333/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-10-03T01:43:33Z",
+        "uri": "https://web.archive.org/web/20181003014333/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-10-03T06:00:13Z",
+        "uri": "https://web.archive.org/web/20181003060013/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-10-13T17:07:26Z",
+        "uri": "https://web.archive.org/web/20181013170726/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-11-14T05:57:42Z",
+        "uri": "https://web.archive.org/web/20181114055742/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2018-12-12T04:47:49Z",
+        "uri": "https://web.archive.org/web/20181212044749/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2018-12-15T00:38:03Z",
+        "uri": "https://web.archive.org/web/20181215003803/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-01-02T22:13:46Z",
+        "uri": "https://wayback.archive-it.org/all/20190102221346/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-01-02T22:13:46Z",
+        "uri": "https://web.archive.org/web/20190102221346/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-01-08T05:50:13Z",
+        "uri": "https://web.archive.org/web/20190108055013/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-01-15T17:43:52Z",
+        "uri": "https://web.archive.org/web/20190115174352/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-02-15T06:01:46Z",
+        "uri": "https://web.archive.org/web/20190215060146/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-03-18T01:09:16Z",
+        "uri": "https://web.archive.org/web/20190318010916/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-03-23T19:39:29Z",
+        "uri": "https://web.archive.org/web/20190323193929/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-04-02T21:16:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190402211608/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-04-02T21:16:08Z",
+        "uri": "https://web.archive.org/web/20190402211608/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-04-18T05:18:42Z",
+        "uri": "https://web.archive.org/web/20190418051842/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-05-03T21:59:53Z",
+        "uri": "https://web.archive.org/web/20190503215953/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-05-18T21:44:25Z",
+        "uri": "https://web.archive.org/web/20190518214425/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-06-19T13:57:41Z",
+        "uri": "https://web.archive.org/web/20190619135741/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-07-02T20:06:28Z",
+        "uri": "https://wayback.archive-it.org/all/20190702200628/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-07-02T20:06:28Z",
+        "uri": "https://web.archive.org/web/20190702200628/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-07-06T01:00:55Z",
+        "uri": "https://web.archive.org/web/20190706010055/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-07-20T06:53:27Z",
+        "uri": "https://web.archive.org/web/20190720065327/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-08-19T17:18:50Z",
+        "uri": "https://web.archive.org/web/20190819171850/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-09-20T05:54:35Z",
+        "uri": "https://web.archive.org/web/20190920055435/http://dblp.uni-trier.de:80/db/about/team.html"
+      },
+      {
+        "datetime": "2019-10-02T19:57:30Z",
+        "uri": "https://wayback.archive-it.org/all/20191002195730/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-10-02T19:57:30Z",
+        "uri": "https://web.archive.org/web/20191002195730/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-10-08T19:59:23Z",
+        "uri": "https://wayback.archive-it.org/all/20191008195923/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-10-08T19:59:23Z",
+        "uri": "https://web.archive.org/web/20191008195923/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2019-11-14T22:35:31Z",
+        "uri": "https://arquivo.pt/wayback/20191114223531mp_/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-01-02T20:46:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200102204623/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-01-02T20:46:23Z",
+        "uri": "https://web.archive.org/web/20200102204623/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-02-05T11:50:40Z",
+        "uri": "https://arquivo.pt/wayback/20200205115040mp_/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-03-12T15:47:22Z",
+        "uri": "https://arquivo.pt/wayback/20200312154722mp_/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-03-16T10:08:30Z",
+        "uri": "https://web.archive.org/web/20200316100830/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-04-14T18:34:07Z",
+        "uri": "https://web.archive.org/web/20200414183407/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-04-20T11:21:52Z",
+        "uri": "https://web.archive.org/web/20200420112152/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-04-22T08:24:44Z",
+        "uri": "https://web.archive.org/web/20200422082444/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-05-10T19:11:28Z",
+        "uri": "https://web.archive.org/web/20200510191128/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-05-24T13:53:29Z",
+        "uri": "https://web.archive.org/web/20200524135329/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-06-10T00:17:00Z",
+        "uri": "https://web.archive.org/web/20200610001700/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-06-15T16:22:54Z",
+        "uri": "https://web.archive.org/web/20200615162254/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-06-17T04:51:59Z",
+        "uri": "https://web.archive.org/web/20200617045159/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-06-18T08:48:04Z",
+        "uri": "https://web.archive.org/web/20200618084804/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-07-30T04:30:33Z",
+        "uri": "https://web.archive.org/web/20200730043033/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-08-01T00:36:52Z",
+        "uri": "https://web.archive.org/web/20200801003652/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-08-05T20:54:56Z",
+        "uri": "https://web.archive.org/web/20200805205456/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-09-18T01:29:51Z",
+        "uri": "https://web.archive.org/web/20200918012951/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-10-01T23:50:57Z",
+        "uri": "https://web.archive.org/web/20201001235057/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-10-04T04:26:50Z",
+        "uri": "https://wayback.archive-it.org/all/20201004042650/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-10-04T04:26:50Z",
+        "uri": "https://web.archive.org/web/20201004042650/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-10-13T17:10:43Z",
+        "uri": "https://web.archive.org/web/20201013171043/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2020-10-29T04:07:29Z",
+        "uri": "https://web.archive.org/web/20201029040729/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-01-03T11:54:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210103115454/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-01-03T11:54:54Z",
+        "uri": "https://web.archive.org/web/20210103115454/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-03-20T18:48:49Z",
+        "uri": "https://web.archive.org/web/20210320184849/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-04-03T22:18:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210403221847/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-04-03T22:18:47Z",
+        "uri": "https://web.archive.org/web/20210403221847/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-04-13T08:11:33Z",
+        "uri": "https://web.archive.org/web/20210413081133/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-04-24T20:42:29Z",
+        "uri": "https://web.archive.org/web/20210424204229/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-05-06T18:27:32Z",
+        "uri": "https://web.archive.org/web/20210506182732/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-05-11T09:02:02Z",
+        "uri": "https://web.archive.org/web/20210511090202/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-07-03T14:07:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210703140718/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-07-03T14:07:18Z",
+        "uri": "https://web.archive.org/web/20210703140718/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-08-11T22:03:20Z",
+        "uri": "https://web.archive.org/web/20210811220320/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-08-14T03:40:12Z",
+        "uri": "https://web.archive.org/web/20210814034012/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-09-04T07:49:06Z",
+        "uri": "https://web.archive.org/web/20210904074906/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-09-19T17:15:33Z",
+        "uri": "https://arquivo.pt/wayback/20210919171533mp_/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-10-04T08:53:54Z",
+        "uri": "https://wayback.archive-it.org/all/20211004085354/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-10-04T08:53:54Z",
+        "uri": "https://web.archive.org/web/20211004085354/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-10-24T14:31:20Z",
+        "uri": "https://web.archive.org/web/20211024143120/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-11-01T06:12:35Z",
+        "uri": "https://web.archive.org/web/20211101061235/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2021-12-03T14:22:10Z",
+        "uri": "https://web.archive.org/web/20211203142210/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-01-03T14:31:11Z",
+        "uri": "https://wayback.archive-it.org/all/20220103143111/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-01-03T14:31:11Z",
+        "uri": "https://web.archive.org/web/20220103143111/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-01-04T23:29:23Z",
+        "uri": "https://web.archive.org/web/20220104232923/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-02-13T09:14:06Z",
+        "uri": "https://web.archive.org/web/20220213091406/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-02-13T10:33:02Z",
+        "uri": "https://web.archive.org/web/20220213103302/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-03-15T07:16:22Z",
+        "uri": "https://web.archive.org/web/20220315071622/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-04-01T04:10:51Z",
+        "uri": "https://web.archive.org/web/20220401041051/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-04-04T09:17:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220404091716/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-04-04T09:17:16Z",
+        "uri": "https://web.archive.org/web/20220404091716/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-04-08T03:27:11Z",
+        "uri": "https://web.archive.org/web/20220408032711/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-06-18T03:28:49Z",
+        "uri": "https://web.archive.org/web/20220618032849/http://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-06-18T03:30:33Z",
+        "uri": "https://web.archive.org/web/20220618033033/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-07-05T10:34:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220705103448/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-07-05T10:34:48Z",
+        "uri": "https://web.archive.org/web/20220705103448/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-09-26T01:18:53Z",
+        "uri": "https://web.archive.org/web/20220926011853/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-10-04T12:06:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221004120621/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-10-04T12:06:21Z",
+        "uri": "https://web.archive.org/web/20221004120621/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-10-06T23:52:35Z",
+        "uri": "https://web.archive.org/web/20221006235235/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2022-11-14T23:22:11Z",
+        "uri": "https://web.archive.org/web/20221114232211/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-01-05T15:40:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230105154012/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-01-05T15:40:12Z",
+        "uri": "https://web.archive.org/web/20230105154012/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-01-28T03:33:04Z",
+        "uri": "https://web.archive.org/web/20230128033304/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-01-28T19:06:03Z",
+        "uri": "https://web.archive.org/web/20230128190603/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-02-28T05:37:57Z",
+        "uri": "https://web.archive.org/web/20230228053757/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-03-06T09:58:00Z",
+        "uri": "https://web.archive.org/web/20230306095800/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-03-14T18:14:44Z",
+        "uri": "https://web.archive.org/web/20230314181444/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-04-02T05:37:49Z",
+        "uri": "https://web.archive.org/web/20230402053749/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-04-03T15:10:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230403151026/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-04-03T15:10:26Z",
+        "uri": "https://web.archive.org/web/20230403151026/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-05-01T14:49:47Z",
+        "uri": "https://web.archive.org/web/20230501144947/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-05-17T04:15:56Z",
+        "uri": "https://web.archive.org/web/20230517041556/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-06-01T04:59:56Z",
+        "uri": "https://web.archive.org/web/20230601045956/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-07-01T07:06:10Z",
+        "uri": "https://web.archive.org/web/20230701070610/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-07-04T14:48:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230704144816/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-07-04T14:48:16Z",
+        "uri": "https://web.archive.org/web/20230704144816/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-07-06T13:04:08Z",
+        "uri": "https://web.archive.org/web/20230706130408/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-08-10T14:48:17Z",
+        "uri": "https://web.archive.org/web/20230810144817/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-09-22T22:00:53Z",
+        "uri": "https://web.archive.org/web/20230922220053/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-10-04T21:29:36Z",
+        "uri": "https://wayback.archive-it.org/all/20231004212936/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-10-21T09:14:25Z",
+        "uri": "https://web.archive.org/web/20231021091425/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-11-01T00:41:22Z",
+        "uri": "https://web.archive.org/web/20231101004122/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-12-01T01:00:31Z",
+        "uri": "https://web.archive.org/web/20231201010031/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-12-08T16:47:48Z",
+        "uri": "https://web.archive.org/web/20231208164748/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-12-15T02:38:29Z",
+        "uri": "https://web.archive.org/web/20231215023829/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-12-15T17:06:07Z",
+        "uri": "https://web.archive.org/web/20231215170607/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2023-12-23T17:43:22Z",
+        "uri": "https://web.archive.org/web/20231223174322/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-01-01T04:35:13Z",
+        "uri": "https://web.archive.org/web/20240101043513/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-01-02T09:26:08Z",
+        "uri": "https://web.archive.org/web/20240102092608/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-01-05T06:30:06Z",
+        "uri": "https://web.archive.org/web/20240105063006/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-01-23T05:13:19Z",
+        "uri": "https://web.archive.org/web/20240123051319/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-02-02T06:50:27Z",
+        "uri": "https://web.archive.org/web/20240202065027/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-02-25T04:47:36Z",
+        "uri": "https://web.archive.org/web/20240225044736/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-03-03T14:17:27Z",
+        "uri": "https://web.archive.org/web/20240303141727/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-03-27T12:31:58Z",
+        "uri": "https://web.archive.org/web/20240327123158/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-04-01T23:20:23Z",
+        "uri": "https://web.archive.org/web/20240401232023/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-05-01T08:39:14Z",
+        "uri": "https://web.archive.org/web/20240501083914/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-05-21T02:20:29Z",
+        "uri": "https://web.archive.org/web/20240521022029/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-06-01T00:13:31Z",
+        "uri": "https://web.archive.org/web/20240601001331/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-08-04T00:40:11Z",
+        "uri": "https://web.archive.org/web/20240804004011/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-09-15T20:22:40Z",
+        "uri": "https://web.archive.org/web/20240915202240/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-10-01T20:01:00Z",
+        "uri": "https://web.archive.org/web/20241001200100/https://dblp.uni-trier.de/db/about/team.html"
+      },
+      {
+        "datetime": "2024-10-06T12:24:32Z",
+        "uri": "https://web.archive.org/web/20241006122432/https://dblp.uni-trier.de/db/about/team.html"
+      }
+    ],
+    "first": {
+      "datetime": "2012-01-20T02:32:30Z",
+      "uri": "https://web.archive.org/web/20120120023230/http://dblp.uni-trier.de/db/about/team.html"
+    },
+    "last": {
+      "datetime": "2024-10-06T12:24:32Z",
+      "uri": "https://web.archive.org/web/20241006122432/https://dblp.uni-trier.de/db/about/team.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/about/team.html",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/team.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/about/team.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/about/team.html"
+}

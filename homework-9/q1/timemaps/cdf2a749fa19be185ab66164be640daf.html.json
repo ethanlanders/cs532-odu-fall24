@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pers?prefix=M",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=M",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-10-03T00:07:19Z",
+        "uri": "https://wayback.archive-it.org/all/20171003000719/http://dblp.uni-trier.de/pers?prefix=M"
+      },
+      {
+        "datetime": "2019-11-14T22:22:20Z",
+        "uri": "https://arquivo.pt/wayback/20191114222220mp_/https://dblp.uni-trier.de/pers?prefix=M"
+      },
+      {
+        "datetime": "2020-02-25T17:33:38Z",
+        "uri": "https://arquivo.pt/wayback/20200225173338mp_/https://dblp.uni-trier.de/pers/?prefix=M"
+      },
+      {
+        "datetime": "2020-03-12T15:30:29Z",
+        "uri": "https://arquivo.pt/wayback/20200312153029mp_/https://dblp.uni-trier.de/pers?prefix=M"
+      },
+      {
+        "datetime": "2021-09-19T17:03:51Z",
+        "uri": "https://arquivo.pt/wayback/20210919170351mp_/https://dblp.uni-trier.de/pers?prefix=M"
+      }
+    ],
+    "first": {
+      "datetime": "2017-10-03T00:07:19Z",
+      "uri": "https://wayback.archive-it.org/all/20171003000719/http://dblp.uni-trier.de/pers?prefix=M"
+    },
+    "last": {
+      "datetime": "2021-09-19T17:03:51Z",
+      "uri": "https://arquivo.pt/wayback/20210919170351mp_/https://dblp.uni-trier.de/pers?prefix=M"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pers?prefix=M",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=M",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pers?prefix=M"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pers?prefix=M"
+}

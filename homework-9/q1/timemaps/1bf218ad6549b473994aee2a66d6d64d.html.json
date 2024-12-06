@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://weiglemc.github.io/publications/2003",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2003",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-19T11:29:01Z",
+        "uri": "https://web.archive.org/web/20240919112901/https://weiglemc.github.io/publications/2003"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-19T11:29:01Z",
+      "uri": "https://web.archive.org/web/20240919112901/https://weiglemc.github.io/publications/2003"
+    },
+    "last": {
+      "datetime": "2024-09-19T11:29:01Z",
+      "uri": "https://web.archive.org/web/20240919112901/https://weiglemc.github.io/publications/2003"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/2003",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2003",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/2003"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/2003"
+}

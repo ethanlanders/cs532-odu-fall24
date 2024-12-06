@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-04T07:26:54Z",
+        "uri": "https://web.archive.org/web/20221004072654/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+      },
+      {
+        "datetime": "2024-04-15T19:30:13Z",
+        "uri": "https://web.archive.org/web/20240415193013/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-04T07:26:54Z",
+      "uri": "https://web.archive.org/web/20221004072654/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+    },
+    "last": {
+      "datetime": "2024-04-15T19:30:13Z",
+      "uri": "https://web.archive.org/web/20240415193013/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=Efficient+SPARQL+Autocompletion+via+SPARQL."
+}

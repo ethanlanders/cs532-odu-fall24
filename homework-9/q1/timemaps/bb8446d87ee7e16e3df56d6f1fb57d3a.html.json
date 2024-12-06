@@ -1,0 +1,654 @@
+{
+  "original_uri": "https://www.odu.edu/recwell",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/recwell",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-01-19T03:04:40Z",
+        "uri": "https://web.archive.org/web/20160119030440/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-02-18T19:16:43Z",
+        "uri": "https://web.archive.org/web/20160218191643/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-03-20T21:15:42Z",
+        "uri": "https://web.archive.org/web/20160320211542/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-04-24T10:02:36Z",
+        "uri": "https://web.archive.org/web/20160424100236/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-05-26T01:37:48Z",
+        "uri": "https://web.archive.org/web/20160526013748/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-06-27T04:37:43Z",
+        "uri": "https://web.archive.org/web/20160627043743/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-07-28T10:11:48Z",
+        "uri": "https://web.archive.org/web/20160728101148/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-08-28T19:26:18Z",
+        "uri": "https://web.archive.org/web/20160828192618/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-09-29T04:09:25Z",
+        "uri": "https://web.archive.org/web/20160929040925/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2016-10-30T16:35:07Z",
+        "uri": "https://web.archive.org/web/20161030163507/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2017-02-12T07:07:18Z",
+        "uri": "https://web.archive.org/web/20170212070718/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2017-05-21T05:41:20Z",
+        "uri": "https://web.archive.org/web/20170521054120/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2017-06-14T03:54:23Z",
+        "uri": "https://web.archive.org/web/20170614035423/http://odu.edu/recwell"
+      },
+      {
+        "datetime": "2017-07-13T10:11:37Z",
+        "uri": "https://web.archive.org/web/20170713101137/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2017-07-27T00:52:43Z",
+        "uri": "https://web.archive.org/web/20170727005243/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2017-07-29T11:14:55Z",
+        "uri": "https://web.archive.org/web/20170729111455/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2017-10-19T03:16:03Z",
+        "uri": "https://web.archive.org/web/20171019031603/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2017-10-27T00:38:19Z",
+        "uri": "https://web.archive.org/web/20171027003819/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2018-02-28T15:40:32Z",
+        "uri": "https://web.archive.org/web/20180228154032/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2018-05-02T18:22:09Z",
+        "uri": "https://web.archive.org/web/20180502182209/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2018-07-04T16:13:40Z",
+        "uri": "https://web.archive.org/web/20180704161340/http://www.odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2019-10-08T00:28:45Z",
+        "uri": "https://web.archive.org/web/20191008002845/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2019-10-08T00:28:46Z",
+        "uri": "https://web.archive.org/web/20191008002846/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2019-10-08T04:52:46Z",
+        "uri": "https://web.archive.org/web/20191008045246/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2019-10-08T04:52:52Z",
+        "uri": "https://web.archive.org/web/20191008045252/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2019-11-07T13:10:54Z",
+        "uri": "https://web.archive.org/web/20191107131054/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2020-01-10T12:21:05Z",
+        "uri": "https://web.archive.org/web/20200110122105/http://odu.edu:80/recwell"
+      },
+      {
+        "datetime": "2020-07-12T11:20:24Z",
+        "uri": "https://web.archive.org/web/20200712112024/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-07-12T11:23:01Z",
+        "uri": "https://web.archive.org/web/20200712112301/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-10-05T00:53:31Z",
+        "uri": "https://web.archive.org/web/20201005005331/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-01T08:07:12Z",
+        "uri": "https://web.archive.org/web/20201101080712/http://odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-01T08:07:13Z",
+        "uri": "https://web.archive.org/web/20201101080713/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:18:36Z",
+        "uri": "https://web.archive.org/web/20201105231836/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:18:36Z",
+        "uri": "https://web.archive.org/web/20201105231836/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:21:01Z",
+        "uri": "https://web.archive.org/web/20201105232101/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:21:02Z",
+        "uri": "https://web.archive.org/web/20201105232102/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:21:15Z",
+        "uri": "https://web.archive.org/web/20201105232115/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:21:15Z",
+        "uri": "https://web.archive.org/web/20201105232115/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:51:03Z",
+        "uri": "https://web.archive.org/web/20201105235103/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-05T23:51:03Z",
+        "uri": "https://web.archive.org/web/20201105235103/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-06T23:08:36Z",
+        "uri": "https://web.archive.org/web/20201106230836/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2020-11-21T01:32:01Z",
+        "uri": "https://web.archive.org/web/20201121013201/http://odu.edu/RECWELL"
+      },
+      {
+        "datetime": "2020-11-21T01:32:02Z",
+        "uri": "https://web.archive.org/web/20201121013202/https://odu.edu/RECWELL"
+      },
+      {
+        "datetime": "2021-01-01T18:33:50Z",
+        "uri": "https://web.archive.org/web/20210101183350/http://odu.edu/RecWell"
+      },
+      {
+        "datetime": "2021-01-01T18:33:51Z",
+        "uri": "https://web.archive.org/web/20210101183351/https://odu.edu/RecWell"
+      },
+      {
+        "datetime": "2021-01-01T18:35:40Z",
+        "uri": "https://web.archive.org/web/20210101183540/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-01-01T18:35:41Z",
+        "uri": "https://web.archive.org/web/20210101183541/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-02-01T19:00:34Z",
+        "uri": "https://web.archive.org/web/20210201190034/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-04-15T04:06:15Z",
+        "uri": "https://web.archive.org/web/20210415040615/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-04-15T08:40:25Z",
+        "uri": "https://web.archive.org/web/20210415084025/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-04-19T01:42:22Z",
+        "uri": "https://web.archive.org/web/20210419014222/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:05Z",
+        "uri": "https://wayback.archive-it.org/all/20210526212505/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:05Z",
+        "uri": "https://web.archive.org/web/20210526212505/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210526212511/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:11Z",
+        "uri": "https://web.archive.org/web/20210526212511/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:16Z",
+        "uri": "https://wayback.archive-it.org/all/20210526212516/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-05-26T21:25:16Z",
+        "uri": "https://web.archive.org/web/20210526212516/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-08-12T06:39:32Z",
+        "uri": "https://web.archive.org/web/20210812063932/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-09-02T08:20:27Z",
+        "uri": "https://web.archive.org/web/20210902082027/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-09-02T08:20:28Z",
+        "uri": "https://web.archive.org/web/20210902082028/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-09-04T14:06:56Z",
+        "uri": "https://web.archive.org/web/20210904140656/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-09-04T14:06:57Z",
+        "uri": "https://web.archive.org/web/20210904140657/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-11-03T14:20:47Z",
+        "uri": "https://arquivo.pt/wayback/20211103142047mp_/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-11-03T14:20:47Z",
+        "uri": "https://web.archive.org/web/20211103142047/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-11-03T14:20:52Z",
+        "uri": "https://arquivo.pt/wayback/20211103142052mp_/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2021-11-03T14:20:52Z",
+        "uri": "https://web.archive.org/web/20211103142052/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-01-20T10:01:37Z",
+        "uri": "https://web.archive.org/web/20220120100137/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-01-20T10:01:38Z",
+        "uri": "https://web.archive.org/web/20220120100138/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-01-20T17:05:10Z",
+        "uri": "https://web.archive.org/web/20220120170510/http://odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-01-20T17:05:11Z",
+        "uri": "https://web.archive.org/web/20220120170511/https://odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-02-01T23:07:47Z",
+        "uri": "https://web.archive.org/web/20220201230747/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-08T20:48:41Z",
+        "uri": "https://web.archive.org/web/20220308204841/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-08T20:50:30Z",
+        "uri": "https://web.archive.org/web/20220308205030/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-08T20:51:13Z",
+        "uri": "https://web.archive.org/web/20220308205113/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-08T20:57:04Z",
+        "uri": "https://web.archive.org/web/20220308205704/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-19T20:16:14Z",
+        "uri": "https://web.archive.org/web/20220319201614/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-19T21:50:25Z",
+        "uri": "https://web.archive.org/web/20220319215025/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-19T21:50:25Z",
+        "uri": "https://web.archive.org/web/20220319215025/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-03-19T22:50:05Z",
+        "uri": "https://web.archive.org/web/20220319225005/https://odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-03-19T22:50:05Z",
+        "uri": "https://web.archive.org/web/20220319225005/http://odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-05-07T21:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20220507213005mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-05-10T17:10:53Z",
+        "uri": "https://web.archive.org/web/20220510171053/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-05-16T03:42:35Z",
+        "uri": "https://arquivo.pt/wayback/20220516034235mp_/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-07-08T04:46:45Z",
+        "uri": "https://web.archive.org/web/20220708044645/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-07-08T21:47:55Z",
+        "uri": "https://web.archive.org/web/20220708214755/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-07-08T23:59:27Z",
+        "uri": "https://web.archive.org/web/20220708235927/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-07-09T18:19:06Z",
+        "uri": "https://web.archive.org/web/20220709181906/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-07-12T13:37:05Z",
+        "uri": "https://web.archive.org/web/20220712133705/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-07T18:57:33Z",
+        "uri": "https://web.archive.org/web/20220807185733/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:23:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220810222323/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:23:23Z",
+        "uri": "https://web.archive.org/web/20220810222323/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:23:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220810222342/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:23:42Z",
+        "uri": "https://web.archive.org/web/20220810222342/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:24:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810222406/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-10T22:24:06Z",
+        "uri": "https://web.archive.org/web/20220810222406/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-14T09:01:26Z",
+        "uri": "https://web.archive.org/web/20220814090126/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-08-18T07:23:46Z",
+        "uri": "https://arquivo.pt/wayback/20220818072346mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-09-27T14:02:59Z",
+        "uri": "https://web.archive.org/web/20220927140259/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-10-31T11:22:01Z",
+        "uri": "https://web.archive.org/web/20221031112201/https://odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-10-31T11:22:55Z",
+        "uri": "https://web.archive.org/web/20221031112255/https://www.odu.edu/recwell/"
+      },
+      {
+        "datetime": "2022-11-07T06:00:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060026/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-07T06:00:26Z",
+        "uri": "https://web.archive.org/web/20221107060026/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-07T16:24:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221107162430/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-07T16:24:30Z",
+        "uri": "https://web.archive.org/web/20221107162430/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-13T04:18:03Z",
+        "uri": "https://web.archive.org/web/20221113041803/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-15T01:39:16Z",
+        "uri": "https://web.archive.org/web/20221115013916/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-11-16T03:55:29Z",
+        "uri": "https://arquivo.pt/wayback/20221116035529mp_/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-12-07T11:21:32Z",
+        "uri": "https://wayback.archive-it.org/all/20221207112132/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-12-07T11:21:32Z",
+        "uri": "https://web.archive.org/web/20221207112132/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-12-08T05:52:07Z",
+        "uri": "https://web.archive.org/web/20221208055207/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-12-10T11:55:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221210115548/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2022-12-10T11:55:48Z",
+        "uri": "https://web.archive.org/web/20221210115548/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-07T10:25:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230107102540/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-07T10:25:40Z",
+        "uri": "https://web.archive.org/web/20230107102540/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-09T10:08:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230109100814/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-09T10:08:14Z",
+        "uri": "https://web.archive.org/web/20230109100814/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-01-24T20:15:11Z",
+        "uri": "https://arquivo.pt/wayback/20230124201511mp_/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-04T09:12:06Z",
+        "uri": "https://web.archive.org/web/20230204091206/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-07T08:52:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207085244/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-07T08:52:44Z",
+        "uri": "https://web.archive.org/web/20230207085244/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-09T23:19:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230209231925/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-09T23:19:25Z",
+        "uri": "https://web.archive.org/web/20230209231925/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-02-20T00:56:09Z",
+        "uri": "https://web.archive.org/web/20230220005609/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-07T03:34:56Z",
+        "uri": "https://web.archive.org/web/20230307033456/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-07T04:49:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044952/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-07T04:49:52Z",
+        "uri": "https://web.archive.org/web/20230307044952/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-07T13:50:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230307135050/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-07T13:50:50Z",
+        "uri": "https://web.archive.org/web/20230307135050/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-03-27T22:33:43Z",
+        "uri": "https://web.archive.org/web/20230327223343/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-25T18:22:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230825182208/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-25T18:22:08Z",
+        "uri": "https://web.archive.org/web/20230825182208/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-26T07:26:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230826072643/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-26T07:26:43Z",
+        "uri": "https://web.archive.org/web/20230826072643/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-26T11:31:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230826113157/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-08-26T11:31:57Z",
+        "uri": "https://web.archive.org/web/20230826113157/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2023-11-28T03:54:16Z",
+        "uri": "https://web.archive.org/web/20231128035416/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-04-04T07:26:53Z",
+        "uri": "https://web.archive.org/web/20240404072653/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-04-27T16:12:03Z",
+        "uri": "https://web.archive.org/web/20240427161203/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-05-24T04:39:22Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043922/https://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-05-24T16:48:38Z",
+        "uri": "https://wayback.archive-it.org/all/20240524164838/https://odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-06-03T13:51:55Z",
+        "uri": "https://wayback.archive-it.org/all/20240603135155/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-12T02:40:44Z",
+        "uri": "https://web.archive.org/web/20240712024044/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-12T12:50:31Z",
+        "uri": "https://web.archive.org/web/20240712125031/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-14T01:29:12Z",
+        "uri": "https://web.archive.org/web/20240714012912/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-15T07:25:48Z",
+        "uri": "https://web.archive.org/web/20240715072548/http://www.odu.edu/recwell/"
+      },
+      {
+        "datetime": "2024-07-19T04:11:59Z",
+        "uri": "https://web.archive.org/web/20240719041159/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-19T09:40:00Z",
+        "uri": "https://web.archive.org/web/20240719094000/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-20T02:17:45Z",
+        "uri": "https://web.archive.org/web/20240720021745/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-28T05:44:38Z",
+        "uri": "https://web.archive.org/web/20240728054438/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-30T19:05:01Z",
+        "uri": "https://web.archive.org/web/20240730190501/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-07-31T05:00:38Z",
+        "uri": "https://web.archive.org/web/20240731050038/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-08-31T18:33:15Z",
+        "uri": "https://web.archive.org/web/20240831183315/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-08-31T22:16:26Z",
+        "uri": "https://web.archive.org/web/20240831221626/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-08-31T22:23:26Z",
+        "uri": "https://web.archive.org/web/20240831222326/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-08-31T23:49:51Z",
+        "uri": "https://web.archive.org/web/20240831234951/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-09-01T01:26:29Z",
+        "uri": "https://web.archive.org/web/20240901012629/http://www.odu.edu/recwell"
+      },
+      {
+        "datetime": "2024-11-24T21:39:05Z",
+        "uri": "https://web.archive.org/web/20241124213905/http://www.odu.edu/recwell"
+      }
+    ],
+    "first": {
+      "datetime": "2016-01-19T03:04:40Z",
+      "uri": "https://web.archive.org/web/20160119030440/http://www.odu.edu:80/recwell"
+    },
+    "last": {
+      "datetime": "2024-11-24T21:39:05Z",
+      "uri": "https://web.archive.org/web/20241124213905/http://www.odu.edu/recwell"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/recwell",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/recwell",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/recwell"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/recwell"
+}

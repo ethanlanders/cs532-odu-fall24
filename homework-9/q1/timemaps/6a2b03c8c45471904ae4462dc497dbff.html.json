@@ -1,0 +1,262 @@
+{
+  "original_uri": "https://www.odu.edu/ts/software-services/facultyemail",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/ts/software-services/facultyemail",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-02T08:31:49Z",
+        "uri": "https://web.archive.org/web/20200902083149/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2020-09-03T04:56:33Z",
+        "uri": "https://web.archive.org/web/20200903045633/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:26:15Z",
+        "uri": "https://wayback.archive-it.org/all/20210530022615/https://odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:26:15Z",
+        "uri": "https://web.archive.org/web/20210530022615/https://odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:26:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210530022647/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:26:47Z",
+        "uri": "https://web.archive.org/web/20210530022647/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:27:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210530022708/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2021-05-30T02:27:08Z",
+        "uri": "https://web.archive.org/web/20210530022708/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:37:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220813203728/https://odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:37:28Z",
+        "uri": "https://web.archive.org/web/20220813203728/https://odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:37:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220813203746/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:37:46Z",
+        "uri": "https://web.archive.org/web/20220813203746/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:38:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220813203817/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-08-13T20:38:17Z",
+        "uri": "https://web.archive.org/web/20220813203817/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-10-06T07:41:28Z",
+        "uri": "https://web.archive.org/web/20221006074128/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-10-31T11:17:58Z",
+        "uri": "https://web.archive.org/web/20221031111758/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-07T06:52:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221107065240/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-07T06:52:40Z",
+        "uri": "https://web.archive.org/web/20221107065240/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-08T02:19:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221108021925/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-08T02:19:25Z",
+        "uri": "https://web.archive.org/web/20221108021925/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-11-18T18:19:12Z",
+        "uri": "https://web.archive.org/web/20221118181912/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-12-07T15:42:58Z",
+        "uri": "https://wayback.archive-it.org/all/20221207154258/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-12-07T15:42:58Z",
+        "uri": "https://web.archive.org/web/20221207154258/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-12-08T05:59:10Z",
+        "uri": "https://web.archive.org/web/20221208055910/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-12-11T04:14:39Z",
+        "uri": "https://wayback.archive-it.org/all/20221211041439/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2022-12-11T04:14:39Z",
+        "uri": "https://web.archive.org/web/20221211041439/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-01-07T15:35:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230107153524/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-01-07T15:35:24Z",
+        "uri": "https://web.archive.org/web/20230107153524/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-01-11T14:28:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230111142854/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-01-11T14:28:54Z",
+        "uri": "https://web.archive.org/web/20230111142854/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-01-24T20:57:09Z",
+        "uri": "https://arquivo.pt/wayback/20230124205709mp_/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-02-07T14:19:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230207141937/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-02-07T14:19:37Z",
+        "uri": "https://web.archive.org/web/20230207141937/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-02-10T23:59:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230210235954/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-02-10T23:59:54Z",
+        "uri": "https://web.archive.org/web/20230210235954/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-02-20T01:11:52Z",
+        "uri": "https://web.archive.org/web/20230220011152/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-07T05:17:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230307051740/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-07T05:17:40Z",
+        "uri": "https://web.archive.org/web/20230307051740/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-07T21:08:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230307210811/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-07T21:08:11Z",
+        "uri": "https://web.archive.org/web/20230307210811/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-03-27T22:37:53Z",
+        "uri": "https://web.archive.org/web/20230327223753/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-08-25T19:15:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191557/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-08-25T19:15:57Z",
+        "uri": "https://web.archive.org/web/20230825191557/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-08-26T20:16:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230826201654/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-08-26T20:16:54Z",
+        "uri": "https://web.archive.org/web/20230826201654/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2023-11-28T03:54:25Z",
+        "uri": "https://web.archive.org/web/20231128035425/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-02-21T20:25:57Z",
+        "uri": "https://web.archive.org/web/20240221202557/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-02-28T21:32:22Z",
+        "uri": "https://web.archive.org/web/20240228213222/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-03-25T12:54:58Z",
+        "uri": "https://web.archive.org/web/20240325125458/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-04-04T07:26:54Z",
+        "uri": "https://web.archive.org/web/20240404072654/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-04-17T03:32:43Z",
+        "uri": "https://web.archive.org/web/20240417033243/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-04-27T16:08:51Z",
+        "uri": "https://web.archive.org/web/20240427160851/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-05-24T00:10:26Z",
+        "uri": "https://wayback.archive-it.org/all/20240524001026/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-05-26T05:39:54Z",
+        "uri": "https://wayback.archive-it.org/all/20240526053954/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-06-30T13:34:59Z",
+        "uri": "https://web.archive.org/web/20240630133459/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-07-15T23:30:28Z",
+        "uri": "https://web.archive.org/web/20240715233028/https://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-07-29T02:54:26Z",
+        "uri": "https://web.archive.org/web/20240729025426/http://www.odu.edu/ts/software-services/facultyemail"
+      },
+      {
+        "datetime": "2024-09-06T01:21:16Z",
+        "uri": "https://web.archive.org/web/20240906012116/https://www.odu.edu/ts/software-services/facultyemail"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-02T08:31:49Z",
+      "uri": "https://web.archive.org/web/20200902083149/https://www.odu.edu/ts/software-services/facultyemail"
+    },
+    "last": {
+      "datetime": "2024-09-06T01:21:16Z",
+      "uri": "https://web.archive.org/web/20240906012116/https://www.odu.edu/ts/software-services/facultyemail"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/ts/software-services/facultyemail",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/ts/software-services/facultyemail",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/ts/software-services/facultyemail"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/ts/software-services/facultyemail"
+}

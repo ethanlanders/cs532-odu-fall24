@@ -1,0 +1,578 @@
+{
+  "original_uri": "https://www.odu.edu/regionalcenters",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/regionalcenters",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-03-02T10:52:46Z",
+        "uri": "https://web.archive.org/web/20120302105246/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2012-03-14T12:30:37Z",
+        "uri": "https://web.archive.org/web/20120314123037/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2012-05-03T05:08:57Z",
+        "uri": "https://web.archive.org/web/20120503050857/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2012-05-04T02:45:34Z",
+        "uri": "https://web.archive.org/web/20120504024534/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2012-12-09T22:48:28Z",
+        "uri": "https://web.archive.org/web/20121209224828/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2013-01-17T18:07:30Z",
+        "uri": "https://web.archive.org/web/20130117180730/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2013-03-11T17:32:47Z",
+        "uri": "https://web.archive.org/web/20130311173247/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2013-04-26T10:28:54Z",
+        "uri": "https://web.archive.org/web/20130426102854/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2013-05-23T08:08:17Z",
+        "uri": "https://web.archive.org/web/20130523080817/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2013-07-23T15:09:38Z",
+        "uri": "https://web.archive.org/web/20130723150938/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2013-08-14T19:56:33Z",
+        "uri": "https://web.archive.org/web/20130814195633/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2013-09-22T08:34:39Z",
+        "uri": "https://web.archive.org/web/20130922083439/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2013-11-22T04:05:14Z",
+        "uri": "https://web.archive.org/web/20131122040514/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2014-03-28T05:24:33Z",
+        "uri": "https://web.archive.org/web/20140328052433/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2014-06-26T13:40:15Z",
+        "uri": "https://web.archive.org/web/20140626134015/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2014-08-29T00:04:57Z",
+        "uri": "https://web.archive.org/web/20140829000457/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2015-08-07T05:03:12Z",
+        "uri": "https://web.archive.org/web/20150807050312/http://odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2015-09-06T16:37:06Z",
+        "uri": "https://web.archive.org/web/20150906163706/http://odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2015-12-05T10:29:18Z",
+        "uri": "https://web.archive.org/web/20151205102918/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2015-12-11T17:19:36Z",
+        "uri": "https://web.archive.org/web/20151211171936/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2016-01-04T23:19:05Z",
+        "uri": "https://web.archive.org/web/20160104231905/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2016-02-05T05:11:35Z",
+        "uri": "https://web.archive.org/web/20160205051135/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2016-02-07T01:26:26Z",
+        "uri": "https://web.archive.org/web/20160207012626/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2016-03-07T06:12:01Z",
+        "uri": "https://web.archive.org/web/20160307061201/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2016-04-07T10:03:10Z",
+        "uri": "https://web.archive.org/web/20160407100310/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2016-12-26T16:56:24Z",
+        "uri": "https://web.archive.org/web/20161226165624/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-03-10T04:44:58Z",
+        "uri": "https://web.archive.org/web/20170310044458/http://odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2017-04-20T01:53:12Z",
+        "uri": "https://web.archive.org/web/20170420015312/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-05-18T00:56:23Z",
+        "uri": "https://web.archive.org/web/20170518005623/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2017-06-02T04:08:53Z",
+        "uri": "https://web.archive.org/web/20170602040853/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-06-14T00:09:10Z",
+        "uri": "https://web.archive.org/web/20170614000910/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-06-23T07:57:37Z",
+        "uri": "https://web.archive.org/web/20170623075737/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2017-07-13T05:34:52Z",
+        "uri": "https://web.archive.org/web/20170713053452/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-07-26T12:31:35Z",
+        "uri": "https://web.archive.org/web/20170726123135/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2017-09-11T22:31:02Z",
+        "uri": "https://web.archive.org/web/20170911223102/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2017-11-13T01:32:45Z",
+        "uri": "https://web.archive.org/web/20171113013245/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2018-07-22T13:18:30Z",
+        "uri": "https://web.archive.org/web/20180722131830/http://www.odu.edu:80/regionalcenters"
+      },
+      {
+        "datetime": "2019-03-27T12:25:01Z",
+        "uri": "https://arquivo.pt/wayback/20190327122501mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2019-03-27T12:25:01Z",
+        "uri": "https://web.archive.org/web/20190327122501/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2019-10-16T02:00:08Z",
+        "uri": "https://arquivo.pt/wayback/20191016020008mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2019-10-16T02:00:08Z",
+        "uri": "https://web.archive.org/web/20191016020008/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2019-12-27T14:03:10Z",
+        "uri": "https://arquivo.pt/wayback/20191227140310mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2019-12-27T14:03:10Z",
+        "uri": "https://web.archive.org/web/20191227140310/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-03-26T23:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20200326235745mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-03-26T23:57:45Z",
+        "uri": "https://web.archive.org/web/20200326235745/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-04-16T19:23:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192358/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-04-16T19:23:58Z",
+        "uri": "https://web.archive.org/web/20200416192358/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-04-16T19:24:28Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192428/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-04-16T19:24:28Z",
+        "uri": "https://web.archive.org/web/20200416192428/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-07-07T09:31:13Z",
+        "uri": "https://arquivo.pt/wayback/20200707093113mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-07-07T09:31:13Z",
+        "uri": "https://web.archive.org/web/20200707093113/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-07-20T07:58:41Z",
+        "uri": "https://web.archive.org/web/20200720075841/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-08-18T14:59:00Z",
+        "uri": "https://web.archive.org/web/20200818145900/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-09-22T23:57:10Z",
+        "uri": "https://arquivo.pt/wayback/20200922235710mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-09-22T23:57:10Z",
+        "uri": "https://web.archive.org/web/20200922235710/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-12-24T11:40:08Z",
+        "uri": "https://arquivo.pt/wayback/20201224114008mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2020-12-24T11:40:08Z",
+        "uri": "https://web.archive.org/web/20201224114008/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-03-25T10:59:15Z",
+        "uri": "https://arquivo.pt/wayback/20210325105915mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-03-25T10:59:15Z",
+        "uri": "https://web.archive.org/web/20210325105915/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-04-14T11:38:17Z",
+        "uri": "https://web.archive.org/web/20210414113817/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-04-14T17:29:28Z",
+        "uri": "https://web.archive.org/web/20210414172928/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-04-15T09:25:50Z",
+        "uri": "https://web.archive.org/web/20210415092550/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-04-19T20:53:14Z",
+        "uri": "https://web.archive.org/web/20210419205314/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-26T20:00:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200056/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-26T20:00:56Z",
+        "uri": "https://web.archive.org/web/20210526200056/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-26T20:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200101/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-26T20:01:01Z",
+        "uri": "https://web.archive.org/web/20210526200101/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-27T05:06:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210527050654/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-05-27T05:06:54Z",
+        "uri": "https://web.archive.org/web/20210527050654/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-06-29T12:41:27Z",
+        "uri": "https://arquivo.pt/wayback/20210629124127mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-06-29T12:41:27Z",
+        "uri": "https://web.archive.org/web/20210629124127/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-09-02T19:19:01Z",
+        "uri": "https://webarchive.loc.gov/all/20210902191901/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-09-03T08:28:09Z",
+        "uri": "https://webarchive.loc.gov/all/20210903082809/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2021-09-04T07:35:39Z",
+        "uri": "https://webarchive.loc.gov/all/20210904073539/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-03-19T21:45:04Z",
+        "uri": "https://web.archive.org/web/20220319214504/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-03-19T21:45:04Z",
+        "uri": "https://web.archive.org/web/20220319214504/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-03-19T22:30:52Z",
+        "uri": "https://web.archive.org/web/20220319223052/https://www.odu.edu/regionalcenters/"
+      },
+      {
+        "datetime": "2022-03-19T22:30:52Z",
+        "uri": "https://web.archive.org/web/20220319223052/http://www.odu.edu/regionalcenters/"
+      },
+      {
+        "datetime": "2022-03-19T23:17:20Z",
+        "uri": "https://web.archive.org/web/20220319231720/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-05-16T05:28:46Z",
+        "uri": "https://arquivo.pt/wayback/20220516052846mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-05-16T05:28:50Z",
+        "uri": "https://arquivo.pt/wayback/20220516052850mp_/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-05-28T17:16:39Z",
+        "uri": "https://web.archive.org/web/20220528171639/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-10T20:08:41Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200841/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-10T20:08:41Z",
+        "uri": "https://web.archive.org/web/20220810200841/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-10T20:08:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200851/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-10T20:08:51Z",
+        "uri": "https://web.archive.org/web/20220810200851/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-11T06:58:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220811065851/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-11T06:58:51Z",
+        "uri": "https://web.archive.org/web/20220811065851/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-08-27T20:23:35Z",
+        "uri": "https://arquivo.pt/wayback/20220827202335mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-09-27T14:55:27Z",
+        "uri": "https://web.archive.org/web/20220927145527/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-10-31T11:20:59Z",
+        "uri": "https://web.archive.org/web/20221031112059/https://www.odu.edu/regionalcenters/"
+      },
+      {
+        "datetime": "2022-11-07T05:34:41Z",
+        "uri": "https://wayback.archive-it.org/all/20221107053441/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-11-07T05:34:41Z",
+        "uri": "https://web.archive.org/web/20221107053441/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-11-07T13:53:13Z",
+        "uri": "https://wayback.archive-it.org/all/20221107135313/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-11-07T13:53:13Z",
+        "uri": "https://web.archive.org/web/20221107135313/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-11-18T19:13:44Z",
+        "uri": "https://web.archive.org/web/20221118191344/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-12-07T09:03:31Z",
+        "uri": "https://wayback.archive-it.org/all/20221207090331/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-12-07T09:03:31Z",
+        "uri": "https://web.archive.org/web/20221207090331/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-12-08T05:51:58Z",
+        "uri": "https://web.archive.org/web/20221208055158/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-12-09T20:42:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221209204253/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2022-12-09T20:42:53Z",
+        "uri": "https://web.archive.org/web/20221209204253/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-01-07T08:26:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230107082633/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-01-07T08:26:33Z",
+        "uri": "https://web.archive.org/web/20230107082633/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-01-09T00:02:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230109000246/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-01-09T00:02:46Z",
+        "uri": "https://web.archive.org/web/20230109000246/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-01-24T19:57:12Z",
+        "uri": "https://arquivo.pt/wayback/20230124195712mp_/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-02-07T06:50:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230207065009/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-02-07T06:50:09Z",
+        "uri": "https://web.archive.org/web/20230207065009/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-02-09T16:38:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230209163810/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-02-09T16:38:10Z",
+        "uri": "https://web.archive.org/web/20230209163810/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-02-20T00:51:01Z",
+        "uri": "https://web.archive.org/web/20230220005101/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-07T04:37:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043703/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-07T04:37:03Z",
+        "uri": "https://web.archive.org/web/20230307043703/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-07T11:58:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230307115833/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-07T11:58:33Z",
+        "uri": "https://web.archive.org/web/20230307115833/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-03-27T22:31:52Z",
+        "uri": "https://web.archive.org/web/20230327223152/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-07-15T00:31:09Z",
+        "uri": "https://web.archive.org/web/20230715003109/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-08-25T17:52:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175257/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-08-25T17:52:57Z",
+        "uri": "https://web.archive.org/web/20230825175257/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-08-26T09:18:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230826091801/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-08-26T09:18:01Z",
+        "uri": "https://web.archive.org/web/20230826091801/http://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2023-11-28T03:54:16Z",
+        "uri": "https://web.archive.org/web/20231128035416/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-02-21T20:16:20Z",
+        "uri": "https://web.archive.org/web/20240221201620/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-02-28T23:37:56Z",
+        "uri": "https://web.archive.org/web/20240228233756/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-03-06T15:30:07Z",
+        "uri": "https://web.archive.org/web/20240306153007/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-03-25T13:02:24Z",
+        "uri": "https://web.archive.org/web/20240325130224/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-04-01T13:05:36Z",
+        "uri": "https://web.archive.org/web/20240401130536/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-04-04T07:26:58Z",
+        "uri": "https://web.archive.org/web/20240404072658/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-04-17T03:30:37Z",
+        "uri": "https://web.archive.org/web/20240417033037/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-04-27T16:09:00Z",
+        "uri": "https://web.archive.org/web/20240427160900/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-05-23T22:16:15Z",
+        "uri": "https://wayback.archive-it.org/all/20240523221615/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-06-16T15:48:36Z",
+        "uri": "https://web.archive.org/web/20240616154836/https://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-06-16T15:52:37Z",
+        "uri": "https://web.archive.org/web/20240616155237/http://odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-07-15T23:30:29Z",
+        "uri": "https://web.archive.org/web/20240715233029/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-09-17T21:03:54Z",
+        "uri": "https://web.archive.org/web/20240917210354/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-10-07T10:48:37Z",
+        "uri": "https://web.archive.org/web/20241007104837/https://www.odu.edu/regionalcenters"
+      },
+      {
+        "datetime": "2024-11-26T22:49:20Z",
+        "uri": "https://web.archive.org/web/20241126224920/https://www.odu.edu/regionalcenters"
+      }
+    ],
+    "first": {
+      "datetime": "2012-03-02T10:52:46Z",
+      "uri": "https://web.archive.org/web/20120302105246/http://www.odu.edu:80/regionalcenters"
+    },
+    "last": {
+      "datetime": "2024-11-26T22:49:20Z",
+      "uri": "https://web.archive.org/web/20241126224920/https://www.odu.edu/regionalcenters"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/regionalcenters",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/regionalcenters",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/regionalcenters"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/regionalcenters"
+}

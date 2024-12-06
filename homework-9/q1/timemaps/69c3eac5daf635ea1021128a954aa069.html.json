@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T12:05:10Z",
+        "uri": "https://web.archive.org/web/20220524120510/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:29Z",
+        "uri": "https://web.archive.org/web/20220622021429/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2022-10-02T16:02:49Z",
+        "uri": "https://web.archive.org/web/20221002160249/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:10Z",
+        "uri": "https://web.archive.org/web/20230107001310/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2023-02-02T17:44:29Z",
+        "uri": "https://web.archive.org/web/20230202174429/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2023-05-13T19:29:41Z",
+        "uri": "https://web.archive.org/web/20230513192941/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2023-06-05T23:16:17Z",
+        "uri": "https://web.archive.org/web/20230605231617/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2023-12-02T08:34:05Z",
+        "uri": "https://web.archive.org/web/20231202083405/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2024-04-22T22:51:55Z",
+        "uri": "https://web.archive.org/web/20240422225155/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      },
+      {
+        "datetime": "2024-07-14T07:26:38Z",
+        "uri": "https://web.archive.org/web/20240714072638/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T12:05:10Z",
+      "uri": "https://web.archive.org/web/20220524120510/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+    },
+    "last": {
+      "datetime": "2024-07-14T07:26:38Z",
+      "uri": "https://web.archive.org/web/20240714072638/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/de/aufenthalt-in-deutschland/unterkunft-und-wohnen/"
+}

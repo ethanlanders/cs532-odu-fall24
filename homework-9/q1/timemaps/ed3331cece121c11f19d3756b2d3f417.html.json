@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/find-funding/support-offers/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/find-funding/support-offers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-12T07:19:52Z",
+        "uri": "https://web.archive.org/web/20240912071952/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+      },
+      {
+        "datetime": "2024-09-12T07:20:11Z",
+        "uri": "https://web.archive.org/web/20240912072011/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-12T07:19:52Z",
+      "uri": "https://web.archive.org/web/20240912071952/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+    },
+    "last": {
+      "datetime": "2024-09-12T07:20:11Z",
+      "uri": "https://web.archive.org/web/20240912072011/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/find-funding/support-offers/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/find-funding/support-offers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/find-funding/support-offers/"
+}

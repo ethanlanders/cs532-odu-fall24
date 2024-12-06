@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T23:07:39Z",
+        "uri": "https://web.archive.org/web/20231108230739/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2023-11-30T00:50:26Z",
+        "uri": "https://web.archive.org/web/20231130005026/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2024-04-19T02:17:43Z",
+        "uri": "https://web.archive.org/web/20240419021743/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2024-04-27T16:10:03Z",
+        "uri": "https://web.archive.org/web/20240427161003/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2024-05-23T20:28:26Z",
+        "uri": "https://wayback.archive-it.org/all/20240523202826/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2024-07-17T19:12:44Z",
+        "uri": "https://web.archive.org/web/20240717191244/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T23:07:39Z",
+      "uri": "https://web.archive.org/web/20231108230739/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+    },
+    "last": {
+      "datetime": "2024-07-17T19:12:44Z",
+      "uri": "https://web.archive.org/web/20240717191244/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+}

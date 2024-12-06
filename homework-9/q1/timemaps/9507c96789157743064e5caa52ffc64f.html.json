@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-17T02:37:02Z",
+        "uri": "https://web.archive.org/web/20240817023702/https://citeseerx.ist.psu.edu/search_result?query=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-17T02:37:02Z",
+      "uri": "https://web.archive.org/web/20240817023702/https://citeseerx.ist.psu.edu/search_result?query=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    },
+    "last": {
+      "datetime": "2024-08-17T02:37:02Z",
+      "uri": "https://web.archive.org/web/20240817023702/https://citeseerx.ist.psu.edu/search_result?query=author%253AHannah_Bast%253A+autoc%257Ccompl%257Cester"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=author:Hannah_Bast:+autoc|compl|ester"
+}

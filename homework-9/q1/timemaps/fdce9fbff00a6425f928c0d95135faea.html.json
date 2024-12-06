@@ -1,0 +1,870 @@
+{
+  "original_uri": "https://info.arxiv.org/about/donate.html",
+  "self": "http://localhost:1208/timemap/json/https://info.arxiv.org/about/donate.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-02-02T08:10:34Z",
+        "uri": "https://web.archive.org/web/20230202081034/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-02-06T02:51:48Z",
+        "uri": "https://web.archive.org/web/20230206025148/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-02-28T06:55:28Z",
+        "uri": "https://web.archive.org/web/20230228065528/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-03-25T16:45:41Z",
+        "uri": "https://web.archive.org/web/20230325164541/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-06-24T09:17:55Z",
+        "uri": "https://web.archive.org/web/20230624091755/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-06-27T21:55:42Z",
+        "uri": "https://web.archive.org/web/20230627215542/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-06-29T07:15:48Z",
+        "uri": "https://web.archive.org/web/20230629071548/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-05T05:24:50Z",
+        "uri": "https://web.archive.org/web/20230705052450/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-06T05:49:40Z",
+        "uri": "https://web.archive.org/web/20230706054940/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-13T09:47:40Z",
+        "uri": "https://web.archive.org/web/20230713094740/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-14T01:37:26Z",
+        "uri": "https://web.archive.org/web/20230714013726/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-16T18:30:27Z",
+        "uri": "https://web.archive.org/web/20230716183027/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-19T17:16:03Z",
+        "uri": "https://web.archive.org/web/20230719171603/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-20T21:33:35Z",
+        "uri": "https://web.archive.org/web/20230720213335/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-25T19:07:06Z",
+        "uri": "https://web.archive.org/web/20230725190706/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-25T22:45:03Z",
+        "uri": "https://web.archive.org/web/20230725224503/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-28T12:55:11Z",
+        "uri": "https://web.archive.org/web/20230728125511/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-07-31T14:15:32Z",
+        "uri": "https://web.archive.org/web/20230731141532/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-01T04:38:52Z",
+        "uri": "https://web.archive.org/web/20230801043852/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-01T08:51:19Z",
+        "uri": "https://web.archive.org/web/20230801085119/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-01T18:12:53Z",
+        "uri": "https://web.archive.org/web/20230801181253/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-03T01:40:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230803014032/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-03T01:40:32Z",
+        "uri": "https://web.archive.org/web/20230803014032/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-06T19:06:00Z",
+        "uri": "https://web.archive.org/web/20230806190600/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-09T00:55:01Z",
+        "uri": "https://web.archive.org/web/20230809005501/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-09T14:37:40Z",
+        "uri": "https://web.archive.org/web/20230809143740/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-12T09:58:05Z",
+        "uri": "https://web.archive.org/web/20230812095805/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-18T22:58:01Z",
+        "uri": "https://web.archive.org/web/20230818225801/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-22T17:37:36Z",
+        "uri": "https://web.archive.org/web/20230822173736/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-25T02:47:26Z",
+        "uri": "https://web.archive.org/web/20230825024726/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-29T00:03:56Z",
+        "uri": "https://web.archive.org/web/20230829000356/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-08-31T03:58:43Z",
+        "uri": "https://web.archive.org/web/20230831035843/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-02T14:36:05Z",
+        "uri": "https://web.archive.org/web/20230902143605/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-06T22:32:35Z",
+        "uri": "https://web.archive.org/web/20230906223235/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-13T18:55:58Z",
+        "uri": "https://web.archive.org/web/20230913185558/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-15T03:38:29Z",
+        "uri": "https://web.archive.org/web/20230915033829/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-15T17:48:47Z",
+        "uri": "https://web.archive.org/web/20230915174847/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-15T19:50:05Z",
+        "uri": "https://web.archive.org/web/20230915195005/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-19T08:38:57Z",
+        "uri": "https://web.archive.org/web/20230919083857/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-21T15:04:35Z",
+        "uri": "https://web.archive.org/web/20230921150435/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-23T03:04:45Z",
+        "uri": "https://web.archive.org/web/20230923030445/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-23T05:48:25Z",
+        "uri": "https://web.archive.org/web/20230923054825/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-23T08:49:42Z",
+        "uri": "https://web.archive.org/web/20230923084942/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-23T12:26:10Z",
+        "uri": "https://web.archive.org/web/20230923122610/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-09-25T12:21:51Z",
+        "uri": "https://web.archive.org/web/20230925122151/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-06T11:58:43Z",
+        "uri": "https://web.archive.org/web/20231006115843/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-06T14:05:25Z",
+        "uri": "https://web.archive.org/web/20231006140525/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-07T05:22:56Z",
+        "uri": "https://web.archive.org/web/20231007052256/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-09T05:35:54Z",
+        "uri": "https://web.archive.org/web/20231009053554/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-10T06:06:30Z",
+        "uri": "https://web.archive.org/web/20231010060630/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-18T21:49:38Z",
+        "uri": "https://web.archive.org/web/20231018214938/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-20T13:28:47Z",
+        "uri": "https://web.archive.org/web/20231020132847/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-23T11:53:30Z",
+        "uri": "https://web.archive.org/web/20231023115330/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-10-30T18:54:18Z",
+        "uri": "https://web.archive.org/web/20231030185418/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-06T23:33:44Z",
+        "uri": "https://web.archive.org/web/20231106233344/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-07T07:04:26Z",
+        "uri": "https://web.archive.org/web/20231107070426/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-07T19:34:50Z",
+        "uri": "https://web.archive.org/web/20231107193450/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-09T22:17:26Z",
+        "uri": "https://web.archive.org/web/20231109221726/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-12T13:31:53Z",
+        "uri": "https://web.archive.org/web/20231112133153/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-11-26T02:24:11Z",
+        "uri": "https://web.archive.org/web/20231126022411/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-04T08:25:06Z",
+        "uri": "https://web.archive.org/web/20231204082506/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-04T21:11:00Z",
+        "uri": "https://web.archive.org/web/20231204211100/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-05T23:27:03Z",
+        "uri": "https://web.archive.org/web/20231205232703/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-06T07:06:37Z",
+        "uri": "https://web.archive.org/web/20231206070637/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-09T00:26:46Z",
+        "uri": "https://web.archive.org/web/20231209002646/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-10T07:36:32Z",
+        "uri": "https://web.archive.org/web/20231210073632/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-11T21:45:01Z",
+        "uri": "https://web.archive.org/web/20231211214501/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-15T02:17:05Z",
+        "uri": "https://web.archive.org/web/20231215021705/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-15T16:32:37Z",
+        "uri": "https://web.archive.org/web/20231215163237/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-15T17:33:05Z",
+        "uri": "https://web.archive.org/web/20231215173305/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-15T18:46:19Z",
+        "uri": "https://web.archive.org/web/20231215184619/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-15T20:22:45Z",
+        "uri": "https://web.archive.org/web/20231215202245/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-16T21:45:26Z",
+        "uri": "https://web.archive.org/web/20231216214526/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-21T12:37:12Z",
+        "uri": "https://web.archive.org/web/20231221123712/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-22T12:10:32Z",
+        "uri": "https://web.archive.org/web/20231222121032/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-24T23:19:21Z",
+        "uri": "https://web.archive.org/web/20231224231921/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-27T17:46:34Z",
+        "uri": "https://web.archive.org/web/20231227174634/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-29T17:43:44Z",
+        "uri": "https://web.archive.org/web/20231229174344/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2023-12-31T23:56:46Z",
+        "uri": "https://web.archive.org/web/20231231235646/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-01T20:21:48Z",
+        "uri": "https://web.archive.org/web/20240101202148/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-07T06:18:02Z",
+        "uri": "https://web.archive.org/web/20240107061802/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-07T08:41:24Z",
+        "uri": "https://web.archive.org/web/20240107084124/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-07T11:36:01Z",
+        "uri": "https://web.archive.org/web/20240107113601/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-08T00:49:57Z",
+        "uri": "https://web.archive.org/web/20240108004957/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-08T03:39:04Z",
+        "uri": "https://web.archive.org/web/20240108033904/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-13T22:01:53Z",
+        "uri": "https://web.archive.org/web/20240113220153/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-15T01:02:36Z",
+        "uri": "https://web.archive.org/web/20240115010236/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-18T01:43:03Z",
+        "uri": "https://web.archive.org/web/20240118014303/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-19T11:39:57Z",
+        "uri": "https://wayback.archive-it.org/all/20240119113957/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-22T01:15:12Z",
+        "uri": "https://web.archive.org/web/20240122011512/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-22T23:53:02Z",
+        "uri": "https://web.archive.org/web/20240122235302/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-24T03:26:08Z",
+        "uri": "https://web.archive.org/web/20240124032608/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-01-30T00:16:30Z",
+        "uri": "https://web.archive.org/web/20240130001630/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-02T09:33:25Z",
+        "uri": "https://web.archive.org/web/20240202093325/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-04T19:51:57Z",
+        "uri": "https://web.archive.org/web/20240204195157/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-06T00:43:57Z",
+        "uri": "https://web.archive.org/web/20240206004357/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-07T02:51:00Z",
+        "uri": "https://web.archive.org/web/20240207025100/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-11T12:54:48Z",
+        "uri": "https://web.archive.org/web/20240211125448/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-13T01:31:00Z",
+        "uri": "https://web.archive.org/web/20240213013100/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-14T05:43:18Z",
+        "uri": "https://web.archive.org/web/20240214054318/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-15T18:11:26Z",
+        "uri": "https://web.archive.org/web/20240215181126/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-20T02:36:04Z",
+        "uri": "https://web.archive.org/web/20240220023604/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-24T18:28:06Z",
+        "uri": "https://web.archive.org/web/20240224182806/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-26T20:43:32Z",
+        "uri": "https://web.archive.org/web/20240226204332/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-27T03:28:29Z",
+        "uri": "https://web.archive.org/web/20240227032829/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-02-29T02:35:34Z",
+        "uri": "https://web.archive.org/web/20240229023534/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-02T11:18:15Z",
+        "uri": "https://web.archive.org/web/20240302111815/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-04T15:48:01Z",
+        "uri": "https://web.archive.org/web/20240304154801/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-04T21:17:50Z",
+        "uri": "https://web.archive.org/web/20240304211750/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-05T15:22:14Z",
+        "uri": "https://web.archive.org/web/20240305152214/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-11T04:51:07Z",
+        "uri": "https://web.archive.org/web/20240311045107/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-12T05:40:51Z",
+        "uri": "https://web.archive.org/web/20240312054051/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T04:01:56Z",
+        "uri": "https://web.archive.org/web/20240319040156/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T04:04:51Z",
+        "uri": "https://web.archive.org/web/20240319040451/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T06:56:44Z",
+        "uri": "https://web.archive.org/web/20240319065644/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T09:21:29Z",
+        "uri": "https://web.archive.org/web/20240319092129/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T11:46:13Z",
+        "uri": "https://web.archive.org/web/20240319114613/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-19T17:57:21Z",
+        "uri": "https://web.archive.org/web/20240319175721/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-20T23:27:41Z",
+        "uri": "https://web.archive.org/web/20240320232741/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-24T11:40:27Z",
+        "uri": "https://web.archive.org/web/20240324114027/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-26T04:12:22Z",
+        "uri": "https://web.archive.org/web/20240326041222/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-27T04:30:54Z",
+        "uri": "https://web.archive.org/web/20240327043054/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-27T13:25:53Z",
+        "uri": "https://web.archive.org/web/20240327132553/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-03-28T23:31:30Z",
+        "uri": "https://web.archive.org/web/20240328233130/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-02T04:40:08Z",
+        "uri": "https://web.archive.org/web/20240402044008/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-02T09:25:37Z",
+        "uri": "https://web.archive.org/web/20240402092537/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-05T16:06:16Z",
+        "uri": "https://web.archive.org/web/20240405160616/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-09T05:27:02Z",
+        "uri": "https://web.archive.org/web/20240409052702/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-10T03:37:11Z",
+        "uri": "https://web.archive.org/web/20240410033711/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-12T23:52:24Z",
+        "uri": "https://web.archive.org/web/20240412235224/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-14T00:59:12Z",
+        "uri": "https://web.archive.org/web/20240414005912/http://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-14T01:40:53Z",
+        "uri": "https://web.archive.org/web/20240414014053/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-18T16:49:07Z",
+        "uri": "https://web.archive.org/web/20240418164907/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-20T16:06:31Z",
+        "uri": "https://web.archive.org/web/20240420160631/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-20T16:07:07Z",
+        "uri": "https://web.archive.org/web/20240420160707/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-21T02:49:23Z",
+        "uri": "https://web.archive.org/web/20240421024923/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-21T20:01:02Z",
+        "uri": "https://web.archive.org/web/20240421200102/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-23T20:17:41Z",
+        "uri": "https://web.archive.org/web/20240423201741/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-25T00:06:08Z",
+        "uri": "https://web.archive.org/web/20240425000608/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-04-25T17:21:26Z",
+        "uri": "https://web.archive.org/web/20240425172126/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-01T02:26:20Z",
+        "uri": "https://web.archive.org/web/20240501022620/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-01T14:25:35Z",
+        "uri": "https://web.archive.org/web/20240501142535/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-02T17:54:48Z",
+        "uri": "https://web.archive.org/web/20240502175448/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-05T08:43:09Z",
+        "uri": "https://web.archive.org/web/20240505084309/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-08T18:12:43Z",
+        "uri": "https://web.archive.org/web/20240508181243/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-10T17:04:59Z",
+        "uri": "https://web.archive.org/web/20240510170459/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-11T10:54:34Z",
+        "uri": "https://web.archive.org/web/20240511105434/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-11T11:40:59Z",
+        "uri": "https://web.archive.org/web/20240511114059/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-15T01:00:16Z",
+        "uri": "https://web.archive.org/web/20240515010016/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-15T14:11:38Z",
+        "uri": "https://web.archive.org/web/20240515141138/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-16T09:22:10Z",
+        "uri": "https://web.archive.org/web/20240516092210/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-17T17:38:50Z",
+        "uri": "https://web.archive.org/web/20240517173850/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-24T18:54:49Z",
+        "uri": "https://web.archive.org/web/20240524185449/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-25T19:55:45Z",
+        "uri": "https://web.archive.org/web/20240525195545/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-05-29T00:14:55Z",
+        "uri": "https://web.archive.org/web/20240529001455/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-01T00:44:53Z",
+        "uri": "https://web.archive.org/web/20240601004453/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-06T13:10:46Z",
+        "uri": "https://wayback.archive-it.org/all/20240606131046/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-06T13:10:46Z",
+        "uri": "https://web.archive.org/web/20240606131046/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-08T01:21:45Z",
+        "uri": "https://web.archive.org/web/20240608012145/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-12T12:09:48Z",
+        "uri": "https://web.archive.org/web/20240612120948/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-14T17:12:49Z",
+        "uri": "https://web.archive.org/web/20240614171249/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-15T01:47:03Z",
+        "uri": "https://web.archive.org/web/20240615014703/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-19T19:33:24Z",
+        "uri": "https://web.archive.org/web/20240619193324/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-22T02:14:12Z",
+        "uri": "https://web.archive.org/web/20240622021412/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-22T15:55:10Z",
+        "uri": "https://vefsafn.is/20240622155510mp_/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-22T21:53:16Z",
+        "uri": "https://web.archive.org/web/20240622215316/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-29T03:46:10Z",
+        "uri": "https://web.archive.org/web/20240629034610/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-06-30T02:21:52Z",
+        "uri": "https://web.archive.org/web/20240630022152/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-03T00:52:07Z",
+        "uri": "https://web.archive.org/web/20240703005207/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-03T14:24:46Z",
+        "uri": "https://web.archive.org/web/20240703142446/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-04T02:53:00Z",
+        "uri": "https://web.archive.org/web/20240704025300/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-04T12:57:09Z",
+        "uri": "https://web.archive.org/web/20240704125709/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-07T04:34:33Z",
+        "uri": "https://web.archive.org/web/20240707043433/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-07T08:41:10Z",
+        "uri": "https://web.archive.org/web/20240707084110/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-07T23:26:58Z",
+        "uri": "https://web.archive.org/web/20240707232658/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-08T07:26:49Z",
+        "uri": "https://web.archive.org/web/20240708072649/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-13T07:11:01Z",
+        "uri": "https://web.archive.org/web/20240713071101/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-14T04:21:34Z",
+        "uri": "https://web.archive.org/web/20240714042134/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-15T01:38:18Z",
+        "uri": "https://web.archive.org/web/20240715013818/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-16T00:09:35Z",
+        "uri": "https://web.archive.org/web/20240716000935/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-17T16:00:19Z",
+        "uri": "https://web.archive.org/web/20240717160019/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-23T00:53:17Z",
+        "uri": "https://web.archive.org/web/20240723005317/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-07-30T01:40:02Z",
+        "uri": "https://web.archive.org/web/20240730014002/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-04T05:26:16Z",
+        "uri": "https://web.archive.org/web/20240804052616/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-06T02:57:42Z",
+        "uri": "https://web.archive.org/web/20240806025742/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-07T07:40:21Z",
+        "uri": "https://web.archive.org/web/20240807074021/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-10T19:09:19Z",
+        "uri": "https://web.archive.org/web/20240810190919/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-13T03:50:48Z",
+        "uri": "https://web.archive.org/web/20240813035048/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-14T04:06:44Z",
+        "uri": "https://web.archive.org/web/20240814040644/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-20T04:35:52Z",
+        "uri": "https://web.archive.org/web/20240820043552/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-08-22T09:15:30Z",
+        "uri": "https://web.archive.org/web/20240822091530/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-13T21:04:34Z",
+        "uri": "https://web.archive.org/web/20240913210434/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-15T18:02:22Z",
+        "uri": "https://web.archive.org/web/20240915180222/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-21T02:55:34Z",
+        "uri": "https://web.archive.org/web/20240921025534/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-21T11:29:41Z",
+        "uri": "https://web.archive.org/web/20240921112941/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-22T13:41:32Z",
+        "uri": "https://web.archive.org/web/20240922134132/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-23T15:01:34Z",
+        "uri": "https://web.archive.org/web/20240923150134/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-23T19:31:47Z",
+        "uri": "https://web.archive.org/web/20240923193147/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-25T15:25:42Z",
+        "uri": "https://web.archive.org/web/20240925152542/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-26T05:26:36Z",
+        "uri": "https://web.archive.org/web/20240926052636/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-28T11:40:06Z",
+        "uri": "https://web.archive.org/web/20240928114006/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-09-29T04:46:25Z",
+        "uri": "https://web.archive.org/web/20240929044625/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-10-03T02:09:18Z",
+        "uri": "https://web.archive.org/web/20241003020918/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-10-03T12:36:34Z",
+        "uri": "https://web.archive.org/web/20241003123634/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-10-07T09:04:56Z",
+        "uri": "https://web.archive.org/web/20241007090456/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-10-07T09:20:48Z",
+        "uri": "https://web.archive.org/web/20241007092048/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-11-10T00:28:46Z",
+        "uri": "https://web.archive.org/web/20241110002846/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-11-24T17:28:02Z",
+        "uri": "https://web.archive.org/web/20241124172802/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-11-26T21:24:42Z",
+        "uri": "https://web.archive.org/web/20241126212442/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-11-30T18:31:56Z",
+        "uri": "https://web.archive.org/web/20241130183156/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-12-01T12:54:15Z",
+        "uri": "https://web.archive.org/web/20241201125415/https://info.arxiv.org/about/donate.html"
+      },
+      {
+        "datetime": "2024-12-01T22:24:22Z",
+        "uri": "https://web.archive.org/web/20241201222422/https://info.arxiv.org/about/donate.html"
+      }
+    ],
+    "first": {
+      "datetime": "2023-02-02T08:10:34Z",
+      "uri": "https://web.archive.org/web/20230202081034/https://info.arxiv.org/about/donate.html"
+    },
+    "last": {
+      "datetime": "2024-12-01T22:24:22Z",
+      "uri": "https://web.archive.org/web/20241201222422/https://info.arxiv.org/about/donate.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://info.arxiv.org/about/donate.html",
+    "json_format": "http://localhost:1208/timemap/json/https://info.arxiv.org/about/donate.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://info.arxiv.org/about/donate.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://info.arxiv.org/about/donate.html"
+}

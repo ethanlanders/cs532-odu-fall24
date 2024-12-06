@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-16T11:53:22Z",
+        "uri": "https://web.archive.org/web/20241116115322/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+      },
+      {
+        "datetime": "2024-11-19T19:34:32Z",
+        "uri": "https://web.archive.org/web/20241119193432/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-16T11:53:22Z",
+      "uri": "https://web.archive.org/web/20241116115322/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+    },
+    "last": {
+      "datetime": "2024-11-19T19:34:32Z",
+      "uri": "https://web.archive.org/web/20241119193432/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/find-funding/daad-scholarship-database/"
+}

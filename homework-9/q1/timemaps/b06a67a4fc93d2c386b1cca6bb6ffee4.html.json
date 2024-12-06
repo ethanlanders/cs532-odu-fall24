@@ -1,0 +1,1086 @@
+{
+  "original_uri": "https://www.odu.edu/prospective",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/prospective",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T14:48:29Z",
+        "uri": "https://web.archive.org/web/20120831144829/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2012-09-21T13:25:47Z",
+        "uri": "https://web.archive.org/web/20120921132547/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2012-10-10T13:35:27Z",
+        "uri": "https://web.archive.org/web/20121010133527/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2012-10-30T21:06:16Z",
+        "uri": "https://web.archive.org/web/20121030210616/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2012-12-11T12:57:57Z",
+        "uri": "https://web.archive.org/web/20121211125757/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2012-12-18T15:26:53Z",
+        "uri": "https://web.archive.org/web/20121218152653/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2012-12-25T13:13:56Z",
+        "uri": "https://web.archive.org/web/20121225131356/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2012-12-30T23:44:42Z",
+        "uri": "https://web.archive.org/web/20121230234442/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-01-15T17:22:31Z",
+        "uri": "https://web.archive.org/web/20130115172231/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2013-03-01T11:18:38Z",
+        "uri": "https://web.archive.org/web/20130301111838/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-04-23T05:11:52Z",
+        "uri": "https://web.archive.org/web/20130423051152/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2013-05-01T06:49:46Z",
+        "uri": "https://web.archive.org/web/20130501064946/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-06-01T09:36:26Z",
+        "uri": "https://web.archive.org/web/20130601093626/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2013-07-02T02:27:37Z",
+        "uri": "https://web.archive.org/web/20130702022737/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-08-06T04:58:22Z",
+        "uri": "https://web.archive.org/web/20130806045822/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2013-09-01T05:40:48Z",
+        "uri": "https://web.archive.org/web/20130901054048/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-09-29T20:40:52Z",
+        "uri": "https://web.archive.org/web/20130929204052/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2013-10-31T17:41:56Z",
+        "uri": "https://web.archive.org/web/20131031174156/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2013-11-27T14:51:42Z",
+        "uri": "https://web.archive.org/web/20131127145142/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2014-01-03T21:24:06Z",
+        "uri": "https://web.archive.org/web/20140103212406/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2014-02-09T03:19:47Z",
+        "uri": "https://web.archive.org/web/20140209031947/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2014-02-13T12:06:25Z",
+        "uri": "https://web.archive.org/web/20140213120625/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2014-03-16T04:41:06Z",
+        "uri": "https://web.archive.org/web/20140316044106/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2014-05-16T16:05:59Z",
+        "uri": "https://web.archive.org/web/20140516160559/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2014-06-25T10:03:49Z",
+        "uri": "https://web.archive.org/web/20140625100349/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2014-07-08T18:30:22Z",
+        "uri": "https://web.archive.org/web/20140708183022/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2014-07-19T04:22:46Z",
+        "uri": "https://web.archive.org/web/20140719042246/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2015-02-17T05:09:16Z",
+        "uri": "https://web.archive.org/web/20150217050916/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2015-12-13T16:34:01Z",
+        "uri": "https://web.archive.org/web/20151213163401/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2016-06-13T12:23:48Z",
+        "uri": "https://web.archive.org/web/20160613122348/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-08-19T19:45:31Z",
+        "uri": "https://web.archive.org/web/20160819194531/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-08-21T06:09:45Z",
+        "uri": "https://web.archive.org/web/20160821060945/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-10-25T22:38:47Z",
+        "uri": "https://web.archive.org/web/20161025223847/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-10-27T01:03:40Z",
+        "uri": "https://web.archive.org/web/20161027010340/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-10-27T07:43:55Z",
+        "uri": "https://web.archive.org/web/20161027074355/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2016-11-07T11:12:49Z",
+        "uri": "https://web.archive.org/web/20161107111249/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2016-11-20T17:11:54Z",
+        "uri": "https://web.archive.org/web/20161120171154/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2016-11-22T03:49:24Z",
+        "uri": "https://web.archive.org/web/20161122034924/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-01-21T15:00:35Z",
+        "uri": "https://web.archive.org/web/20170121150035/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-01-27T07:32:45Z",
+        "uri": "https://web.archive.org/web/20170127073245/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-03-18T09:01:09Z",
+        "uri": "https://web.archive.org/web/20170318090109/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2017-03-25T22:33:45Z",
+        "uri": "https://web.archive.org/web/20170325223345/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2017-04-19T06:03:30Z",
+        "uri": "https://web.archive.org/web/20170419060330/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2017-05-01T08:35:57Z",
+        "uri": "https://web.archive.org/web/20170501083557/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-05-04T06:59:59Z",
+        "uri": "https://web.archive.org/web/20170504065959/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-05-31T09:02:46Z",
+        "uri": "https://web.archive.org/web/20170531090246/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-06-04T06:25:46Z",
+        "uri": "https://web.archive.org/web/20170604062546/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-06-06T09:49:20Z",
+        "uri": "https://web.archive.org/web/20170606094920/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2017-07-01T11:51:40Z",
+        "uri": "https://web.archive.org/web/20170701115140/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-07-04T22:18:40Z",
+        "uri": "https://web.archive.org/web/20170704221840/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-08-01T09:33:43Z",
+        "uri": "https://web.archive.org/web/20170801093343/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-08-04T23:28:24Z",
+        "uri": "https://web.archive.org/web/20170804232824/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-08-10T05:49:13Z",
+        "uri": "https://web.archive.org/web/20170810054913/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-09-01T12:25:03Z",
+        "uri": "https://web.archive.org/web/20170901122503/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-09-23T21:02:31Z",
+        "uri": "https://web.archive.org/web/20170923210231/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-10-02T03:43:32Z",
+        "uri": "https://web.archive.org/web/20171002034332/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-10-25T02:49:57Z",
+        "uri": "https://web.archive.org/web/20171025024957/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-10-28T05:25:58Z",
+        "uri": "https://web.archive.org/web/20171028052558/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-11-02T02:16:35Z",
+        "uri": "https://web.archive.org/web/20171102021635/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-11-28T16:57:34Z",
+        "uri": "https://web.archive.org/web/20171128165734/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-12-03T01:29:15Z",
+        "uri": "https://web.archive.org/web/20171203012915/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2017-12-29T10:31:50Z",
+        "uri": "https://web.archive.org/web/20171229103150/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-01-04T23:58:29Z",
+        "uri": "https://web.archive.org/web/20180104235829/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-01-29T06:10:24Z",
+        "uri": "https://web.archive.org/web/20180129061024/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-02-05T16:37:09Z",
+        "uri": "https://web.archive.org/web/20180205163709/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-03-02T18:42:56Z",
+        "uri": "https://web.archive.org/web/20180302184256/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-03-08T08:46:02Z",
+        "uri": "https://web.archive.org/web/20180308084602/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-04-02T08:12:13Z",
+        "uri": "https://web.archive.org/web/20180402081213/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-04-08T04:01:41Z",
+        "uri": "https://web.archive.org/web/20180408040141/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-05-03T23:50:20Z",
+        "uri": "https://web.archive.org/web/20180503235020/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-05-09T23:52:40Z",
+        "uri": "https://web.archive.org/web/20180509235240/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-06-04T16:55:18Z",
+        "uri": "https://web.archive.org/web/20180604165518/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-06-10T22:50:37Z",
+        "uri": "https://web.archive.org/web/20180610225037/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-07-05T22:14:08Z",
+        "uri": "https://web.archive.org/web/20180705221408/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-07-07T23:55:51Z",
+        "uri": "https://web.archive.org/web/20180707235551/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-07-12T08:53:37Z",
+        "uri": "https://web.archive.org/web/20180712085337/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-07-16T11:09:22Z",
+        "uri": "https://web.archive.org/web/20180716110922/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-08-12T01:28:34Z",
+        "uri": "https://web.archive.org/web/20180812012834/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-08-16T13:37:16Z",
+        "uri": "https://web.archive.org/web/20180816133716/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-09-08T06:16:17Z",
+        "uri": "https://web.archive.org/web/20180908061617/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2018-09-12T20:57:52Z",
+        "uri": "https://web.archive.org/web/20180912205752/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2018-09-13T04:16:49Z",
+        "uri": "https://web.archive.org/web/20180913041649/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-09-16T04:54:22Z",
+        "uri": "https://web.archive.org/web/20180916045422/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-10-13T23:32:43Z",
+        "uri": "https://web.archive.org/web/20181013233243/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-10-17T00:01:45Z",
+        "uri": "https://web.archive.org/web/20181017000145/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-11-05T19:09:04Z",
+        "uri": "https://web.archive.org/web/20181105190904/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2018-11-14T10:35:42Z",
+        "uri": "https://web.archive.org/web/20181114103542/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-11-17T04:41:51Z",
+        "uri": "https://web.archive.org/web/20181117044151/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-12-15T12:45:10Z",
+        "uri": "https://web.archive.org/web/20181215124510/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2018-12-18T06:00:35Z",
+        "uri": "https://web.archive.org/web/20181218060035/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-01-15T11:02:31Z",
+        "uri": "https://web.archive.org/web/20190115110231/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-01-18T18:19:04Z",
+        "uri": "https://web.archive.org/web/20190118181904/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-02-16T04:56:11Z",
+        "uri": "https://web.archive.org/web/20190216045611/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-02-18T23:43:31Z",
+        "uri": "https://web.archive.org/web/20190218234331/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-03-19T12:18:47Z",
+        "uri": "https://web.archive.org/web/20190319121847/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-03-22T15:15:54Z",
+        "uri": "https://web.archive.org/web/20190322151554/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-04-08T20:22:06Z",
+        "uri": "https://web.archive.org/web/20190408202206/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2019-04-14T21:35:28Z",
+        "uri": "https://web.archive.org/web/20190414213528/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2019-04-17T10:17:32Z",
+        "uri": "https://web.archive.org/web/20190417101732/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2019-04-19T23:08:37Z",
+        "uri": "https://web.archive.org/web/20190419230837/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-04-22T10:54:19Z",
+        "uri": "https://web.archive.org/web/20190422105419/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-05-22T09:10:29Z",
+        "uri": "https://web.archive.org/web/20190522091029/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-05-24T00:05:47Z",
+        "uri": "https://web.archive.org/web/20190524000547/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-06-04T20:22:27Z",
+        "uri": "https://web.archive.org/web/20190604202227/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2019-06-22T19:54:17Z",
+        "uri": "https://web.archive.org/web/20190622195417/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-06-24T04:17:36Z",
+        "uri": "https://web.archive.org/web/20190624041736/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-07-23T19:06:27Z",
+        "uri": "https://web.archive.org/web/20190723190627/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-07-25T05:10:16Z",
+        "uri": "https://web.archive.org/web/20190725051016/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-08-23T18:02:40Z",
+        "uri": "https://web.archive.org/web/20190823180240/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-08-25T00:05:23Z",
+        "uri": "https://web.archive.org/web/20190825000523/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-09-23T11:37:48Z",
+        "uri": "https://web.archive.org/web/20190923113748/http://odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-09-24T21:04:10Z",
+        "uri": "https://web.archive.org/web/20190924210410/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-10-16T05:33:57Z",
+        "uri": "https://web.archive.org/web/20191016053357/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-12-15T09:12:16Z",
+        "uri": "https://web.archive.org/web/20191215091216/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-02-13T14:40:30Z",
+        "uri": "https://web.archive.org/web/20200213144030/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2020-02-14T15:16:47Z",
+        "uri": "https://web.archive.org/web/20200214151647/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:37:09Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183709/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:37:09Z",
+        "uri": "https://web.archive.org/web/20200416183709/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:37:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183736/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:37:36Z",
+        "uri": "https://web.archive.org/web/20200416183736/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:38:01Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183801/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-16T18:38:01Z",
+        "uri": "https://web.archive.org/web/20200416183801/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-24T14:25:56Z",
+        "uri": "https://web.archive.org/web/20200424142556/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-04-27T13:52:19Z",
+        "uri": "https://web.archive.org/web/20200427135219/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-05-03T16:50:10Z",
+        "uri": "https://web.archive.org/web/20200503165010/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2020-07-02T23:22:11Z",
+        "uri": "https://web.archive.org/web/20200702232211/http://www.odu.edu:80/prospective"
+      },
+      {
+        "datetime": "2020-07-06T14:05:16Z",
+        "uri": "https://web.archive.org/web/20200706140516/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-07-12T10:40:32Z",
+        "uri": "https://web.archive.org/web/20200712104032/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-07-12T10:40:42Z",
+        "uri": "https://web.archive.org/web/20200712104042/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-08-20T13:39:24Z",
+        "uri": "https://web.archive.org/web/20200820133924/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-08-30T22:14:00Z",
+        "uri": "https://web.archive.org/web/20200830221400/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T20:33:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200910203356/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T20:33:56Z",
+        "uri": "https://web.archive.org/web/20200910203356/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T21:47:59Z",
+        "uri": "https://wayback.archive-it.org/all/20200910214759/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T21:47:59Z",
+        "uri": "https://web.archive.org/web/20200910214759/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T21:48:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200910214852/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-09-10T21:48:52Z",
+        "uri": "https://web.archive.org/web/20200910214852/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-10-05T07:00:59Z",
+        "uri": "https://web.archive.org/web/20201005070059/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-12-13T11:15:22Z",
+        "uri": "https://web.archive.org/web/20201213111522/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-12-13T11:17:57Z",
+        "uri": "https://web.archive.org/web/20201213111757/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2020-12-13T11:18:03Z",
+        "uri": "https://web.archive.org/web/20201213111803/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-01-26T11:59:41Z",
+        "uri": "https://web.archive.org/web/20210126115941/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-02-01T20:57:41Z",
+        "uri": "https://web.archive.org/web/20210201205741/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-02-07T15:25:58Z",
+        "uri": "https://web.archive.org/web/20210207152558/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-13T17:35:12Z",
+        "uri": "https://web.archive.org/web/20210413173512/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-14T03:41:43Z",
+        "uri": "https://web.archive.org/web/20210414034143/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-14T10:48:04Z",
+        "uri": "https://web.archive.org/web/20210414104804/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-23T16:41:56Z",
+        "uri": "https://web.archive.org/web/20210423164156/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-24T03:46:04Z",
+        "uri": "https://web.archive.org/web/20210424034604/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-24T20:26:56Z",
+        "uri": "https://web.archive.org/web/20210424202656/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-25T17:21:39Z",
+        "uri": "https://web.archive.org/web/20210425172139/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-04-30T20:12:14Z",
+        "uri": "https://web.archive.org/web/20210430201214/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-20T15:25:17Z",
+        "uri": "https://web.archive.org/web/20210520152517/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:12Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194312/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:12Z",
+        "uri": "https://web.archive.org/web/20210526194312/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194317/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:17Z",
+        "uri": "https://web.archive.org/web/20210526194317/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:23Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194323/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-05-26T19:43:23Z",
+        "uri": "https://web.archive.org/web/20210526194323/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-06-02T01:57:43Z",
+        "uri": "https://web.archive.org/web/20210602015743/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-06-05T17:43:36Z",
+        "uri": "https://web.archive.org/web/20210605174336/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-06-05T20:35:23Z",
+        "uri": "https://web.archive.org/web/20210605203523/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-08-11T19:21:11Z",
+        "uri": "https://web.archive.org/web/20210811192111/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-08-12T06:51:59Z",
+        "uri": "https://web.archive.org/web/20210812065159/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-08-12T21:30:50Z",
+        "uri": "https://web.archive.org/web/20210812213050/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-09-03T08:15:51Z",
+        "uri": "https://webarchive.loc.gov/all/20210903081551/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-09-04T07:23:45Z",
+        "uri": "https://webarchive.loc.gov/all/20210904072345/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-09-06T08:25:20Z",
+        "uri": "https://webarchive.loc.gov/all/20210906082520/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-09-10T15:33:51Z",
+        "uri": "https://arquivo.pt/wayback/20210910153351mp_/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-10-20T02:53:29Z",
+        "uri": "https://web.archive.org/web/20211020025329/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-03T11:12:50Z",
+        "uri": "https://arquivo.pt/wayback/20211103111250mp_/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-03T11:12:50Z",
+        "uri": "https://web.archive.org/web/20211103111250/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-03T11:12:56Z",
+        "uri": "https://arquivo.pt/wayback/20211103111256mp_/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-03T11:12:56Z",
+        "uri": "https://web.archive.org/web/20211103111256/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-13T07:23:13Z",
+        "uri": "https://web.archive.org/web/20211113072313/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2021-11-28T01:51:55Z",
+        "uri": "https://web.archive.org/web/20211128015155/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-07T22:19:37Z",
+        "uri": "https://web.archive.org/web/20220107221937/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-08T16:38:57Z",
+        "uri": "https://web.archive.org/web/20220108163857/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-10T17:09:06Z",
+        "uri": "https://web.archive.org/web/20220110170906/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-11T20:15:24Z",
+        "uri": "https://web.archive.org/web/20220111201524/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-12T16:58:29Z",
+        "uri": "https://web.archive.org/web/20220112165829/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-12T21:57:10Z",
+        "uri": "https://web.archive.org/web/20220112215710/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-13T00:59:55Z",
+        "uri": "https://web.archive.org/web/20220113005955/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-13T19:30:45Z",
+        "uri": "https://web.archive.org/web/20220113193045/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-16T23:35:28Z",
+        "uri": "https://web.archive.org/web/20220116233528/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-17T07:08:19Z",
+        "uri": "https://web.archive.org/web/20220117070819/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-21T21:46:33Z",
+        "uri": "https://web.archive.org/web/20220121214633/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-22T10:15:08Z",
+        "uri": "https://arquivo.pt/wayback/20220122101508mp_/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-24T20:25:13Z",
+        "uri": "https://web.archive.org/web/20220124202513/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-26T02:01:58Z",
+        "uri": "https://web.archive.org/web/20220126020158/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-26T05:32:13Z",
+        "uri": "https://arquivo.pt/wayback/20220126053213mp_/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-01-31T22:16:21Z",
+        "uri": "https://web.archive.org/web/20220131221621/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-02-01T22:29:40Z",
+        "uri": "https://web.archive.org/web/20220201222940/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-02-17T23:24:00Z",
+        "uri": "https://web.archive.org/web/20220217232400/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-03-10T00:32:08Z",
+        "uri": "https://web.archive.org/web/20220310003208/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-03-20T09:23:11Z",
+        "uri": "https://web.archive.org/web/20220320092311/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-03-20T09:23:11Z",
+        "uri": "https://web.archive.org/web/20220320092311/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-04-17T05:21:10Z",
+        "uri": "https://arquivo.pt/wayback/20220417052110mp_/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-04-19T20:49:42Z",
+        "uri": "https://web.archive.org/web/20220419204942/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-04-22T17:12:59Z",
+        "uri": "https://arquivo.pt/wayback/20220422171259mp_/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-04-22T17:13:03Z",
+        "uri": "https://arquivo.pt/wayback/20220422171303mp_/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-04-24T18:49:50Z",
+        "uri": "https://arquivo.pt/wayback/20220424184950mp_/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-05-14T05:03:13Z",
+        "uri": "https://web.archive.org/web/20220514050313/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-05-25T10:42:33Z",
+        "uri": "https://web.archive.org/web/20220525104233/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-08T14:59:33Z",
+        "uri": "https://web.archive.org/web/20220608145933/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-15T05:39:33Z",
+        "uri": "https://web.archive.org/web/20220615053933/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-18T23:24:36Z",
+        "uri": "https://web.archive.org/web/20220618232436/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-18T23:39:49Z",
+        "uri": "https://web.archive.org/web/20220618233949/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-19T11:22:46Z",
+        "uri": "https://web.archive.org/web/20220619112246/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-19T23:21:14Z",
+        "uri": "https://web.archive.org/web/20220619232114/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-19T23:23:56Z",
+        "uri": "https://web.archive.org/web/20220619232356/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-06-20T02:49:06Z",
+        "uri": "https://web.archive.org/web/20220620024906/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-07-30T14:31:44Z",
+        "uri": "https://arquivo.pt/wayback/20220730143144mp_/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-02T22:00:18Z",
+        "uri": "https://web.archive.org/web/20220802220018/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-03T03:47:34Z",
+        "uri": "https://web.archive.org/web/20220803034734/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-04T02:21:20Z",
+        "uri": "https://web.archive.org/web/20220804022120/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-04T07:15:05Z",
+        "uri": "https://web.archive.org/web/20220804071505/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-07T20:30:46Z",
+        "uri": "https://web.archive.org/web/20220807203046/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-08T20:12:54Z",
+        "uri": "https://web.archive.org/web/20220808201254/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-08T20:18:08Z",
+        "uri": "https://web.archive.org/web/20220808201808/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-09T13:07:19Z",
+        "uri": "https://web.archive.org/web/20220809130719/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T18:25:47Z",
+        "uri": "https://web.archive.org/web/20220810182547/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:06:06Z",
+        "uri": "https://web.archive.org/web/20220810190606/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:49:45Z",
+        "uri": "https://wayback.archive-it.org/all/20220810194945/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:49:45Z",
+        "uri": "https://web.archive.org/web/20220810194945/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:49:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220810194952/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:49:52Z",
+        "uri": "https://web.archive.org/web/20220810194952/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:50:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195006/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-08-10T19:50:06Z",
+        "uri": "https://web.archive.org/web/20220810195006/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-09-22T11:39:51Z",
+        "uri": "https://web.archive.org/web/20220922113951/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-10-11T02:05:57Z",
+        "uri": "https://arquivo.pt/wayback/20221011020557mp_/https://odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-10-13T16:45:00Z",
+        "uri": "https://web.archive.org/web/20221013164500/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-10-23T20:43:10Z",
+        "uri": "https://web.archive.org/web/20221023204310/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-11-07T09:52:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221107095212/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-11-07T09:52:12Z",
+        "uri": "https://web.archive.org/web/20221107095212/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-11-09T00:54:29Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005429/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-11-09T00:54:29Z",
+        "uri": "https://web.archive.org/web/20221109005429/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-12-08T05:59:31Z",
+        "uri": "https://web.archive.org/web/20221208055931/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-12-08T07:03:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221208070306/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-12-08T07:03:06Z",
+        "uri": "https://web.archive.org/web/20221208070306/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-12-14T02:56:02Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025602/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2022-12-14T02:56:02Z",
+        "uri": "https://web.archive.org/web/20221214025602/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-01-08T04:22:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230108042218/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-01-08T04:22:18Z",
+        "uri": "https://web.archive.org/web/20230108042218/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-02-08T00:28:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230208002825/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-02-08T00:28:25Z",
+        "uri": "https://web.archive.org/web/20230208002825/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-03-07T06:15:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230307061545/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-03-07T06:15:45Z",
+        "uri": "https://web.archive.org/web/20230307061545/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-03-09T04:15:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041504/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-03-09T04:15:04Z",
+        "uri": "https://web.archive.org/web/20230309041504/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-08-25T19:43:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230825194351/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-08-25T19:43:51Z",
+        "uri": "https://web.archive.org/web/20230825194351/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-08-27T02:21:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022129/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-08-27T02:21:29Z",
+        "uri": "https://web.archive.org/web/20230827022129/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2023-12-07T07:47:20Z",
+        "uri": "https://web.archive.org/web/20231207074720/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-01-17T00:35:41Z",
+        "uri": "https://web.archive.org/web/20240117003541/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-01-17T00:35:51Z",
+        "uri": "https://web.archive.org/web/20240117003551/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-01-17T00:35:52Z",
+        "uri": "https://web.archive.org/web/20240117003552/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-04-04T07:26:53Z",
+        "uri": "https://web.archive.org/web/20240404072653/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-04-27T16:12:27Z",
+        "uri": "https://web.archive.org/web/20240427161227/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-05-24T05:49:39Z",
+        "uri": "https://wayback.archive-it.org/all/20240524054939/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-05-25T09:12:12Z",
+        "uri": "https://web.archive.org/web/20240525091212/https://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-05-30T03:55:49Z",
+        "uri": "https://wayback.archive-it.org/all/20240530035549/http://www.odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-08-18T05:00:37Z",
+        "uri": "https://web.archive.org/web/20240818050037/http://odu.edu/prospective"
+      },
+      {
+        "datetime": "2024-09-07T05:09:51Z",
+        "uri": "https://web.archive.org/web/20240907050951/https://www.odu.edu/prospective"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T14:48:29Z",
+      "uri": "https://web.archive.org/web/20120831144829/http://www.odu.edu:80/prospective"
+    },
+    "last": {
+      "datetime": "2024-09-07T05:09:51Z",
+      "uri": "https://web.archive.org/web/20240907050951/https://www.odu.edu/prospective"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/prospective",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/prospective",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/prospective"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/prospective"
+}

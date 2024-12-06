@@ -1,0 +1,382 @@
+{
+  "original_uri": "https://www.odu.edu/life/support/wgec",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/support/wgec",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-12-18T14:21:40Z",
+        "uri": "https://web.archive.org/web/20211218142140/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2021-12-18T14:21:52Z",
+        "uri": "https://web.archive.org/web/20211218142152/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-01-20T21:25:22Z",
+        "uri": "https://web.archive.org/web/20220120212522/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-01-20T21:25:23Z",
+        "uri": "https://web.archive.org/web/20220120212523/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-03-19T20:02:57Z",
+        "uri": "https://web.archive.org/web/20220319200257/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-05-07T22:14:37Z",
+        "uri": "https://arquivo.pt/wayback/20220507221437mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-05-16T04:42:35Z",
+        "uri": "https://arquivo.pt/wayback/20220516044235mp_/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-05-27T21:54:48Z",
+        "uri": "https://web.archive.org/web/20220527215448/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-05-28T04:55:14Z",
+        "uri": "https://web.archive.org/web/20220528045514/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:50:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220810225056/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:50:56Z",
+        "uri": "https://web.archive.org/web/20220810225056/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:51:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810225106/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:51:06Z",
+        "uri": "https://web.archive.org/web/20220810225106/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:51:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220810225116/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-10T22:51:16Z",
+        "uri": "https://web.archive.org/web/20220810225116/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-18T08:08:24Z",
+        "uri": "https://arquivo.pt/wayback/20220818080824mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-08-31T20:34:53Z",
+        "uri": "https://web.archive.org/web/20220831203453/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-09-09T11:59:51Z",
+        "uri": "https://web.archive.org/web/20220909115951/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-09-09T20:24:59Z",
+        "uri": "https://web.archive.org/web/20220909202459/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-10-01T20:53:12Z",
+        "uri": "https://web.archive.org/web/20221001205312/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-10-03T05:43:17Z",
+        "uri": "https://web.archive.org/web/20221003054317/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-10-31T11:20:45Z",
+        "uri": "https://web.archive.org/web/20221031112045/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-07T06:02:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060209/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-07T06:02:09Z",
+        "uri": "https://web.archive.org/web/20221107060209/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-07T18:24:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221107182456/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-07T18:24:56Z",
+        "uri": "https://web.archive.org/web/20221107182456/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-16T04:05:20Z",
+        "uri": "https://arquivo.pt/wayback/20221116040520mp_/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-11-18T19:31:28Z",
+        "uri": "https://web.archive.org/web/20221118193128/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-12-07T11:38:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221207113856/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-12-07T11:38:56Z",
+        "uri": "https://web.archive.org/web/20221207113856/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-12-08T07:14:25Z",
+        "uri": "https://web.archive.org/web/20221208071425/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-12-10T16:37:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221210163721/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2022-12-10T16:37:21Z",
+        "uri": "https://web.archive.org/web/20221210163721/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-07T10:50:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230107105018/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-07T10:50:18Z",
+        "uri": "https://web.archive.org/web/20230107105018/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-09T17:41:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230109174148/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-09T17:41:48Z",
+        "uri": "https://web.archive.org/web/20230109174148/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-01-24T20:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124202200mp_/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-02-07T09:36:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230207093656/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-02-07T09:36:56Z",
+        "uri": "https://web.archive.org/web/20230207093656/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-02-10T02:08:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230210020815/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-02-10T02:08:15Z",
+        "uri": "https://web.archive.org/web/20230210020815/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-02-20T01:00:32Z",
+        "uri": "https://web.archive.org/web/20230220010032/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-07T04:54:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045417/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-07T04:54:17Z",
+        "uri": "https://web.archive.org/web/20230307045417/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-07T14:51:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230307145123/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-07T14:51:23Z",
+        "uri": "https://web.archive.org/web/20230307145123/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-27T22:34:12Z",
+        "uri": "https://web.archive.org/web/20230327223412/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-03-31T21:40:47Z",
+        "uri": "https://web.archive.org/web/20230331214047/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-04-02T11:10:49Z",
+        "uri": "https://web.archive.org/web/20230402111049/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-05-01T21:41:06Z",
+        "uri": "https://web.archive.org/web/20230501214106/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-06-01T10:59:51Z",
+        "uri": "https://web.archive.org/web/20230601105951/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-06-04T23:10:53Z",
+        "uri": "https://web.archive.org/web/20230604231053/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-07-01T11:11:28Z",
+        "uri": "https://web.archive.org/web/20230701111128/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-01T16:40:32Z",
+        "uri": "https://web.archive.org/web/20230801164032/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-25T18:47:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230825184759/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-25T18:47:59Z",
+        "uri": "https://web.archive.org/web/20230825184759/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-26T07:26:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230826072635/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-26T07:26:35Z",
+        "uri": "https://web.archive.org/web/20230826072635/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-26T22:51:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230826225104/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-08-26T22:51:04Z",
+        "uri": "https://web.archive.org/web/20230826225104/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-10-10T15:50:18Z",
+        "uri": "https://web.archive.org/web/20231010155018/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-11-01T13:01:25Z",
+        "uri": "https://web.archive.org/web/20231101130125/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-11-28T03:54:23Z",
+        "uri": "https://web.archive.org/web/20231128035423/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2023-12-04T12:43:07Z",
+        "uri": "https://web.archive.org/web/20231204124307/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-01-01T13:13:00Z",
+        "uri": "https://web.archive.org/web/20240101131300/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-02-01T10:07:41Z",
+        "uri": "https://web.archive.org/web/20240201100741/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-02-21T20:16:45Z",
+        "uri": "https://web.archive.org/web/20240221201645/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-02-28T21:32:59Z",
+        "uri": "https://web.archive.org/web/20240228213259/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-03-02T14:19:35Z",
+        "uri": "https://web.archive.org/web/20240302141935/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-03-06T15:29:01Z",
+        "uri": "https://web.archive.org/web/20240306152901/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-04-01T00:11:14Z",
+        "uri": "https://web.archive.org/web/20240401001114/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-04-01T13:06:03Z",
+        "uri": "https://web.archive.org/web/20240401130603/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-04-27T16:08:38Z",
+        "uri": "https://web.archive.org/web/20240427160838/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-05-01T10:26:56Z",
+        "uri": "https://web.archive.org/web/20240501102656/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-05-13T13:54:07Z",
+        "uri": "https://web.archive.org/web/20240513135407/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-05-23T23:06:34Z",
+        "uri": "https://wayback.archive-it.org/all/20240523230634/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-05-24T16:48:30Z",
+        "uri": "https://wayback.archive-it.org/all/20240524164830/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-05-26T13:38:06Z",
+        "uri": "https://wayback.archive-it.org/all/20240526133806/http://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-06-01T04:14:51Z",
+        "uri": "https://web.archive.org/web/20240601041451/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-06-18T17:38:32Z",
+        "uri": "https://web.archive.org/web/20240618173832/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-07-04T07:07:27Z",
+        "uri": "https://web.archive.org/web/20240704070727/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-07-15T23:30:30Z",
+        "uri": "https://web.archive.org/web/20240715233030/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-07-29T13:31:32Z",
+        "uri": "https://web.archive.org/web/20240729133132/https://odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-08-01T01:18:00Z",
+        "uri": "https://web.archive.org/web/20240801011800/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-09-01T08:39:15Z",
+        "uri": "https://web.archive.org/web/20240901083915/https://www.odu.edu/life/support/wgec"
+      },
+      {
+        "datetime": "2024-09-01T09:12:10Z",
+        "uri": "https://web.archive.org/web/20240901091210/https://www.odu.edu/life/support/wgec"
+      }
+    ],
+    "first": {
+      "datetime": "2021-12-18T14:21:40Z",
+      "uri": "https://web.archive.org/web/20211218142140/http://www.odu.edu/life/support/wgec"
+    },
+    "last": {
+      "datetime": "2024-09-01T09:12:10Z",
+      "uri": "https://web.archive.org/web/20240901091210/https://www.odu.edu/life/support/wgec"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/support/wgec",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/support/wgec",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/support/wgec"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/support/wgec"
+}

@@ -1,0 +1,366 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/pers?prefix=Z",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=Z",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-10-08T15:58:57Z",
+        "uri": "https://web.archive.org/web/20141008155857/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-02-26T07:52:33Z",
+        "uri": "https://web.archive.org/web/20150226075233/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-04-28T06:18:09Z",
+        "uri": "https://web.archive.org/web/20150428061809/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-07-01T10:33:54Z",
+        "uri": "https://web.archive.org/web/20150701103354/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-08-31T03:42:43Z",
+        "uri": "https://web.archive.org/web/20150831034243/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-09-05T20:41:32Z",
+        "uri": "https://web.archive.org/web/20150905204132/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-09-22T04:16:48Z",
+        "uri": "https://web.archive.org/web/20150922041648/http://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2015-10-30T18:48:42Z",
+        "uri": "https://web.archive.org/web/20151030184842/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2015-12-30T05:32:10Z",
+        "uri": "https://web.archive.org/web/20151230053210/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-02-28T12:36:48Z",
+        "uri": "https://web.archive.org/web/20160228123648/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-03-13T07:31:06Z",
+        "uri": "https://web.archive.org/web/20160313073106/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-03-31T05:48:46Z",
+        "uri": "https://web.archive.org/web/20160331054846/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-04-08T08:42:34Z",
+        "uri": "https://web.archive.org/web/20160408084234/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-04-29T09:06:28Z",
+        "uri": "https://web.archive.org/web/20160429090628/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-07-03T22:37:54Z",
+        "uri": "https://web.archive.org/web/20160703223754/http://dblp.uni-trier.de:80/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2016-07-06T08:06:32Z",
+        "uri": "https://web.archive.org/web/20160706080632/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-07-18T16:53:25Z",
+        "uri": "https://web.archive.org/web/20160718165325/http://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2016-09-04T21:14:28Z",
+        "uri": "https://web.archive.org/web/20160904211428/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-10-11T19:41:39Z",
+        "uri": "https://web.archive.org/web/20161011194139/http://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2016-11-05T03:10:57Z",
+        "uri": "https://web.archive.org/web/20161105031057/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-11-19T01:59:46Z",
+        "uri": "https://web.archive.org/web/20161119015946/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2016-11-26T21:39:54Z",
+        "uri": "https://web.archive.org/web/20161126213954/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-04-29T05:20:17Z",
+        "uri": "https://web.archive.org/web/20170429052017/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-06-15T17:42:36Z",
+        "uri": "https://web.archive.org/web/20170615174236/http://dblp.uni-trier.de:80/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2017-06-24T20:53:38Z",
+        "uri": "https://web.archive.org/web/20170624205338/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-06-28T18:48:23Z",
+        "uri": "https://web.archive.org/web/20170628184823/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-08-29T00:15:51Z",
+        "uri": "https://web.archive.org/web/20170829001551/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-09-09T13:41:51Z",
+        "uri": "https://web.archive.org/web/20170909134151/http://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2017-10-03T01:11:52Z",
+        "uri": "https://wayback.archive-it.org/all/20171003011152/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-10-03T01:11:52Z",
+        "uri": "https://web.archive.org/web/20171003011152/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-10-05T16:17:15Z",
+        "uri": "https://web.archive.org/web/20171005161715/http://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-10-28T09:12:07Z",
+        "uri": "https://web.archive.org/web/20171028091207/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2017-12-28T14:19:14Z",
+        "uri": "https://web.archive.org/web/20171228141914/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2018-01-04T12:07:52Z",
+        "uri": "https://web.archive.org/web/20180104120752/http://dblp.uni-trier.de:80/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2018-02-27T15:48:29Z",
+        "uri": "https://web.archive.org/web/20180227154829/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2018-04-29T17:00:56Z",
+        "uri": "https://web.archive.org/web/20180429170056/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2018-06-30T12:04:29Z",
+        "uri": "https://web.archive.org/web/20180630120429/http://dblp.uni-trier.de:80/pers?prefix=Z"
+      },
+      {
+        "datetime": "2019-11-14T22:23:15Z",
+        "uri": "https://arquivo.pt/wayback/20191114222315mp_/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-02-25T17:54:14Z",
+        "uri": "https://arquivo.pt/wayback/20200225175414mp_/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2020-03-12T15:32:03Z",
+        "uri": "https://arquivo.pt/wayback/20200312153203mp_/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-03-17T11:37:36Z",
+        "uri": "https://web.archive.org/web/20200317113736/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-04-21T04:50:07Z",
+        "uri": "https://web.archive.org/web/20200421045007/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-05-11T08:29:51Z",
+        "uri": "https://web.archive.org/web/20200511082951/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-06-16T18:58:10Z",
+        "uri": "https://web.archive.org/web/20200616185810/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-07-24T07:42:37Z",
+        "uri": "https://web.archive.org/web/20200724074237/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2020-07-31T13:10:06Z",
+        "uri": "https://web.archive.org/web/20200731131006/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-09-14T10:26:29Z",
+        "uri": "https://web.archive.org/web/20200914102629/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2020-10-29T08:16:50Z",
+        "uri": "https://web.archive.org/web/20201029081650/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2021-03-16T19:53:38Z",
+        "uri": "https://web.archive.org/web/20210316195338/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-03-29T13:07:54Z",
+        "uri": "https://web.archive.org/web/20210329130754/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-05-12T09:20:38Z",
+        "uri": "https://web.archive.org/web/20210512092038/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2021-05-16T12:31:20Z",
+        "uri": "https://web.archive.org/web/20210516123120/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-05-20T02:02:07Z",
+        "uri": "https://web.archive.org/web/20210520020207/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-08-11T22:01:17Z",
+        "uri": "https://web.archive.org/web/20210811220117/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-08-13T05:13:38Z",
+        "uri": "https://web.archive.org/web/20210813051338/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-08-20T02:54:54Z",
+        "uri": "https://web.archive.org/web/20210820025454/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2021-08-20T04:07:31Z",
+        "uri": "https://web.archive.org/web/20210820040731/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2021-08-23T17:32:22Z",
+        "uri": "https://web.archive.org/web/20210823173222/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2021-09-04T10:42:24Z",
+        "uri": "https://web.archive.org/web/20210904104224/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-09-19T17:04:42Z",
+        "uri": "https://arquivo.pt/wayback/20210919170442mp_/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-11-26T22:00:57Z",
+        "uri": "https://web.archive.org/web/20211126220057/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-11-26T22:05:42Z",
+        "uri": "https://web.archive.org/web/20211126220542/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2021-12-29T02:21:29Z",
+        "uri": "https://web.archive.org/web/20211229022129/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2022-03-08T16:19:56Z",
+        "uri": "https://web.archive.org/web/20220308161956/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-01T08:47:51Z",
+        "uri": "https://web.archive.org/web/20220401084751/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-01T16:38:04Z",
+        "uri": "https://web.archive.org/web/20220401163804/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-01T16:46:18Z",
+        "uri": "https://web.archive.org/web/20220401164618/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-07T08:04:28Z",
+        "uri": "https://web.archive.org/web/20220407080428/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-21T01:24:26Z",
+        "uri": "https://web.archive.org/web/20220421012426/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2022-04-28T19:24:35Z",
+        "uri": "https://web.archive.org/web/20220428192435/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2022-05-19T03:23:00Z",
+        "uri": "https://web.archive.org/web/20220519032300/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2022-05-25T00:40:06Z",
+        "uri": "https://web.archive.org/web/20220525004006/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2022-09-26T01:18:59Z",
+        "uri": "https://web.archive.org/web/20220926011859/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-03-17T23:19:39Z",
+        "uri": "https://web.archive.org/web/20230317231939/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-05-30T04:48:30Z",
+        "uri": "https://web.archive.org/web/20230530044830/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2023-05-31T11:51:12Z",
+        "uri": "https://web.archive.org/web/20230531115112/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-06-09T20:56:41Z",
+        "uri": "https://web.archive.org/web/20230609205641/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-06-16T19:37:07Z",
+        "uri": "https://web.archive.org/web/20230616193707/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-12-15T10:49:30Z",
+        "uri": "https://web.archive.org/web/20231215104930/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-12-15T17:19:38Z",
+        "uri": "https://web.archive.org/web/20231215171938/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2023-12-15T17:30:40Z",
+        "uri": "https://web.archive.org/web/20231215173040/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2024-02-25T04:48:10Z",
+        "uri": "https://web.archive.org/web/20240225044810/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2024-05-29T01:45:41Z",
+        "uri": "https://web.archive.org/web/20240529014541/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2024-06-18T19:00:43Z",
+        "uri": "https://web.archive.org/web/20240618190043/https://dblp.uni-trier.de/pers/?prefix=Z"
+      },
+      {
+        "datetime": "2024-09-30T19:24:15Z",
+        "uri": "https://web.archive.org/web/20240930192415/https://dblp.uni-trier.de/pers?prefix=Z"
+      },
+      {
+        "datetime": "2024-12-02T08:49:24Z",
+        "uri": "https://web.archive.org/web/20241202084924/https://dblp.uni-trier.de/pers?prefix=Z"
+      }
+    ],
+    "first": {
+      "datetime": "2014-10-08T15:58:57Z",
+      "uri": "https://web.archive.org/web/20141008155857/http://dblp.uni-trier.de/pers?prefix=Z"
+    },
+    "last": {
+      "datetime": "2024-12-02T08:49:24Z",
+      "uri": "https://web.archive.org/web/20241202084924/https://dblp.uni-trier.de/pers?prefix=Z"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/pers?prefix=Z",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/pers?prefix=Z",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/pers?prefix=Z"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/pers?prefix=Z"
+}

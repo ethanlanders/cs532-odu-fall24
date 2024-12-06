@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-10-13T17:23:46Z",
+        "uri": "https://web.archive.org/web/20191013172346/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2021-06-04T05:06:10Z",
+        "uri": "https://arquivo.pt/wayback/20210604050610mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-06-13T05:03:15Z",
+        "uri": "https://arquivo.pt/wayback/20210613050315mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-06-14T02:36:35Z",
+        "uri": "https://arquivo.pt/wayback/20210614023635mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-06-14T14:26:40Z",
+        "uri": "https://arquivo.pt/wayback/20210614142640mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-06-21T21:21:34Z",
+        "uri": "https://arquivo.pt/wayback/20210621212134mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-10-18T11:08:35Z",
+        "uri": "https://arquivo.pt/wayback/20211018110835mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2021-10-18T11:08:35Z",
+        "uri": "https://web.archive.org/web/20211018110835/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2021-12-11T20:10:43Z",
+        "uri": "https://web.archive.org/web/20211211201043/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2022-08-04T14:38:08Z",
+        "uri": "https://web.archive.org/web/20220804143808/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2022-08-14T04:19:02Z",
+        "uri": "https://arquivo.pt/wayback/20220814041902mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2022-10-27T01:47:04Z",
+        "uri": "https://arquivo.pt/wayback/20221027014704mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2022-11-25T00:52:01Z",
+        "uri": "https://web.archive.org/web/20221125005201/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2022-12-08T06:15:12Z",
+        "uri": "https://web.archive.org/web/20221208061512/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2022-12-24T16:17:55Z",
+        "uri": "https://web.archive.org/web/20221224161755/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2022-12-25T10:36:29Z",
+        "uri": "https://web.archive.org/web/20221225103629/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2023-02-02T10:22:47Z",
+        "uri": "https://arquivo.pt/wayback/20230202102247mp_/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+      },
+      {
+        "datetime": "2023-02-11T07:40:21Z",
+        "uri": "https://web.archive.org/web/20230211074021/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2023-05-19T22:51:50Z",
+        "uri": "https://web.archive.org/web/20230519225150/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2024-04-21T20:55:16Z",
+        "uri": "https://web.archive.org/web/20240421205516/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      },
+      {
+        "datetime": "2024-09-28T11:40:13Z",
+        "uri": "https://web.archive.org/web/20240928114013/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+      }
+    ],
+    "first": {
+      "datetime": "2019-10-13T17:23:46Z",
+      "uri": "https://web.archive.org/web/20191013172346/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+    },
+    "last": {
+      "datetime": "2024-09-28T11:40:13Z",
+      "uri": "https://web.archive.org/web/20240928114013/https://dblp.uni-trier.de/search/author?author=Michael%2520L.%2520Nelson"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/search/author?author=Michael%20L.%20Nelson"
+}

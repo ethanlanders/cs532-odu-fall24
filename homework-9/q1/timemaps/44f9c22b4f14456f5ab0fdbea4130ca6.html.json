@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T12:00:09Z",
+        "uri": "https://web.archive.org/web/20220524120009/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2022-05-27T23:45:08Z",
+        "uri": "https://web.archive.org/web/20220527234508/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:32Z",
+        "uri": "https://web.archive.org/web/20220622021432/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:18Z",
+        "uri": "https://web.archive.org/web/20230107001318/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-02-04T08:44:52Z",
+        "uri": "https://web.archive.org/web/20230204084452/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-06-04T00:38:13Z",
+        "uri": "https://web.archive.org/web/20230604003813/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-12-02T08:29:24Z",
+        "uri": "https://web.archive.org/web/20231202082924/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:07Z",
+        "uri": "https://web.archive.org/web/20231216174007/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2024-04-07T08:27:34Z",
+        "uri": "https://web.archive.org/web/20240407082734/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      },
+      {
+        "datetime": "2024-05-19T04:55:50Z",
+        "uri": "https://web.archive.org/web/20240519045550/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T12:00:09Z",
+      "uri": "https://web.archive.org/web/20220524120009/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+    },
+    "last": {
+      "datetime": "2024-05-19T04:55:50Z",
+      "uri": "https://web.archive.org/web/20240519045550/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/continue-your-studies-in-germany/recognition-of-study-achievements/"
+}

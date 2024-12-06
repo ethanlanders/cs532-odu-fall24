@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T23:10:58Z",
+        "uri": "https://web.archive.org/web/20231108231058/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2023-11-30T00:20:02Z",
+        "uri": "https://web.archive.org/web/20231130002002/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-01-17T00:34:39Z",
+        "uri": "https://web.archive.org/web/20240117003439/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-04-04T07:25:59Z",
+        "uri": "https://web.archive.org/web/20240404072559/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-04-21T01:12:44Z",
+        "uri": "https://web.archive.org/web/20240421011244/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-04-27T16:09:41Z",
+        "uri": "https://web.archive.org/web/20240427160941/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-05-23T20:27:56Z",
+        "uri": "https://wayback.archive-it.org/all/20240523202756/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T23:10:58Z",
+      "uri": "https://web.archive.org/web/20231108231058/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+    },
+    "last": {
+      "datetime": "2024-05-23T20:27:56Z",
+      "uri": "https://wayback.archive-it.org/all/20240523202756/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+}

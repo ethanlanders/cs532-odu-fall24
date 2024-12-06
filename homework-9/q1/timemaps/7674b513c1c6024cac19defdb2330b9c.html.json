@@ -1,0 +1,534 @@
+{
+  "original_uri": "https://warmes-bett.de/",
+  "self": "http://localhost:1208/timemap/json/https://warmes-bett.de/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-02-28T11:45:10Z",
+        "uri": "https://web.archive.org/web/20220228114510/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-02-28T11:46:21Z",
+        "uri": "https://web.archive.org/web/20220228114621/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T01:13:46Z",
+        "uri": "https://web.archive.org/web/20220301011346/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:05Z",
+        "uri": "https://web.archive.org/web/20220301140505/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:05Z",
+        "uri": "https://web.archive.org/web/20220301140505/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:05Z",
+        "uri": "https://web.archive.org/web/20220301140505/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:41Z",
+        "uri": "https://web.archive.org/web/20220301140541/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:42Z",
+        "uri": "https://web.archive.org/web/20220301140542/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:42Z",
+        "uri": "https://web.archive.org/web/20220301140542/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:58Z",
+        "uri": "https://web.archive.org/web/20220301140558/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-01T14:05:59Z",
+        "uri": "https://web.archive.org/web/20220301140559/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-03T21:38:08Z",
+        "uri": "https://web.archive.org/web/20220303213808/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-07T21:51:38Z",
+        "uri": "https://web.archive.org/web/20220307215138/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-07T21:51:38Z",
+        "uri": "https://web.archive.org/web/20220307215138/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-07T21:52:59Z",
+        "uri": "https://web.archive.org/web/20220307215259/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-07T21:52:59Z",
+        "uri": "https://web.archive.org/web/20220307215259/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-08T11:48:49Z",
+        "uri": "https://web.archive.org/web/20220308114849/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-08T11:50:57Z",
+        "uri": "https://web.archive.org/web/20220308115057/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-08T15:36:45Z",
+        "uri": "https://web.archive.org/web/20220308153645/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-11T17:35:51Z",
+        "uri": "https://web.archive.org/web/20220311173551/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-11T20:10:02Z",
+        "uri": "https://web.archive.org/web/20220311201002/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-13T12:07:23Z",
+        "uri": "https://web.archive.org/web/20220313120723/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-13T15:09:48Z",
+        "uri": "https://web.archive.org/web/20220313150948/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-15T01:29:19Z",
+        "uri": "https://web.archive.org/web/20220315012919/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-19T19:24:47Z",
+        "uri": "https://web.archive.org/web/20220319192447/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-22T06:53:01Z",
+        "uri": "https://web.archive.org/web/20220322065301/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-22T13:10:13Z",
+        "uri": "https://web.archive.org/web/20220322131013/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-22T16:40:25Z",
+        "uri": "http://archive.md/20220322164025/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-23T13:22:35Z",
+        "uri": "https://web.archive.org/web/20220323132235/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-23T16:10:55Z",
+        "uri": "https://web.archive.org/web/20220323161055/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-25T16:26:06Z",
+        "uri": "https://web.archive.org/web/20220325162606/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-25T19:10:12Z",
+        "uri": "https://web.archive.org/web/20220325191012/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-28T13:24:39Z",
+        "uri": "https://web.archive.org/web/20220328132439/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-29T22:24:57Z",
+        "uri": "https://web.archive.org/web/20220329222457/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-29T22:24:58Z",
+        "uri": "https://web.archive.org/web/20220329222458/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-31T14:44:53Z",
+        "uri": "https://web.archive.org/web/20220331144453/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-31T16:53:56Z",
+        "uri": "https://web.archive.org/web/20220331165356/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-31T22:14:49Z",
+        "uri": "https://web.archive.org/web/20220331221449/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-31T22:14:51Z",
+        "uri": "https://web.archive.org/web/20220331221451/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-03-31T22:16:01Z",
+        "uri": "https://web.archive.org/web/20220331221601/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-01T22:54:30Z",
+        "uri": "https://web.archive.org/web/20220401225430/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-02T18:19:43Z",
+        "uri": "https://web.archive.org/web/20220402181943/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-02T18:21:05Z",
+        "uri": "https://web.archive.org/web/20220402182105/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-04T01:29:38Z",
+        "uri": "https://web.archive.org/web/20220404012938/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-05T08:46:06Z",
+        "uri": "https://web.archive.org/web/20220405084606/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-07T00:30:36Z",
+        "uri": "https://web.archive.org/web/20220407003036/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-09T11:02:22Z",
+        "uri": "https://web.archive.org/web/20220409110222/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:07Z",
+        "uri": "https://wayback.archive-it.org/all/20220414070307/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:07Z",
+        "uri": "https://web.archive.org/web/20220414070307/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:11Z",
+        "uri": "https://wayback.archive-it.org/all/20220414070311/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:11Z",
+        "uri": "https://web.archive.org/web/20220414070311/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220414070322/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-14T07:03:22Z",
+        "uri": "https://web.archive.org/web/20220414070322/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-15T10:22:29Z",
+        "uri": "https://web.archive.org/web/20220415102229/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-15T16:50:08Z",
+        "uri": "https://web.archive.org/web/20220415165008/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-15T17:10:51Z",
+        "uri": "https://web.archive.org/web/20220415171051/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-17T10:37:40Z",
+        "uri": "https://web.archive.org/web/20220417103740/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-19T14:07:15Z",
+        "uri": "https://web.archive.org/web/20220419140715/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-19T14:12:41Z",
+        "uri": "https://web.archive.org/web/20220419141241/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-20T09:53:57Z",
+        "uri": "https://web.archive.org/web/20220420095357/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-20T13:25:39Z",
+        "uri": "https://web.archive.org/web/20220420132539/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-21T07:18:31Z",
+        "uri": "https://web.archive.org/web/20220421071831/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-21T07:25:10Z",
+        "uri": "https://web.archive.org/web/20220421072510/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-21T10:23:30Z",
+        "uri": "https://web.archive.org/web/20220421102330/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-21T10:33:20Z",
+        "uri": "https://web.archive.org/web/20220421103320/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-22T04:53:05Z",
+        "uri": "https://web.archive.org/web/20220422045305/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-04-24T22:00:55Z",
+        "uri": "https://web.archive.org/web/20220424220055/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-04T08:24:13Z",
+        "uri": "https://web.archive.org/web/20220504082413/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-13T19:28:23Z",
+        "uri": "https://web.archive.org/web/20220513192823/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-15T14:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20220515145142mp_/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-17T05:45:10Z",
+        "uri": "https://web.archive.org/web/20220517054510/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-25T20:38:07Z",
+        "uri": "https://web.archive.org/web/20220525203807/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-05-29T12:18:52Z",
+        "uri": "https://web.archive.org/web/20220529121852/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-04T11:10:59Z",
+        "uri": "https://web.archive.org/web/20220604111059/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-04T11:10:59Z",
+        "uri": "https://web.archive.org/web/20220604111059/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-04T11:10:59Z",
+        "uri": "https://web.archive.org/web/20220604111059/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-04T18:21:14Z",
+        "uri": "https://web.archive.org/web/20220604182114/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-26T19:00:11Z",
+        "uri": "https://web.archive.org/web/20220626190011/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-06-30T19:05:56Z",
+        "uri": "https://web.archive.org/web/20220630190556/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-07-26T16:38:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220726163819/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-07-26T16:38:19Z",
+        "uri": "https://web.archive.org/web/20220726163819/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-07-26T19:01:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220726190129/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-07-26T19:01:29Z",
+        "uri": "https://web.archive.org/web/20220726190129/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-08-25T18:12:45Z",
+        "uri": "https://arquivo.pt/wayback/20220825181245mp_/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-05T12:47:19Z",
+        "uri": "https://web.archive.org/web/20220905124719/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-22T10:30:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220922103044/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-22T10:30:44Z",
+        "uri": "https://web.archive.org/web/20220922103044/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-22T10:46:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220922104624/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-22T10:46:24Z",
+        "uri": "https://web.archive.org/web/20220922104624/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-09-29T20:22:30Z",
+        "uri": "https://web.archive.org/web/20220929202230/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-05T22:05:40Z",
+        "uri": "https://web.archive.org/web/20221005220540/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-05T22:25:30Z",
+        "uri": "https://web.archive.org/web/20221005222530/https://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-05T23:41:53Z",
+        "uri": "https://web.archive.org/web/20221005234153/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-27T12:38:50Z",
+        "uri": "https://wayback.archive-it.org/all/20221027123850/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-27T12:38:50Z",
+        "uri": "https://web.archive.org/web/20221027123850/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-29T05:01:23Z",
+        "uri": "https://wayback.archive-it.org/all/20221029050123/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-10-29T05:01:23Z",
+        "uri": "https://web.archive.org/web/20221029050123/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-11-26T23:46:13Z",
+        "uri": "https://web.archive.org/web/20221126234613/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2022-12-07T02:50:15Z",
+        "uri": "https://web.archive.org/web/20221207025015/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-20T07:20:20Z",
+        "uri": "https://web.archive.org/web/20230120072020/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-20T07:26:16Z",
+        "uri": "https://web.archive.org/web/20230120072616/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-25T05:11:23Z",
+        "uri": "https://web.archive.org/web/20230125051123/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-25T05:15:32Z",
+        "uri": "https://web.archive.org/web/20230125051532/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-26T12:21:14Z",
+        "uri": "https://web.archive.org/web/20230126122114/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-26T12:22:24Z",
+        "uri": "https://web.archive.org/web/20230126122224/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-01-29T23:21:35Z",
+        "uri": "https://web.archive.org/web/20230129232135/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-03-16T17:41:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230316174151/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-03-16T17:41:51Z",
+        "uri": "https://web.archive.org/web/20230316174151/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-03-18T11:35:45Z",
+        "uri": "https://web.archive.org/web/20230318113545/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-05-31T01:23:57Z",
+        "uri": "https://web.archive.org/web/20230531012357/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-06-01T02:00:16Z",
+        "uri": "https://web.archive.org/web/20230601020016/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-12-03T10:52:03Z",
+        "uri": "https://web.archive.org/web/20231203105203/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2023-12-06T17:24:05Z",
+        "uri": "https://wayback.archive-it.org/all/20231206172405/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-02-29T07:35:20Z",
+        "uri": "https://web.archive.org/web/20240229073520/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-03-17T23:39:48Z",
+        "uri": "https://web.archive.org/web/20240317233948/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-03-18T00:01:20Z",
+        "uri": "https://web.archive.org/web/20240318000120/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-04-22T22:51:20Z",
+        "uri": "https://web.archive.org/web/20240422225120/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-04-22T22:52:05Z",
+        "uri": "https://web.archive.org/web/20240422225205/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-05-13T21:41:11Z",
+        "uri": "https://web.archive.org/web/20240513214111/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-05-19T08:51:41Z",
+        "uri": "https://web.archive.org/web/20240519085141/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-05-28T13:40:23Z",
+        "uri": "https://web.archive.org/web/20240528134023/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-07-25T19:50:34Z",
+        "uri": "https://web.archive.org/web/20240725195034/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-08-06T04:57:27Z",
+        "uri": "https://web.archive.org/web/20240806045727/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-08-18T14:08:35Z",
+        "uri": "https://web.archive.org/web/20240818140835/https://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-08-18T14:08:35Z",
+        "uri": "https://web.archive.org/web/20240818140835/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-09-13T16:06:55Z",
+        "uri": "https://web.archive.org/web/20240913160655/http://warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-10-03T02:30:54Z",
+        "uri": "https://web.archive.org/web/20241003023054/http://www.warmes-bett.de/"
+      },
+      {
+        "datetime": "2024-11-13T15:02:14Z",
+        "uri": "https://wayback.archive-it.org/all/20241113150214/https://warmes-bett.de/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-02-28T11:45:10Z",
+      "uri": "https://web.archive.org/web/20220228114510/https://warmes-bett.de/"
+    },
+    "last": {
+      "datetime": "2024-11-13T15:02:14Z",
+      "uri": "https://wayback.archive-it.org/all/20241113150214/https://warmes-bett.de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://warmes-bett.de/",
+    "json_format": "http://localhost:1208/timemap/json/https://warmes-bett.de/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://warmes-bett.de/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://warmes-bett.de/"
+}

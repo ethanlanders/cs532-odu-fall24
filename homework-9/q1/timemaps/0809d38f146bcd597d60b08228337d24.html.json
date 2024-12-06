@@ -1,0 +1,1394 @@
+{
+  "original_uri": "https://tootpick.org/#text=https://weiglemc.github.io/publications/2021",
+  "self": "http://localhost:1208/timemap/json/https://tootpick.org/#text=https://weiglemc.github.io/publications/2021",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-26T17:19:34Z",
+        "uri": "https://web.archive.org/web/20221126171934/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-11-26T17:21:02Z",
+        "uri": "https://web.archive.org/web/20221126172102/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-11-27T09:34:38Z",
+        "uri": "https://web.archive.org/web/20221127093438/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-11-28T09:57:24Z",
+        "uri": "https://web.archive.org/web/20221128095724/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-11-30T12:37:31Z",
+        "uri": "https://web.archive.org/web/20221130123731/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-01T01:31:15Z",
+        "uri": "https://web.archive.org/web/20221201013115/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-01T06:57:51Z",
+        "uri": "https://web.archive.org/web/20221201065751/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-01T13:24:51Z",
+        "uri": "https://web.archive.org/web/20221201132451/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-06T07:48:44Z",
+        "uri": "https://web.archive.org/web/20221206074844/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-07T02:03:38Z",
+        "uri": "https://web.archive.org/web/20221207020338/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-10T12:37:51Z",
+        "uri": "https://web.archive.org/web/20221210123751/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-11T12:36:38Z",
+        "uri": "https://web.archive.org/web/20221211123638/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-13T12:36:24Z",
+        "uri": "https://web.archive.org/web/20221213123624/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-14T00:43:05Z",
+        "uri": "https://web.archive.org/web/20221214004305/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-17T12:38:05Z",
+        "uri": "https://web.archive.org/web/20221217123805/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-18T12:36:42Z",
+        "uri": "https://web.archive.org/web/20221218123642/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-19T17:15:27Z",
+        "uri": "https://web.archive.org/web/20221219171527/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-19T22:52:48Z",
+        "uri": "https://web.archive.org/web/20221219225248/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-25T12:37:42Z",
+        "uri": "https://web.archive.org/web/20221225123742/https://tootpick.org/"
+      },
+      {
+        "datetime": "2022-12-31T10:05:47Z",
+        "uri": "https://web.archive.org/web/20221231100547/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-05T12:37:41Z",
+        "uri": "https://web.archive.org/web/20230105123741/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-11T07:04:25Z",
+        "uri": "https://web.archive.org/web/20230111070425/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-15T04:36:45Z",
+        "uri": "https://web.archive.org/web/20230115043645/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-19T06:12:41Z",
+        "uri": "https://web.archive.org/web/20230119061241/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-22T16:50:30Z",
+        "uri": "https://web.archive.org/web/20230122165030/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-24T00:36:27Z",
+        "uri": "https://web.archive.org/web/20230124003627/http://tootpick.org/"
+      },
+      {
+        "datetime": "2023-01-24T00:36:28Z",
+        "uri": "https://web.archive.org/web/20230124003628/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-02T06:49:41Z",
+        "uri": "https://web.archive.org/web/20230202064941/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-02T12:37:20Z",
+        "uri": "https://web.archive.org/web/20230202123720/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-02T20:34:19Z",
+        "uri": "https://web.archive.org/web/20230202203419/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-07T12:38:00Z",
+        "uri": "https://web.archive.org/web/20230207123800/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-10T12:37:14Z",
+        "uri": "https://web.archive.org/web/20230210123714/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T10:16:55Z",
+        "uri": "https://web.archive.org/web/20230212101655/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T17:17:21Z",
+        "uri": "https://web.archive.org/web/20230212171721/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T17:34:17Z",
+        "uri": "https://web.archive.org/web/20230212173417/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T18:56:20Z",
+        "uri": "https://web.archive.org/web/20230212185620/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T19:17:25Z",
+        "uri": "https://web.archive.org/web/20230212191725/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-12T19:21:34Z",
+        "uri": "https://web.archive.org/web/20230212192134/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-16T03:34:50Z",
+        "uri": "https://web.archive.org/web/20230216033450/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-17T12:38:09Z",
+        "uri": "https://web.archive.org/web/20230217123809/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-18T17:06:22Z",
+        "uri": "https://web.archive.org/web/20230218170622/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-18T19:39:16Z",
+        "uri": "https://web.archive.org/web/20230218193916/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-18T23:39:34Z",
+        "uri": "https://web.archive.org/web/20230218233934/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-19T12:38:18Z",
+        "uri": "https://web.archive.org/web/20230219123818/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-20T21:45:17Z",
+        "uri": "https://web.archive.org/web/20230220214517/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-21T07:11:51Z",
+        "uri": "https://web.archive.org/web/20230221071151/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-21T07:11:51Z",
+        "uri": "https://web.archive.org/web/20230221071151/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-21T09:36:29Z",
+        "uri": "https://web.archive.org/web/20230221093629/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-21T22:56:16Z",
+        "uri": "https://web.archive.org/web/20230221225616/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-23T04:27:25Z",
+        "uri": "https://web.archive.org/web/20230223042725/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-24T14:32:50Z",
+        "uri": "https://web.archive.org/web/20230224143250/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-26T20:23:54Z",
+        "uri": "https://web.archive.org/web/20230226202354/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-02-28T04:21:15Z",
+        "uri": "https://web.archive.org/web/20230228042115/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-01T11:04:41Z",
+        "uri": "https://web.archive.org/web/20230301110441/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-02T12:38:12Z",
+        "uri": "https://web.archive.org/web/20230302123812/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-04T06:21:00Z",
+        "uri": "https://web.archive.org/web/20230304062100/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-06T20:48:15Z",
+        "uri": "https://web.archive.org/web/20230306204815/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-07T22:09:39Z",
+        "uri": "https://web.archive.org/web/20230307220939/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-08T23:56:13Z",
+        "uri": "https://web.archive.org/web/20230308235613/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-08T23:57:26Z",
+        "uri": "https://web.archive.org/web/20230308235726/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-16T12:52:47Z",
+        "uri": "https://web.archive.org/web/20230316125247/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-16T22:58:43Z",
+        "uri": "https://web.archive.org/web/20230316225843/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-17T20:23:31Z",
+        "uri": "https://web.archive.org/web/20230317202331/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-19T16:49:52Z",
+        "uri": "https://web.archive.org/web/20230319164952/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-24T16:31:22Z",
+        "uri": "https://web.archive.org/web/20230324163122/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-24T23:57:33Z",
+        "uri": "https://web.archive.org/web/20230324235733/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-24T23:57:33Z",
+        "uri": "https://web.archive.org/web/20230324235733/http://www.tootpick.org/"
+      },
+      {
+        "datetime": "2023-03-27T23:18:15Z",
+        "uri": "https://web.archive.org/web/20230327231815/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-06-08T23:07:00Z",
+        "uri": "https://web.archive.org/web/20230608230700/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-07-07T02:43:14Z",
+        "uri": "https://web.archive.org/web/20230707024314/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-07-16T10:52:27Z",
+        "uri": "https://web.archive.org/web/20230716105227/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-08-28T22:16:42Z",
+        "uri": "https://web.archive.org/web/20230828221642/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-09-06T13:55:51Z",
+        "uri": "https://web.archive.org/web/20230906135551/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-09-14T06:51:17Z",
+        "uri": "https://web.archive.org/web/20230914065117/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-11-07T11:27:31Z",
+        "uri": "https://web.archive.org/web/20231107112731/http://tootpick.org/"
+      },
+      {
+        "datetime": "2023-11-07T11:27:52Z",
+        "uri": "https://web.archive.org/web/20231107112752/https://tootpick.org/"
+      },
+      {
+        "datetime": "2023-11-07T11:28:03Z",
+        "uri": "https://web.archive.org/web/20231107112803/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T13:18:01Z",
+        "uri": "https://web.archive.org/web/20240106131801/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T13:35:00Z",
+        "uri": "https://web.archive.org/web/20240106133500/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T17:11:02Z",
+        "uri": "https://web.archive.org/web/20240106171102/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T19:43:59Z",
+        "uri": "https://web.archive.org/web/20240106194359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T21:10:21Z",
+        "uri": "https://web.archive.org/web/20240106211021/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-06T23:15:50Z",
+        "uri": "https://web.archive.org/web/20240106231550/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-07T02:28:34Z",
+        "uri": "https://web.archive.org/web/20240107022834/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T17:40:05Z",
+        "uri": "https://web.archive.org/web/20240112174005/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T18:22:41Z",
+        "uri": "https://web.archive.org/web/20240112182241/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T18:55:34Z",
+        "uri": "https://web.archive.org/web/20240112185534/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T19:21:55Z",
+        "uri": "https://web.archive.org/web/20240112192155/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T20:02:45Z",
+        "uri": "https://web.archive.org/web/20240112200245/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T20:41:17Z",
+        "uri": "https://web.archive.org/web/20240112204117/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T21:57:28Z",
+        "uri": "https://web.archive.org/web/20240112215728/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T22:50:40Z",
+        "uri": "https://web.archive.org/web/20240112225040/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-12T23:53:43Z",
+        "uri": "https://web.archive.org/web/20240112235343/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:04Z",
+        "uri": "https://web.archive.org/web/20240121235104/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:05Z",
+        "uri": "https://web.archive.org/web/20240121235105/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:08Z",
+        "uri": "https://web.archive.org/web/20240121235108/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:11Z",
+        "uri": "https://web.archive.org/web/20240121235111/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:12Z",
+        "uri": "https://web.archive.org/web/20240121235112/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-01-21T23:51:13Z",
+        "uri": "https://web.archive.org/web/20240121235113/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:30Z",
+        "uri": "https://web.archive.org/web/20240206002530/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:30Z",
+        "uri": "https://web.archive.org/web/20240206002530/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:30Z",
+        "uri": "https://web.archive.org/web/20240206002530/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:31Z",
+        "uri": "https://web.archive.org/web/20240206002531/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:32Z",
+        "uri": "https://web.archive.org/web/20240206002532/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:33Z",
+        "uri": "https://web.archive.org/web/20240206002533/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:36Z",
+        "uri": "https://web.archive.org/web/20240206002536/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:36Z",
+        "uri": "https://web.archive.org/web/20240206002536/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:38Z",
+        "uri": "https://web.archive.org/web/20240206002538/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:39Z",
+        "uri": "https://web.archive.org/web/20240206002539/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:41Z",
+        "uri": "https://web.archive.org/web/20240206002541/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:42Z",
+        "uri": "https://web.archive.org/web/20240206002542/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:42Z",
+        "uri": "https://web.archive.org/web/20240206002542/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:45Z",
+        "uri": "https://web.archive.org/web/20240206002545/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:45Z",
+        "uri": "https://web.archive.org/web/20240206002545/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:45Z",
+        "uri": "https://web.archive.org/web/20240206002545/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-06T00:25:48Z",
+        "uri": "https://web.archive.org/web/20240206002548/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-14T23:16:01Z",
+        "uri": "https://web.archive.org/web/20240214231601/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-14T23:16:01Z",
+        "uri": "https://web.archive.org/web/20240214231601/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-20T21:28:07Z",
+        "uri": "https://web.archive.org/web/20240220212807/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:54Z",
+        "uri": "https://web.archive.org/web/20240226075254/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:55Z",
+        "uri": "https://web.archive.org/web/20240226075255/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:55Z",
+        "uri": "https://web.archive.org/web/20240226075255/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:56Z",
+        "uri": "https://web.archive.org/web/20240226075256/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:56Z",
+        "uri": "https://web.archive.org/web/20240226075256/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:57Z",
+        "uri": "https://web.archive.org/web/20240226075257/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T07:52:57Z",
+        "uri": "https://web.archive.org/web/20240226075257/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-26T23:39:33Z",
+        "uri": "https://web.archive.org/web/20240226233933/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-02-28T20:22:00Z",
+        "uri": "https://web.archive.org/web/20240228202200/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:52Z",
+        "uri": "https://web.archive.org/web/20240308230352/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:52Z",
+        "uri": "https://web.archive.org/web/20240308230352/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:53Z",
+        "uri": "https://web.archive.org/web/20240308230353/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:53Z",
+        "uri": "https://web.archive.org/web/20240308230353/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:54Z",
+        "uri": "https://web.archive.org/web/20240308230354/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:54Z",
+        "uri": "https://web.archive.org/web/20240308230354/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:55Z",
+        "uri": "https://web.archive.org/web/20240308230355/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:56Z",
+        "uri": "https://web.archive.org/web/20240308230356/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-08T23:03:59Z",
+        "uri": "https://web.archive.org/web/20240308230359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-20T16:07:25Z",
+        "uri": "https://web.archive.org/web/20240320160725/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:43:59Z",
+        "uri": "https://web.archive.org/web/20240324224359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:43:59Z",
+        "uri": "https://web.archive.org/web/20240324224359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:43:59Z",
+        "uri": "https://web.archive.org/web/20240324224359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:43:59Z",
+        "uri": "https://web.archive.org/web/20240324224359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:00Z",
+        "uri": "https://web.archive.org/web/20240324224400/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:00Z",
+        "uri": "https://web.archive.org/web/20240324224400/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:00Z",
+        "uri": "https://web.archive.org/web/20240324224400/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:00Z",
+        "uri": "https://web.archive.org/web/20240324224400/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:00Z",
+        "uri": "https://web.archive.org/web/20240324224400/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-24T22:44:01Z",
+        "uri": "https://web.archive.org/web/20240324224401/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-27T13:18:23Z",
+        "uri": "https://web.archive.org/web/20240327131823/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-27T17:35:22Z",
+        "uri": "https://web.archive.org/web/20240327173522/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-29T16:29:49Z",
+        "uri": "https://web.archive.org/web/20240329162949/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-03-29T17:47:51Z",
+        "uri": "https://web.archive.org/web/20240329174751/http://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-03T22:24:07Z",
+        "uri": "https://web.archive.org/web/20240403222407/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:13Z",
+        "uri": "https://web.archive.org/web/20240409112513/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:14Z",
+        "uri": "https://web.archive.org/web/20240409112514/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:15Z",
+        "uri": "https://web.archive.org/web/20240409112515/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:16Z",
+        "uri": "https://web.archive.org/web/20240409112516/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:16Z",
+        "uri": "https://web.archive.org/web/20240409112516/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:17Z",
+        "uri": "https://web.archive.org/web/20240409112517/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:18Z",
+        "uri": "https://web.archive.org/web/20240409112518/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-09T11:25:19Z",
+        "uri": "https://web.archive.org/web/20240409112519/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-27T02:22:36Z",
+        "uri": "https://wayback.archive-it.org/all/20240427022236/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-04-27T07:42:30Z",
+        "uri": "https://wayback.archive-it.org/all/20240427074230/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-07T10:01:20Z",
+        "uri": "https://web.archive.org/web/20240507100120/https://www.tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-07T10:01:23Z",
+        "uri": "https://web.archive.org/web/20240507100123/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-07T10:01:24Z",
+        "uri": "https://web.archive.org/web/20240507100124/http://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-07T10:01:33Z",
+        "uri": "https://web.archive.org/web/20240507100133/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-07T22:21:23Z",
+        "uri": "https://web.archive.org/web/20240507222123/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-14T03:18:03Z",
+        "uri": "https://wayback.archive-it.org/all/20240514031803/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-16T17:30:19Z",
+        "uri": "https://web.archive.org/web/20240516173019/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-18T22:34:08Z",
+        "uri": "https://wayback.archive-it.org/all/20240518223408/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-05-23T04:52:26Z",
+        "uri": "https://wayback.archive-it.org/all/20240523045226/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-06-04T15:27:55Z",
+        "uri": "https://web.archive.org/web/20240604152755/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-06-13T22:52:05Z",
+        "uri": "https://wayback.archive-it.org/all/20240613225205/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-06-16T00:26:08Z",
+        "uri": "https://web.archive.org/web/20240616002608/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-06-18T23:14:29Z",
+        "uri": "https://wayback.archive-it.org/all/20240618231429/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-06-23T15:44:11Z",
+        "uri": "https://wayback.archive-it.org/all/20240623154411/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-02T13:55:28Z",
+        "uri": "https://web.archive.org/web/20240702135528/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-04T08:21:36Z",
+        "uri": "https://web.archive.org/web/20240704082136/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-04T10:55:42Z",
+        "uri": "https://web.archive.org/web/20240704105542/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-13T22:36:55Z",
+        "uri": "https://wayback.archive-it.org/all/20240713223655/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-18T17:41:18Z",
+        "uri": "https://web.archive.org/web/20240718174118/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-18T22:23:05Z",
+        "uri": "https://wayback.archive-it.org/all/20240718222305/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-07-23T03:35:35Z",
+        "uri": "https://wayback.archive-it.org/all/20240723033535/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-09T22:10:35Z",
+        "uri": "https://wayback.archive-it.org/all/20240809221035/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-13T21:40:26Z",
+        "uri": "https://wayback.archive-it.org/all/20240813214026/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-18T22:17:00Z",
+        "uri": "https://wayback.archive-it.org/all/20240818221700/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-19T20:31:37Z",
+        "uri": "https://web.archive.org/web/20240819203137/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-20T22:08:21Z",
+        "uri": "https://web.archive.org/web/20240820220821/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-23T00:41:18Z",
+        "uri": "https://wayback.archive-it.org/all/20240823004118/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-23T05:12:46Z",
+        "uri": "https://web.archive.org/web/20240823051246/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-23T15:37:46Z",
+        "uri": "https://web.archive.org/web/20240823153746/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-23T22:31:16Z",
+        "uri": "https://web.archive.org/web/20240823223116/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-24T09:05:05Z",
+        "uri": "https://web.archive.org/web/20240824090505/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-25T22:13:53Z",
+        "uri": "https://web.archive.org/web/20240825221353/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-26T21:29:45Z",
+        "uri": "https://web.archive.org/web/20240826212945/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-26T23:04:14Z",
+        "uri": "https://wayback.archive-it.org/all/20240826230414/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T00:36:25Z",
+        "uri": "https://web.archive.org/web/20240827003625/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T00:42:05Z",
+        "uri": "https://web.archive.org/web/20240827004205/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T03:26:34Z",
+        "uri": "https://web.archive.org/web/20240827032634/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T04:59:00Z",
+        "uri": "https://web.archive.org/web/20240827045900/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T07:17:21Z",
+        "uri": "https://web.archive.org/web/20240827071721/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-27T14:42:57Z",
+        "uri": "https://web.archive.org/web/20240827144257/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-28T16:47:41Z",
+        "uri": "https://web.archive.org/web/20240828164741/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-29T00:15:43Z",
+        "uri": "https://web.archive.org/web/20240829001543/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-29T01:15:58Z",
+        "uri": "https://web.archive.org/web/20240829011558/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-29T02:17:54Z",
+        "uri": "https://web.archive.org/web/20240829021754/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-29T04:15:34Z",
+        "uri": "https://web.archive.org/web/20240829041534/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-30T10:41:22Z",
+        "uri": "https://web.archive.org/web/20240830104122/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-08-31T17:37:32Z",
+        "uri": "https://web.archive.org/web/20240831173732/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-01T11:40:44Z",
+        "uri": "https://web.archive.org/web/20240901114044/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-02T23:06:48Z",
+        "uri": "https://web.archive.org/web/20240902230648/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-03T21:48:16Z",
+        "uri": "https://web.archive.org/web/20240903214816/https://www.tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-03T21:48:16Z",
+        "uri": "https://web.archive.org/web/20240903214816/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-03T21:48:16Z",
+        "uri": "https://web.archive.org/web/20240903214816/http://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-03T21:48:17Z",
+        "uri": "https://web.archive.org/web/20240903214817/https://www.tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-03T21:48:17Z",
+        "uri": "https://web.archive.org/web/20240903214817/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-04T09:06:59Z",
+        "uri": "https://wayback.archive-it.org/all/20240904090659/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-05T22:26:12Z",
+        "uri": "https://web.archive.org/web/20240905222612/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-06T21:24:43Z",
+        "uri": "https://web.archive.org/web/20240906212443/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-06T22:41:51Z",
+        "uri": "https://web.archive.org/web/20240906224151/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-09T07:55:14Z",
+        "uri": "https://web.archive.org/web/20240909075514/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-10T19:14:43Z",
+        "uri": "https://web.archive.org/web/20240910191443/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-10T20:41:01Z",
+        "uri": "https://web.archive.org/web/20240910204101/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-10T21:16:01Z",
+        "uri": "https://web.archive.org/web/20240910211601/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-11T23:21:50Z",
+        "uri": "https://web.archive.org/web/20240911232150/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-12T04:59:08Z",
+        "uri": "https://web.archive.org/web/20240912045908/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-12T06:34:44Z",
+        "uri": "https://web.archive.org/web/20240912063444/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-12T16:29:31Z",
+        "uri": "https://web.archive.org/web/20240912162931/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-13T12:23:59Z",
+        "uri": "https://web.archive.org/web/20240913122359/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-13T14:43:56Z",
+        "uri": "https://web.archive.org/web/20240913144356/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-13T18:57:40Z",
+        "uri": "https://web.archive.org/web/20240913185740/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-13T23:28:47Z",
+        "uri": "https://wayback.archive-it.org/all/20240913232847/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-14T14:45:20Z",
+        "uri": "https://web.archive.org/web/20240914144520/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-16T02:46:22Z",
+        "uri": "https://web.archive.org/web/20240916024622/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-16T23:57:19Z",
+        "uri": "https://web.archive.org/web/20240916235719/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-17T00:22:19Z",
+        "uri": "https://web.archive.org/web/20240917002219/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-17T02:04:03Z",
+        "uri": "https://web.archive.org/web/20240917020403/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-17T08:26:03Z",
+        "uri": "https://web.archive.org/web/20240917082603/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-17T13:22:16Z",
+        "uri": "https://web.archive.org/web/20240917132216/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-17T16:55:23Z",
+        "uri": "https://web.archive.org/web/20240917165523/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-18T00:18:15Z",
+        "uri": "https://web.archive.org/web/20240918001815/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-18T01:42:18Z",
+        "uri": "https://web.archive.org/web/20240918014218/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-18T07:29:18Z",
+        "uri": "https://web.archive.org/web/20240918072918/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-18T18:00:32Z",
+        "uri": "https://web.archive.org/web/20240918180032/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-18T23:40:06Z",
+        "uri": "https://wayback.archive-it.org/all/20240918234006/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-19T05:59:23Z",
+        "uri": "https://web.archive.org/web/20240919055923/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-19T09:38:08Z",
+        "uri": "https://web.archive.org/web/20240919093808/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-19T12:07:24Z",
+        "uri": "https://web.archive.org/web/20240919120724/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-19T12:22:15Z",
+        "uri": "https://web.archive.org/web/20240919122215/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-19T15:14:41Z",
+        "uri": "https://web.archive.org/web/20240919151441/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-20T05:49:35Z",
+        "uri": "https://web.archive.org/web/20240920054935/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-21T16:23:45Z",
+        "uri": "https://web.archive.org/web/20240921162345/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-22T07:37:32Z",
+        "uri": "https://web.archive.org/web/20240922073732/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-22T18:33:57Z",
+        "uri": "https://web.archive.org/web/20240922183357/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-23T20:54:42Z",
+        "uri": "https://web.archive.org/web/20240923205442/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-25T03:28:27Z",
+        "uri": "https://web.archive.org/web/20240925032827/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-26T03:08:11Z",
+        "uri": "https://web.archive.org/web/20240926030811/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-26T05:06:54Z",
+        "uri": "https://web.archive.org/web/20240926050654/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-26T15:19:55Z",
+        "uri": "https://web.archive.org/web/20240926151955/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-27T04:05:29Z",
+        "uri": "https://web.archive.org/web/20240927040529/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-27T04:13:20Z",
+        "uri": "https://web.archive.org/web/20240927041320/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-27T19:14:25Z",
+        "uri": "https://web.archive.org/web/20240927191425/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-28T04:16:32Z",
+        "uri": "https://web.archive.org/web/20240928041632/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-28T04:21:37Z",
+        "uri": "https://web.archive.org/web/20240928042137/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-29T03:33:55Z",
+        "uri": "https://web.archive.org/web/20240929033355/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-30T09:27:31Z",
+        "uri": "https://web.archive.org/web/20240930092731/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-30T17:22:55Z",
+        "uri": "https://web.archive.org/web/20240930172255/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-09-30T19:22:07Z",
+        "uri": "https://web.archive.org/web/20240930192207/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-02T16:50:15Z",
+        "uri": "https://web.archive.org/web/20241002165015/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-03T06:06:41Z",
+        "uri": "https://web.archive.org/web/20241003060641/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-05T09:42:22Z",
+        "uri": "https://web.archive.org/web/20241005094222/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-06T06:55:03Z",
+        "uri": "https://web.archive.org/web/20241006065503/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-06T20:25:55Z",
+        "uri": "https://web.archive.org/web/20241006202555/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-07T11:08:48Z",
+        "uri": "https://web.archive.org/web/20241007110848/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-09T05:45:28Z",
+        "uri": "https://web.archive.org/web/20241009054528/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-18T22:45:29Z",
+        "uri": "https://wayback.archive-it.org/all/20241018224529/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-24T05:20:10Z",
+        "uri": "https://wayback.archive-it.org/all/20241024052010/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-10-29T06:37:52Z",
+        "uri": "https://web.archive.org/web/20241029063752/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-10T01:25:59Z",
+        "uri": "https://web.archive.org/web/20241110012559/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-13T22:28:34Z",
+        "uri": "https://web.archive.org/web/20241113222834/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-14T02:51:37Z",
+        "uri": "https://wayback.archive-it.org/all/20241114025137/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-14T07:33:01Z",
+        "uri": "https://web.archive.org/web/20241114073301/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-15T11:46:57Z",
+        "uri": "https://web.archive.org/web/20241115114657/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-15T17:05:28Z",
+        "uri": "https://web.archive.org/web/20241115170528/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-16T11:12:33Z",
+        "uri": "https://web.archive.org/web/20241116111233/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-16T20:30:05Z",
+        "uri": "https://web.archive.org/web/20241116203005/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-16T22:53:42Z",
+        "uri": "https://web.archive.org/web/20241116225342/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T10:34:02Z",
+        "uri": "https://web.archive.org/web/20241117103402/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T11:10:16Z",
+        "uri": "https://web.archive.org/web/20241117111016/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T12:01:24Z",
+        "uri": "https://web.archive.org/web/20241117120124/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T21:31:44Z",
+        "uri": "https://web.archive.org/web/20241117213144/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T22:31:14Z",
+        "uri": "https://web.archive.org/web/20241117223114/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-17T23:10:42Z",
+        "uri": "https://web.archive.org/web/20241117231042/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T01:15:27Z",
+        "uri": "https://web.archive.org/web/20241118011527/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T03:30:54Z",
+        "uri": "https://web.archive.org/web/20241118033054/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T04:26:44Z",
+        "uri": "https://web.archive.org/web/20241118042644/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T05:13:43Z",
+        "uri": "https://web.archive.org/web/20241118051343/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T07:03:57Z",
+        "uri": "https://web.archive.org/web/20241118070357/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T17:45:42Z",
+        "uri": "https://web.archive.org/web/20241118174542/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T19:26:54Z",
+        "uri": "https://web.archive.org/web/20241118192654/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T19:38:11Z",
+        "uri": "https://web.archive.org/web/20241118193811/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T20:56:53Z",
+        "uri": "https://web.archive.org/web/20241118205653/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T22:17:54Z",
+        "uri": "https://web.archive.org/web/20241118221754/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T22:44:08Z",
+        "uri": "https://web.archive.org/web/20241118224408/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-18T23:08:29Z",
+        "uri": "https://wayback.archive-it.org/all/20241118230829/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T04:21:10Z",
+        "uri": "https://web.archive.org/web/20241119042110/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T04:35:10Z",
+        "uri": "https://web.archive.org/web/20241119043510/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T04:50:28Z",
+        "uri": "https://web.archive.org/web/20241119045028/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T06:29:33Z",
+        "uri": "https://web.archive.org/web/20241119062933/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T06:39:19Z",
+        "uri": "https://web.archive.org/web/20241119063919/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T09:08:58Z",
+        "uri": "https://web.archive.org/web/20241119090858/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T12:13:23Z",
+        "uri": "https://web.archive.org/web/20241119121323/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T15:51:04Z",
+        "uri": "https://web.archive.org/web/20241119155104/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T19:19:58Z",
+        "uri": "https://web.archive.org/web/20241119191958/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-19T23:49:25Z",
+        "uri": "https://web.archive.org/web/20241119234925/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T00:45:36Z",
+        "uri": "https://web.archive.org/web/20241120004536/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T02:51:57Z",
+        "uri": "https://web.archive.org/web/20241120025157/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T03:56:18Z",
+        "uri": "https://web.archive.org/web/20241120035618/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T05:54:32Z",
+        "uri": "https://web.archive.org/web/20241120055432/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T06:02:38Z",
+        "uri": "https://web.archive.org/web/20241120060238/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T06:03:42Z",
+        "uri": "https://web.archive.org/web/20241120060342/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-20T06:45:34Z",
+        "uri": "https://web.archive.org/web/20241120064534/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-22T14:35:45Z",
+        "uri": "https://wayback.archive-it.org/all/20241122143545/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-25T03:16:19Z",
+        "uri": "https://web.archive.org/web/20241125031619/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-26T21:48:47Z",
+        "uri": "https://web.archive.org/web/20241126214847/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-27T04:45:47Z",
+        "uri": "https://web.archive.org/web/20241127044547/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-27T05:01:44Z",
+        "uri": "https://web.archive.org/web/20241127050144/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-27T22:58:34Z",
+        "uri": "https://web.archive.org/web/20241127225834/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-27T23:47:54Z",
+        "uri": "https://web.archive.org/web/20241127234754/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-11-28T11:13:35Z",
+        "uri": "https://web.archive.org/web/20241128111335/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-12-01T09:36:20Z",
+        "uri": "https://web.archive.org/web/20241201093620/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-12-02T14:53:30Z",
+        "uri": "https://web.archive.org/web/20241202145330/https://tootpick.org/"
+      },
+      {
+        "datetime": "2024-12-03T10:45:40Z",
+        "uri": "https://web.archive.org/web/20241203104540/https://tootpick.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-26T17:19:34Z",
+      "uri": "https://web.archive.org/web/20221126171934/https://tootpick.org/"
+    },
+    "last": {
+      "datetime": "2024-12-03T10:45:40Z",
+      "uri": "https://web.archive.org/web/20241203104540/https://tootpick.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://tootpick.org/#text=https://weiglemc.github.io/publications/2021",
+    "json_format": "http://localhost:1208/timemap/json/https://tootpick.org/#text=https://weiglemc.github.io/publications/2021",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://tootpick.org/#text=https://weiglemc.github.io/publications/2021"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://tootpick.org/#text=https://weiglemc.github.io/publications/2021"
+}

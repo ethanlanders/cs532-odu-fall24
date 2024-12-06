@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/imprint/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/imprint/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T12:55:32Z",
+        "uri": "https://web.archive.org/web/20220524125532/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-05-27T23:45:00Z",
+        "uri": "https://web.archive.org/web/20220527234500/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:31Z",
+        "uri": "https://web.archive.org/web/20220622021431/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-09-22T20:02:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220922200215/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-09-22T20:02:15Z",
+        "uri": "https://web.archive.org/web/20220922200215/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-10-02T16:58:26Z",
+        "uri": "https://web.archive.org/web/20221002165826/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-10-27T22:45:31Z",
+        "uri": "https://wayback.archive-it.org/all/20221027224531/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2022-10-27T22:45:31Z",
+        "uri": "https://web.archive.org/web/20221027224531/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:12Z",
+        "uri": "https://web.archive.org/web/20230107001312/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:17Z",
+        "uri": "https://web.archive.org/web/20230127051117/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-02-04T09:37:42Z",
+        "uri": "https://web.archive.org/web/20230204093742/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-02-24T13:19:00Z",
+        "uri": "https://web.archive.org/web/20230224131900/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-06-04T01:27:34Z",
+        "uri": "https://web.archive.org/web/20230604012734/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-09-29T17:43:36Z",
+        "uri": "https://web.archive.org/web/20230929174336/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:08Z",
+        "uri": "https://web.archive.org/web/20231216174008/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2024-04-21T21:43:35Z",
+        "uri": "https://web.archive.org/web/20240421214335/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2024-04-24T23:59:29Z",
+        "uri": "https://web.archive.org/web/20240424235929/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2024-04-25T01:10:27Z",
+        "uri": "https://web.archive.org/web/20240425011027/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2024-04-25T01:59:19Z",
+        "uri": "https://web.archive.org/web/20240425015919/https://www.daad-ukraine.org/en/imprint/"
+      },
+      {
+        "datetime": "2024-07-14T08:27:19Z",
+        "uri": "https://web.archive.org/web/20240714082719/https://www.daad-ukraine.org/en/imprint/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T12:55:32Z",
+      "uri": "https://web.archive.org/web/20220524125532/https://www.daad-ukraine.org/en/imprint/"
+    },
+    "last": {
+      "datetime": "2024-07-14T08:27:19Z",
+      "uri": "https://web.archive.org/web/20240714082719/https://www.daad-ukraine.org/en/imprint/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/imprint/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/imprint/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/imprint/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/imprint/"
+}

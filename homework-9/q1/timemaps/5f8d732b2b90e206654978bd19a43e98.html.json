@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T23:07:45Z",
+        "uri": "https://web.archive.org/web/20231108230745/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2023-11-30T01:20:04Z",
+        "uri": "https://web.archive.org/web/20231130012004/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-02-13T07:13:51Z",
+        "uri": "https://web.archive.org/web/20240213071351/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-03-04T21:38:41Z",
+        "uri": "https://web.archive.org/web/20240304213841/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-04-04T07:25:59Z",
+        "uri": "https://web.archive.org/web/20240404072559/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-04-27T16:09:02Z",
+        "uri": "https://web.archive.org/web/20240427160902/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-05-23T20:27:25Z",
+        "uri": "https://wayback.archive-it.org/all/20240523202725/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-07-14T17:01:36Z",
+        "uri": "https://web.archive.org/web/20240714170136/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      },
+      {
+        "datetime": "2024-08-17T12:52:00Z",
+        "uri": "https://web.archive.org/web/20240817125200/http://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T23:07:45Z",
+      "uri": "https://web.archive.org/web/20231108230745/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+    },
+    "last": {
+      "datetime": "2024-08-17T12:52:00Z",
+      "uri": "https://web.archive.org/web/20240817125200/http://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/irv-antonio-finds-a-safe-haven-at-odu-after-being-medically-separated-the-us-coast-guard"
+}

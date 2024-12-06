@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/learning-german/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T13:05:08Z",
+        "uri": "https://web.archive.org/web/20220524130508/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:29Z",
+        "uri": "https://web.archive.org/web/20220622021429/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2022-07-07T14:22:39Z",
+        "uri": "https://web.archive.org/web/20220707142239/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2022-11-28T09:15:56Z",
+        "uri": "https://web.archive.org/web/20221128091556/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:57Z",
+        "uri": "https://web.archive.org/web/20230107001357/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2023-03-20T19:44:58Z",
+        "uri": "https://web.archive.org/web/20230320194458/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2023-09-29T21:16:55Z",
+        "uri": "https://web.archive.org/web/20230929211655/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:05Z",
+        "uri": "https://web.archive.org/web/20231216174005/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2024-04-07T08:27:27Z",
+        "uri": "https://web.archive.org/web/20240407082727/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2024-04-21T21:50:14Z",
+        "uri": "https://web.archive.org/web/20240421215014/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      },
+      {
+        "datetime": "2024-07-14T08:33:39Z",
+        "uri": "https://web.archive.org/web/20240714083339/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T13:05:08Z",
+      "uri": "https://web.archive.org/web/20220524130508/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+    },
+    "last": {
+      "datetime": "2024-07-14T08:33:39Z",
+      "uri": "https://web.archive.org/web/20240714083339/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/learning-german/"
+}

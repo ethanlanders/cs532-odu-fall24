@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/data-privacy-statement/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/data-privacy-statement/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-22T02:14:35Z",
+        "uri": "https://web.archive.org/web/20220622021435/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-07-27T01:19:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220727011937/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-07-27T01:19:37Z",
+        "uri": "https://web.archive.org/web/20220727011937/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-09-22T20:01:45Z",
+        "uri": "https://wayback.archive-it.org/all/20220922200145/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-09-22T20:01:45Z",
+        "uri": "https://web.archive.org/web/20220922200145/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-10-02T15:35:40Z",
+        "uri": "https://web.archive.org/web/20221002153540/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-10-27T22:44:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221027224443/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2022-10-27T22:44:43Z",
+        "uri": "https://web.archive.org/web/20221027224443/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:15Z",
+        "uri": "https://web.archive.org/web/20230107001315/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:17Z",
+        "uri": "https://web.archive.org/web/20230127051117/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-02-02T17:22:44Z",
+        "uri": "https://web.archive.org/web/20230202172244/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-02-24T13:18:55Z",
+        "uri": "https://web.archive.org/web/20230224131855/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-06-04T00:06:42Z",
+        "uri": "https://web.archive.org/web/20230604000642/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-09-29T16:23:27Z",
+        "uri": "https://web.archive.org/web/20230929162327/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:07Z",
+        "uri": "https://web.archive.org/web/20231216174007/https://www.daad-ukraine.org/en/data-privacy-statement"
+      },
+      {
+        "datetime": "2024-04-21T20:27:50Z",
+        "uri": "https://web.archive.org/web/20240421202750/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2024-04-24T23:59:28Z",
+        "uri": "https://web.archive.org/web/20240424235928/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2024-04-25T01:10:27Z",
+        "uri": "https://web.archive.org/web/20240425011027/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      },
+      {
+        "datetime": "2024-04-25T01:59:19Z",
+        "uri": "https://web.archive.org/web/20240425015919/https://www.daad-ukraine.org/en/data-privacy-statement/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-22T02:14:35Z",
+      "uri": "https://web.archive.org/web/20220622021435/https://www.daad-ukraine.org/en/data-privacy-statement/"
+    },
+    "last": {
+      "datetime": "2024-04-25T01:59:19Z",
+      "uri": "https://web.archive.org/web/20240425015919/https://www.daad-ukraine.org/en/data-privacy-statement/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/data-privacy-statement/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/data-privacy-statement/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/data-privacy-statement/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/data-privacy-statement/"
+}

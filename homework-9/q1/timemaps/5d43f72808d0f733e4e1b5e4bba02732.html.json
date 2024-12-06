@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-12-31T12:06:50Z",
+        "uri": "https://web.archive.org/web/20081231120650/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2009-07-22T02:37:24Z",
+        "uri": "https://web.archive.org/web/20090722023724/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2010-01-08T16:20:58Z",
+        "uri": "https://web.archive.org/web/20100108162058/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2010-04-03T05:09:19Z",
+        "uri": "https://web.archive.org/web/20100403050919/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2011-08-30T13:17:56Z",
+        "uri": "https://web.archive.org/web/20110830131756/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2015-09-21T15:41:33Z",
+        "uri": "https://web.archive.org/web/20150921154133/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2016-04-02T04:59:02Z",
+        "uri": "https://web.archive.org/web/20160402045902/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2016-08-06T11:01:40Z",
+        "uri": "https://web.archive.org/web/20160806110140/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2016-09-13T08:31:47Z",
+        "uri": "https://web.archive.org/web/20160913083147/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2017-03-17T16:06:15Z",
+        "uri": "https://web.archive.org/web/20170317160615/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2017-06-19T02:41:55Z",
+        "uri": "https://web.archive.org/web/20170619024155/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2017-10-03T05:20:57Z",
+        "uri": "https://wayback.archive-it.org/all/20171003052057/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2017-10-03T05:20:57Z",
+        "uri": "https://web.archive.org/web/20171003052057/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2018-07-04T03:04:56Z",
+        "uri": "https://web.archive.org/web/20180704030456/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2020-02-10T02:37:42Z",
+        "uri": "https://arquivo.pt/wayback/20200210023742mp_/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2020-03-12T16:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20200312160800mp_/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2020-11-28T01:30:39Z",
+        "uri": "https://web.archive.org/web/20201128013039/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2021-11-28T16:53:46Z",
+        "uri": "https://web.archive.org/web/20211128165346/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2022-01-21T05:12:06Z",
+        "uri": "https://web.archive.org/web/20220121051206/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2022-01-21T07:15:35Z",
+        "uri": "https://web.archive.org/web/20220121071535/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2022-12-07T04:34:02Z",
+        "uri": "https://web.archive.org/web/20221207043402/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2023-01-29T02:08:14Z",
+        "uri": "https://web.archive.org/web/20230129020814/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2023-05-28T03:03:11Z",
+        "uri": "https://web.archive.org/web/20230528030311/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      },
+      {
+        "datetime": "2024-04-23T21:07:24Z",
+        "uri": "https://web.archive.org/web/20240423210724/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+      }
+    ],
+    "first": {
+      "datetime": "2008-12-31T12:06:50Z",
+      "uri": "https://web.archive.org/web/20081231120650/http://dblp.uni-trier.de:80/db/conf/cidr/cidr2007.html"
+    },
+    "last": {
+      "datetime": "2024-04-23T21:07:24Z",
+      "uri": "https://web.archive.org/web/20240423210724/http://dblp.uni-trier.de/db/conf/cidr/cidr2007.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/conf/cidr/cidr2007.html#BastW07"
+}

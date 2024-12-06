@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/research-and-teaching-in-germany/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:32:33Z",
+        "uri": "https://web.archive.org/web/20220524113233/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:35Z",
+        "uri": "https://web.archive.org/web/20220622021435/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2022-06-29T09:54:02Z",
+        "uri": "https://web.archive.org/web/20220629095402/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2022-10-02T15:22:35Z",
+        "uri": "https://web.archive.org/web/20221002152235/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2023-01-07T00:15:34Z",
+        "uri": "https://web.archive.org/web/20230107001534/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2023-02-04T08:09:56Z",
+        "uri": "https://web.archive.org/web/20230204080956/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2023-06-03T23:57:28Z",
+        "uri": "https://web.archive.org/web/20230603235728/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:07Z",
+        "uri": "https://web.archive.org/web/20231216174007/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      },
+      {
+        "datetime": "2024-04-21T20:12:47Z",
+        "uri": "https://web.archive.org/web/20240421201247/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:32:33Z",
+      "uri": "https://web.archive.org/web/20220524113233/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+    },
+    "last": {
+      "datetime": "2024-04-21T20:12:47Z",
+      "uri": "https://web.archive.org/web/20240421201247/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/"
+}

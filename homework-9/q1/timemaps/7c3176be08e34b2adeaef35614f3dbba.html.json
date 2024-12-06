@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-09T21:38:14Z",
+        "uri": "https://web.archive.org/web/20240709213814/https://scholar.archive.org/search?q=Output-sensitive+autocompletion+search."
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-09T21:38:14Z",
+      "uri": "https://web.archive.org/web/20240709213814/https://scholar.archive.org/search?q=Output-sensitive+autocompletion+search."
+    },
+    "last": {
+      "datetime": "2024-07-09T21:38:14Z",
+      "uri": "https://web.archive.org/web/20240709213814/https://scholar.archive.org/search?q=Output-sensitive+autocompletion+search."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=Output-Sensitive+Autocompletion+Search."
+}

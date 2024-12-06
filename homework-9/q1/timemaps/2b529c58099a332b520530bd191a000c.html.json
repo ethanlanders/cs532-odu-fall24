@@ -1,0 +1,950 @@
+{
+  "original_uri": "https://info.arxiv.org/help/mathjax.html",
+  "self": "http://localhost:1208/timemap/json/https://info.arxiv.org/help/mathjax.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-02-01T21:27:51Z",
+        "uri": "https://web.archive.org/web/20230201212751/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-01T21:29:59Z",
+        "uri": "https://web.archive.org/web/20230201212959/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-02T08:11:18Z",
+        "uri": "https://web.archive.org/web/20230202081118/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-02T21:32:53Z",
+        "uri": "https://web.archive.org/web/20230202213253/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-03T19:18:40Z",
+        "uri": "https://web.archive.org/web/20230203191840/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-06T05:01:56Z",
+        "uri": "https://web.archive.org/web/20230206050156/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-27T17:27:51Z",
+        "uri": "https://web.archive.org/web/20230227172751/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-02-28T17:13:18Z",
+        "uri": "https://web.archive.org/web/20230228171318/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-01T06:32:41Z",
+        "uri": "https://web.archive.org/web/20230301063241/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-02T23:34:10Z",
+        "uri": "https://web.archive.org/web/20230302233410/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-03T18:42:16Z",
+        "uri": "https://web.archive.org/web/20230303184216/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-05T17:49:22Z",
+        "uri": "https://web.archive.org/web/20230305174922/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-05T21:13:26Z",
+        "uri": "https://web.archive.org/web/20230305211326/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-05T23:40:37Z",
+        "uri": "https://web.archive.org/web/20230305234037/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-06T05:12:27Z",
+        "uri": "https://web.archive.org/web/20230306051227/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-06T06:06:57Z",
+        "uri": "https://web.archive.org/web/20230306060657/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-06T06:29:49Z",
+        "uri": "https://web.archive.org/web/20230306062949/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-14T23:21:02Z",
+        "uri": "https://web.archive.org/web/20230314232102/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-17T23:26:40Z",
+        "uri": "https://web.archive.org/web/20230317232640/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-20T20:33:07Z",
+        "uri": "https://web.archive.org/web/20230320203307/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-21T16:41:28Z",
+        "uri": "https://web.archive.org/web/20230321164128/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-25T17:02:02Z",
+        "uri": "https://web.archive.org/web/20230325170202/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-28T05:49:28Z",
+        "uri": "https://web.archive.org/web/20230328054928/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-28T18:39:04Z",
+        "uri": "https://web.archive.org/web/20230328183904/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-03-31T21:15:53Z",
+        "uri": "https://web.archive.org/web/20230331211553/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-01T21:26:43Z",
+        "uri": "https://web.archive.org/web/20230401212643/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-02T06:08:35Z",
+        "uri": "https://web.archive.org/web/20230402060835/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-02T16:57:49Z",
+        "uri": "https://web.archive.org/web/20230402165749/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-06T20:17:17Z",
+        "uri": "https://web.archive.org/web/20230406201717/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-10T00:16:20Z",
+        "uri": "https://web.archive.org/web/20230410001620/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-11T14:52:05Z",
+        "uri": "https://web.archive.org/web/20230411145205/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-12T05:20:51Z",
+        "uri": "https://web.archive.org/web/20230412052051/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-12T08:25:47Z",
+        "uri": "https://web.archive.org/web/20230412082547/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-12T15:25:41Z",
+        "uri": "https://web.archive.org/web/20230412152541/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-13T06:29:51Z",
+        "uri": "https://web.archive.org/web/20230413062951/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-14T14:07:06Z",
+        "uri": "https://web.archive.org/web/20230414140706/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-19T05:36:45Z",
+        "uri": "https://web.archive.org/web/20230419053645/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-20T11:23:37Z",
+        "uri": "https://web.archive.org/web/20230420112337/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-20T19:11:49Z",
+        "uri": "https://web.archive.org/web/20230420191149/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-22T09:52:07Z",
+        "uri": "https://web.archive.org/web/20230422095207/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-22T15:57:32Z",
+        "uri": "https://web.archive.org/web/20230422155732/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-25T22:00:36Z",
+        "uri": "https://web.archive.org/web/20230425220036/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-04-26T07:40:54Z",
+        "uri": "https://web.archive.org/web/20230426074054/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-14T06:04:49Z",
+        "uri": "https://web.archive.org/web/20230514060449/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-17T22:48:06Z",
+        "uri": "https://web.archive.org/web/20230517224806/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-23T17:57:18Z",
+        "uri": "https://web.archive.org/web/20230523175718/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-23T20:03:31Z",
+        "uri": "https://web.archive.org/web/20230523200331/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-23T22:54:06Z",
+        "uri": "https://web.archive.org/web/20230523225406/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-24T21:06:55Z",
+        "uri": "https://web.archive.org/web/20230524210655/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-24T23:14:11Z",
+        "uri": "https://web.archive.org/web/20230524231411/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-25T12:19:55Z",
+        "uri": "https://web.archive.org/web/20230525121955/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-25T18:37:40Z",
+        "uri": "https://web.archive.org/web/20230525183740/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-26T10:50:47Z",
+        "uri": "https://web.archive.org/web/20230526105047/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-26T16:13:35Z",
+        "uri": "https://web.archive.org/web/20230526161335/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-26T23:11:32Z",
+        "uri": "https://web.archive.org/web/20230526231132/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-30T11:35:31Z",
+        "uri": "https://web.archive.org/web/20230530113531/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-05-30T14:07:14Z",
+        "uri": "https://web.archive.org/web/20230530140714/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-01T00:26:38Z",
+        "uri": "https://web.archive.org/web/20230601002638/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-03T06:15:19Z",
+        "uri": "https://web.archive.org/web/20230603061519/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-09T06:49:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230609064916/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-09T06:49:16Z",
+        "uri": "https://web.archive.org/web/20230609064916/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-15T12:49:38Z",
+        "uri": "https://web.archive.org/web/20230615124938/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-18T10:09:29Z",
+        "uri": "https://web.archive.org/web/20230618100929/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-19T04:04:52Z",
+        "uri": "https://web.archive.org/web/20230619040452/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-21T07:52:42Z",
+        "uri": "https://web.archive.org/web/20230621075242/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-23T08:44:06Z",
+        "uri": "https://web.archive.org/web/20230623084406/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-06-29T07:16:33Z",
+        "uri": "https://web.archive.org/web/20230629071633/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-13T09:47:37Z",
+        "uri": "https://web.archive.org/web/20230713094737/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-14T01:37:25Z",
+        "uri": "https://web.archive.org/web/20230714013725/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-16T18:30:33Z",
+        "uri": "https://web.archive.org/web/20230716183033/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-25T19:07:21Z",
+        "uri": "https://web.archive.org/web/20230725190721/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-25T22:44:58Z",
+        "uri": "https://web.archive.org/web/20230725224458/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-07-28T12:55:25Z",
+        "uri": "https://web.archive.org/web/20230728125525/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-01T04:38:50Z",
+        "uri": "https://web.archive.org/web/20230801043850/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-01T18:12:57Z",
+        "uri": "https://web.archive.org/web/20230801181257/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-02T07:30:45Z",
+        "uri": "https://web.archive.org/web/20230802073045/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-09T14:38:17Z",
+        "uri": "https://web.archive.org/web/20230809143817/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-10T00:05:31Z",
+        "uri": "https://web.archive.org/web/20230810000531/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-18T22:57:53Z",
+        "uri": "https://web.archive.org/web/20230818225753/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-22T17:40:20Z",
+        "uri": "https://web.archive.org/web/20230822174020/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-23T20:20:15Z",
+        "uri": "https://web.archive.org/web/20230823202015/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-24T13:31:58Z",
+        "uri": "https://web.archive.org/web/20230824133158/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-25T02:47:10Z",
+        "uri": "https://web.archive.org/web/20230825024710/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-28T06:52:52Z",
+        "uri": "https://web.archive.org/web/20230828065252/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-08-31T09:48:06Z",
+        "uri": "https://web.archive.org/web/20230831094806/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-02T14:35:56Z",
+        "uri": "https://web.archive.org/web/20230902143556/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-13T18:56:43Z",
+        "uri": "https://web.archive.org/web/20230913185643/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-15T17:49:09Z",
+        "uri": "https://web.archive.org/web/20230915174909/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-15T19:50:06Z",
+        "uri": "https://web.archive.org/web/20230915195006/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-21T15:22:01Z",
+        "uri": "https://web.archive.org/web/20230921152201/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-23T04:32:37Z",
+        "uri": "https://web.archive.org/web/20230923043237/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-23T10:37:33Z",
+        "uri": "https://web.archive.org/web/20230923103733/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-09-23T12:50:44Z",
+        "uri": "https://web.archive.org/web/20230923125044/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-06T13:37:09Z",
+        "uri": "https://web.archive.org/web/20231006133709/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-06T15:53:21Z",
+        "uri": "https://web.archive.org/web/20231006155321/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-07T05:22:40Z",
+        "uri": "https://web.archive.org/web/20231007052240/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-09T05:35:50Z",
+        "uri": "https://web.archive.org/web/20231009053550/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-10T06:06:42Z",
+        "uri": "https://web.archive.org/web/20231010060642/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-14T14:19:53Z",
+        "uri": "https://web.archive.org/web/20231014141953/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-18T21:49:49Z",
+        "uri": "https://web.archive.org/web/20231018214949/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-20T13:28:49Z",
+        "uri": "https://web.archive.org/web/20231020132849/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-23T11:52:26Z",
+        "uri": "https://web.archive.org/web/20231023115226/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-10-30T18:54:10Z",
+        "uri": "https://web.archive.org/web/20231030185410/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-06T13:25:38Z",
+        "uri": "https://web.archive.org/web/20231106132538/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-07T07:04:38Z",
+        "uri": "https://web.archive.org/web/20231107070438/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-07T19:34:36Z",
+        "uri": "https://web.archive.org/web/20231107193436/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-09T22:17:31Z",
+        "uri": "https://web.archive.org/web/20231109221731/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-12T13:31:49Z",
+        "uri": "https://web.archive.org/web/20231112133149/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-11-26T02:24:02Z",
+        "uri": "https://web.archive.org/web/20231126022402/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-02T09:56:18Z",
+        "uri": "https://web.archive.org/web/20231202095618/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-03T20:04:44Z",
+        "uri": "https://web.archive.org/web/20231203200444/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-04T08:26:16Z",
+        "uri": "https://web.archive.org/web/20231204082616/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-06T07:26:01Z",
+        "uri": "https://web.archive.org/web/20231206072601/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-09T00:26:12Z",
+        "uri": "https://web.archive.org/web/20231209002612/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-10T07:42:30Z",
+        "uri": "https://web.archive.org/web/20231210074230/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-15T02:30:38Z",
+        "uri": "https://web.archive.org/web/20231215023038/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-15T17:04:40Z",
+        "uri": "https://web.archive.org/web/20231215170440/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-16T09:21:45Z",
+        "uri": "https://web.archive.org/web/20231216092145/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-16T21:45:15Z",
+        "uri": "https://web.archive.org/web/20231216214515/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-22T12:10:40Z",
+        "uri": "https://web.archive.org/web/20231222121040/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-26T21:43:32Z",
+        "uri": "https://web.archive.org/web/20231226214332/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-27T12:45:26Z",
+        "uri": "https://web.archive.org/web/20231227124526/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-27T17:47:39Z",
+        "uri": "https://web.archive.org/web/20231227174739/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2023-12-29T17:43:42Z",
+        "uri": "https://web.archive.org/web/20231229174342/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-01T20:21:52Z",
+        "uri": "https://web.archive.org/web/20240101202152/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-05T14:14:27Z",
+        "uri": "https://web.archive.org/web/20240105141427/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-07T06:18:06Z",
+        "uri": "https://web.archive.org/web/20240107061806/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-07T09:52:29Z",
+        "uri": "https://web.archive.org/web/20240107095229/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-08T03:39:43Z",
+        "uri": "https://web.archive.org/web/20240108033943/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-18T01:47:10Z",
+        "uri": "https://web.archive.org/web/20240118014710/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-19T11:43:41Z",
+        "uri": "https://wayback.archive-it.org/all/20240119114341/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-01-20T23:01:19Z",
+        "uri": "https://web.archive.org/web/20240120230119/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-02T09:33:29Z",
+        "uri": "https://web.archive.org/web/20240202093329/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-06T21:40:34Z",
+        "uri": "https://web.archive.org/web/20240206214034/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-07T02:51:07Z",
+        "uri": "https://web.archive.org/web/20240207025107/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-07T13:39:22Z",
+        "uri": "https://web.archive.org/web/20240207133922/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-11T12:55:17Z",
+        "uri": "https://web.archive.org/web/20240211125517/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-13T13:12:10Z",
+        "uri": "https://web.archive.org/web/20240213131210/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-14T05:43:00Z",
+        "uri": "https://web.archive.org/web/20240214054300/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-15T19:09:41Z",
+        "uri": "https://web.archive.org/web/20240215190941/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-24T18:28:08Z",
+        "uri": "https://web.archive.org/web/20240224182808/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-25T14:15:40Z",
+        "uri": "https://web.archive.org/web/20240225141540/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-02-26T20:43:29Z",
+        "uri": "https://web.archive.org/web/20240226204329/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-02T11:18:21Z",
+        "uri": "https://web.archive.org/web/20240302111821/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-02T20:01:17Z",
+        "uri": "https://web.archive.org/web/20240302200117/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-03T12:10:11Z",
+        "uri": "https://web.archive.org/web/20240303121011/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-04T18:01:51Z",
+        "uri": "https://web.archive.org/web/20240304180151/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-04T21:20:16Z",
+        "uri": "https://web.archive.org/web/20240304212016/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-05T15:21:42Z",
+        "uri": "https://web.archive.org/web/20240305152142/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-11T04:50:59Z",
+        "uri": "https://web.archive.org/web/20240311045059/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-14T09:34:17Z",
+        "uri": "https://web.archive.org/web/20240314093417/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-15T18:29:26Z",
+        "uri": "https://web.archive.org/web/20240315182926/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T04:01:41Z",
+        "uri": "https://web.archive.org/web/20240319040141/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T06:55:49Z",
+        "uri": "https://web.archive.org/web/20240319065549/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T09:16:41Z",
+        "uri": "https://web.archive.org/web/20240319091641/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T12:57:20Z",
+        "uri": "https://web.archive.org/web/20240319125720/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T15:15:20Z",
+        "uri": "https://web.archive.org/web/20240319151520/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-19T17:57:30Z",
+        "uri": "https://web.archive.org/web/20240319175730/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-20T23:27:35Z",
+        "uri": "https://web.archive.org/web/20240320232735/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-24T11:40:24Z",
+        "uri": "https://web.archive.org/web/20240324114024/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-26T15:22:28Z",
+        "uri": "https://web.archive.org/web/20240326152228/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-27T04:30:51Z",
+        "uri": "https://web.archive.org/web/20240327043051/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-27T13:23:38Z",
+        "uri": "https://web.archive.org/web/20240327132338/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-27T19:31:43Z",
+        "uri": "https://web.archive.org/web/20240327193143/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-03-28T23:31:40Z",
+        "uri": "https://web.archive.org/web/20240328233140/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-02T09:25:36Z",
+        "uri": "https://web.archive.org/web/20240402092536/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-05T07:41:39Z",
+        "uri": "https://web.archive.org/web/20240405074139/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-05T16:06:03Z",
+        "uri": "https://web.archive.org/web/20240405160603/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-10T03:38:03Z",
+        "uri": "https://web.archive.org/web/20240410033803/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-10T10:56:25Z",
+        "uri": "https://web.archive.org/web/20240410105625/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-13T00:00:01Z",
+        "uri": "https://web.archive.org/web/20240413000001/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-13T21:40:03Z",
+        "uri": "https://web.archive.org/web/20240413214003/http://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-13T22:48:10Z",
+        "uri": "https://web.archive.org/web/20240413224810/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-18T15:24:25Z",
+        "uri": "https://web.archive.org/web/20240418152425/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-20T16:05:46Z",
+        "uri": "https://web.archive.org/web/20240420160546/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-21T02:50:42Z",
+        "uri": "https://web.archive.org/web/20240421025042/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-21T20:01:17Z",
+        "uri": "https://web.archive.org/web/20240421200117/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-23T20:18:01Z",
+        "uri": "https://web.archive.org/web/20240423201801/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-04-29T21:27:55Z",
+        "uri": "https://web.archive.org/web/20240429212755/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-01T12:27:36Z",
+        "uri": "https://web.archive.org/web/20240501122736/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-01T15:20:07Z",
+        "uri": "https://web.archive.org/web/20240501152007/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-05T08:43:56Z",
+        "uri": "https://web.archive.org/web/20240505084356/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-08T23:01:11Z",
+        "uri": "https://web.archive.org/web/20240508230111/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-11T11:40:31Z",
+        "uri": "https://web.archive.org/web/20240511114031/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-15T14:11:40Z",
+        "uri": "https://web.archive.org/web/20240515141140/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-16T09:21:47Z",
+        "uri": "https://web.archive.org/web/20240516092147/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-17T05:58:32Z",
+        "uri": "https://web.archive.org/web/20240517055832/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-25T20:15:42Z",
+        "uri": "https://web.archive.org/web/20240525201542/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-26T01:22:52Z",
+        "uri": "https://web.archive.org/web/20240526012252/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-26T04:08:33Z",
+        "uri": "https://web.archive.org/web/20240526040833/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-05-29T00:14:45Z",
+        "uri": "https://web.archive.org/web/20240529001445/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-06-01T07:31:49Z",
+        "uri": "https://web.archive.org/web/20240601073149/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-06-06T12:56:48Z",
+        "uri": "https://wayback.archive-it.org/all/20240606125648/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-06-06T12:56:48Z",
+        "uri": "https://web.archive.org/web/20240606125648/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-06-19T19:53:22Z",
+        "uri": "https://web.archive.org/web/20240619195322/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-06-22T22:11:33Z",
+        "uri": "https://web.archive.org/web/20240622221133/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-07-03T10:09:50Z",
+        "uri": "https://web.archive.org/web/20240703100950/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-07-04T16:56:16Z",
+        "uri": "https://web.archive.org/web/20240704165616/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-07-07T08:41:27Z",
+        "uri": "https://web.archive.org/web/20240707084127/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-07-14T04:22:06Z",
+        "uri": "https://web.archive.org/web/20240714042206/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-07-20T10:47:29Z",
+        "uri": "https://web.archive.org/web/20240720104729/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-01T08:35:10Z",
+        "uri": "https://web.archive.org/web/20240801083510/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-04T05:26:20Z",
+        "uri": "https://web.archive.org/web/20240804052620/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-06T11:51:21Z",
+        "uri": "https://web.archive.org/web/20240806115121/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-09T13:47:42Z",
+        "uri": "https://web.archive.org/web/20240809134742/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-10T19:08:56Z",
+        "uri": "https://web.archive.org/web/20240810190856/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-14T04:06:50Z",
+        "uri": "https://web.archive.org/web/20240814040650/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-15T17:35:59Z",
+        "uri": "https://web.archive.org/web/20240815173559/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-17T12:42:02Z",
+        "uri": "https://web.archive.org/web/20240817124202/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-08-22T09:15:30Z",
+        "uri": "https://web.archive.org/web/20240822091530/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-01T16:16:27Z",
+        "uri": "https://web.archive.org/web/20240901161627/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-15T16:11:45Z",
+        "uri": "https://web.archive.org/web/20240915161145/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-21T02:55:37Z",
+        "uri": "https://web.archive.org/web/20240921025537/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-21T11:29:52Z",
+        "uri": "https://web.archive.org/web/20240921112952/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-22T00:52:46Z",
+        "uri": "https://web.archive.org/web/20240922005246/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-22T13:40:25Z",
+        "uri": "https://web.archive.org/web/20240922134025/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-23T15:01:37Z",
+        "uri": "https://web.archive.org/web/20240923150137/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-23T19:31:55Z",
+        "uri": "https://web.archive.org/web/20240923193155/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-25T15:25:42Z",
+        "uri": "https://web.archive.org/web/20240925152542/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-26T05:27:23Z",
+        "uri": "https://web.archive.org/web/20240926052723/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-26T22:55:22Z",
+        "uri": "https://web.archive.org/web/20240926225522/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-28T11:40:14Z",
+        "uri": "https://web.archive.org/web/20240928114014/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-09-29T04:49:37Z",
+        "uri": "https://web.archive.org/web/20240929044937/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-10-01T09:34:52Z",
+        "uri": "https://web.archive.org/web/20241001093452/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-10-03T12:36:26Z",
+        "uri": "https://web.archive.org/web/20241003123626/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-10-07T09:04:42Z",
+        "uri": "https://web.archive.org/web/20241007090442/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-10-07T09:21:56Z",
+        "uri": "https://web.archive.org/web/20241007092156/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-10-09T15:31:59Z",
+        "uri": "https://web.archive.org/web/20241009153159/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-11-10T00:29:02Z",
+        "uri": "https://web.archive.org/web/20241110002902/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-11-18T02:13:28Z",
+        "uri": "https://web.archive.org/web/20241118021328/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-11-24T17:27:27Z",
+        "uri": "https://web.archive.org/web/20241124172727/https://info.arxiv.org/help/mathjax.html"
+      },
+      {
+        "datetime": "2024-12-02T05:16:14Z",
+        "uri": "https://web.archive.org/web/20241202051614/https://info.arxiv.org/help/mathjax.html"
+      }
+    ],
+    "first": {
+      "datetime": "2023-02-01T21:27:51Z",
+      "uri": "https://web.archive.org/web/20230201212751/https://info.arxiv.org/help/mathjax.html"
+    },
+    "last": {
+      "datetime": "2024-12-02T05:16:14Z",
+      "uri": "https://web.archive.org/web/20241202051614/https://info.arxiv.org/help/mathjax.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://info.arxiv.org/help/mathjax.html",
+    "json_format": "http://localhost:1208/timemap/json/https://info.arxiv.org/help/mathjax.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://info.arxiv.org/help/mathjax.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://info.arxiv.org/help/mathjax.html"
+}

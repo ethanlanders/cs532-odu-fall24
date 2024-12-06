@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-05-10T02:18:00Z",
+        "uri": "https://web.archive.org/web/20240510021800/https://citeseerx.ist.psu.edu/search_result?query=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+      }
+    ],
+    "first": {
+      "datetime": "2024-05-10T02:18:00Z",
+      "uri": "https://web.archive.org/web/20240510021800/https://citeseerx.ist.psu.edu/search_result?query=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+    },
+    "last": {
+      "datetime": "2024-05-10T02:18:00Z",
+      "uri": "https://web.archive.org/web/20240510021800/https://citeseerx.ist.psu.edu/search_result?query=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=ESTER:+efficient+search+on+text,+entities,+and+relations."
+}

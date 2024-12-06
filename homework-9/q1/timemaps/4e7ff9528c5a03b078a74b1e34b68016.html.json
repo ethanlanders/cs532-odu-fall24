@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://weiglemc.github.io/publications/book",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/book",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-26T08:17:48Z",
+        "uri": "https://web.archive.org/web/20220626081748/https://weiglemc.github.io/publications/book"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-26T08:17:48Z",
+      "uri": "https://web.archive.org/web/20220626081748/https://weiglemc.github.io/publications/book"
+    },
+    "last": {
+      "datetime": "2022-06-26T08:17:48Z",
+      "uri": "https://web.archive.org/web/20220626081748/https://weiglemc.github.io/publications/book"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/book",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/book",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/book"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/book"
+}

@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:39:48Z",
+        "uri": "https://web.archive.org/web/20220524113948/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:36Z",
+        "uri": "https://web.archive.org/web/20220622021436/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2022-10-02T15:32:08Z",
+        "uri": "https://web.archive.org/web/20221002153208/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:09Z",
+        "uri": "https://web.archive.org/web/20230107001309/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2023-02-02T17:22:03Z",
+        "uri": "https://web.archive.org/web/20230202172203/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2023-06-04T00:04:40Z",
+        "uri": "https://web.archive.org/web/20230604000440/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:02Z",
+        "uri": "https://web.archive.org/web/20231216174002/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2024-04-21T20:26:22Z",
+        "uri": "https://web.archive.org/web/20240421202622/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      },
+      {
+        "datetime": "2024-07-14T07:03:46Z",
+        "uri": "https://web.archive.org/web/20240714070346/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:39:48Z",
+      "uri": "https://web.archive.org/web/20220524113948/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+    },
+    "last": {
+      "datetime": "2024-07-14T07:03:46Z",
+      "uri": "https://web.archive.org/web/20240714070346/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/experienced-researchers/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+  "self": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-05-10T02:17:58Z",
+        "uri": "https://web.archive.org/web/20240510021758/https://scholar.archive.org/search?q=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+      }
+    ],
+    "first": {
+      "datetime": "2024-05-10T02:17:58Z",
+      "uri": "https://web.archive.org/web/20240510021758/https://scholar.archive.org/search?q=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+    },
+    "last": {
+      "datetime": "2024-05-10T02:17:58Z",
+      "uri": "https://web.archive.org/web/20240510021758/https://scholar.archive.org/search?q=ESTER%253A+efficient+search+on+text%252C+entities%252C+and+relations."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.archive.org/search?q=ESTER:+efficient+search+on+text,+entities,+and+relations."
+}

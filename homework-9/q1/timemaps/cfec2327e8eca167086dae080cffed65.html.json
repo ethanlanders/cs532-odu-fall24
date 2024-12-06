@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/about-us/contact/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/about-us/contact/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:55:01Z",
+        "uri": "https://web.archive.org/web/20220524115501/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:33Z",
+        "uri": "https://web.archive.org/web/20220622021433/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2022-10-02T15:53:07Z",
+        "uri": "https://web.archive.org/web/20221002155307/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:12Z",
+        "uri": "https://web.archive.org/web/20230107001312/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-02-02T17:36:54Z",
+        "uri": "https://web.archive.org/web/20230202173654/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-06-04T00:24:18Z",
+        "uri": "https://web.archive.org/web/20230604002418/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-08-25T07:55:28Z",
+        "uri": "https://web.archive.org/web/20230825075528/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-11-12T03:54:11Z",
+        "uri": "https://web.archive.org/web/20231112035411/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-11-12T05:21:32Z",
+        "uri": "https://web.archive.org/web/20231112052132/http://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-12-02T08:24:31Z",
+        "uri": "https://web.archive.org/web/20231202082431/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:08Z",
+        "uri": "https://web.archive.org/web/20231216174008/https://www.daad-ukraine.org/en/about-us/contact/"
+      },
+      {
+        "datetime": "2024-05-19T04:50:37Z",
+        "uri": "https://web.archive.org/web/20240519045037/https://www.daad-ukraine.org/en/about-us/contact/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:55:01Z",
+      "uri": "https://web.archive.org/web/20220524115501/https://www.daad-ukraine.org/en/about-us/contact/"
+    },
+    "last": {
+      "datetime": "2024-05-19T04:50:37Z",
+      "uri": "https://web.archive.org/web/20240519045037/https://www.daad-ukraine.org/en/about-us/contact/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/about-us/contact/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/about-us/contact/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/about-us/contact/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/about-us/contact/"
+}

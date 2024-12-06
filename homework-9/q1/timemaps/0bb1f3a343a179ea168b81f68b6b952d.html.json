@@ -1,0 +1,514 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/db/about/imprint.html",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/imprint.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-27T17:00:12Z",
+        "uri": "https://web.archive.org/web/20180527170012/http://dblp.uni-trier.de:80/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-03T00:04:30Z",
+        "uri": "https://wayback.archive-it.org/all/20180703000430/http://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-03T00:04:30Z",
+        "uri": "https://web.archive.org/web/20180703000430/http://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-03T01:40:12Z",
+        "uri": "https://wayback.archive-it.org/all/20180703014012/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-03T01:40:12Z",
+        "uri": "https://web.archive.org/web/20180703014012/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-28T00:34:20Z",
+        "uri": "https://web.archive.org/web/20180728003420/http://dblp.uni-trier.de:80/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-07-28T09:06:18Z",
+        "uri": "https://web.archive.org/web/20180728090618/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-10-03T01:45:56Z",
+        "uri": "https://wayback.archive-it.org/all/20181003014556/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2018-10-03T01:45:56Z",
+        "uri": "https://web.archive.org/web/20181003014556/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-01-02T22:38:42Z",
+        "uri": "https://wayback.archive-it.org/all/20190102223842/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-01-02T22:38:42Z",
+        "uri": "https://web.archive.org/web/20190102223842/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-01-07T19:08:36Z",
+        "uri": "https://web.archive.org/web/20190107190836/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-03-23T19:55:06Z",
+        "uri": "https://web.archive.org/web/20190323195506/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-04-02T21:17:35Z",
+        "uri": "https://wayback.archive-it.org/all/20190402211735/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-04-02T21:17:35Z",
+        "uri": "https://web.archive.org/web/20190402211735/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-05-03T21:59:52Z",
+        "uri": "https://web.archive.org/web/20190503215952/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-07-02T20:12:17Z",
+        "uri": "https://wayback.archive-it.org/all/20190702201217/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-07-02T20:12:17Z",
+        "uri": "https://web.archive.org/web/20190702201217/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-07-17T05:47:21Z",
+        "uri": "https://web.archive.org/web/20190717054721/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-10-02T20:08:20Z",
+        "uri": "https://wayback.archive-it.org/all/20191002200820/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-10-02T20:08:20Z",
+        "uri": "https://web.archive.org/web/20191002200820/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2019-11-14T22:36:49Z",
+        "uri": "https://arquivo.pt/wayback/20191114223649mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-01-02T20:57:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200102205734/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-01-02T20:57:34Z",
+        "uri": "https://web.archive.org/web/20200102205734/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-02-05T11:59:36Z",
+        "uri": "https://arquivo.pt/wayback/20200205115936mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-03-08T02:06:39Z",
+        "uri": "https://web.archive.org/web/20200308020639/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-03-12T15:50:41Z",
+        "uri": "https://arquivo.pt/wayback/20200312155041mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-04-16T17:43:23Z",
+        "uri": "https://web.archive.org/web/20200416174323/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-04-22T11:23:29Z",
+        "uri": "https://web.archive.org/web/20200422112329/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-05-07T21:02:46Z",
+        "uri": "https://web.archive.org/web/20200507210246/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-05-24T15:04:47Z",
+        "uri": "https://web.archive.org/web/20200524150447/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-06-16T20:59:56Z",
+        "uri": "https://web.archive.org/web/20200616205956/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-06-18T04:56:48Z",
+        "uri": "https://web.archive.org/web/20200618045648/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-07-23T13:41:05Z",
+        "uri": "https://web.archive.org/web/20200723134105/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-08-09T12:20:43Z",
+        "uri": "https://web.archive.org/web/20200809122043/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-09-13T01:18:57Z",
+        "uri": "https://web.archive.org/web/20200913011857/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-09-18T01:29:18Z",
+        "uri": "https://web.archive.org/web/20200918012918/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-10-04T04:31:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201004043146/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-10-04T04:31:46Z",
+        "uri": "https://web.archive.org/web/20201004043146/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-10-15T17:41:32Z",
+        "uri": "https://web.archive.org/web/20201015174132/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-10-17T11:51:43Z",
+        "uri": "https://web.archive.org/web/20201017115143/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2020-10-27T04:56:25Z",
+        "uri": "https://web.archive.org/web/20201027045625/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-01-03T11:58:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210103115839/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-01-03T11:58:39Z",
+        "uri": "https://web.archive.org/web/20210103115839/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-03-07T01:18:31Z",
+        "uri": "https://web.archive.org/web/20210307011831/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-04-03T23:20:03Z",
+        "uri": "https://wayback.archive-it.org/all/20210403232003/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-04-03T23:20:03Z",
+        "uri": "https://web.archive.org/web/20210403232003/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-05-06T18:29:11Z",
+        "uri": "https://web.archive.org/web/20210506182911/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-05-07T23:53:10Z",
+        "uri": "https://web.archive.org/web/20210507235310/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-05-12T19:49:41Z",
+        "uri": "https://web.archive.org/web/20210512194941/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-07-03T14:10:21Z",
+        "uri": "https://wayback.archive-it.org/all/20210703141021/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-07-03T14:10:21Z",
+        "uri": "https://web.archive.org/web/20210703141021/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-08-11T23:09:32Z",
+        "uri": "https://web.archive.org/web/20210811230932/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-08-14T11:41:06Z",
+        "uri": "https://web.archive.org/web/20210814114106/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-08-15T15:22:31Z",
+        "uri": "https://web.archive.org/web/20210815152231/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-08-15T16:55:09Z",
+        "uri": "https://web.archive.org/web/20210815165509/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-09-04T07:49:14Z",
+        "uri": "https://web.archive.org/web/20210904074914/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-09-19T17:17:15Z",
+        "uri": "https://arquivo.pt/wayback/20210919171715mp_/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-10-04T11:08:08Z",
+        "uri": "https://wayback.archive-it.org/all/20211004110808/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-10-04T11:08:08Z",
+        "uri": "https://web.archive.org/web/20211004110808/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-10-23T00:51:19Z",
+        "uri": "https://web.archive.org/web/20211023005119/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-10-24T12:21:45Z",
+        "uri": "https://web.archive.org/web/20211024122145/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2021-10-31T22:26:26Z",
+        "uri": "https://web.archive.org/web/20211031222626/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-01-03T16:16:14Z",
+        "uri": "https://wayback.archive-it.org/all/20220103161614/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-01-03T16:16:14Z",
+        "uri": "https://web.archive.org/web/20220103161614/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-01-04T23:29:54Z",
+        "uri": "https://web.archive.org/web/20220104232954/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-01-08T01:56:04Z",
+        "uri": "https://web.archive.org/web/20220108015604/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-03-08T09:22:29Z",
+        "uri": "https://web.archive.org/web/20220308092229/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-04-02T17:15:06Z",
+        "uri": "https://web.archive.org/web/20220402171506/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-04-04T15:20:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220404152053/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-04-04T15:20:53Z",
+        "uri": "https://web.archive.org/web/20220404152053/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-04-07T08:04:27Z",
+        "uri": "https://web.archive.org/web/20220407080427/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-05-20T18:36:25Z",
+        "uri": "https://web.archive.org/web/20220520183625/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-05-25T02:07:05Z",
+        "uri": "https://web.archive.org/web/20220525020705/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-07-05T10:39:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220705103937/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-07-05T10:39:37Z",
+        "uri": "https://web.archive.org/web/20220705103937/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-09-26T01:18:50Z",
+        "uri": "https://web.archive.org/web/20220926011850/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-10-04T15:43:41Z",
+        "uri": "https://wayback.archive-it.org/all/20221004154341/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-10-04T15:43:41Z",
+        "uri": "https://web.archive.org/web/20221004154341/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2022-11-14T23:22:10Z",
+        "uri": "https://web.archive.org/web/20221114232210/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-01-05T17:59:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230105175902/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-01-05T17:59:02Z",
+        "uri": "https://web.archive.org/web/20230105175902/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-01-28T03:42:38Z",
+        "uri": "https://web.archive.org/web/20230128034238/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-01-28T19:02:26Z",
+        "uri": "https://web.archive.org/web/20230128190226/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-03-06T09:58:07Z",
+        "uri": "https://web.archive.org/web/20230306095807/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-03-14T18:15:20Z",
+        "uri": "https://web.archive.org/web/20230314181520/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-03-24T13:39:53Z",
+        "uri": "https://web.archive.org/web/20230324133953/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-04-02T04:21:11Z",
+        "uri": "https://web.archive.org/web/20230402042111/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-04-03T20:58:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230403205839/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-04-03T20:58:39Z",
+        "uri": "https://web.archive.org/web/20230403205839/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-05-01T08:03:32Z",
+        "uri": "https://web.archive.org/web/20230501080332/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-06-01T06:28:16Z",
+        "uri": "https://web.archive.org/web/20230601062816/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-07-01T07:06:03Z",
+        "uri": "https://web.archive.org/web/20230701070603/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-07-04T17:06:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230704170609/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-07-04T17:06:09Z",
+        "uri": "https://web.archive.org/web/20230704170609/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-08-10T14:48:19Z",
+        "uri": "https://web.archive.org/web/20230810144819/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-10-05T01:49:54Z",
+        "uri": "https://wayback.archive-it.org/all/20231005014954/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-10-21T09:13:23Z",
+        "uri": "https://web.archive.org/web/20231021091323/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-11-01T01:34:21Z",
+        "uri": "https://web.archive.org/web/20231101013421/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-11-01T03:40:23Z",
+        "uri": "https://web.archive.org/web/20231101034023/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-12-01T23:58:16Z",
+        "uri": "https://web.archive.org/web/20231201235816/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-12-08T16:47:45Z",
+        "uri": "https://web.archive.org/web/20231208164745/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-12-15T02:39:32Z",
+        "uri": "https://web.archive.org/web/20231215023932/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-12-15T17:07:08Z",
+        "uri": "https://web.archive.org/web/20231215170708/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2023-12-23T17:42:45Z",
+        "uri": "https://web.archive.org/web/20231223174245/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-01-01T02:44:47Z",
+        "uri": "https://web.archive.org/web/20240101024447/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-01-02T09:27:10Z",
+        "uri": "https://web.archive.org/web/20240102092710/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-01-05T06:07:50Z",
+        "uri": "https://web.archive.org/web/20240105060750/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-02-02T06:49:57Z",
+        "uri": "https://web.archive.org/web/20240202064957/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-02-25T04:47:37Z",
+        "uri": "https://web.archive.org/web/20240225044737/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-03-03T22:05:30Z",
+        "uri": "https://web.archive.org/web/20240303220530/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-03-28T05:41:00Z",
+        "uri": "https://web.archive.org/web/20240328054100/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-04-02T12:44:35Z",
+        "uri": "https://web.archive.org/web/20240402124435/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-05-01T08:28:09Z",
+        "uri": "https://web.archive.org/web/20240501082809/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-05-21T02:22:26Z",
+        "uri": "https://web.archive.org/web/20240521022226/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-05-29T12:56:45Z",
+        "uri": "https://web.archive.org/web/20240529125645/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-06-01T00:07:51Z",
+        "uri": "https://web.archive.org/web/20240601000751/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-07-03T11:05:09Z",
+        "uri": "https://web.archive.org/web/20240703110509/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-08-02T10:44:57Z",
+        "uri": "https://web.archive.org/web/20240802104457/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-09-15T20:24:26Z",
+        "uri": "https://web.archive.org/web/20240915202426/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-10-01T21:54:14Z",
+        "uri": "https://web.archive.org/web/20241001215414/https://dblp.uni-trier.de/db/about/imprint.html"
+      },
+      {
+        "datetime": "2024-10-06T12:23:14Z",
+        "uri": "https://web.archive.org/web/20241006122314/https://dblp.uni-trier.de/db/about/imprint.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-27T17:00:12Z",
+      "uri": "https://web.archive.org/web/20180527170012/http://dblp.uni-trier.de:80/db/about/imprint.html"
+    },
+    "last": {
+      "datetime": "2024-10-06T12:23:14Z",
+      "uri": "https://web.archive.org/web/20241006122314/https://dblp.uni-trier.de/db/about/imprint.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/db/about/imprint.html",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/db/about/imprint.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/db/about/imprint.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/db/about/imprint.html"
+}

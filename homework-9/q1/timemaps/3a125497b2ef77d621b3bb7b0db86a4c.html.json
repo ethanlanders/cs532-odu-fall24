@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T11:53:45Z",
+        "uri": "https://web.archive.org/web/20220524115345/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:35Z",
+        "uri": "https://web.archive.org/web/20220622021435/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2022-10-02T15:51:04Z",
+        "uri": "https://web.archive.org/web/20221002155104/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-01-07T00:15:32Z",
+        "uri": "https://web.archive.org/web/20230107001532/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-02-02T17:36:17Z",
+        "uri": "https://web.archive.org/web/20230202173617/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-06-04T00:22:50Z",
+        "uri": "https://web.archive.org/web/20230604002250/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-12-02T08:23:06Z",
+        "uri": "https://web.archive.org/web/20231202082306/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:04Z",
+        "uri": "https://web.archive.org/web/20231216174004/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      },
+      {
+        "datetime": "2024-05-19T04:12:43Z",
+        "uri": "https://web.archive.org/web/20240519041243/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T11:53:45Z",
+      "uri": "https://web.archive.org/web/20220524115345/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+    },
+    "last": {
+      "datetime": "2024-05-19T04:12:43Z",
+      "uri": "https://web.archive.org/web/20240519041243/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/research-and-teaching-in-germany/phd-students/"
+}

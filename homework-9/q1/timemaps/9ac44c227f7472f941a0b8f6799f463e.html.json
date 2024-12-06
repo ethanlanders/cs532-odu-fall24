@@ -1,0 +1,2554 @@
+{
+  "original_uri": "https://mwg.rlp.de/",
+  "self": "http://localhost:1208/timemap/json/https://mwg.rlp.de/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-18T16:17:39Z",
+        "uri": "https://web.archive.org/web/20210518161739/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-05-18T16:17:39Z",
+        "uri": "https://web.archive.org/web/20210518161739/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-05-19T18:36:11Z",
+        "uri": "https://web.archive.org/web/20210519183611/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-05-19T20:08:23Z",
+        "uri": "https://web.archive.org/web/20210519200823/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-06-02T21:45:23Z",
+        "uri": "https://web.archive.org/web/20210602214523/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-08-11T21:54:25Z",
+        "uri": "https://web.archive.org/web/20210811215425/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-08-12T13:19:12Z",
+        "uri": "https://web.archive.org/web/20210812131912/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-08-28T13:18:04Z",
+        "uri": "https://web.archive.org/web/20210828131804/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-09-04T07:48:28Z",
+        "uri": "https://web.archive.org/web/20210904074828/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-09-14T08:37:15Z",
+        "uri": "https://web.archive.org/web/20210914083715/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-09-16T06:09:40Z",
+        "uri": "https://arquivo.pt/wayback/20210916060940mp_/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-10-20T08:55:42Z",
+        "uri": "https://web.archive.org/web/20211020085542/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-10-20T17:43:15Z",
+        "uri": "https://web.archive.org/web/20211020174315/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-11-18T08:24:03Z",
+        "uri": "https://web.archive.org/web/20211118082403/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-11-28T21:37:11Z",
+        "uri": "https://web.archive.org/web/20211128213711/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-12-29T02:19:01Z",
+        "uri": "https://web.archive.org/web/20211229021901/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-12-30T22:11:57Z",
+        "uri": "https://web.archive.org/web/20211230221157/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-12-31T10:11:17Z",
+        "uri": "https://web.archive.org/web/20211231101117/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2021-12-31T22:10:42Z",
+        "uri": "https://web.archive.org/web/20211231221042/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-01T10:10:49Z",
+        "uri": "https://web.archive.org/web/20220101101049/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-01T22:10:21Z",
+        "uri": "https://web.archive.org/web/20220101221021/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-02T10:10:18Z",
+        "uri": "https://web.archive.org/web/20220102101018/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-02T22:10:36Z",
+        "uri": "https://web.archive.org/web/20220102221036/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-03T10:10:09Z",
+        "uri": "https://web.archive.org/web/20220103101009/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-03T22:10:50Z",
+        "uri": "https://web.archive.org/web/20220103221050/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-04T10:10:45Z",
+        "uri": "https://web.archive.org/web/20220104101045/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-05T10:11:45Z",
+        "uri": "https://web.archive.org/web/20220105101145/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-05T22:10:28Z",
+        "uri": "https://web.archive.org/web/20220105221028/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-06T10:11:16Z",
+        "uri": "https://web.archive.org/web/20220106101116/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-06T23:18:45Z",
+        "uri": "https://web.archive.org/web/20220106231845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-07T10:10:50Z",
+        "uri": "https://web.archive.org/web/20220107101050/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-07T22:10:11Z",
+        "uri": "https://web.archive.org/web/20220107221011/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-08T10:21:03Z",
+        "uri": "https://web.archive.org/web/20220108102103/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-08T22:11:08Z",
+        "uri": "https://web.archive.org/web/20220108221108/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-09T07:36:17Z",
+        "uri": "https://web.archive.org/web/20220109073617/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-09T10:11:29Z",
+        "uri": "https://web.archive.org/web/20220109101129/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-09T22:10:58Z",
+        "uri": "https://web.archive.org/web/20220109221058/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-10T10:10:14Z",
+        "uri": "https://web.archive.org/web/20220110101014/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-10T22:10:23Z",
+        "uri": "https://web.archive.org/web/20220110221023/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-11T10:10:37Z",
+        "uri": "https://web.archive.org/web/20220111101037/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-11T22:10:19Z",
+        "uri": "https://web.archive.org/web/20220111221019/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-12T10:10:38Z",
+        "uri": "https://web.archive.org/web/20220112101038/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-12T10:21:42Z",
+        "uri": "https://web.archive.org/web/20220112102142/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-12T22:10:27Z",
+        "uri": "https://web.archive.org/web/20220112221027/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-13T10:10:18Z",
+        "uri": "https://web.archive.org/web/20220113101018/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-13T22:10:19Z",
+        "uri": "https://web.archive.org/web/20220113221019/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-14T10:10:30Z",
+        "uri": "https://web.archive.org/web/20220114101030/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-15T10:11:19Z",
+        "uri": "https://web.archive.org/web/20220115101119/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-15T22:10:31Z",
+        "uri": "https://web.archive.org/web/20220115221031/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-16T10:10:13Z",
+        "uri": "https://web.archive.org/web/20220116101013/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-16T22:11:10Z",
+        "uri": "https://web.archive.org/web/20220116221110/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-17T10:10:30Z",
+        "uri": "https://web.archive.org/web/20220117101030/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-17T23:34:53Z",
+        "uri": "https://web.archive.org/web/20220117233453/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-18T10:10:33Z",
+        "uri": "https://web.archive.org/web/20220118101033/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-18T10:15:42Z",
+        "uri": "https://web.archive.org/web/20220118101542/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-18T18:30:49Z",
+        "uri": "https://web.archive.org/web/20220118183049/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-18T22:10:58Z",
+        "uri": "https://web.archive.org/web/20220118221058/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-18T22:12:45Z",
+        "uri": "https://web.archive.org/web/20220118221245/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-19T16:35:28Z",
+        "uri": "https://web.archive.org/web/20220119163528/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-20T00:52:28Z",
+        "uri": "https://web.archive.org/web/20220120005228/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-20T03:49:16Z",
+        "uri": "https://web.archive.org/web/20220120034916/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-20T20:48:50Z",
+        "uri": "https://web.archive.org/web/20220120204850/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-20T23:32:15Z",
+        "uri": "https://web.archive.org/web/20220120233215/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-21T10:19:04Z",
+        "uri": "https://web.archive.org/web/20220121101904/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-21T12:05:41Z",
+        "uri": "https://web.archive.org/web/20220121120541/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-21T22:10:24Z",
+        "uri": "https://web.archive.org/web/20220121221024/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-22T10:10:25Z",
+        "uri": "https://web.archive.org/web/20220122101025/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-22T22:10:35Z",
+        "uri": "https://web.archive.org/web/20220122221035/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-23T10:10:29Z",
+        "uri": "https://web.archive.org/web/20220123101029/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-23T19:10:35Z",
+        "uri": "https://web.archive.org/web/20220123191035/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-23T23:52:29Z",
+        "uri": "https://web.archive.org/web/20220123235229/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-24T10:10:47Z",
+        "uri": "https://web.archive.org/web/20220124101047/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-24T10:41:45Z",
+        "uri": "https://web.archive.org/web/20220124104145/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-24T13:40:33Z",
+        "uri": "https://web.archive.org/web/20220124134033/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-25T03:53:43Z",
+        "uri": "https://web.archive.org/web/20220125035343/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-25T23:53:14Z",
+        "uri": "https://web.archive.org/web/20220125235314/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-26T00:18:17Z",
+        "uri": "https://web.archive.org/web/20220126001817/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-26T10:11:10Z",
+        "uri": "https://web.archive.org/web/20220126101110/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-26T22:11:42Z",
+        "uri": "https://web.archive.org/web/20220126221142/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-27T10:13:02Z",
+        "uri": "https://web.archive.org/web/20220127101302/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-27T22:11:58Z",
+        "uri": "https://web.archive.org/web/20220127221158/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-28T21:36:53Z",
+        "uri": "https://web.archive.org/web/20220128213653/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-28T22:13:13Z",
+        "uri": "https://web.archive.org/web/20220128221313/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-29T10:12:44Z",
+        "uri": "https://web.archive.org/web/20220129101244/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-29T22:11:12Z",
+        "uri": "https://web.archive.org/web/20220129221112/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-30T03:06:40Z",
+        "uri": "https://web.archive.org/web/20220130030640/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-30T10:11:21Z",
+        "uri": "https://web.archive.org/web/20220130101121/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-30T22:12:02Z",
+        "uri": "https://web.archive.org/web/20220130221202/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-31T02:47:31Z",
+        "uri": "https://arquivo.pt/wayback/20220131024731mp_/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-31T10:12:12Z",
+        "uri": "https://web.archive.org/web/20220131101212/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-31T12:20:13Z",
+        "uri": "https://web.archive.org/web/20220131122013/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-01-31T22:12:59Z",
+        "uri": "https://web.archive.org/web/20220131221259/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-01T10:11:44Z",
+        "uri": "https://web.archive.org/web/20220201101144/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-01T10:14:44Z",
+        "uri": "https://web.archive.org/web/20220201101444/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-01T10:15:26Z",
+        "uri": "https://web.archive.org/web/20220201101526/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-01T22:24:18Z",
+        "uri": "https://web.archive.org/web/20220201222418/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-02T10:11:33Z",
+        "uri": "https://web.archive.org/web/20220202101133/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-02T22:11:38Z",
+        "uri": "https://web.archive.org/web/20220202221138/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-03T22:08:32Z",
+        "uri": "https://web.archive.org/web/20220203220832/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-04T10:08:20Z",
+        "uri": "https://web.archive.org/web/20220204100820/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-04T22:08:53Z",
+        "uri": "https://web.archive.org/web/20220204220853/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-05T10:08:30Z",
+        "uri": "https://web.archive.org/web/20220205100830/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-05T22:08:37Z",
+        "uri": "https://web.archive.org/web/20220205220837/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-06T10:08:41Z",
+        "uri": "https://web.archive.org/web/20220206100841/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-07T02:07:07Z",
+        "uri": "https://web.archive.org/web/20220207020707/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-07T10:08:32Z",
+        "uri": "https://web.archive.org/web/20220207100832/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-07T22:09:10Z",
+        "uri": "https://web.archive.org/web/20220207220910/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-08T10:09:10Z",
+        "uri": "https://web.archive.org/web/20220208100910/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-08T22:08:14Z",
+        "uri": "https://web.archive.org/web/20220208220814/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-09T13:50:58Z",
+        "uri": "https://web.archive.org/web/20220209135058/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-09T22:19:26Z",
+        "uri": "https://web.archive.org/web/20220209221926/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-10T10:08:48Z",
+        "uri": "https://web.archive.org/web/20220210100848/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-10T22:08:16Z",
+        "uri": "https://web.archive.org/web/20220210220816/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-11T10:08:28Z",
+        "uri": "https://web.archive.org/web/20220211100828/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-11T22:10:12Z",
+        "uri": "https://web.archive.org/web/20220211221012/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-12T11:18:56Z",
+        "uri": "https://web.archive.org/web/20220212111856/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-12T22:08:39Z",
+        "uri": "https://web.archive.org/web/20220212220839/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-13T10:08:44Z",
+        "uri": "https://web.archive.org/web/20220213100844/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-13T22:08:46Z",
+        "uri": "https://web.archive.org/web/20220213220846/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-14T10:08:25Z",
+        "uri": "https://web.archive.org/web/20220214100825/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-14T23:49:08Z",
+        "uri": "https://web.archive.org/web/20220214234908/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-15T10:10:57Z",
+        "uri": "https://web.archive.org/web/20220215101057/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-17T10:08:58Z",
+        "uri": "https://web.archive.org/web/20220217100858/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-18T22:08:45Z",
+        "uri": "https://web.archive.org/web/20220218220845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-19T10:08:41Z",
+        "uri": "https://web.archive.org/web/20220219100841/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-19T22:08:21Z",
+        "uri": "https://web.archive.org/web/20220219220821/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-20T10:08:34Z",
+        "uri": "https://web.archive.org/web/20220220100834/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-20T22:08:58Z",
+        "uri": "https://web.archive.org/web/20220220220858/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-21T10:08:15Z",
+        "uri": "https://web.archive.org/web/20220221100815/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-21T22:08:32Z",
+        "uri": "https://web.archive.org/web/20220221220832/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-22T10:08:18Z",
+        "uri": "https://web.archive.org/web/20220222100818/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-23T22:08:29Z",
+        "uri": "https://web.archive.org/web/20220223220829/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-24T22:08:34Z",
+        "uri": "https://web.archive.org/web/20220224220834/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-25T22:08:51Z",
+        "uri": "https://web.archive.org/web/20220225220851/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-26T15:12:56Z",
+        "uri": "https://web.archive.org/web/20220226151256/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-26T17:23:12Z",
+        "uri": "https://web.archive.org/web/20220226172312/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-26T18:22:12Z",
+        "uri": "https://web.archive.org/web/20220226182212/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-27T04:23:21Z",
+        "uri": "https://web.archive.org/web/20220227042321/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-27T10:08:00Z",
+        "uri": "https://web.archive.org/web/20220227100800/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-02-27T22:08:41Z",
+        "uri": "https://web.archive.org/web/20220227220841/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-01T19:58:45Z",
+        "uri": "https://web.archive.org/web/20220301195845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-01T20:00:53Z",
+        "uri": "https://web.archive.org/web/20220301200053/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-01T22:07:59Z",
+        "uri": "https://web.archive.org/web/20220301220759/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-02T04:05:39Z",
+        "uri": "https://web.archive.org/web/20220302040539/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-07T18:21:02Z",
+        "uri": "https://web.archive.org/web/20220307182102/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-07T18:21:02Z",
+        "uri": "https://web.archive.org/web/20220307182102/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-07T18:23:27Z",
+        "uri": "https://web.archive.org/web/20220307182327/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-07T18:23:28Z",
+        "uri": "https://web.archive.org/web/20220307182328/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-07T20:38:59Z",
+        "uri": "https://web.archive.org/web/20220307203859/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-08T08:45:54Z",
+        "uri": "https://web.archive.org/web/20220308084554/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-08T15:47:51Z",
+        "uri": "https://web.archive.org/web/20220308154751/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-19T23:13:34Z",
+        "uri": "https://web.archive.org/web/20220319231334/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-20T08:18:25Z",
+        "uri": "https://web.archive.org/web/20220320081825/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-20T15:07:40Z",
+        "uri": "https://web.archive.org/web/20220320150740/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-20T15:58:46Z",
+        "uri": "https://web.archive.org/web/20220320155846/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-20T22:37:51Z",
+        "uri": "https://web.archive.org/web/20220320223751/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-21T02:12:51Z",
+        "uri": "https://web.archive.org/web/20220321021251/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-21T10:04:02Z",
+        "uri": "https://web.archive.org/web/20220321100402/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-21T11:22:00Z",
+        "uri": "https://web.archive.org/web/20220321112200/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-21T22:04:08Z",
+        "uri": "https://web.archive.org/web/20220321220408/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-22T10:04:25Z",
+        "uri": "https://web.archive.org/web/20220322100425/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-22T10:50:32Z",
+        "uri": "https://web.archive.org/web/20220322105032/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-22T22:04:12Z",
+        "uri": "https://web.archive.org/web/20220322220412/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-23T10:04:09Z",
+        "uri": "https://web.archive.org/web/20220323100409/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-23T22:04:15Z",
+        "uri": "https://web.archive.org/web/20220323220415/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-24T10:04:56Z",
+        "uri": "https://web.archive.org/web/20220324100456/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-24T22:05:15Z",
+        "uri": "https://web.archive.org/web/20220324220515/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-25T10:05:55Z",
+        "uri": "https://web.archive.org/web/20220325100555/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-25T22:04:45Z",
+        "uri": "https://web.archive.org/web/20220325220445/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-26T10:04:04Z",
+        "uri": "https://web.archive.org/web/20220326100404/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-26T22:04:33Z",
+        "uri": "https://web.archive.org/web/20220326220433/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-27T13:23:07Z",
+        "uri": "https://web.archive.org/web/20220327132307/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-27T22:04:23Z",
+        "uri": "https://web.archive.org/web/20220327220423/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-28T22:04:04Z",
+        "uri": "https://web.archive.org/web/20220328220404/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-29T14:48:22Z",
+        "uri": "https://web.archive.org/web/20220329144822/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-29T22:03:51Z",
+        "uri": "https://web.archive.org/web/20220329220351/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-31T10:03:55Z",
+        "uri": "https://web.archive.org/web/20220331100355/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-03-31T22:07:40Z",
+        "uri": "https://web.archive.org/web/20220331220740/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-01T06:46:21Z",
+        "uri": "https://web.archive.org/web/20220401064621/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-01T07:19:41Z",
+        "uri": "https://web.archive.org/web/20220401071941/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-01T10:04:21Z",
+        "uri": "https://web.archive.org/web/20220401100421/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-01T22:11:02Z",
+        "uri": "https://web.archive.org/web/20220401221102/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-02T09:38:34Z",
+        "uri": "https://web.archive.org/web/20220402093834/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-02T10:04:15Z",
+        "uri": "https://web.archive.org/web/20220402100415/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-02T22:03:48Z",
+        "uri": "https://web.archive.org/web/20220402220348/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-03T10:03:59Z",
+        "uri": "https://web.archive.org/web/20220403100359/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-03T22:03:43Z",
+        "uri": "https://web.archive.org/web/20220403220343/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-04T10:04:01Z",
+        "uri": "https://web.archive.org/web/20220404100401/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-04T22:04:33Z",
+        "uri": "https://web.archive.org/web/20220404220433/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-05T10:05:07Z",
+        "uri": "https://web.archive.org/web/20220405100507/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-05T22:04:46Z",
+        "uri": "https://web.archive.org/web/20220405220446/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-06T10:05:10Z",
+        "uri": "https://web.archive.org/web/20220406100510/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-07T06:10:59Z",
+        "uri": "https://web.archive.org/web/20220407061059/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-07T10:10:46Z",
+        "uri": "https://web.archive.org/web/20220407101046/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-07T22:04:57Z",
+        "uri": "https://web.archive.org/web/20220407220457/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-08T03:27:12Z",
+        "uri": "https://web.archive.org/web/20220408032712/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-08T10:03:29Z",
+        "uri": "https://web.archive.org/web/20220408100329/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-08T22:03:49Z",
+        "uri": "https://web.archive.org/web/20220408220349/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-09T10:04:15Z",
+        "uri": "https://web.archive.org/web/20220409100415/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-09T22:04:21Z",
+        "uri": "https://web.archive.org/web/20220409220421/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-10T10:04:06Z",
+        "uri": "https://web.archive.org/web/20220410100406/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-10T22:03:48Z",
+        "uri": "https://web.archive.org/web/20220410220348/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-11T10:03:36Z",
+        "uri": "https://web.archive.org/web/20220411100336/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-11T22:03:45Z",
+        "uri": "https://web.archive.org/web/20220411220345/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-12T10:03:45Z",
+        "uri": "https://web.archive.org/web/20220412100345/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-12T22:03:41Z",
+        "uri": "https://web.archive.org/web/20220412220341/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-13T10:03:41Z",
+        "uri": "https://web.archive.org/web/20220413100341/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-04-25T23:11:57Z",
+        "uri": "https://web.archive.org/web/20220425231157/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-05-01T10:16:59Z",
+        "uri": "https://arquivo.pt/wayback/20220501101659mp_/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-05-06T12:55:30Z",
+        "uri": "https://web.archive.org/web/20220506125530/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-05-31T19:40:45Z",
+        "uri": "https://web.archive.org/web/20220531194045/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-07T08:24:24Z",
+        "uri": "https://web.archive.org/web/20220607082424/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:32:17Z",
+        "uri": "https://web.archive.org/web/20220614193217/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:32:53Z",
+        "uri": "https://web.archive.org/web/20220614193253/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:33:44Z",
+        "uri": "https://web.archive.org/web/20220614193344/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:34:39Z",
+        "uri": "https://web.archive.org/web/20220614193439/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:35:28Z",
+        "uri": "https://web.archive.org/web/20220614193528/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:36:20Z",
+        "uri": "https://web.archive.org/web/20220614193620/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:37:14Z",
+        "uri": "https://web.archive.org/web/20220614193714/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:37:59Z",
+        "uri": "https://web.archive.org/web/20220614193759/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:38:45Z",
+        "uri": "https://web.archive.org/web/20220614193845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:38:47Z",
+        "uri": "https://web.archive.org/web/20220614193847/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:55:47Z",
+        "uri": "https://web.archive.org/web/20220614195547/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T19:59:10Z",
+        "uri": "https://web.archive.org/web/20220614195910/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T20:17:06Z",
+        "uri": "https://web.archive.org/web/20220614201706/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T21:43:20Z",
+        "uri": "https://web.archive.org/web/20220614214320/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T21:45:38Z",
+        "uri": "https://web.archive.org/web/20220614214538/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-14T21:58:09Z",
+        "uri": "https://web.archive.org/web/20220614215809/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T01:19:27Z",
+        "uri": "https://web.archive.org/web/20220615011927/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T02:13:45Z",
+        "uri": "https://web.archive.org/web/20220615021345/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T02:20:53Z",
+        "uri": "https://web.archive.org/web/20220615022053/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T02:24:30Z",
+        "uri": "https://web.archive.org/web/20220615022430/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T02:32:56Z",
+        "uri": "https://web.archive.org/web/20220615023256/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T02:58:01Z",
+        "uri": "https://web.archive.org/web/20220615025801/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T03:00:58Z",
+        "uri": "https://web.archive.org/web/20220615030058/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:07:45Z",
+        "uri": "https://web.archive.org/web/20220615040745/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:16:49Z",
+        "uri": "https://web.archive.org/web/20220615041649/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:21:05Z",
+        "uri": "https://web.archive.org/web/20220615042105/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:21:17Z",
+        "uri": "https://web.archive.org/web/20220615042117/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:37:31Z",
+        "uri": "https://web.archive.org/web/20220615043731/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:43:16Z",
+        "uri": "https://web.archive.org/web/20220615044316/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:50:12Z",
+        "uri": "https://web.archive.org/web/20220615045012/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T04:59:58Z",
+        "uri": "https://web.archive.org/web/20220615045958/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:02:37Z",
+        "uri": "https://web.archive.org/web/20220615050237/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:11:47Z",
+        "uri": "https://web.archive.org/web/20220615051147/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:15:25Z",
+        "uri": "https://web.archive.org/web/20220615051525/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:17:34Z",
+        "uri": "https://web.archive.org/web/20220615051734/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:33:37Z",
+        "uri": "https://web.archive.org/web/20220615053337/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T05:54:33Z",
+        "uri": "https://web.archive.org/web/20220615055433/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T06:21:11Z",
+        "uri": "https://web.archive.org/web/20220615062111/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T06:43:07Z",
+        "uri": "https://web.archive.org/web/20220615064307/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T07:09:36Z",
+        "uri": "https://web.archive.org/web/20220615070936/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T07:44:17Z",
+        "uri": "https://web.archive.org/web/20220615074417/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T07:44:23Z",
+        "uri": "https://web.archive.org/web/20220615074423/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T07:45:25Z",
+        "uri": "https://web.archive.org/web/20220615074525/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T09:59:23Z",
+        "uri": "https://web.archive.org/web/20220615095923/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T10:20:50Z",
+        "uri": "https://web.archive.org/web/20220615102050/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T10:23:06Z",
+        "uri": "https://web.archive.org/web/20220615102306/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T10:29:25Z",
+        "uri": "https://web.archive.org/web/20220615102925/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-15T11:03:59Z",
+        "uri": "https://web.archive.org/web/20220615110359/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-16T07:21:54Z",
+        "uri": "https://web.archive.org/web/20220616072154/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T05:03:55Z",
+        "uri": "https://web.archive.org/web/20220618050355/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:37:15Z",
+        "uri": "https://web.archive.org/web/20220618213715/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:37:24Z",
+        "uri": "https://web.archive.org/web/20220618213724/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:37:25Z",
+        "uri": "https://web.archive.org/web/20220618213725/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:37:49Z",
+        "uri": "https://web.archive.org/web/20220618213749/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:37:57Z",
+        "uri": "https://web.archive.org/web/20220618213757/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:38:31Z",
+        "uri": "https://web.archive.org/web/20220618213831/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:38:31Z",
+        "uri": "https://web.archive.org/web/20220618213831/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:38:39Z",
+        "uri": "https://web.archive.org/web/20220618213839/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:38:45Z",
+        "uri": "https://web.archive.org/web/20220618213845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:38:48Z",
+        "uri": "https://web.archive.org/web/20220618213848/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:39:11Z",
+        "uri": "https://web.archive.org/web/20220618213911/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:39:32Z",
+        "uri": "https://web.archive.org/web/20220618213932/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:39:35Z",
+        "uri": "https://web.archive.org/web/20220618213935/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:39:45Z",
+        "uri": "https://web.archive.org/web/20220618213945/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:39:49Z",
+        "uri": "https://web.archive.org/web/20220618213949/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:40:00Z",
+        "uri": "https://web.archive.org/web/20220618214000/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:40:07Z",
+        "uri": "https://web.archive.org/web/20220618214007/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:40:36Z",
+        "uri": "https://web.archive.org/web/20220618214036/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:40:50Z",
+        "uri": "https://web.archive.org/web/20220618214050/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:40:51Z",
+        "uri": "https://web.archive.org/web/20220618214051/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:41:25Z",
+        "uri": "https://web.archive.org/web/20220618214125/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:41:31Z",
+        "uri": "https://web.archive.org/web/20220618214131/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:43:31Z",
+        "uri": "https://web.archive.org/web/20220618214331/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:44:40Z",
+        "uri": "https://web.archive.org/web/20220618214440/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:45:08Z",
+        "uri": "https://web.archive.org/web/20220618214508/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:47:37Z",
+        "uri": "https://web.archive.org/web/20220618214737/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T21:58:07Z",
+        "uri": "https://web.archive.org/web/20220618215807/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:01:43Z",
+        "uri": "https://web.archive.org/web/20220618220143/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:09:07Z",
+        "uri": "https://web.archive.org/web/20220618220907/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:09:53Z",
+        "uri": "https://web.archive.org/web/20220618220953/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:11:43Z",
+        "uri": "https://web.archive.org/web/20220618221143/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:21:20Z",
+        "uri": "https://web.archive.org/web/20220618222120/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:25:40Z",
+        "uri": "https://web.archive.org/web/20220618222540/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:26:15Z",
+        "uri": "https://web.archive.org/web/20220618222615/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:41:51Z",
+        "uri": "https://web.archive.org/web/20220618224151/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T22:58:25Z",
+        "uri": "https://web.archive.org/web/20220618225825/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T23:02:43Z",
+        "uri": "https://web.archive.org/web/20220618230243/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T23:24:38Z",
+        "uri": "https://web.archive.org/web/20220618232438/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-18T23:30:26Z",
+        "uri": "https://web.archive.org/web/20220618233026/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T01:03:54Z",
+        "uri": "https://web.archive.org/web/20220619010354/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:37:33Z",
+        "uri": "https://web.archive.org/web/20220619093733/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:37:41Z",
+        "uri": "https://web.archive.org/web/20220619093741/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:37:45Z",
+        "uri": "https://web.archive.org/web/20220619093745/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:37:49Z",
+        "uri": "https://web.archive.org/web/20220619093749/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:37:54Z",
+        "uri": "https://web.archive.org/web/20220619093754/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:02Z",
+        "uri": "https://web.archive.org/web/20220619093802/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:05Z",
+        "uri": "https://web.archive.org/web/20220619093805/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:09Z",
+        "uri": "https://web.archive.org/web/20220619093809/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:33Z",
+        "uri": "https://web.archive.org/web/20220619093833/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:34Z",
+        "uri": "https://web.archive.org/web/20220619093834/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:38:57Z",
+        "uri": "https://web.archive.org/web/20220619093857/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:40:12Z",
+        "uri": "https://web.archive.org/web/20220619094012/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:40:15Z",
+        "uri": "https://web.archive.org/web/20220619094015/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:40:16Z",
+        "uri": "https://web.archive.org/web/20220619094016/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:41:03Z",
+        "uri": "https://web.archive.org/web/20220619094103/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:41:15Z",
+        "uri": "https://web.archive.org/web/20220619094115/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:41:20Z",
+        "uri": "https://web.archive.org/web/20220619094120/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:41:59Z",
+        "uri": "https://web.archive.org/web/20220619094159/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:42:36Z",
+        "uri": "https://web.archive.org/web/20220619094236/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:42:53Z",
+        "uri": "https://web.archive.org/web/20220619094253/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:43:18Z",
+        "uri": "https://web.archive.org/web/20220619094318/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:43:56Z",
+        "uri": "https://web.archive.org/web/20220619094356/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:44:45Z",
+        "uri": "https://web.archive.org/web/20220619094445/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:53:52Z",
+        "uri": "https://web.archive.org/web/20220619095352/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:54:02Z",
+        "uri": "https://web.archive.org/web/20220619095402/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:55:01Z",
+        "uri": "https://web.archive.org/web/20220619095501/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:56:11Z",
+        "uri": "https://web.archive.org/web/20220619095611/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:58:28Z",
+        "uri": "https://web.archive.org/web/20220619095828/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T09:59:37Z",
+        "uri": "https://web.archive.org/web/20220619095937/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:02:43Z",
+        "uri": "https://web.archive.org/web/20220619100243/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:05:07Z",
+        "uri": "https://web.archive.org/web/20220619100507/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:07:37Z",
+        "uri": "https://web.archive.org/web/20220619100737/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:09:33Z",
+        "uri": "https://web.archive.org/web/20220619100933/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:19:38Z",
+        "uri": "https://web.archive.org/web/20220619101938/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T10:27:15Z",
+        "uri": "https://web.archive.org/web/20220619102715/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T11:45:25Z",
+        "uri": "https://web.archive.org/web/20220619114525/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T11:46:17Z",
+        "uri": "https://web.archive.org/web/20220619114617/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T13:11:43Z",
+        "uri": "https://web.archive.org/web/20220619131143/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T20:45:14Z",
+        "uri": "https://web.archive.org/web/20220619204514/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:34:57Z",
+        "uri": "https://web.archive.org/web/20220619213457/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:14Z",
+        "uri": "https://web.archive.org/web/20220619213514/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:16Z",
+        "uri": "https://web.archive.org/web/20220619213516/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:20Z",
+        "uri": "https://web.archive.org/web/20220619213520/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:44Z",
+        "uri": "https://web.archive.org/web/20220619213544/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:48Z",
+        "uri": "https://web.archive.org/web/20220619213548/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:48Z",
+        "uri": "https://web.archive.org/web/20220619213548/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:49Z",
+        "uri": "https://web.archive.org/web/20220619213549/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:51Z",
+        "uri": "https://web.archive.org/web/20220619213551/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:52Z",
+        "uri": "https://web.archive.org/web/20220619213552/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:35:59Z",
+        "uri": "https://web.archive.org/web/20220619213559/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:00Z",
+        "uri": "https://web.archive.org/web/20220619213600/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:01Z",
+        "uri": "https://web.archive.org/web/20220619213601/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:02Z",
+        "uri": "https://web.archive.org/web/20220619213602/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:37Z",
+        "uri": "https://web.archive.org/web/20220619213637/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:38Z",
+        "uri": "https://web.archive.org/web/20220619213638/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:36:49Z",
+        "uri": "https://web.archive.org/web/20220619213649/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:37:03Z",
+        "uri": "https://web.archive.org/web/20220619213703/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:37:20Z",
+        "uri": "https://web.archive.org/web/20220619213720/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:37:37Z",
+        "uri": "https://web.archive.org/web/20220619213737/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:38:03Z",
+        "uri": "https://web.archive.org/web/20220619213803/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:38:08Z",
+        "uri": "https://web.archive.org/web/20220619213808/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:38:12Z",
+        "uri": "https://web.archive.org/web/20220619213812/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:38:29Z",
+        "uri": "https://web.archive.org/web/20220619213829/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:40:02Z",
+        "uri": "https://web.archive.org/web/20220619214002/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:41:38Z",
+        "uri": "https://web.archive.org/web/20220619214138/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:54:34Z",
+        "uri": "https://web.archive.org/web/20220619215434/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:54:52Z",
+        "uri": "https://web.archive.org/web/20220619215452/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:55:24Z",
+        "uri": "https://web.archive.org/web/20220619215524/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:57:28Z",
+        "uri": "https://web.archive.org/web/20220619215728/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T21:58:09Z",
+        "uri": "https://web.archive.org/web/20220619215809/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:03:18Z",
+        "uri": "https://web.archive.org/web/20220619220318/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:04:17Z",
+        "uri": "https://web.archive.org/web/20220619220417/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:04:58Z",
+        "uri": "https://web.archive.org/web/20220619220458/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:05:30Z",
+        "uri": "https://web.archive.org/web/20220619220530/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:13:01Z",
+        "uri": "https://web.archive.org/web/20220619221301/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:16:32Z",
+        "uri": "https://web.archive.org/web/20220619221632/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-19T22:24:47Z",
+        "uri": "https://web.archive.org/web/20220619222447/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-20T00:23:03Z",
+        "uri": "https://web.archive.org/web/20220620002303/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-20T02:23:02Z",
+        "uri": "https://web.archive.org/web/20220620022302/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-20T05:24:07Z",
+        "uri": "https://web.archive.org/web/20220620052407/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-20T11:34:50Z",
+        "uri": "https://web.archive.org/web/20220620113450/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-21T00:20:26Z",
+        "uri": "https://web.archive.org/web/20220621002026/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-21T03:26:52Z",
+        "uri": "https://web.archive.org/web/20220621032652/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-21T04:46:50Z",
+        "uri": "https://web.archive.org/web/20220621044650/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-21T06:44:29Z",
+        "uri": "https://web.archive.org/web/20220621064429/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-06-24T10:07:54Z",
+        "uri": "https://web.archive.org/web/20220624100754/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-07-07T02:57:12Z",
+        "uri": "https://web.archive.org/web/20220707025712/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T08:14:53Z",
+        "uri": "https://web.archive.org/web/20220802081453/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T09:21:13Z",
+        "uri": "https://web.archive.org/web/20220802092113/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T10:17:49Z",
+        "uri": "https://web.archive.org/web/20220802101749/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T11:24:33Z",
+        "uri": "https://web.archive.org/web/20220802112433/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T11:34:41Z",
+        "uri": "https://web.archive.org/web/20220802113441/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T12:09:25Z",
+        "uri": "https://web.archive.org/web/20220802120925/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T16:14:45Z",
+        "uri": "https://web.archive.org/web/20220802161445/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T22:50:41Z",
+        "uri": "https://web.archive.org/web/20220802225041/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-02T23:41:57Z",
+        "uri": "https://web.archive.org/web/20220802234157/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T00:56:24Z",
+        "uri": "https://web.archive.org/web/20220803005624/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T02:22:23Z",
+        "uri": "https://web.archive.org/web/20220803022223/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T03:23:20Z",
+        "uri": "https://web.archive.org/web/20220803032320/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T09:21:29Z",
+        "uri": "https://web.archive.org/web/20220803092129/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T09:31:21Z",
+        "uri": "https://web.archive.org/web/20220803093121/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T12:49:56Z",
+        "uri": "https://web.archive.org/web/20220803124956/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T13:38:45Z",
+        "uri": "https://web.archive.org/web/20220803133845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T17:16:24Z",
+        "uri": "https://web.archive.org/web/20220803171624/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T17:23:02Z",
+        "uri": "https://web.archive.org/web/20220803172302/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T17:58:30Z",
+        "uri": "https://web.archive.org/web/20220803175830/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T18:50:32Z",
+        "uri": "https://web.archive.org/web/20220803185032/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T20:42:27Z",
+        "uri": "https://web.archive.org/web/20220803204227/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T22:20:29Z",
+        "uri": "https://web.archive.org/web/20220803222029/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-03T23:58:37Z",
+        "uri": "https://web.archive.org/web/20220803235837/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T01:48:27Z",
+        "uri": "https://web.archive.org/web/20220804014827/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T02:57:29Z",
+        "uri": "https://web.archive.org/web/20220804025729/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T03:25:58Z",
+        "uri": "https://web.archive.org/web/20220804032558/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T04:15:12Z",
+        "uri": "https://web.archive.org/web/20220804041512/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T04:45:56Z",
+        "uri": "https://web.archive.org/web/20220804044556/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T05:06:03Z",
+        "uri": "https://web.archive.org/web/20220804050603/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T06:58:13Z",
+        "uri": "https://web.archive.org/web/20220804065813/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T10:14:31Z",
+        "uri": "https://web.archive.org/web/20220804101431/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T10:20:10Z",
+        "uri": "https://web.archive.org/web/20220804102010/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T13:59:53Z",
+        "uri": "https://web.archive.org/web/20220804135953/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T16:29:06Z",
+        "uri": "https://web.archive.org/web/20220804162906/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T17:46:38Z",
+        "uri": "https://web.archive.org/web/20220804174638/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T20:59:45Z",
+        "uri": "https://web.archive.org/web/20220804205945/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T22:37:52Z",
+        "uri": "https://web.archive.org/web/20220804223752/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-04T22:38:14Z",
+        "uri": "https://web.archive.org/web/20220804223814/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-05T06:25:03Z",
+        "uri": "https://web.archive.org/web/20220805062503/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-05T14:38:20Z",
+        "uri": "https://web.archive.org/web/20220805143820/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-05T19:42:51Z",
+        "uri": "https://web.archive.org/web/20220805194251/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-05T19:48:03Z",
+        "uri": "https://web.archive.org/web/20220805194803/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-05T19:48:20Z",
+        "uri": "https://web.archive.org/web/20220805194820/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-06T00:02:44Z",
+        "uri": "https://web.archive.org/web/20220806000244/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-06T05:59:14Z",
+        "uri": "https://web.archive.org/web/20220806055914/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-06T07:39:58Z",
+        "uri": "https://web.archive.org/web/20220806073958/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-06T10:36:42Z",
+        "uri": "https://web.archive.org/web/20220806103642/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-06T13:36:50Z",
+        "uri": "https://web.archive.org/web/20220806133650/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-07T04:47:11Z",
+        "uri": "https://web.archive.org/web/20220807044711/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-07T21:26:09Z",
+        "uri": "https://web.archive.org/web/20220807212609/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T06:33:34Z",
+        "uri": "https://web.archive.org/web/20220808063334/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T07:27:48Z",
+        "uri": "https://web.archive.org/web/20220808072748/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T08:58:45Z",
+        "uri": "https://web.archive.org/web/20220808085845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T10:48:46Z",
+        "uri": "https://web.archive.org/web/20220808104846/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T12:16:38Z",
+        "uri": "https://web.archive.org/web/20220808121638/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T13:44:39Z",
+        "uri": "https://web.archive.org/web/20220808134439/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T19:54:44Z",
+        "uri": "https://web.archive.org/web/20220808195444/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-08T20:28:01Z",
+        "uri": "https://web.archive.org/web/20220808202801/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-09T09:56:56Z",
+        "uri": "https://web.archive.org/web/20220809095656/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-09T13:34:52Z",
+        "uri": "https://web.archive.org/web/20220809133452/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-10T19:34:11Z",
+        "uri": "https://web.archive.org/web/20220810193411/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-11T08:05:00Z",
+        "uri": "https://web.archive.org/web/20220811080500/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-12T09:02:42Z",
+        "uri": "https://web.archive.org/web/20220812090242/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-12T18:59:18Z",
+        "uri": "https://web.archive.org/web/20220812185918/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-14T03:27:02Z",
+        "uri": "https://web.archive.org/web/20220814032702/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-14T19:41:16Z",
+        "uri": "https://web.archive.org/web/20220814194116/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-14T21:01:20Z",
+        "uri": "https://web.archive.org/web/20220814210120/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-15T01:11:21Z",
+        "uri": "https://web.archive.org/web/20220815011121/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-15T04:23:54Z",
+        "uri": "https://web.archive.org/web/20220815042354/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-08-15T08:39:07Z",
+        "uri": "https://web.archive.org/web/20220815083907/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-09-01T05:45:07Z",
+        "uri": "https://web.archive.org/web/20220901054507/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-09-10T22:30:36Z",
+        "uri": "https://web.archive.org/web/20220910223036/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-09-26T01:19:06Z",
+        "uri": "https://web.archive.org/web/20220926011906/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-09-30T07:18:49Z",
+        "uri": "https://web.archive.org/web/20220930071849/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-10-12T03:12:09Z",
+        "uri": "https://web.archive.org/web/20221012031209/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-10-20T14:58:18Z",
+        "uri": "https://web.archive.org/web/20221020145818/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-11-03T10:26:01Z",
+        "uri": "https://web.archive.org/web/20221103102601/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-11-28T20:25:42Z",
+        "uri": "https://web.archive.org/web/20221128202542/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-12-07T12:28:03Z",
+        "uri": "https://web.archive.org/web/20221207122803/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-12-07T12:28:10Z",
+        "uri": "https://web.archive.org/web/20221207122810/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2022-12-10T09:28:37Z",
+        "uri": "https://web.archive.org/web/20221210092837/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-01-10T09:12:55Z",
+        "uri": "https://web.archive.org/web/20230110091255/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-02-19T10:17:38Z",
+        "uri": "https://web.archive.org/web/20230219101738/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-02-24T16:43:52Z",
+        "uri": "https://web.archive.org/web/20230224164352/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-02-28T23:05:16Z",
+        "uri": "https://web.archive.org/web/20230228230516/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-06T00:57:49Z",
+        "uri": "https://web.archive.org/web/20230306005749/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-06T01:05:33Z",
+        "uri": "https://web.archive.org/web/20230306010533/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-06T01:07:06Z",
+        "uri": "https://web.archive.org/web/20230306010706/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-06T01:07:07Z",
+        "uri": "https://web.archive.org/web/20230306010707/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-06T01:07:09Z",
+        "uri": "https://web.archive.org/web/20230306010709/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-11T03:47:38Z",
+        "uri": "https://web.archive.org/web/20230311034738/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-11T14:48:02Z",
+        "uri": "https://web.archive.org/web/20230311144802/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-15T02:14:47Z",
+        "uri": "https://web.archive.org/web/20230315021447/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-15T02:15:38Z",
+        "uri": "https://web.archive.org/web/20230315021538/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-19T03:58:00Z",
+        "uri": "https://web.archive.org/web/20230319035800/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-23T18:26:21Z",
+        "uri": "https://web.archive.org/web/20230323182621/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-03-27T00:58:40Z",
+        "uri": "https://web.archive.org/web/20230327005840/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-01T06:41:24Z",
+        "uri": "https://web.archive.org/web/20230401064124/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-01T10:15:39Z",
+        "uri": "https://web.archive.org/web/20230401101539/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-02T07:16:20Z",
+        "uri": "https://web.archive.org/web/20230402071620/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-03T23:31:17Z",
+        "uri": "https://web.archive.org/web/20230403233117/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-05T03:31:44Z",
+        "uri": "https://web.archive.org/web/20230405033144/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-05T03:31:48Z",
+        "uri": "https://web.archive.org/web/20230405033148/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-10T20:26:53Z",
+        "uri": "https://web.archive.org/web/20230410202653/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-11T03:16:07Z",
+        "uri": "https://web.archive.org/web/20230411031607/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-04-19T16:35:38Z",
+        "uri": "https://web.archive.org/web/20230419163538/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-05-12T21:18:40Z",
+        "uri": "https://web.archive.org/web/20230512211840/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-05-18T09:48:37Z",
+        "uri": "https://web.archive.org/web/20230518094837/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-05-22T10:52:18Z",
+        "uri": "https://web.archive.org/web/20230522105218/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-06-01T03:55:25Z",
+        "uri": "https://web.archive.org/web/20230601035525/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-06-01T19:34:04Z",
+        "uri": "https://web.archive.org/web/20230601193404/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-06-02T15:01:53Z",
+        "uri": "https://web.archive.org/web/20230602150153/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-06-07T11:56:29Z",
+        "uri": "https://web.archive.org/web/20230607115629/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-06-08T22:54:31Z",
+        "uri": "https://web.archive.org/web/20230608225431/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-07-05T11:21:32Z",
+        "uri": "https://web.archive.org/web/20230705112132/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-08-03T14:06:52Z",
+        "uri": "https://web.archive.org/web/20230803140652/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-08-03T14:12:29Z",
+        "uri": "https://web.archive.org/web/20230803141229/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-08-03T23:44:39Z",
+        "uri": "https://web.archive.org/web/20230803234439/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-08-24T04:17:27Z",
+        "uri": "https://web.archive.org/web/20230824041727/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-08-24T04:17:49Z",
+        "uri": "https://web.archive.org/web/20230824041749/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-10-04T00:32:02Z",
+        "uri": "https://web.archive.org/web/20231004003202/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-10-24T16:28:52Z",
+        "uri": "https://web.archive.org/web/20231024162852/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-10-25T00:26:52Z",
+        "uri": "https://web.archive.org/web/20231025002652/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-11-27T15:14:46Z",
+        "uri": "https://web.archive.org/web/20231127151446/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-12-04T16:03:12Z",
+        "uri": "https://web.archive.org/web/20231204160312/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-12-06T01:46:01Z",
+        "uri": "https://web.archive.org/web/20231206014601/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-12-15T02:57:09Z",
+        "uri": "https://web.archive.org/web/20231215025709/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2023-12-15T17:24:51Z",
+        "uri": "https://web.archive.org/web/20231215172451/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-01-06T01:56:41Z",
+        "uri": "https://web.archive.org/web/20240106015641/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-02-05T11:21:03Z",
+        "uri": "https://web.archive.org/web/20240205112103/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-02-25T04:47:27Z",
+        "uri": "https://web.archive.org/web/20240225044727/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-02-25T04:48:03Z",
+        "uri": "https://web.archive.org/web/20240225044803/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-02-29T08:20:54Z",
+        "uri": "https://web.archive.org/web/20240229082054/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-03-05T11:24:42Z",
+        "uri": "https://web.archive.org/web/20240305112442/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-03-09T10:03:43Z",
+        "uri": "https://web.archive.org/web/20240309100343/https://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-03-09T10:03:46Z",
+        "uri": "https://web.archive.org/web/20240309100346/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-03-16T22:00:25Z",
+        "uri": "https://web.archive.org/web/20240316220025/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-03-27T02:10:30Z",
+        "uri": "https://web.archive.org/web/20240327021030/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-06T09:37:57Z",
+        "uri": "https://web.archive.org/web/20240406093757/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-10T21:21:59Z",
+        "uri": "https://web.archive.org/web/20240410212159/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-19T16:04:13Z",
+        "uri": "https://web.archive.org/web/20240419160413/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:03:57Z",
+        "uri": "https://web.archive.org/web/20240425000357/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:04:03Z",
+        "uri": "https://web.archive.org/web/20240425000403/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:04:04Z",
+        "uri": "https://web.archive.org/web/20240425000404/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:26:48Z",
+        "uri": "https://web.archive.org/web/20240425002648/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:26:53Z",
+        "uri": "https://web.archive.org/web/20240425002653/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:26:54Z",
+        "uri": "https://web.archive.org/web/20240425002654/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T03:06:17Z",
+        "uri": "https://web.archive.org/web/20240425030617/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T03:06:22Z",
+        "uri": "https://web.archive.org/web/20240425030622/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-25T03:06:23Z",
+        "uri": "https://web.archive.org/web/20240425030623/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-04-30T15:54:08Z",
+        "uri": "https://web.archive.org/web/20240430155408/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-05-02T19:54:34Z",
+        "uri": "https://web.archive.org/web/20240502195434/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-05-22T02:34:18Z",
+        "uri": "https://web.archive.org/web/20240522023418/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-05-23T05:12:49Z",
+        "uri": "https://web.archive.org/web/20240523051249/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-05-23T11:47:37Z",
+        "uri": "https://web.archive.org/web/20240523114737/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-05-30T03:56:34Z",
+        "uri": "https://web.archive.org/web/20240530035634/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-05T16:04:09Z",
+        "uri": "https://web.archive.org/web/20240605160409/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-14T05:17:06Z",
+        "uri": "https://web.archive.org/web/20240614051706/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-18T01:21:36Z",
+        "uri": "https://web.archive.org/web/20240618012136/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-18T21:05:06Z",
+        "uri": "https://web.archive.org/web/20240618210506/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-23T21:14:51Z",
+        "uri": "https://wayback.archive-it.org/all/20240623211451/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-06-23T21:18:07Z",
+        "uri": "https://wayback.archive-it.org/all/20240623211807/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-02T11:56:24Z",
+        "uri": "https://web.archive.org/web/20240702115624/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-02T11:56:25Z",
+        "uri": "https://web.archive.org/web/20240702115625/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-07T00:55:26Z",
+        "uri": "https://web.archive.org/web/20240707005526/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-13T16:41:42Z",
+        "uri": "https://web.archive.org/web/20240713164142/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-16T02:00:47Z",
+        "uri": "https://web.archive.org/web/20240716020047/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-22T23:13:25Z",
+        "uri": "https://web.archive.org/web/20240722231325/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-07-23T16:49:27Z",
+        "uri": "https://web.archive.org/web/20240723164927/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-03T20:27:25Z",
+        "uri": "https://web.archive.org/web/20240803202725/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-04T08:51:22Z",
+        "uri": "https://web.archive.org/web/20240804085122/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-04T13:36:00Z",
+        "uri": "https://web.archive.org/web/20240804133600/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-22T11:56:44Z",
+        "uri": "https://wayback.archive-it.org/all/20240822115644/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-22T11:56:48Z",
+        "uri": "https://wayback.archive-it.org/all/20240822115648/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-27T15:05:45Z",
+        "uri": "https://web.archive.org/web/20240827150545/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-29T01:54:21Z",
+        "uri": "https://web.archive.org/web/20240829015421/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-29T07:10:01Z",
+        "uri": "https://web.archive.org/web/20240829071001/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-29T09:38:49Z",
+        "uri": "https://web.archive.org/web/20240829093849/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-29T10:29:52Z",
+        "uri": "https://web.archive.org/web/20240829102952/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-29T11:20:56Z",
+        "uri": "https://web.archive.org/web/20240829112056/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-08-30T16:27:15Z",
+        "uri": "https://web.archive.org/web/20240830162715/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-02T13:38:53Z",
+        "uri": "https://web.archive.org/web/20240902133853/http://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-02T13:38:54Z",
+        "uri": "https://web.archive.org/web/20240902133854/https://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-02T13:38:54Z",
+        "uri": "https://web.archive.org/web/20240902133854/https://www.mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-02T13:38:54Z",
+        "uri": "https://web.archive.org/web/20240902133854/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-05T19:14:26Z",
+        "uri": "https://web.archive.org/web/20240905191426/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-07T15:59:05Z",
+        "uri": "https://web.archive.org/web/20240907155905/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-08T21:39:46Z",
+        "uri": "https://web.archive.org/web/20240908213946/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-09T02:21:10Z",
+        "uri": "https://web.archive.org/web/20240909022110/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-10T15:20:32Z",
+        "uri": "https://web.archive.org/web/20240910152032/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-11T10:09:31Z",
+        "uri": "https://web.archive.org/web/20240911100931/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-12T05:33:18Z",
+        "uri": "https://web.archive.org/web/20240912053318/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-12T21:54:50Z",
+        "uri": "https://web.archive.org/web/20240912215450/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-15T20:22:46Z",
+        "uri": "https://web.archive.org/web/20240915202246/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-16T10:41:24Z",
+        "uri": "https://web.archive.org/web/20240916104124/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-16T10:41:24Z",
+        "uri": "https://web.archive.org/web/20240916104124/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-17T11:29:28Z",
+        "uri": "https://web.archive.org/web/20240917112928/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-23T02:47:08Z",
+        "uri": "https://wayback.archive-it.org/all/20240923024708/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-23T02:47:15Z",
+        "uri": "https://wayback.archive-it.org/all/20240923024715/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-24T15:09:41Z",
+        "uri": "https://web.archive.org/web/20240924150941/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-24T22:03:21Z",
+        "uri": "https://web.archive.org/web/20240924220321/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-25T16:49:51Z",
+        "uri": "https://web.archive.org/web/20240925164951/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-26T12:18:31Z",
+        "uri": "https://web.archive.org/web/20240926121831/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-09-27T17:39:53Z",
+        "uri": "https://web.archive.org/web/20240927173953/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-04T13:42:01Z",
+        "uri": "https://web.archive.org/web/20241004134201/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-05T20:43:16Z",
+        "uri": "https://web.archive.org/web/20241005204316/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-05T23:56:23Z",
+        "uri": "https://web.archive.org/web/20241005235623/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-07T06:19:47Z",
+        "uri": "https://web.archive.org/web/20241007061947/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-07T09:18:45Z",
+        "uri": "https://web.archive.org/web/20241007091845/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-07T12:11:43Z",
+        "uri": "https://web.archive.org/web/20241007121143/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-16T13:56:25Z",
+        "uri": "https://web.archive.org/web/20241016135625/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-16T13:56:26Z",
+        "uri": "https://web.archive.org/web/20241016135626/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-10-24T07:30:07Z",
+        "uri": "https://web.archive.org/web/20241024073007/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-04T09:31:02Z",
+        "uri": "https://web.archive.org/web/20241104093102/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-05T01:29:09Z",
+        "uri": "https://web.archive.org/web/20241105012909/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-06T06:55:32Z",
+        "uri": "https://web.archive.org/web/20241106065532/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-07T09:54:36Z",
+        "uri": "https://web.archive.org/web/20241107095436/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-12T14:46:51Z",
+        "uri": "https://web.archive.org/web/20241112144651/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-12T14:46:53Z",
+        "uri": "https://web.archive.org/web/20241112144653/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-23T10:47:20Z",
+        "uri": "https://web.archive.org/web/20241123104720/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-23T10:47:22Z",
+        "uri": "https://web.archive.org/web/20241123104722/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-24T02:00:20Z",
+        "uri": "https://web.archive.org/web/20241124020020/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-24T08:35:11Z",
+        "uri": "https://web.archive.org/web/20241124083511/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-24T08:35:13Z",
+        "uri": "https://web.archive.org/web/20241124083513/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T04:22:59Z",
+        "uri": "https://web.archive.org/web/20241125042259/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T04:23:00Z",
+        "uri": "https://web.archive.org/web/20241125042300/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T05:49:34Z",
+        "uri": "https://web.archive.org/web/20241125054934/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T05:49:35Z",
+        "uri": "https://web.archive.org/web/20241125054935/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T20:24:38Z",
+        "uri": "https://web.archive.org/web/20241125202438/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-25T20:24:39Z",
+        "uri": "https://web.archive.org/web/20241125202439/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-26T21:10:23Z",
+        "uri": "https://web.archive.org/web/20241126211023/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-26T21:52:04Z",
+        "uri": "https://web.archive.org/web/20241126215204/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-26T21:52:04Z",
+        "uri": "https://web.archive.org/web/20241126215204/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-26T22:28:59Z",
+        "uri": "https://web.archive.org/web/20241126222859/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-27T05:29:42Z",
+        "uri": "https://web.archive.org/web/20241127052942/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-27T11:56:41Z",
+        "uri": "https://web.archive.org/web/20241127115641/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-27T11:56:42Z",
+        "uri": "https://web.archive.org/web/20241127115642/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-27T15:16:48Z",
+        "uri": "https://web.archive.org/web/20241127151648/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-27T15:16:49Z",
+        "uri": "https://web.archive.org/web/20241127151649/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-29T02:05:08Z",
+        "uri": "https://web.archive.org/web/20241129020508/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-29T04:28:35Z",
+        "uri": "https://web.archive.org/web/20241129042835/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-29T04:28:37Z",
+        "uri": "https://web.archive.org/web/20241129042837/https://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-11-29T20:17:19Z",
+        "uri": "https://web.archive.org/web/20241129201719/http://mwg.rlp.de/"
+      },
+      {
+        "datetime": "2024-12-02T06:32:03Z",
+        "uri": "https://web.archive.org/web/20241202063203/https://mwg.rlp.de/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-18T16:17:39Z",
+      "uri": "https://web.archive.org/web/20210518161739/https://mwg.rlp.de/"
+    },
+    "last": {
+      "datetime": "2024-12-02T06:32:03Z",
+      "uri": "https://web.archive.org/web/20241202063203/https://mwg.rlp.de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://mwg.rlp.de/",
+    "json_format": "http://localhost:1208/timemap/json/https://mwg.rlp.de/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://mwg.rlp.de/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://mwg.rlp.de/"
+}

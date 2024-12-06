@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://www.youtube.com/watch?v=yeuk_vIOXcw",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=yeuk_vIOXcw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-07-17T15:07:14Z",
+        "uri": "https://web.archive.org/web/20150717150714/https://www.youtube.com/watch?v=yeuk_vIOXcw&index=6&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl"
+      },
+      {
+        "datetime": "2015-07-17T15:15:56Z",
+        "uri": "https://web.archive.org/web/20150717151556/https://www.youtube.com/watch?v=yeuk_vIOXcw&feature=youtu.be&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl"
+      },
+      {
+        "datetime": "2015-07-17T15:15:57Z",
+        "uri": "https://wayback.archive-it.org/all/20150717151557/http://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2015-07-17T15:15:57Z",
+        "uri": "https://web.archive.org/web/20150717151557/http://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2015-07-17T15:17:44Z",
+        "uri": "https://web.archive.org/web/20150717151744/https://www.youtube.com/watch?v=yeuk_vIOXcw&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl&index=6&feature=applinks"
+      },
+      {
+        "datetime": "2015-07-17T15:40:41Z",
+        "uri": "https://web.archive.org/web/20150717154041/https://www.youtube.com/watch?v=yeuk_vIOXcw&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl&index=6"
+      },
+      {
+        "datetime": "2015-07-17T16:15:37Z",
+        "uri": "https://web.archive.org/web/20150717161537/https://www.youtube.com/watch?v=yeuk_vIOXcw&feature=autoshare"
+      },
+      {
+        "datetime": "2015-07-17T16:15:47Z",
+        "uri": "https://web.archive.org/web/20150717161547/https://www.youtube.com/watch?v=yeuk_vIOXcw&feature=youtu.be"
+      },
+      {
+        "datetime": "2015-07-17T16:15:48Z",
+        "uri": "https://web.archive.org/web/20150717161548/https://www.youtube.com/watch?v=yeuk_vIOXcw&feature=applinks"
+      },
+      {
+        "datetime": "2015-07-17T16:25:12Z",
+        "uri": "https://wayback.archive-it.org/all/20150717162512/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2015-07-17T16:25:12Z",
+        "uri": "https://web.archive.org/web/20150717162512/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2015-07-17T16:33:48Z",
+        "uri": "https://web.archive.org/web/20150717163348/https://www.youtube.com/watch?v=yeuk_vIOXcw&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl"
+      },
+      {
+        "datetime": "2015-07-17T16:33:51Z",
+        "uri": "https://web.archive.org/web/20150717163351/https://www.youtube.com/watch?v=yeuk_vIOXcw&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl&feature=applinks"
+      },
+      {
+        "datetime": "2019-06-21T04:30:49Z",
+        "uri": "https://wayback.archive-it.org/all/20190621043049/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2019-06-21T04:30:49Z",
+        "uri": "https://web.archive.org/web/20190621043049/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2021-05-22T01:40:48Z",
+        "uri": "https://web.archive.org/web/20210522014048/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2022-11-18T19:25:55Z",
+        "uri": "https://web.archive.org/web/20221118192555/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2022-11-18T19:26:19Z",
+        "uri": "https://web.archive.org/web/20221118192619/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2024-05-01T18:35:30Z",
+        "uri": "https://web.archive.org/web/20240501183530/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      },
+      {
+        "datetime": "2024-06-26T10:27:06Z",
+        "uri": "https://web.archive.org/web/20240626102706/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+      }
+    ],
+    "first": {
+      "datetime": "2015-07-17T15:07:14Z",
+      "uri": "https://web.archive.org/web/20150717150714/https://www.youtube.com/watch?v=yeuk_vIOXcw&index=6&list=PLf1Dab4lwQhBpFRB1dpUnKLglmM2iScjl"
+    },
+    "last": {
+      "datetime": "2024-06-26T10:27:06Z",
+      "uri": "https://web.archive.org/web/20240626102706/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=yeuk_vIOXcw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=yeuk_vIOXcw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=yeuk_vIOXcw"
+}

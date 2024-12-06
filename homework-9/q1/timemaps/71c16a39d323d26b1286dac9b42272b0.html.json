@@ -1,0 +1,182 @@
+{
+  "original_uri": "https://arxiv.org/abs/1805.10260",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1805.10260",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-28T20:52:40Z",
+        "uri": "https://web.archive.org/web/20180528205240/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2018-06-03T20:33:33Z",
+        "uri": "https://web.archive.org/web/20180603203333/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2018-06-05T19:04:35Z",
+        "uri": "https://web.archive.org/web/20180605190435/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2018-07-08T01:54:28Z",
+        "uri": "https://webarchive.loc.gov/all/20180708015428/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2018-11-12T03:20:14Z",
+        "uri": "https://webarchive.loc.gov/all/20181112032014/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2018-12-09T14:48:15Z",
+        "uri": "https://webarchive.loc.gov/all/20181209144815/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-01-10T21:20:59Z",
+        "uri": "https://webarchive.loc.gov/all/20190110212059/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-02-10T04:17:53Z",
+        "uri": "https://webarchive.loc.gov/all/20190210041753/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-03-12T12:35:21Z",
+        "uri": "https://webarchive.loc.gov/all/20190312123521/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-04-14T19:47:15Z",
+        "uri": "https://webarchive.loc.gov/all/20190414194715/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-08-14T17:57:48Z",
+        "uri": "https://webarchive.loc.gov/all/20190814175748/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-09-08T07:03:58Z",
+        "uri": "https://webarchive.loc.gov/all/20190908070358/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-10-08T02:21:52Z",
+        "uri": "https://webarchive.loc.gov/all/20191008022152/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-11-14T23:15:05Z",
+        "uri": "https://webarchive.loc.gov/all/20191114231505/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-11-30T10:45:30Z",
+        "uri": "https://web.archive.org/web/20191130104530/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2019-12-11T01:15:03Z",
+        "uri": "https://webarchive.loc.gov/all/20191211011503/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2020-01-10T15:27:56Z",
+        "uri": "https://webarchive.loc.gov/all/20200110152756/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-07-05T13:53:40Z",
+        "uri": "https://web.archive.org/web/20210705135340/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-08-20T02:13:24Z",
+        "uri": "https://webarchive.loc.gov/all/20210820021324/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-01T20:23:28Z",
+        "uri": "https://arquivo.pt/wayback/20211101202328mp_/http://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-01T20:23:28Z",
+        "uri": "https://web.archive.org/web/20211101202328/http://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-01T22:04:23Z",
+        "uri": "https://arquivo.pt/wayback/20211101220423mp_/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-01T22:04:23Z",
+        "uri": "https://web.archive.org/web/20211101220423/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-19T08:46:19Z",
+        "uri": "https://webarchive.loc.gov/all/20211119084619/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-23T00:11:08Z",
+        "uri": "https://web.archive.org/web/20211123001108/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-23T00:11:08Z",
+        "uri": "https://web.archive.org/web/20211123001108/http://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2021-11-23T00:25:19Z",
+        "uri": "https://web.archive.org/web/20211123002519/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-03-01T20:31:20Z",
+        "uri": "https://webarchive.loc.gov/all/20220301203120/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-07-02T02:53:37Z",
+        "uri": "https://web.archive.org/web/20220702025337/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-08-13T06:30:52Z",
+        "uri": "https://webarchive.loc.gov/all/20220813063052/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-11-18T19:53:03Z",
+        "uri": "https://web.archive.org/web/20221118195303/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-11-18T19:53:40Z",
+        "uri": "https://web.archive.org/web/20221118195340/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-18T06:01:13Z",
+        "uri": "https://web.archive.org/web/20221218060113/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-18T07:01:57Z",
+        "uri": "https://web.archive.org/web/20221218070157/http://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-18T19:49:41Z",
+        "uri": "https://web.archive.org/web/20221218194941/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-18T21:21:09Z",
+        "uri": "https://web.archive.org/web/20221218212109/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-20T11:19:05Z",
+        "uri": "https://web.archive.org/web/20221220111905/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2022-12-20T11:23:04Z",
+        "uri": "https://web.archive.org/web/20221220112304/https://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2024-05-23T07:36:05Z",
+        "uri": "https://web.archive.org/web/20240523073605/http://arxiv.org/abs/1805.10260"
+      },
+      {
+        "datetime": "2024-09-30T20:13:30Z",
+        "uri": "https://web.archive.org/web/20240930201330/https://arxiv.org/abs/1805.10260"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-28T20:52:40Z",
+      "uri": "https://web.archive.org/web/20180528205240/https://arxiv.org/abs/1805.10260"
+    },
+    "last": {
+      "datetime": "2024-09-30T20:13:30Z",
+      "uri": "https://web.archive.org/web/20240930201330/https://arxiv.org/abs/1805.10260"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/1805.10260",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1805.10260",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/1805.10260"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/1805.10260"
+}

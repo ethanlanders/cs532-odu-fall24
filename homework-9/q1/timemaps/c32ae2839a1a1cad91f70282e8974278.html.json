@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/",
+  "self": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-24T13:25:11Z",
+        "uri": "https://web.archive.org/web/20220524132511/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2022-05-27T23:45:11Z",
+        "uri": "https://web.archive.org/web/20220527234511/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2022-06-22T02:14:31Z",
+        "uri": "https://web.archive.org/web/20220622021431/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-01-07T00:13:10Z",
+        "uri": "https://web.archive.org/web/20230107001310/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-01-27T05:11:18Z",
+        "uri": "https://web.archive.org/web/20230127051118/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-02-04T10:03:49Z",
+        "uri": "https://web.archive.org/web/20230204100349/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-06-04T01:55:07Z",
+        "uri": "https://web.archive.org/web/20230604015507/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-12-02T09:50:28Z",
+        "uri": "https://web.archive.org/web/20231202095028/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2023-12-16T17:40:08Z",
+        "uri": "https://web.archive.org/web/20231216174008/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      },
+      {
+        "datetime": "2024-05-19T06:17:32Z",
+        "uri": "https://web.archive.org/web/20240519061732/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-24T13:25:11Z",
+      "uri": "https://web.archive.org/web/20220524132511/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+    },
+    "last": {
+      "datetime": "2024-05-19T06:17:32Z",
+      "uri": "https://web.archive.org/web/20240519061732/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.daad-ukraine.org/en/studying-in-germany/information-on-postgraduate-studies-in-germany/"
+}

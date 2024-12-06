@@ -1,0 +1,3118 @@
+{
+  "original_uri": "https://dblp.dagstuhl.de",
+  "self": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-05-25T05:13:46Z",
+        "uri": "https://web.archive.org/web/20120525051346/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2012-07-12T22:33:33Z",
+        "uri": "https://web.archive.org/web/20120712223333/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2013-01-13T02:18:40Z",
+        "uri": "https://web.archive.org/web/20130113021840/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2013-03-27T01:21:32Z",
+        "uri": "https://web.archive.org/web/20130327012132/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-01-18T08:20:37Z",
+        "uri": "https://web.archive.org/web/20150118082037/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-01-27T04:02:53Z",
+        "uri": "https://web.archive.org/web/20150127040253/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-02-06T00:29:05Z",
+        "uri": "https://web.archive.org/web/20150206002905/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-03-15T22:06:09Z",
+        "uri": "https://web.archive.org/web/20150315220609/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2015-04-02T04:39:21Z",
+        "uri": "https://web.archive.org/web/20150402043921/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-04-07T08:28:04Z",
+        "uri": "https://web.archive.org/web/20150407082804/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-04-28T09:35:24Z",
+        "uri": "http://archive.md/20150428093524/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2015-05-09T09:04:36Z",
+        "uri": "https://web.archive.org/web/20150509090436/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-06-23T13:02:23Z",
+        "uri": "https://web.archive.org/web/20150623130223/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-07-04T02:21:43Z",
+        "uri": "https://web.archive.org/web/20150704022143/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2015-09-01T11:58:16Z",
+        "uri": "https://web.archive.org/web/20150901115816/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-09-22T05:34:34Z",
+        "uri": "https://web.archive.org/web/20150922053434/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2015-11-01T01:30:32Z",
+        "uri": "https://web.archive.org/web/20151101013032/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2015-11-05T07:08:06Z",
+        "uri": "https://web.archive.org/web/20151105070806/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-01-01T17:16:44Z",
+        "uri": "https://web.archive.org/web/20160101171644/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-03-02T22:07:59Z",
+        "uri": "https://web.archive.org/web/20160302220759/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-03-04T17:34:00Z",
+        "uri": "https://web.archive.org/web/20160304173400/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-03-13T06:46:42Z",
+        "uri": "https://web.archive.org/web/20160313064642/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-04-04T21:14:20Z",
+        "uri": "https://web.archive.org/web/20160404211420/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-05-03T11:29:21Z",
+        "uri": "https://web.archive.org/web/20160503112921/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-05-07T05:48:55Z",
+        "uri": "https://web.archive.org/web/20160507054855/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-05-14T19:46:49Z",
+        "uri": "https://arquivo.pt/wayback/20160514194649mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-07-01T02:31:51Z",
+        "uri": "https://web.archive.org/web/20160701023151/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-07-03T23:21:54Z",
+        "uri": "https://web.archive.org/web/20160703232154/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-07-25T08:06:09Z",
+        "uri": "https://web.archive.org/web/20160725080609/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-08-25T20:16:25Z",
+        "uri": "https://web.archive.org/web/20160825201625/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-08-27T19:33:55Z",
+        "uri": "https://web.archive.org/web/20160827193355/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-08-27T20:49:21Z",
+        "uri": "https://web.archive.org/web/20160827204921/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-09-03T10:02:38Z",
+        "uri": "https://web.archive.org/web/20160903100238/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-10-03T05:26:38Z",
+        "uri": "https://web.archive.org/web/20161003052638/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-10-07T16:19:01Z",
+        "uri": "https://web.archive.org/web/20161007161901/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-10-14T15:38:55Z",
+        "uri": "https://web.archive.org/web/20161014153855/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-11-03T10:08:25Z",
+        "uri": "https://web.archive.org/web/20161103100825/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-11-23T06:27:30Z",
+        "uri": "https://web.archive.org/web/20161123062730/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2016-11-29T14:47:38Z",
+        "uri": "https://wayback.archive-it.org/all/20161129144738/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-11-29T14:47:38Z",
+        "uri": "https://web.archive.org/web/20161129144738/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-12-13T14:36:14Z",
+        "uri": "https://wayback.archive-it.org/all/20161213143614/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2016-12-13T14:36:14Z",
+        "uri": "https://web.archive.org/web/20161213143614/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-02-04T15:26:10Z",
+        "uri": "https://web.archive.org/web/20170204152610/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-03-17T15:17:06Z",
+        "uri": "https://web.archive.org/web/20170317151706/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-03-21T13:31:29Z",
+        "uri": "https://wayback.archive-it.org/all/20170321133129/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-05-09T04:00:24Z",
+        "uri": "https://web.archive.org/web/20170509040024/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-05-31T05:20:22Z",
+        "uri": "https://web.archive.org/web/20170531052022/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-06-06T11:14:46Z",
+        "uri": "https://web.archive.org/web/20170606111446/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-06-09T09:37:05Z",
+        "uri": "https://web.archive.org/web/20170609093705/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-07-10T15:42:22Z",
+        "uri": "https://web.archive.org/web/20170710154222/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-07-13T00:44:54Z",
+        "uri": "https://web.archive.org/web/20170713004454/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-07-30T23:09:53Z",
+        "uri": "https://web.archive.org/web/20170730230953/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-08-13T23:44:02Z",
+        "uri": "https://web.archive.org/web/20170813234402/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-09-14T12:59:21Z",
+        "uri": "https://web.archive.org/web/20170914125921/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-10-02T20:31:33Z",
+        "uri": "https://wayback.archive-it.org/all/20171002203133/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-10-02T20:31:33Z",
+        "uri": "https://web.archive.org/web/20171002203133/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2017-10-09T17:27:44Z",
+        "uri": "https://web.archive.org/web/20171009172744/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-10-15T17:47:07Z",
+        "uri": "https://web.archive.org/web/20171015174707/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-11-16T16:18:25Z",
+        "uri": "https://web.archive.org/web/20171116161825/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-12-10T10:39:18Z",
+        "uri": "https://web.archive.org/web/20171210103918/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2017-12-18T16:04:06Z",
+        "uri": "https://web.archive.org/web/20171218160406/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-01-22T17:51:43Z",
+        "uri": "https://wayback.archive-it.org/all/20180122175143/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-01-22T17:51:43Z",
+        "uri": "https://web.archive.org/web/20180122175143/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-01-24T22:09:18Z",
+        "uri": "https://web.archive.org/web/20180124220918/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-01-25T22:48:32Z",
+        "uri": "https://web.archive.org/web/20180125224832/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-02-26T13:26:48Z",
+        "uri": "https://web.archive.org/web/20180226132648/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-02-27T18:15:01Z",
+        "uri": "https://web.archive.org/web/20180227181501/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-03-31T20:01:52Z",
+        "uri": "https://web.archive.org/web/20180331200152/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-04-22T06:38:05Z",
+        "uri": "https://web.archive.org/web/20180422063805/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-04-22T06:38:15Z",
+        "uri": "https://web.archive.org/web/20180422063815/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-05-02T10:59:10Z",
+        "uri": "https://web.archive.org/web/20180502105910/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-05-08T09:45:04Z",
+        "uri": "https://wayback.archive-it.org/all/20180508094504/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-05-08T09:47:31Z",
+        "uri": "https://wayback.archive-it.org/all/20180508094731/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-06-04T01:40:19Z",
+        "uri": "https://web.archive.org/web/20180604014019/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-07-04T12:33:22Z",
+        "uri": "https://web.archive.org/web/20180704123322/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-07-07T01:45:46Z",
+        "uri": "https://web.archive.org/web/20180707014546/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-07-20T11:01:14Z",
+        "uri": "https://arquivo.pt/wayback/20180720110114mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-07-20T11:01:14Z",
+        "uri": "https://web.archive.org/web/20180720110114/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-08-06T04:49:21Z",
+        "uri": "https://web.archive.org/web/20180806044921/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-09-06T08:04:04Z",
+        "uri": "https://web.archive.org/web/20180906080404/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-10-02T20:28:37Z",
+        "uri": "https://wayback.archive-it.org/all/20181002202837/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-10-02T20:28:37Z",
+        "uri": "https://web.archive.org/web/20181002202837/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-10-06T01:56:42Z",
+        "uri": "https://wayback.archive-it.org/all/20181006015642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-10-06T01:56:42Z",
+        "uri": "https://web.archive.org/web/20181006015642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-10-07T22:38:40Z",
+        "uri": "https://web.archive.org/web/20181007223840/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-11-03T04:56:07Z",
+        "uri": "https://wayback.archive-it.org/all/20181103045607/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-11-03T04:56:07Z",
+        "uri": "https://web.archive.org/web/20181103045607/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-11-09T07:52:03Z",
+        "uri": "https://web.archive.org/web/20181109075203/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2018-11-23T13:29:30Z",
+        "uri": "https://web.archive.org/web/20181123132930/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-12-17T14:32:07Z",
+        "uri": "https://wayback.archive-it.org/all/20181217143207/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-12-17T14:32:07Z",
+        "uri": "https://web.archive.org/web/20181217143207/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-12-22T19:55:50Z",
+        "uri": "https://web.archive.org/web/20181222195550/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-12-24T14:38:27Z",
+        "uri": "https://wayback.archive-it.org/all/20181224143827/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2018-12-24T14:38:27Z",
+        "uri": "https://web.archive.org/web/20181224143827/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-02T20:43:46Z",
+        "uri": "https://wayback.archive-it.org/all/20190102204346/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-02T20:43:46Z",
+        "uri": "https://web.archive.org/web/20190102204346/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-05T16:27:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190105162738/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-05T16:27:38Z",
+        "uri": "https://web.archive.org/web/20190105162738/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-10T10:59:17Z",
+        "uri": "https://wayback.archive-it.org/all/20190110105917/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-10T10:59:17Z",
+        "uri": "https://web.archive.org/web/20190110105917/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-13T12:28:48Z",
+        "uri": "https://wayback.archive-it.org/all/20190113122848/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-13T12:28:48Z",
+        "uri": "https://web.archive.org/web/20190113122848/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-27T21:27:47Z",
+        "uri": "https://wayback.archive-it.org/all/20190127212747/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-01-27T21:27:47Z",
+        "uri": "https://web.archive.org/web/20190127212747/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-03T12:18:44Z",
+        "uri": "https://wayback.archive-it.org/all/20190203121844/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-03T12:18:44Z",
+        "uri": "https://web.archive.org/web/20190203121844/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-04T02:01:34Z",
+        "uri": "https://wayback.archive-it.org/all/20190204020134/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-04T02:01:34Z",
+        "uri": "https://web.archive.org/web/20190204020134/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-10T14:15:14Z",
+        "uri": "https://wayback.archive-it.org/all/20190210141514/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-02-10T14:15:14Z",
+        "uri": "https://web.archive.org/web/20190210141514/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-10T19:14:02Z",
+        "uri": "https://wayback.archive-it.org/all/20190310191402/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-10T19:14:02Z",
+        "uri": "https://web.archive.org/web/20190310191402/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-13T15:31:45Z",
+        "uri": "https://wayback.archive-it.org/all/20190313153145/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-13T15:31:45Z",
+        "uri": "https://web.archive.org/web/20190313153145/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-25T02:14:10Z",
+        "uri": "https://wayback.archive-it.org/all/20190325021410/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-25T02:14:10Z",
+        "uri": "https://web.archive.org/web/20190325021410/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-30T03:38:49Z",
+        "uri": "https://arquivo.pt/wayback/20190330033849mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-30T03:38:49Z",
+        "uri": "https://web.archive.org/web/20190330033849/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-30T03:39:10Z",
+        "uri": "https://arquivo.pt/wayback/20190330033910mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-03-30T03:39:10Z",
+        "uri": "https://web.archive.org/web/20190330033910/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-02T20:29:48Z",
+        "uri": "https://wayback.archive-it.org/all/20190402202948/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-02T20:29:48Z",
+        "uri": "https://web.archive.org/web/20190402202948/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-05T23:45:13Z",
+        "uri": "https://wayback.archive-it.org/all/20190405234513/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-05T23:45:13Z",
+        "uri": "https://web.archive.org/web/20190405234513/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-11T15:50:14Z",
+        "uri": "https://wayback.archive-it.org/all/20190411155014/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-11T15:50:14Z",
+        "uri": "https://web.archive.org/web/20190411155014/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-13T21:37:29Z",
+        "uri": "https://wayback.archive-it.org/all/20190413213729/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-13T21:37:29Z",
+        "uri": "https://web.archive.org/web/20190413213729/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-15T09:36:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190415093654/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-15T09:44:41Z",
+        "uri": "https://wayback.archive-it.org/all/20190415094441/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-20T10:33:29Z",
+        "uri": "https://wayback.archive-it.org/all/20190420103329/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-20T10:33:29Z",
+        "uri": "https://web.archive.org/web/20190420103329/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-22T19:27:26Z",
+        "uri": "https://web.archive.org/web/20190422192726/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-28T20:02:29Z",
+        "uri": "https://wayback.archive-it.org/all/20190428200229/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-04-28T20:02:29Z",
+        "uri": "https://web.archive.org/web/20190428200229/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-05T00:13:41Z",
+        "uri": "https://wayback.archive-it.org/all/20190505001341/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-05T00:13:41Z",
+        "uri": "https://web.archive.org/web/20190505001341/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-10T21:26:03Z",
+        "uri": "https://web.archive.org/web/20190510212603/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-10T21:26:18Z",
+        "uri": "https://web.archive.org/web/20190510212618/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-13T00:03:50Z",
+        "uri": "https://wayback.archive-it.org/all/20190513000350/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-13T00:03:50Z",
+        "uri": "https://web.archive.org/web/20190513000350/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-19T11:06:30Z",
+        "uri": "https://wayback.archive-it.org/all/20190519110630/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-19T11:06:30Z",
+        "uri": "https://web.archive.org/web/20190519110630/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-27T13:31:06Z",
+        "uri": "https://wayback.archive-it.org/all/20190527133106/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-05-27T13:31:06Z",
+        "uri": "https://web.archive.org/web/20190527133106/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-16T07:13:10Z",
+        "uri": "https://wayback.archive-it.org/all/20190616071310/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-16T07:13:10Z",
+        "uri": "https://web.archive.org/web/20190616071310/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-21T00:35:30Z",
+        "uri": "https://wayback.archive-it.org/all/20190621003530/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-21T00:35:30Z",
+        "uri": "https://web.archive.org/web/20190621003530/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-30T07:59:09Z",
+        "uri": "https://wayback.archive-it.org/all/20190630075909/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-06-30T07:59:09Z",
+        "uri": "https://web.archive.org/web/20190630075909/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-02T19:22:44Z",
+        "uri": "https://wayback.archive-it.org/all/20190702192244/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-02T19:22:44Z",
+        "uri": "https://web.archive.org/web/20190702192244/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-05T04:39:52Z",
+        "uri": "https://wayback.archive-it.org/all/20190705043952/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-05T04:39:52Z",
+        "uri": "https://web.archive.org/web/20190705043952/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-10T17:25:09Z",
+        "uri": "https://wayback.archive-it.org/all/20190710172509/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-10T17:25:09Z",
+        "uri": "https://web.archive.org/web/20190710172509/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-18T18:39:26Z",
+        "uri": "https://wayback.archive-it.org/all/20190718183926/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-18T18:39:26Z",
+        "uri": "https://web.archive.org/web/20190718183926/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-23T06:38:13Z",
+        "uri": "https://wayback.archive-it.org/all/20190723063813/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-23T06:38:13Z",
+        "uri": "https://web.archive.org/web/20190723063813/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-24T14:35:14Z",
+        "uri": "https://wayback.archive-it.org/all/20190724143514/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-24T14:35:14Z",
+        "uri": "https://web.archive.org/web/20190724143514/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-31T15:36:49Z",
+        "uri": "https://wayback.archive-it.org/all/20190731153649/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-07-31T15:36:49Z",
+        "uri": "https://web.archive.org/web/20190731153649/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-02T09:20:33Z",
+        "uri": "https://web.archive.org/web/20190802092033/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-02T09:21:00Z",
+        "uri": "https://web.archive.org/web/20190802092100/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-12T02:07:50Z",
+        "uri": "https://wayback.archive-it.org/all/20190812020750/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-12T02:07:50Z",
+        "uri": "https://web.archive.org/web/20190812020750/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-14T07:34:15Z",
+        "uri": "https://web.archive.org/web/20190814073415/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-17T22:48:41Z",
+        "uri": "https://web.archive.org/web/20190817224841/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2019-08-18T21:41:01Z",
+        "uri": "https://wayback.archive-it.org/all/20190818214101/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-18T21:41:01Z",
+        "uri": "https://web.archive.org/web/20190818214101/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-25T20:13:17Z",
+        "uri": "https://wayback.archive-it.org/all/20190825201317/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-25T20:13:17Z",
+        "uri": "https://web.archive.org/web/20190825201317/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-08-29T03:13:33Z",
+        "uri": "https://web.archive.org/web/20190829031333/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-12T16:13:41Z",
+        "uri": "https://web.archive.org/web/20190912161341/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-18T09:40:42Z",
+        "uri": "https://web.archive.org/web/20190918094042/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2019-09-19T20:41:23Z",
+        "uri": "https://web.archive.org/web/20190919204123/http://dblp.dagstuhl.de:80/"
+      },
+      {
+        "datetime": "2019-09-23T13:30:40Z",
+        "uri": "https://arquivo.pt/wayback/20190923133040mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-23T13:30:40Z",
+        "uri": "https://web.archive.org/web/20190923133040/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-23T13:30:51Z",
+        "uri": "https://arquivo.pt/wayback/20190923133051mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-23T13:30:51Z",
+        "uri": "https://web.archive.org/web/20190923133051/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-25T14:03:57Z",
+        "uri": "https://wayback.archive-it.org/all/20190925140357/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-09-25T14:03:57Z",
+        "uri": "https://web.archive.org/web/20190925140357/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-02T19:20:41Z",
+        "uri": "https://wayback.archive-it.org/all/20191002192041/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-02T19:20:41Z",
+        "uri": "https://web.archive.org/web/20191002192041/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-05T20:31:54Z",
+        "uri": "https://wayback.archive-it.org/all/20191005203154/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-05T20:31:54Z",
+        "uri": "https://web.archive.org/web/20191005203154/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-06T23:34:00Z",
+        "uri": "https://wayback.archive-it.org/all/20191006233400/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-06T23:34:00Z",
+        "uri": "https://web.archive.org/web/20191006233400/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-08T09:09:13Z",
+        "uri": "https://wayback.archive-it.org/all/20191008090913/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-08T09:09:13Z",
+        "uri": "https://web.archive.org/web/20191008090913/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-11T20:09:15Z",
+        "uri": "https://arquivo.pt/wayback/20191011200915mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-11T20:09:15Z",
+        "uri": "https://web.archive.org/web/20191011200915/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-13T21:35:22Z",
+        "uri": "https://wayback.archive-it.org/all/20191013213522/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-13T21:35:22Z",
+        "uri": "https://web.archive.org/web/20191013213522/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-27T15:50:06Z",
+        "uri": "https://wayback.archive-it.org/all/20191027155006/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-10-27T15:50:06Z",
+        "uri": "https://web.archive.org/web/20191027155006/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-03T14:51:04Z",
+        "uri": "https://wayback.archive-it.org/all/20191103145104/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-03T14:51:04Z",
+        "uri": "https://web.archive.org/web/20191103145104/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-06T11:43:22Z",
+        "uri": "https://wayback.archive-it.org/all/20191106114322/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-06T11:43:22Z",
+        "uri": "https://web.archive.org/web/20191106114322/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-17T23:26:15Z",
+        "uri": "https://wayback.archive-it.org/all/20191117232615/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-17T23:26:15Z",
+        "uri": "https://web.archive.org/web/20191117232615/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-11-28T10:32:20Z",
+        "uri": "https://arquivo.pt/wayback/20191128103220mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-08T05:36:04Z",
+        "uri": "https://wayback.archive-it.org/all/20191208053604/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-08T05:36:04Z",
+        "uri": "https://web.archive.org/web/20191208053604/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-15T09:43:11Z",
+        "uri": "https://wayback.archive-it.org/all/20191215094311/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-15T09:43:11Z",
+        "uri": "https://web.archive.org/web/20191215094311/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-21T15:16:15Z",
+        "uri": "https://arquivo.pt/wayback/20191221151615mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-21T15:16:15Z",
+        "uri": "https://web.archive.org/web/20191221151615/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-22T12:34:58Z",
+        "uri": "https://wayback.archive-it.org/all/20191222123458/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-22T12:34:58Z",
+        "uri": "https://web.archive.org/web/20191222123458/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-25T13:26:41Z",
+        "uri": "https://web.archive.org/web/20191225132641/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-25T13:26:42Z",
+        "uri": "https://web.archive.org/web/20191225132642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-29T13:06:12Z",
+        "uri": "https://wayback.archive-it.org/all/20191229130612/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2019-12-29T13:06:12Z",
+        "uri": "https://web.archive.org/web/20191229130612/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-02T20:02:39Z",
+        "uri": "https://wayback.archive-it.org/all/20200102200239/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-02T20:02:39Z",
+        "uri": "https://web.archive.org/web/20200102200239/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-12T13:31:59Z",
+        "uri": "https://wayback.archive-it.org/all/20200112133159/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-12T13:31:59Z",
+        "uri": "https://web.archive.org/web/20200112133159/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-19T21:08:05Z",
+        "uri": "https://wayback.archive-it.org/all/20200119210805/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-01-19T21:08:05Z",
+        "uri": "https://web.archive.org/web/20200119210805/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-02-09T04:53:38Z",
+        "uri": "https://arquivo.pt/wayback/20200209045338mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-02-09T04:53:56Z",
+        "uri": "https://arquivo.pt/wayback/20200209045356mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-01T17:30:44Z",
+        "uri": "https://web.archive.org/web/20200301173044/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-10T18:36:22Z",
+        "uri": "https://web.archive.org/web/20200310183622/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-11T02:20:23Z",
+        "uri": "https://web.archive.org/web/20200311022023/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-11T02:20:23Z",
+        "uri": "https://web.archive.org/web/20200311022023/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-13T07:45:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200313074524/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-13T07:45:24Z",
+        "uri": "https://web.archive.org/web/20200313074524/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-17T07:45:29Z",
+        "uri": "https://arquivo.pt/wayback/20200317074529mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-17T07:45:29Z",
+        "uri": "https://web.archive.org/web/20200317074529/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-17T07:45:42Z",
+        "uri": "https://arquivo.pt/wayback/20200317074542mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-17T07:45:42Z",
+        "uri": "https://web.archive.org/web/20200317074542/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-18T08:18:59Z",
+        "uri": "https://wayback.archive-it.org/all/20200318081859/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-18T08:18:59Z",
+        "uri": "https://web.archive.org/web/20200318081859/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-25T03:25:17Z",
+        "uri": "https://wayback.archive-it.org/all/20200325032517/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-25T03:25:17Z",
+        "uri": "https://web.archive.org/web/20200325032517/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-26T05:52:38Z",
+        "uri": "https://arquivo.pt/wayback/20200326055238mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-26T05:52:57Z",
+        "uri": "https://arquivo.pt/wayback/20200326055257mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-27T09:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20200327090527mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-28T06:13:00Z",
+        "uri": "https://arquivo.pt/wayback/20200328061300mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-29T05:57:26Z",
+        "uri": "https://arquivo.pt/wayback/20200329055726mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-30T04:57:05Z",
+        "uri": "https://arquivo.pt/wayback/20200330045705mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-03-31T05:08:36Z",
+        "uri": "https://arquivo.pt/wayback/20200331050836mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-01T05:14:32Z",
+        "uri": "https://wayback.archive-it.org/all/20200401051432/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-01T05:14:32Z",
+        "uri": "https://web.archive.org/web/20200401051432/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-01T05:18:41Z",
+        "uri": "https://arquivo.pt/wayback/20200401051841mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-02T04:43:54Z",
+        "uri": "https://arquivo.pt/wayback/20200402044354mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-03T04:54:21Z",
+        "uri": "https://arquivo.pt/wayback/20200403045421mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-03T20:02:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200403200243/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-03T20:02:43Z",
+        "uri": "https://web.archive.org/web/20200403200243/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-04T04:41:26Z",
+        "uri": "https://arquivo.pt/wayback/20200404044126mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-05T04:29:24Z",
+        "uri": "https://arquivo.pt/wayback/20200405042924mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-06T04:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20200406041045mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:18:19Z",
+        "uri": "https://wayback.archive-it.org/all/20200408051819/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:18:19Z",
+        "uri": "https://web.archive.org/web/20200408051819/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:47:13Z",
+        "uri": "https://arquivo.pt/wayback/20200408054713mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-08T05:47:29Z",
+        "uri": "https://arquivo.pt/wayback/20200408054729mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-11T05:33:39Z",
+        "uri": "https://arquivo.pt/wayback/20200411053339mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-12T04:58:51Z",
+        "uri": "https://arquivo.pt/wayback/20200412045851mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-13T00:27:52Z",
+        "uri": "https://arquivo.pt/wayback/20200413002752mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-14T00:05:42Z",
+        "uri": "https://arquivo.pt/wayback/20200414000542mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-15T00:15:37Z",
+        "uri": "https://arquivo.pt/wayback/20200415001537mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-15T12:29:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200415122944/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-15T14:19:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200415141956/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-16T00:44:32Z",
+        "uri": "https://arquivo.pt/wayback/20200416004432mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-17T05:01:51Z",
+        "uri": "https://arquivo.pt/wayback/20200417050151mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-18T05:39:15Z",
+        "uri": "https://arquivo.pt/wayback/20200418053915mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-19T05:44:25Z",
+        "uri": "https://arquivo.pt/wayback/20200419054425mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-20T05:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20200420051649mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-21T00:57:33Z",
+        "uri": "https://arquivo.pt/wayback/20200421005733mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-22T00:43:34Z",
+        "uri": "https://arquivo.pt/wayback/20200422004334mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-23T01:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20200423011202mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-27T06:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20200427061931mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-28T06:02:11Z",
+        "uri": "https://arquivo.pt/wayback/20200428060211mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-04-30T01:08:54Z",
+        "uri": "https://arquivo.pt/wayback/20200430010854mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-03T00:45:12Z",
+        "uri": "https://arquivo.pt/wayback/20200503004512mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-04T00:34:03Z",
+        "uri": "https://arquivo.pt/wayback/20200504003403mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-06T01:22:34Z",
+        "uri": "https://arquivo.pt/wayback/20200506012234mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-06T01:22:55Z",
+        "uri": "https://arquivo.pt/wayback/20200506012255mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-23T12:05:17Z",
+        "uri": "https://wayback.archive-it.org/all/20200523120517/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-23T12:05:17Z",
+        "uri": "https://web.archive.org/web/20200523120517/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-05-31T11:43:16Z",
+        "uri": "https://web.archive.org/web/20200531114316/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-12T07:15:27Z",
+        "uri": "https://web.archive.org/web/20200612071527/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-16T18:59:42Z",
+        "uri": "https://web.archive.org/web/20200616185942/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-17T08:04:02Z",
+        "uri": "https://arquivo.pt/wayback/20200617080402mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-17T08:04:02Z",
+        "uri": "https://web.archive.org/web/20200617080402/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-17T08:04:13Z",
+        "uri": "https://arquivo.pt/wayback/20200617080413mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-17T08:04:13Z",
+        "uri": "https://web.archive.org/web/20200617080413/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-26T18:21:40Z",
+        "uri": "https://arquivo.pt/wayback/20200626182140mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-26T18:21:57Z",
+        "uri": "https://arquivo.pt/wayback/20200626182157mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-27T18:25:17Z",
+        "uri": "https://arquivo.pt/wayback/20200627182517mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-28T19:26:00Z",
+        "uri": "https://arquivo.pt/wayback/20200628192600mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-29T19:32:51Z",
+        "uri": "https://arquivo.pt/wayback/20200629193251mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-06-30T19:59:38Z",
+        "uri": "https://arquivo.pt/wayback/20200630195938mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-01T21:05:09Z",
+        "uri": "https://arquivo.pt/wayback/20200701210509mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-02T21:04:50Z",
+        "uri": "https://arquivo.pt/wayback/20200702210450mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-03T09:32:33Z",
+        "uri": "https://wayback.archive-it.org/all/20200703093233/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-03T09:32:33Z",
+        "uri": "https://web.archive.org/web/20200703093233/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-03T21:10:40Z",
+        "uri": "https://arquivo.pt/wayback/20200703211040mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-04T21:01:05Z",
+        "uri": "https://arquivo.pt/wayback/20200704210105mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-05T21:01:02Z",
+        "uri": "https://arquivo.pt/wayback/20200705210102mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-06T21:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20200706211202mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-07T21:08:19Z",
+        "uri": "https://arquivo.pt/wayback/20200707210819mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-08T21:01:32Z",
+        "uri": "https://arquivo.pt/wayback/20200708210132mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-09T21:08:14Z",
+        "uri": "https://arquivo.pt/wayback/20200709210814mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-11T00:50:37Z",
+        "uri": "https://arquivo.pt/wayback/20200711005037mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-12T00:55:45Z",
+        "uri": "https://arquivo.pt/wayback/20200712005545mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-12T18:02:59Z",
+        "uri": "https://web.archive.org/web/20200712180259/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-12T18:06:58Z",
+        "uri": "https://web.archive.org/web/20200712180658/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-13T00:41:29Z",
+        "uri": "https://arquivo.pt/wayback/20200713004129mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-14T01:05:00Z",
+        "uri": "https://arquivo.pt/wayback/20200714010500mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-15T01:01:00Z",
+        "uri": "https://arquivo.pt/wayback/20200715010100mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-16T00:52:25Z",
+        "uri": "https://arquivo.pt/wayback/20200716005225mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-17T00:54:52Z",
+        "uri": "https://arquivo.pt/wayback/20200717005452mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-17T06:16:37Z",
+        "uri": "https://wayback.archive-it.org/all/20200717061637/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-17T06:16:37Z",
+        "uri": "https://web.archive.org/web/20200717061637/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-18T08:02:34Z",
+        "uri": "https://web.archive.org/web/20200718080234/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-21T21:36:16Z",
+        "uri": "https://web.archive.org/web/20200721213616/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-26T03:03:46Z",
+        "uri": "https://web.archive.org/web/20200726030346/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-27T02:08:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200727020842/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-07-27T02:08:42Z",
+        "uri": "https://web.archive.org/web/20200727020842/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-08-05T03:21:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200805032146/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-08-05T03:21:46Z",
+        "uri": "https://web.archive.org/web/20200805032146/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-08-05T14:28:14Z",
+        "uri": "https://web.archive.org/web/20200805142814/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-08-07T02:55:22Z",
+        "uri": "https://web.archive.org/web/20200807025522/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-08-08T10:28:28Z",
+        "uri": "https://web.archive.org/web/20200808102828/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-14T00:21:55Z",
+        "uri": "https://arquivo.pt/wayback/20200914002155mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-14T00:21:55Z",
+        "uri": "https://web.archive.org/web/20200914002155/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-16T17:47:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200916174748/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-16T17:47:48Z",
+        "uri": "https://web.archive.org/web/20200916174748/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-18T01:30:12Z",
+        "uri": "https://web.archive.org/web/20200918013012/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-25T22:26:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200925222651/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-09-25T22:26:51Z",
+        "uri": "https://web.archive.org/web/20200925222651/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-01T09:02:50Z",
+        "uri": "https://web.archive.org/web/20201001090250/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-01T22:53:09Z",
+        "uri": "https://wayback.archive-it.org/all/20201001225309/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-01T22:53:09Z",
+        "uri": "https://web.archive.org/web/20201001225309/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-03T03:26:29Z",
+        "uri": "https://wayback.archive-it.org/all/20201003032629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-03T03:26:29Z",
+        "uri": "https://web.archive.org/web/20201003032629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-07T21:40:08Z",
+        "uri": "https://web.archive.org/web/20201007214008/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-10T08:09:40Z",
+        "uri": "https://wayback.archive-it.org/all/20201010080940/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-10T08:09:40Z",
+        "uri": "https://web.archive.org/web/20201010080940/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-15T09:20:22Z",
+        "uri": "https://wayback.archive-it.org/all/20201015092022/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-15T09:20:22Z",
+        "uri": "https://web.archive.org/web/20201015092022/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-22T22:56:50Z",
+        "uri": "https://wayback.archive-it.org/all/20201022225650/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-22T22:56:50Z",
+        "uri": "https://web.archive.org/web/20201022225650/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-23T06:22:50Z",
+        "uri": "https://web.archive.org/web/20201023062250/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-30T16:18:40Z",
+        "uri": "https://web.archive.org/web/20201030161840/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-31T08:15:41Z",
+        "uri": "https://wayback.archive-it.org/all/20201031081541/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-10-31T08:15:41Z",
+        "uri": "https://web.archive.org/web/20201031081541/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-04T22:05:20Z",
+        "uri": "https://wayback.archive-it.org/all/20201104220520/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-04T22:05:20Z",
+        "uri": "https://web.archive.org/web/20201104220520/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-06T12:36:12Z",
+        "uri": "https://web.archive.org/web/20201106123612/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-19T23:49:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201119234924/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-19T23:49:24Z",
+        "uri": "https://web.archive.org/web/20201119234924/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-26T23:09:15Z",
+        "uri": "https://wayback.archive-it.org/all/20201126230915/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-11-26T23:09:15Z",
+        "uri": "https://web.archive.org/web/20201126230915/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-04T20:01:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201204200135/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-04T20:01:35Z",
+        "uri": "https://web.archive.org/web/20201204200135/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-13T09:14:46Z",
+        "uri": "https://arquivo.pt/wayback/20201213091446mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-13T09:14:46Z",
+        "uri": "https://web.archive.org/web/20201213091446/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-17T18:58:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201217185825/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-17T18:58:25Z",
+        "uri": "https://web.archive.org/web/20201217185825/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-19T08:42:43Z",
+        "uri": "https://web.archive.org/web/20201219084243/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-19T08:42:43Z",
+        "uri": "https://web.archive.org/web/20201219084243/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-24T20:34:28Z",
+        "uri": "https://wayback.archive-it.org/all/20201224203428/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-24T20:34:28Z",
+        "uri": "https://web.archive.org/web/20201224203428/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2020-12-26T05:44:40Z",
+        "uri": "https://web.archive.org/web/20201226054440/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-03T02:40:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210103024029/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-03T02:40:29Z",
+        "uri": "https://web.archive.org/web/20210103024029/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-08T13:52:21Z",
+        "uri": "https://wayback.archive-it.org/all/20210108135221/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-08T13:52:21Z",
+        "uri": "https://web.archive.org/web/20210108135221/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-21T21:33:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210121213336/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-21T21:33:36Z",
+        "uri": "https://web.archive.org/web/20210121213336/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-23T15:44:50Z",
+        "uri": "https://web.archive.org/web/20210123154450/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-27T17:10:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210127171050/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-01-27T17:10:50Z",
+        "uri": "https://web.archive.org/web/20210127171050/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-04T09:09:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210204090939/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-04T09:09:39Z",
+        "uri": "https://web.archive.org/web/20210204090939/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-18T00:02:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210218000219/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-18T00:02:19Z",
+        "uri": "https://web.archive.org/web/20210218000219/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-24T16:58:07Z",
+        "uri": "https://web.archive.org/web/20210224165807/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-25T20:52:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210225205207/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-02-25T20:52:07Z",
+        "uri": "https://web.archive.org/web/20210225205207/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-04T20:46:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210304204643/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-04T20:46:43Z",
+        "uri": "https://web.archive.org/web/20210304204643/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-07T01:23:36Z",
+        "uri": "https://web.archive.org/web/20210307012336/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-11T09:32:35Z",
+        "uri": "https://arquivo.pt/wayback/20210311093235mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-11T09:32:35Z",
+        "uri": "https://web.archive.org/web/20210311093235/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-11T09:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20210311093252mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-11T09:32:52Z",
+        "uri": "https://web.archive.org/web/20210311093252/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-12T13:30:59Z",
+        "uri": "https://wayback.archive-it.org/all/20210312133059/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-12T13:30:59Z",
+        "uri": "https://web.archive.org/web/20210312133059/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-17T22:18:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210317221829/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-17T22:18:29Z",
+        "uri": "https://web.archive.org/web/20210317221829/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-24T16:39:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210324163917/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-03-24T16:39:17Z",
+        "uri": "https://web.archive.org/web/20210324163917/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-01T19:51:24Z",
+        "uri": "https://wayback.archive-it.org/all/20210401195124/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-01T19:51:24Z",
+        "uri": "https://web.archive.org/web/20210401195124/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-03T01:53:49Z",
+        "uri": "https://wayback.archive-it.org/all/20210403015349/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-03T01:53:49Z",
+        "uri": "https://web.archive.org/web/20210403015349/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-09T05:00:46Z",
+        "uri": "https://wayback.archive-it.org/all/20210409050046/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-09T05:00:46Z",
+        "uri": "https://web.archive.org/web/20210409050046/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-10T21:40:28Z",
+        "uri": "https://web.archive.org/web/20210410214028/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-15T11:12:02Z",
+        "uri": "https://wayback.archive-it.org/all/20210415111202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-15T12:29:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210415122911/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-15T14:21:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210415142139/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-15T14:21:39Z",
+        "uri": "https://web.archive.org/web/20210415142139/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-18T19:05:08Z",
+        "uri": "https://web.archive.org/web/20210418190508/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-22T07:02:02Z",
+        "uri": "https://wayback.archive-it.org/all/20210422070202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-22T07:02:02Z",
+        "uri": "https://web.archive.org/web/20210422070202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-23T08:21:47Z",
+        "uri": "https://web.archive.org/web/20210423082147/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-28T19:48:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210428194829/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-28T19:48:29Z",
+        "uri": "https://web.archive.org/web/20210428194829/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-04-28T20:59:58Z",
+        "uri": "https://web.archive.org/web/20210428205958/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-05T23:08:40Z",
+        "uri": "https://web.archive.org/web/20210505230840/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-06T18:29:26Z",
+        "uri": "https://web.archive.org/web/20210506182926/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-07T01:31:03Z",
+        "uri": "https://wayback.archive-it.org/all/20210507013103/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-07T01:31:03Z",
+        "uri": "https://web.archive.org/web/20210507013103/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-12T18:02:24Z",
+        "uri": "https://web.archive.org/web/20210512180224/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-13T04:27:09Z",
+        "uri": "https://web.archive.org/web/20210513042709/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-13T21:11:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210513211148/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-13T21:11:48Z",
+        "uri": "https://web.archive.org/web/20210513211148/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-16T11:54:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210516115447/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-16T11:54:47Z",
+        "uri": "https://web.archive.org/web/20210516115447/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-22T08:46:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210522084607/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-22T08:46:07Z",
+        "uri": "https://web.archive.org/web/20210522084607/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-27T01:41:34Z",
+        "uri": "https://wayback.archive-it.org/all/20210527014134/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-27T01:41:34Z",
+        "uri": "https://web.archive.org/web/20210527014134/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-28T22:42:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210528224229/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-05-28T22:42:29Z",
+        "uri": "https://web.archive.org/web/20210528224229/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-03T11:36:24Z",
+        "uri": "https://wayback.archive-it.org/all/20210603113624/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-03T11:36:24Z",
+        "uri": "https://web.archive.org/web/20210603113624/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-10T04:11:52Z",
+        "uri": "https://wayback.archive-it.org/all/20210610041152/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-10T04:11:52Z",
+        "uri": "https://web.archive.org/web/20210610041152/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-13T02:06:39Z",
+        "uri": "https://arquivo.pt/wayback/20210613020639mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-13T02:06:39Z",
+        "uri": "https://web.archive.org/web/20210613020639/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-13T02:09:54Z",
+        "uri": "https://arquivo.pt/wayback/20210613020954mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-13T02:09:54Z",
+        "uri": "https://web.archive.org/web/20210613020954/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-16T12:16:08Z",
+        "uri": "https://web.archive.org/web/20210616121608/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-16T12:16:08Z",
+        "uri": "https://web.archive.org/web/20210616121608/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-17T23:59:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210617235938/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-17T23:59:38Z",
+        "uri": "https://web.archive.org/web/20210617235938/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-21T15:36:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210621153650/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-21T15:36:50Z",
+        "uri": "https://web.archive.org/web/20210621153650/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-23T13:27:57Z",
+        "uri": "https://wayback.archive-it.org/all/20210623132757/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-23T13:27:57Z",
+        "uri": "https://web.archive.org/web/20210623132757/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-30T11:30:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210630113018/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-30T11:30:18Z",
+        "uri": "https://web.archive.org/web/20210630113018/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-30T22:47:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210630224750/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-06-30T22:47:50Z",
+        "uri": "https://web.archive.org/web/20210630224750/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-03T06:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210703060101/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-03T06:01:01Z",
+        "uri": "https://web.archive.org/web/20210703060101/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-07T09:19:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210707091950/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-07T09:19:50Z",
+        "uri": "https://web.archive.org/web/20210707091950/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-14T05:05:34Z",
+        "uri": "https://wayback.archive-it.org/all/20210714050534/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-14T05:05:34Z",
+        "uri": "https://web.archive.org/web/20210714050534/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-21T08:06:35Z",
+        "uri": "https://wayback.archive-it.org/all/20210721080635/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-21T08:06:35Z",
+        "uri": "https://web.archive.org/web/20210721080635/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-26T13:51:19Z",
+        "uri": "https://web.archive.org/web/20210726135119/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-27T23:01:50Z",
+        "uri": "https://web.archive.org/web/20210727230150/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-28T13:17:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210728131742/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-07-28T13:17:42Z",
+        "uri": "https://web.archive.org/web/20210728131742/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-04T11:56:15Z",
+        "uri": "https://wayback.archive-it.org/all/20210804115615/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-04T11:56:15Z",
+        "uri": "https://web.archive.org/web/20210804115615/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-11T11:22:51Z",
+        "uri": "https://wayback.archive-it.org/all/20210811112251/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-11T11:22:51Z",
+        "uri": "https://web.archive.org/web/20210811112251/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-11T21:54:18Z",
+        "uri": "https://web.archive.org/web/20210811215418/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-15T05:51:25Z",
+        "uri": "https://web.archive.org/web/20210815055125/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-18T10:21:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210818102137/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-08-18T10:21:37Z",
+        "uri": "https://web.archive.org/web/20210818102137/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-02T11:25:49Z",
+        "uri": "https://wayback.archive-it.org/all/20210902112549/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-02T11:25:49Z",
+        "uri": "https://web.archive.org/web/20210902112549/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-08T22:09:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210908220936/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-08T22:09:36Z",
+        "uri": "https://web.archive.org/web/20210908220936/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-15T22:42:48Z",
+        "uri": "https://arquivo.pt/wayback/20210915224248mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-15T22:48:32Z",
+        "uri": "https://arquivo.pt/wayback/20210915224832mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-16T19:57:51Z",
+        "uri": "https://wayback.archive-it.org/all/20210916195751/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-16T19:57:51Z",
+        "uri": "https://web.archive.org/web/20210916195751/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-21T00:40:49Z",
+        "uri": "https://web.archive.org/web/20210921004049/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-24T22:14:14Z",
+        "uri": "https://wayback.archive-it.org/all/20210924221414/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-24T22:14:14Z",
+        "uri": "https://web.archive.org/web/20210924221414/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-27T16:00:17Z",
+        "uri": "https://web.archive.org/web/20210927160017/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-29T14:39:57Z",
+        "uri": "https://wayback.archive-it.org/all/20210929143957/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-09-29T14:39:57Z",
+        "uri": "https://web.archive.org/web/20210929143957/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-03T21:46:29Z",
+        "uri": "https://wayback.archive-it.org/all/20211003214629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-03T21:46:29Z",
+        "uri": "https://web.archive.org/web/20211003214629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-07T07:38:11Z",
+        "uri": "https://wayback.archive-it.org/all/20211007073811/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-07T07:38:11Z",
+        "uri": "https://web.archive.org/web/20211007073811/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-13T14:09:11Z",
+        "uri": "https://wayback.archive-it.org/all/20211013140911/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-13T14:09:11Z",
+        "uri": "https://web.archive.org/web/20211013140911/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-18T13:11:48Z",
+        "uri": "https://wayback.archive-it.org/all/20211018131148/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-18T13:11:48Z",
+        "uri": "https://web.archive.org/web/20211018131148/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-19T19:34:23Z",
+        "uri": "https://arquivo.pt/wayback/20211019193423mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-19T19:34:42Z",
+        "uri": "https://arquivo.pt/wayback/20211019193442mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-21T04:30:23Z",
+        "uri": "https://wayback.archive-it.org/all/20211021043023/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-21T04:30:23Z",
+        "uri": "https://web.archive.org/web/20211021043023/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-21T05:31:19Z",
+        "uri": "https://arquivo.pt/wayback/20211021053119mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-21T05:31:19Z",
+        "uri": "https://web.archive.org/web/20211021053119/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-21T23:13:35Z",
+        "uri": "https://web.archive.org/web/20211021231335/https://dblp.dagstuhl.de"
+      },
+      {
+        "datetime": "2021-10-26T19:12:49Z",
+        "uri": "https://web.archive.org/web/20211026191249/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-26T19:12:59Z",
+        "uri": "https://web.archive.org/web/20211026191259/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-27T06:58:46Z",
+        "uri": "https://wayback.archive-it.org/all/20211027065846/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-10-27T06:58:46Z",
+        "uri": "https://web.archive.org/web/20211027065846/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-03T20:44:33Z",
+        "uri": "https://wayback.archive-it.org/all/20211103204433/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-03T20:44:33Z",
+        "uri": "https://web.archive.org/web/20211103204433/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-10T17:32:16Z",
+        "uri": "https://wayback.archive-it.org/all/20211110173216/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-10T17:32:16Z",
+        "uri": "https://web.archive.org/web/20211110173216/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-17T13:55:12Z",
+        "uri": "https://wayback.archive-it.org/all/20211117135512/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-17T13:55:12Z",
+        "uri": "https://web.archive.org/web/20211117135512/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-24T23:19:03Z",
+        "uri": "https://wayback.archive-it.org/all/20211124231903/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-24T23:19:03Z",
+        "uri": "https://web.archive.org/web/20211124231903/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-11-27T21:46:36Z",
+        "uri": "https://web.archive.org/web/20211127214636/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-01T17:45:44Z",
+        "uri": "https://wayback.archive-it.org/all/20211201174544/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-01T17:45:44Z",
+        "uri": "https://web.archive.org/web/20211201174544/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-09T05:02:44Z",
+        "uri": "https://wayback.archive-it.org/all/20211209050244/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-09T05:02:44Z",
+        "uri": "https://web.archive.org/web/20211209050244/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-15T15:51:15Z",
+        "uri": "https://web.archive.org/web/20211215155115/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-15T17:50:51Z",
+        "uri": "https://wayback.archive-it.org/all/20211215175051/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-15T17:50:51Z",
+        "uri": "https://web.archive.org/web/20211215175051/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-22T17:24:21Z",
+        "uri": "https://wayback.archive-it.org/all/20211222172421/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-22T17:24:21Z",
+        "uri": "https://web.archive.org/web/20211222172421/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-29T21:02:04Z",
+        "uri": "https://wayback.archive-it.org/all/20211229210204/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2021-12-29T21:02:04Z",
+        "uri": "https://web.archive.org/web/20211229210204/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-03T03:22:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220103032202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-03T03:22:02Z",
+        "uri": "https://web.archive.org/web/20220103032202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-06T03:58:33Z",
+        "uri": "https://wayback.archive-it.org/all/20220106035833/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-06T03:58:33Z",
+        "uri": "https://web.archive.org/web/20220106035833/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-07T22:43:32Z",
+        "uri": "https://web.archive.org/web/20220107224332/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-13T21:04:34Z",
+        "uri": "https://wayback.archive-it.org/all/20220113210434/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-13T21:04:34Z",
+        "uri": "https://web.archive.org/web/20220113210434/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-19T13:16:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220119131642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-19T13:16:42Z",
+        "uri": "https://web.archive.org/web/20220119131642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-20T14:22:33Z",
+        "uri": "https://web.archive.org/web/20220120142233/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-20T14:22:53Z",
+        "uri": "https://web.archive.org/web/20220120142253/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-23T21:36:31Z",
+        "uri": "https://web.archive.org/web/20220123213631/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-23T21:36:31Z",
+        "uri": "https://web.archive.org/web/20220123213631/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-23T21:49:59Z",
+        "uri": "https://web.archive.org/web/20220123214959/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-24T18:03:05Z",
+        "uri": "https://web.archive.org/web/20220124180305/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-26T10:01:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220126100106/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-26T10:01:06Z",
+        "uri": "https://web.archive.org/web/20220126100106/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-28T15:53:17Z",
+        "uri": "https://arquivo.pt/wayback/20220128155317mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-01-28T15:53:26Z",
+        "uri": "https://arquivo.pt/wayback/20220128155326mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-03T22:05:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220203220515/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-03T22:05:15Z",
+        "uri": "https://web.archive.org/web/20220203220515/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-07T19:51:46Z",
+        "uri": "https://web.archive.org/web/20220207195146/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-12T07:53:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220212075344/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-12T07:53:44Z",
+        "uri": "https://web.archive.org/web/20220212075344/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-14T14:20:24Z",
+        "uri": "https://arquivo.pt/wayback/20220214142024mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-14T14:20:39Z",
+        "uri": "https://arquivo.pt/wayback/20220214142039mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-16T23:45:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220216234500/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-16T23:45:00Z",
+        "uri": "https://web.archive.org/web/20220216234500/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-23T19:59:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220223195919/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-23T19:59:19Z",
+        "uri": "https://web.archive.org/web/20220223195919/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-02-24T21:43:05Z",
+        "uri": "https://web.archive.org/web/20220224214305/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-02T14:47:30Z",
+        "uri": "https://web.archive.org/web/20220302144730/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-02T14:47:30Z",
+        "uri": "https://web.archive.org/web/20220302144730/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-02T14:50:37Z",
+        "uri": "https://web.archive.org/web/20220302145037/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-02T14:50:37Z",
+        "uri": "https://web.archive.org/web/20220302145037/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-03T19:36:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220303193657/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-03T19:36:57Z",
+        "uri": "https://web.archive.org/web/20220303193657/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-07T20:56:38Z",
+        "uri": "https://web.archive.org/web/20220307205638/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-07T20:56:38Z",
+        "uri": "https://web.archive.org/web/20220307205638/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-07T20:58:55Z",
+        "uri": "https://web.archive.org/web/20220307205855/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-10T13:12:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220310131257/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-10T13:12:57Z",
+        "uri": "https://web.archive.org/web/20220310131257/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-10T16:38:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220310163819/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-10T16:38:19Z",
+        "uri": "https://web.archive.org/web/20220310163819/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-11T00:44:27Z",
+        "uri": "https://web.archive.org/web/20220311004427/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-16T13:05:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220316130558/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-16T13:05:58Z",
+        "uri": "https://web.archive.org/web/20220316130558/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-24T16:46:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220324164652/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-24T16:46:52Z",
+        "uri": "https://web.archive.org/web/20220324164652/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-25T14:28:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220325142856/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-25T14:28:56Z",
+        "uri": "https://web.archive.org/web/20220325142856/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-30T23:52:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220330235208/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-03-30T23:52:08Z",
+        "uri": "https://web.archive.org/web/20220330235208/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-01T02:23:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220401022317/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-01T02:23:17Z",
+        "uri": "https://web.archive.org/web/20220401022317/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-01T07:16:20Z",
+        "uri": "https://web.archive.org/web/20220401071620/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-03T18:06:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220403180627/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-03T18:06:27Z",
+        "uri": "https://web.archive.org/web/20220403180627/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-15T13:14:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220415131419/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-15T19:08:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220415190820/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-23T04:46:48Z",
+        "uri": "https://web.archive.org/web/20220423044648/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-25T19:51:21Z",
+        "uri": "https://arquivo.pt/wayback/20220425195121mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-04-25T19:51:29Z",
+        "uri": "https://arquivo.pt/wayback/20220425195129mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-06T08:57:05Z",
+        "uri": "https://web.archive.org/web/20220506085705/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-11T04:24:32Z",
+        "uri": "https://arquivo.pt/wayback/20220511042432mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-11T04:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20220511042449mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-19T17:16:03Z",
+        "uri": "https://web.archive.org/web/20220519171603/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-20T06:23:34Z",
+        "uri": "https://web.archive.org/web/20220520062334/https://dblp.dagstuhl.de"
+      },
+      {
+        "datetime": "2022-05-22T13:48:04Z",
+        "uri": "https://web.archive.org/web/20220522134804/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-05-22T23:57:16Z",
+        "uri": "https://web.archive.org/web/20220522235716/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-06-17T17:47:13Z",
+        "uri": "https://web.archive.org/web/20220617174713/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-06-25T23:49:34Z",
+        "uri": "https://web.archive.org/web/20220625234934/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-06-29T10:31:01Z",
+        "uri": "https://web.archive.org/web/20220629103101/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-04T07:20:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220704072052/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-04T07:20:52Z",
+        "uri": "https://web.archive.org/web/20220704072052/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-05T11:51:17Z",
+        "uri": "https://web.archive.org/web/20220705115117/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-07T10:02:28Z",
+        "uri": "https://web.archive.org/web/20220707100228/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-07T14:29:07Z",
+        "uri": "https://web.archive.org/web/20220707142907/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-13T14:07:41Z",
+        "uri": "https://arquivo.pt/wayback/20220713140741mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-14T13:15:34Z",
+        "uri": "https://arquivo.pt/wayback/20220714131534mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-14T13:21:34Z",
+        "uri": "https://arquivo.pt/wayback/20220714132134mp_/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-15T13:32:02Z",
+        "uri": "https://arquivo.pt/wayback/20220715133202mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-16T13:30:56Z",
+        "uri": "https://arquivo.pt/wayback/20220716133056mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-07-17T13:57:35Z",
+        "uri": "https://arquivo.pt/wayback/20220717135735mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-08-07T19:50:12Z",
+        "uri": "https://web.archive.org/web/20220807195012/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-08-13T03:53:37Z",
+        "uri": "https://web.archive.org/web/20220813035337/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-08-20T10:56:23Z",
+        "uri": "https://arquivo.pt/wayback/20220820105623mp_/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-09-01T23:18:23Z",
+        "uri": "https://web.archive.org/web/20220901231823/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-10-03T14:04:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221003140452/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-10-03T14:04:52Z",
+        "uri": "https://web.archive.org/web/20221003140452/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-10-06T00:56:24Z",
+        "uri": "https://web.archive.org/web/20221006005624/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-10-12T22:13:04Z",
+        "uri": "https://web.archive.org/web/20221012221304/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-10-14T02:41:28Z",
+        "uri": "https://web.archive.org/web/20221014024128/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-11-07T02:20:05Z",
+        "uri": "https://web.archive.org/web/20221107022005/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-11-21T09:54:44Z",
+        "uri": "https://web.archive.org/web/20221121095444/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-11-27T05:05:16Z",
+        "uri": "https://web.archive.org/web/20221127050516/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-11-29T15:24:12Z",
+        "uri": "https://web.archive.org/web/20221129152412/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-11-30T20:46:25Z",
+        "uri": "https://web.archive.org/web/20221130204625/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-02T14:46:43Z",
+        "uri": "https://web.archive.org/web/20221202144643/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-06T22:12:09Z",
+        "uri": "https://web.archive.org/web/20221206221209/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-23T00:48:08Z",
+        "uri": "https://web.archive.org/web/20221223004808/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-24T01:04:53Z",
+        "uri": "https://web.archive.org/web/20221224010453/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-24T16:08:06Z",
+        "uri": "https://web.archive.org/web/20221224160806/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-24T16:08:07Z",
+        "uri": "https://web.archive.org/web/20221224160807/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-25T01:21:01Z",
+        "uri": "https://web.archive.org/web/20221225012101/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2022-12-25T01:21:02Z",
+        "uri": "https://web.archive.org/web/20221225012102/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-01-04T18:06:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230104180629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-01-04T18:06:29Z",
+        "uri": "https://web.archive.org/web/20230104180629/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-01-08T22:14:43Z",
+        "uri": "https://web.archive.org/web/20230108221443/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-01-27T12:12:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230127121237/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-01-27T12:12:37Z",
+        "uri": "https://web.archive.org/web/20230127121237/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-02-03T20:48:43Z",
+        "uri": "https://web.archive.org/web/20230203204843/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-02-05T16:23:25Z",
+        "uri": "https://web.archive.org/web/20230205162325/https://dblp.dagstuhl.de"
+      },
+      {
+        "datetime": "2023-02-07T07:03:29Z",
+        "uri": "https://web.archive.org/web/20230207070329/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-02-09T04:20:19Z",
+        "uri": "https://web.archive.org/web/20230209042019/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-01T00:46:18Z",
+        "uri": "https://web.archive.org/web/20230301004618/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-03T13:34:06Z",
+        "uri": "https://web.archive.org/web/20230303133406/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-11T03:46:27Z",
+        "uri": "https://web.archive.org/web/20230311034627/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-25T21:06:54Z",
+        "uri": "https://web.archive.org/web/20230325210654/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-27T00:59:52Z",
+        "uri": "https://web.archive.org/web/20230327005952/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-03-29T13:14:05Z",
+        "uri": "https://web.archive.org/web/20230329131405/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-04-03T04:32:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230403043217/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-04-03T04:32:17Z",
+        "uri": "https://web.archive.org/web/20230403043217/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-04-03T15:31:40Z",
+        "uri": "https://web.archive.org/web/20230403153140/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-04-18T01:36:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230418013635/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-04-18T01:51:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230418015144/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-08T00:52:51Z",
+        "uri": "https://web.archive.org/web/20230508005251/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-08T02:14:57Z",
+        "uri": "https://web.archive.org/web/20230508021457/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-18T04:53:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230518045304/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-18T04:53:04Z",
+        "uri": "https://web.archive.org/web/20230518045304/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-28T03:52:27Z",
+        "uri": "https://web.archive.org/web/20230528035227/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-28T16:46:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230528164618/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-05-28T16:46:18Z",
+        "uri": "https://web.archive.org/web/20230528164618/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-01T15:17:37Z",
+        "uri": "https://web.archive.org/web/20230601151737/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-01T20:23:16Z",
+        "uri": "https://web.archive.org/web/20230601202316/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-02T04:43:43Z",
+        "uri": "https://web.archive.org/web/20230602044343/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-03T17:54:14Z",
+        "uri": "https://web.archive.org/web/20230603175414/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-06T01:51:03Z",
+        "uri": "https://web.archive.org/web/20230606015103/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-06T08:50:46Z",
+        "uri": "https://web.archive.org/web/20230606085046/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-06T08:50:51Z",
+        "uri": "https://web.archive.org/web/20230606085051/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-08T17:54:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230608175412/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-08T17:54:12Z",
+        "uri": "https://web.archive.org/web/20230608175412/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-11T19:40:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230611194054/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-11T19:40:54Z",
+        "uri": "https://web.archive.org/web/20230611194054/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-16T21:13:45Z",
+        "uri": "https://web.archive.org/web/20230616211345/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-17T06:15:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230617061558/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-06-17T06:15:58Z",
+        "uri": "https://web.archive.org/web/20230617061558/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-04T00:47:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230704004721/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-04T00:47:21Z",
+        "uri": "https://web.archive.org/web/20230704004721/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-04T18:36:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230704183627/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-04T18:36:27Z",
+        "uri": "https://web.archive.org/web/20230704183627/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-08T16:07:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230708160742/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-08T16:07:42Z",
+        "uri": "https://web.archive.org/web/20230708160742/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-17T15:30:08Z",
+        "uri": "https://web.archive.org/web/20230717153008/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-24T15:14:47Z",
+        "uri": "https://web.archive.org/web/20230724151447/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-29T16:49:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230729164950/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-07-29T16:49:50Z",
+        "uri": "https://web.archive.org/web/20230729164950/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-08-16T22:21:00Z",
+        "uri": "https://web.archive.org/web/20230816222100/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-08-16T22:21:02Z",
+        "uri": "https://web.archive.org/web/20230816222102/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-08-24T04:16:59Z",
+        "uri": "https://web.archive.org/web/20230824041659/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-08-29T11:14:37Z",
+        "uri": "https://web.archive.org/web/20230829111437/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-08-29T11:14:37Z",
+        "uri": "https://web.archive.org/web/20230829111437/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-09-11T11:25:11Z",
+        "uri": "https://web.archive.org/web/20230911112511/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-09-11T11:28:08Z",
+        "uri": "https://web.archive.org/web/20230911112808/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-09-23T18:28:19Z",
+        "uri": "https://web.archive.org/web/20230923182819/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-10-03T22:30:26Z",
+        "uri": "https://wayback.archive-it.org/all/20231003223026/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-10-30T08:23:07Z",
+        "uri": "https://wayback.archive-it.org/all/20231030082307/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-11-15T07:25:56Z",
+        "uri": "https://web.archive.org/web/20231115072556/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-01T07:24:18Z",
+        "uri": "https://web.archive.org/web/20231201072418/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-01T23:19:22Z",
+        "uri": "https://web.archive.org/web/20231201231922/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-05T23:42:13Z",
+        "uri": "https://web.archive.org/web/20231205234213/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-15T10:37:08Z",
+        "uri": "https://web.archive.org/web/20231215103708/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-15T17:17:41Z",
+        "uri": "https://web.archive.org/web/20231215171741/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-15T17:19:31Z",
+        "uri": "https://web.archive.org/web/20231215171931/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2023-12-22T08:37:49Z",
+        "uri": "https://wayback.archive-it.org/all/20231222083749/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-01-10T10:15:10Z",
+        "uri": "https://web.archive.org/web/20240110101510/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-01-12T10:26:52Z",
+        "uri": "https://web.archive.org/web/20240112102652/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-01-19T08:59:23Z",
+        "uri": "https://wayback.archive-it.org/all/20240119085923/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-01-22T14:18:31Z",
+        "uri": "https://wayback.archive-it.org/all/20240122141831/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-02-09T10:22:56Z",
+        "uri": "https://web.archive.org/web/20240209102256/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-02-15T03:04:10Z",
+        "uri": "https://wayback.archive-it.org/all/20240215030410/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-02-25T04:45:55Z",
+        "uri": "https://web.archive.org/web/20240225044555/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-02-28T20:02:13Z",
+        "uri": "https://web.archive.org/web/20240228200213/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-03-12T18:27:20Z",
+        "uri": "https://web.archive.org/web/20240312182720/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-03-13T01:04:58Z",
+        "uri": "https://web.archive.org/web/20240313010458/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-03-19T06:51:48Z",
+        "uri": "https://web.archive.org/web/20240319065148/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-03-23T13:43:41Z",
+        "uri": "https://wayback.archive-it.org/all/20240323134341/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-03-26T20:34:02Z",
+        "uri": "https://web.archive.org/web/20240326203402/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-06T06:12:31Z",
+        "uri": "https://web.archive.org/web/20240406061231/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-13T21:45:22Z",
+        "uri": "https://web.archive.org/web/20240413214522/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-18T23:53:02Z",
+        "uri": "https://wayback.archive-it.org/all/20240418235302/http://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-19T00:47:41Z",
+        "uri": "https://wayback.archive-it.org/all/20240419004741/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-19T03:18:30Z",
+        "uri": "https://web.archive.org/web/20240419031830/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-24T13:26:42Z",
+        "uri": "https://wayback.archive-it.org/all/20240424132642/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-24T23:47:42Z",
+        "uri": "https://web.archive.org/web/20240424234742/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-24T23:50:05Z",
+        "uri": "https://web.archive.org/web/20240424235005/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-24T23:51:23Z",
+        "uri": "https://web.archive.org/web/20240424235123/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:04:53Z",
+        "uri": "https://web.archive.org/web/20240425000453/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:19:42Z",
+        "uri": "https://web.archive.org/web/20240425001942/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T00:45:40Z",
+        "uri": "https://web.archive.org/web/20240425004540/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T01:20:33Z",
+        "uri": "https://web.archive.org/web/20240425012033/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T02:00:38Z",
+        "uri": "https://web.archive.org/web/20240425020038/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T03:12:15Z",
+        "uri": "https://web.archive.org/web/20240425031215/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-04-25T03:49:57Z",
+        "uri": "https://web.archive.org/web/20240425034957/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-05-01T14:22:41Z",
+        "uri": "https://web.archive.org/web/20240501142241/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-05-18T23:27:52Z",
+        "uri": "https://web.archive.org/web/20240518232752/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-05-23T08:48:54Z",
+        "uri": "https://wayback.archive-it.org/all/20240523084854/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-06-02T07:34:02Z",
+        "uri": "https://web.archive.org/web/20240602073402/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-06-23T02:26:11Z",
+        "uri": "https://web.archive.org/web/20240623022611/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-06-23T10:47:14Z",
+        "uri": "https://wayback.archive-it.org/all/20240623104714/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-07-02T11:56:22Z",
+        "uri": "https://web.archive.org/web/20240702115622/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-07-05T06:12:14Z",
+        "uri": "https://web.archive.org/web/20240705061214/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-07-17T10:59:19Z",
+        "uri": "https://web.archive.org/web/20240717105919/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-08-01T02:40:20Z",
+        "uri": "https://web.archive.org/web/20240801024020/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-08-22T09:04:04Z",
+        "uri": "https://wayback.archive-it.org/all/20240822090404/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-08-25T19:48:12Z",
+        "uri": "https://web.archive.org/web/20240825194812/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-08-29T01:54:19Z",
+        "uri": "https://web.archive.org/web/20240829015419/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-08-30T16:27:15Z",
+        "uri": "https://web.archive.org/web/20240830162715/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-05T19:14:01Z",
+        "uri": "https://web.archive.org/web/20240905191401/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-08T21:39:45Z",
+        "uri": "https://web.archive.org/web/20240908213945/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-09T02:20:31Z",
+        "uri": "https://web.archive.org/web/20240909022031/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-10T15:20:31Z",
+        "uri": "https://web.archive.org/web/20240910152031/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-11T10:09:30Z",
+        "uri": "https://web.archive.org/web/20240911100930/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-12T05:33:01Z",
+        "uri": "https://web.archive.org/web/20240912053301/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-22T20:15:44Z",
+        "uri": "https://wayback.archive-it.org/all/20240922201544/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-09-25T12:43:00Z",
+        "uri": "https://web.archive.org/web/20240925124300/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-10-04T03:59:10Z",
+        "uri": "https://web.archive.org/web/20241004035910/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-10-04T13:41:23Z",
+        "uri": "https://web.archive.org/web/20241004134123/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-10-05T20:43:15Z",
+        "uri": "https://web.archive.org/web/20241005204315/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-10-07T06:19:46Z",
+        "uri": "https://web.archive.org/web/20241007061946/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-10-24T07:30:00Z",
+        "uri": "https://web.archive.org/web/20241024073000/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-04T09:31:10Z",
+        "uri": "https://web.archive.org/web/20241104093110/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-05T01:29:08Z",
+        "uri": "https://web.archive.org/web/20241105012908/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-07T09:54:24Z",
+        "uri": "https://web.archive.org/web/20241107095424/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-23T10:47:18Z",
+        "uri": "https://web.archive.org/web/20241123104718/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-24T08:35:09Z",
+        "uri": "https://web.archive.org/web/20241124083509/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-25T04:22:22Z",
+        "uri": "https://web.archive.org/web/20241125042222/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-25T05:50:13Z",
+        "uri": "https://web.archive.org/web/20241125055013/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-25T20:24:37Z",
+        "uri": "https://web.archive.org/web/20241125202437/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-26T06:03:28Z",
+        "uri": "https://web.archive.org/web/20241126060328/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-26T18:44:17Z",
+        "uri": "https://web.archive.org/web/20241126184417/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-26T21:52:02Z",
+        "uri": "https://web.archive.org/web/20241126215202/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-27T11:56:40Z",
+        "uri": "https://web.archive.org/web/20241127115640/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-27T15:16:47Z",
+        "uri": "https://web.archive.org/web/20241127151647/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-29T02:05:07Z",
+        "uri": "https://web.archive.org/web/20241129020507/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-29T04:33:08Z",
+        "uri": "https://web.archive.org/web/20241129043308/https://dblp.dagstuhl.de/"
+      },
+      {
+        "datetime": "2024-11-29T20:17:18Z",
+        "uri": "https://web.archive.org/web/20241129201718/https://dblp.dagstuhl.de/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-05-25T05:13:46Z",
+      "uri": "https://web.archive.org/web/20120525051346/http://dblp.dagstuhl.de:80/"
+    },
+    "last": {
+      "datetime": "2024-11-29T20:17:18Z",
+      "uri": "https://web.archive.org/web/20241129201718/https://dblp.dagstuhl.de/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.dagstuhl.de",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.dagstuhl.de",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.dagstuhl.de"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.dagstuhl.de"
+}

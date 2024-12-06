@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-07T21:21:59Z",
+        "uri": "https://web.archive.org/web/20240707212159/https://citeseerx.ist.psu.edu/search_result?query=Output-Sensitive+Autocompletion+Search."
+      },
+      {
+        "datetime": "2024-07-08T13:11:31Z",
+        "uri": "https://web.archive.org/web/20240708131131/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search."
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-07T21:21:59Z",
+      "uri": "https://web.archive.org/web/20240707212159/https://citeseerx.ist.psu.edu/search_result?query=Output-Sensitive+Autocompletion+Search."
+    },
+    "last": {
+      "datetime": "2024-07-08T13:11:31Z",
+      "uri": "https://web.archive.org/web/20240708131131/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=Output-sensitive+autocompletion+search."
+}

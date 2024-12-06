@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+  "self": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-15T11:28:45Z",
+        "uri": "https://web.archive.org/web/20240415112845/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-15T11:28:45Z",
+      "uri": "https://web.archive.org/web/20240415112845/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+    },
+    "last": {
+      "datetime": "2024-04-15T11:28:45Z",
+      "uri": "https://web.archive.org/web/20240415112845/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+    "json_format": "http://localhost:1208/timemap/json/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs.",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://citeseerx.ist.psu.edu/search_result?query=Efficient+and+Effective+SPARQL+Autocompletion+on+Very+Large+Knowledge+Graphs."
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex",
+  "self": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-14T01:38:19Z",
+        "uri": "https://web.archive.org/web/20240714013819/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+      },
+      {
+        "datetime": "2024-10-06T15:55:25Z",
+        "uri": "https://web.archive.org/web/20241006155525/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-14T01:38:19Z",
+      "uri": "https://web.archive.org/web/20240714013819/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+    },
+    "last": {
+      "datetime": "2024-10-06T15:55:25Z",
+      "uri": "https://web.archive.org/web/20241006155525/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex",
+    "json_format": "http://localhost:1208/timemap/json/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dblp.uni-trier.de/rec/journals/corr/abs-2104-14595.html?view=bibtex"
+}

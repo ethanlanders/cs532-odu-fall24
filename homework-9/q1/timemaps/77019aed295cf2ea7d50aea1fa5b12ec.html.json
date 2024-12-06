@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://weiglemc.github.io/publications/2008",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2008",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-20T12:13:59Z",
+        "uri": "https://web.archive.org/web/20240420121359/https://weiglemc.github.io/publications/2008"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-20T12:13:59Z",
+      "uri": "https://web.archive.org/web/20240420121359/https://weiglemc.github.io/publications/2008"
+    },
+    "last": {
+      "datetime": "2024-04-20T12:13:59Z",
+      "uri": "https://web.archive.org/web/20240420121359/https://weiglemc.github.io/publications/2008"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/2008",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2008",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/2008"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/2008"
+}

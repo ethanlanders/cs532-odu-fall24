@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://weiglemc.github.io/publications/2007",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2007",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-05-02T01:07:05Z",
+        "uri": "https://web.archive.org/web/20240502010705/https://weiglemc.github.io/publications/2007"
+      }
+    ],
+    "first": {
+      "datetime": "2024-05-02T01:07:05Z",
+      "uri": "https://web.archive.org/web/20240502010705/https://weiglemc.github.io/publications/2007"
+    },
+    "last": {
+      "datetime": "2024-05-02T01:07:05Z",
+      "uri": "https://web.archive.org/web/20240502010705/https://weiglemc.github.io/publications/2007"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/2007",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2007",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/2007"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/2007"
+}
