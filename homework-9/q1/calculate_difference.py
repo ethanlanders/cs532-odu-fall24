@@ -41,5 +41,7 @@ sns.boxplot(differences)
 # Set the label for the y-axis of the boxplot
 plt.ylabel("Growth in Mementos Since Completing HW3")
 
+plt.savefig("homework-9/q1/memento_growth_boxplot.png", format="png", dpi=300, bbox_inches="tight")
+
 # Display the boxplot
 plt.show()
