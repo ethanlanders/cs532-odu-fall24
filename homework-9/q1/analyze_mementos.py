@@ -65,7 +65,7 @@ def count_mementos(timemap):
     """
     if timemap is None:
         return 0    # Return 0 if no valid TimeMap.
-    return len(timemap.get('mementos', [])) # Count the mementos in the 'mementos' list.
+    return len(timemap.get('mementos', {}).get('list', [])) # Count the mementos in the 'mementos' list.
 
 def count_memento_occurrences(memento_counts):
     """
