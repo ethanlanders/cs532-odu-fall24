@@ -12,7 +12,7 @@ with open('homework-9/q2/uri_mapping.txt', 'r') as file:
 
 # Dictionary to store the status codes
 status_codes = {}
-response_counts = Counter()
+response_counts = Counter()  # To count different response categories
 
 # Check the status code for each URI
 for filename, uri in uris.items():
